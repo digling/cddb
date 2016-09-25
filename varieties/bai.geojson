@@ -1,1 +1,167 @@
-{"type": "FeatureCollection", "features": [{"properties": {"Chinese": "\u5251\u5ddd", "Variety": "Jianchuan", "marker-color": "#a6cee3", "Sources": "Allen2007", "Group": "Bai, Central", "Pinyin": "Ji\u00e0nchu\u0101n"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [99.91, 26.538056]}}, {"properties": {"Chinese": "\u6d31\u6e90", "Variety": "Eryuan", "marker-color": "#a6cee3", "Sources": "Allen2007", "Group": "Bai, Central", "Pinyin": "\u011aryu\u00e1n"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [99.9416161, 26.0991374]}}, {"properties": {"Chinese": "\u9e64\u5e86", "Variety": "Heqing", "marker-color": "#a6cee3", "Sources": "Allen2007", "Group": "Bai, Central", "Pinyin": "H\u00e8q\u00ecng"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [100.1396921, 26.5536208]}}, {"properties": {"Chinese": "\u5170\u576a", "Variety": "Lanping", "marker-color": "#a6cee3", "Sources": "Allen2007", "Group": "Bai, Central", "Pinyin": "L\u00e1np\u00edng"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [99.2581092, 26.5158555]}}, {"properties": {"Chinese": "\u5468\u57ce", "Variety": "Zhoucheng", "marker-color": "#b2df8a", "Sources": "Allen2007", "Group": "Bai, Southern", "Pinyin": "Zh\u014duch\u00e9ng"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [100.0987848, 25.8958633]}}, {"properties": {"Chinese": "\u4e03\u91cc\u6865", "Variety": "Qiliqiao", "marker-color": "#b2df8a", "Sources": "Allen2007", "Group": "Bai, Southern", "Pinyin": "Q\u012bl\u01d0qi\u00e1o"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [100.1709288, 25.6553283]}}, {"properties": {"Chinese": "\u4e91\u9f99", "Variety": "Yunlong", "marker-color": "#a6cee3", "Sources": "Allen2007", "Group": "Bai, Central", "Pinyin": "Y\u00fanl\u00f3ng"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [99.0352884, 25.9223745]}}, {"properties": {"Chinese": "\u7965\u4e91", "Variety": "Xiangyun", "marker-color": "#b2df8a", "Sources": "Allen2007", "Group": "Bai, Southern", "Pinyin": "Xi\u00e1ngy\u00fan"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [100.4478932, 25.5313657]}}, {"properties": {"Chinese": "\u6d1b\u672c\u5353", "Variety": "Luobenzhuo", "marker-color": "#1f78b4", "Sources": "Allen2007", "Group": "Bai, Northern", "Pinyin": "L\u00f9b\u011bnzhu\u00f3"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [98.8862088, 26.4240223]}}]}
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Bai, Central",
+        "Sources": "Allen2007",
+        "Variety": "Jianchuan",
+        "marker-color": "#a6cee3",
+        "Chinese": "\u5251\u5ddd",
+        "Pinyin": "Ji\u00e0nchu\u0101n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.91,
+          26.538056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Bai, Central",
+        "Sources": "Allen2007",
+        "Variety": "Eryuan",
+        "marker-color": "#a6cee3",
+        "Chinese": "\u6d31\u6e90",
+        "Pinyin": "\u011aryu\u00e1n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.9416161,
+          26.0991374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Bai, Central",
+        "Sources": "Allen2007",
+        "Variety": "Heqing",
+        "marker-color": "#a6cee3",
+        "Chinese": "\u9e64\u5e86",
+        "Pinyin": "H\u00e8q\u00ecng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.1396921,
+          26.5536208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Bai, Central",
+        "Sources": "Allen2007",
+        "Variety": "Lanping",
+        "marker-color": "#a6cee3",
+        "Chinese": "\u5170\u576a",
+        "Pinyin": "L\u00e1np\u00edng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.2581092,
+          26.5158555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Bai, Southern",
+        "Sources": "Allen2007",
+        "Variety": "Zhoucheng",
+        "marker-color": "#b2df8a",
+        "Chinese": "\u5468\u57ce",
+        "Pinyin": "Zh\u014duch\u00e9ng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.0987848,
+          25.8958633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Bai, Southern",
+        "Sources": "Allen2007",
+        "Variety": "Qiliqiao",
+        "marker-color": "#b2df8a",
+        "Chinese": "\u4e03\u91cc\u6865",
+        "Pinyin": "Q\u012bl\u01d0qi\u00e1o"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.1709288,
+          25.6553283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Bai, Central",
+        "Sources": "Allen2007",
+        "Variety": "Yunlong",
+        "marker-color": "#a6cee3",
+        "Chinese": "\u4e91\u9f99",
+        "Pinyin": "Y\u00fanl\u00f3ng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.0352884,
+          25.9223745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Bai, Southern",
+        "Sources": "Allen2007",
+        "Variety": "Xiangyun",
+        "marker-color": "#b2df8a",
+        "Chinese": "\u7965\u4e91",
+        "Pinyin": "Xi\u00e1ngy\u00fan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4478932,
+          25.5313657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Bai, Northern",
+        "Sources": "Allen2007",
+        "Variety": "Luobenzhuo",
+        "marker-color": "#1f78b4",
+        "Chinese": "\u6d1b\u672c\u5353",
+        "Pinyin": "L\u00f9b\u011bnzhu\u00f3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.8862088,
+          26.4240223
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

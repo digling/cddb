@@ -1,1 +1,1013 @@
-{"type": "FeatureCollection", "features": [{"properties": {"Chinese": "\u5317\u4eac", "Variety": "Beijing", "marker-color": "#e31a1c", "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007", "Group": "Mandarin", "Pinyin": "B\u011bij\u012bng"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [116.42, 40.05]}}, {"properties": {"Chinese": "\u82cf\u5dde", "Variety": "Suzhou", "marker-color": "#cab2d6", "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007", "Group": "Wu", "Pinyin": "S\u016bzh\u014du"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [120.0, 31.5]}}, {"properties": {"Chinese": "\u6e29\u5dde", "Variety": "Wenzhou", "marker-color": "#cab2d6", "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007", "Group": "Wu", "Pinyin": "W\u0113nzh\u014du"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [120.701179, 28.005496]}}, {"properties": {"Chinese": "\u957f\u6c99", "Variety": "Changsha", "marker-color": "#6a3d9a", "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007", "Group": "Xiang", "Pinyin": "Ch\u00e1ngsh\u0101"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [112.943344, 28.85032]}}, {"properties": {"Chinese": "\u5a04\u5e95", "Variety": "Loudi", "marker-color": "#6a3d9a", "Sources": "Liu2007", "Group": "Xiang", "Pinyin": "L\u00f3ud\u00ee"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [112.0, 27.733333]}}, {"properties": {"Chinese": "\u5357\u660c", "Variety": "Nanchang", "marker-color": "#1f78b4", "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007", "Group": "Gan", "Pinyin": "N\u00e1nch\u0101ng"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [115.857468, 28.706609]}}, {"properties": {"Chinese": "\u6885\u53bf", "Variety": "Meixian", "marker-color": "#b2df8a", "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007", "Group": "Hakka", "Pinyin": "M\u00e9ixi\u00e0n"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [115.95, 24.5]}}, {"properties": {"Chinese": "\u6842\u6797", "Variety": "Guilin", "marker-color": "#ff7f00", "Sources": "Liu2007", "Group": "Pinghua", "Pinyin": "Gu\u012bl\u00edn"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [110.283333, 25.266667]}}, {"properties": {"Chinese": "\u5e7f\u5dde", "Variety": "Guangzhou", "marker-color": "#040404", "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007", "Group": "Yue", "Pinyin": "Gu\u01cengzh\u014du"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [113.1, 23.5]}}, {"properties": {"Chinese": "\u798f\u5dde", "Variety": "Fuzhou", "marker-color": "#fdbf6f", "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007", "Group": "Min", "Pinyin": "F\u00fazh\u014du"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [119.294243, 26.08904]}}, {"properties": {"Chinese": "\u53a6\u95e8", "Variety": "Xiamen", "marker-color": "#fdbf6f", "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007", "Group": "Min", "Pinyin": "Xi\u00e0m\u00e9n"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [118.08918, 24.49421]}}, {"properties": {"Chinese": "\u54c8\u5c14\u6ee8", "Variety": "Haerbin", "marker-color": "#e31a1c", "Sources": "Hou2004b,Liu2007", "Group": "Mandarin", "Pinyin": "H\u0101\u011brb\u012bn"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [126.551056, 45.846595]}}, {"properties": {"Chinese": "\u6d4e\u5357", "Variety": "Jinan", "marker-color": "#e31a1c", "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007", "Group": "Mandarin", "Pinyin": "J\u01d0n\u00e1n"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [116.997299, 36.690777]}}, {"properties": {"Chinese": "\u8363\u6210", "Variety": "Rongcheng", "marker-color": "#e31a1c", "Sources": "Liu2007,Liu2007", "Group": "Mandarin", "Pinyin": "R\u00f3ngch\u00e9ng"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [122.434269, 37.130642]}}, {"properties": {"Chinese": "\u592a\u539f", "Variety": "Taiyuan", "marker-color": "#fb9a99", "Sources": "Hou2004b,Wang2004a", "Group": "Jin", "Pinyin": "T\u00e0iyu\u00e1n"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [113.25, 37.88423]}}, {"properties": {"Chinese": "\u897f\u5b89", "Variety": "Xi_an", "marker-color": "#e31a1c", "Sources": "Hou2004b,Cihui", "Group": "Mandarin", "Pinyin": "X\u012b\u2019\u0101n"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [108.960571, 34.228154]}}, {"properties": {"Chinese": "\u6210\u90fd", "Variety": "Chengdu", "marker-color": "#e31a1c", "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007", "Group": "Mandarin", "Pinyin": "Ch\u00e9ngd\u016b"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [103.970947, 30.605768]}}, {"properties": {"Chinese": "\u5357\u4eac", "Variety": "Nanjing", "marker-color": "#e31a1c", "Sources": "Hou2004b,Liu2007", "Group": "Mandarin", "Pinyin": "N\u00e1nj\u012bng"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [119.0, 32.5]}}, {"properties": {"Chinese": "\u7ee9\u6eaa", "Variety": "Jixi", "marker-color": "#33a02c", "Sources": "Liu2007", "Group": "Hui", "Pinyin": "J\u00ecx\u012b"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [118.592222, 30.071111]}}, {"properties": {"Chinese": "\u5b89\u7fa9", "Variety": "Anyi", "marker-color": "#1f78b4", "Sources": "Wang2004a", "Group": "Gan", "Pinyin": "\u0100ny\u00ec"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [115.54773, 28.84359]}}, {"properties": {"Chinese": "\u6f6e\u5dde", "Variety": "Chaozhou", "marker-color": "#fdbf6f", "Sources": "Cihui", "Group": "Min", "Pinyin": "Ch\u00e1ozh\u014du"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [116.633333, 23.666667]}}, {"properties": {"Chinese": "\u8d35\u9633", "Variety": "Guiyang", "marker-color": "#e31a1c", "Sources": "Hou2004b", "Group": "Mandarin", "Pinyin": "Gu\u00ecy\u00e1ng"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [106.638336, 26.71691]}}, {"properties": {"Chinese": "\u6d77\u53e3", "Variety": "Haikou", "marker-color": "#fdbf6f", "Sources": "Hou2004b", "Group": "Min", "Pinyin": "H\u01ceik\u01d2u"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [110.329399, 20.043869]}}, {"properties": {"Chinese": "\u676d\u5dde", "Variety": "Hangzhou", "marker-color": "#cab2d6", "Sources": "Hou2004b", "Group": "Wu", "Pinyin": "H\u00e1ngzh\u014du"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [119.8, 29.25]}}, {"properties": {"Chinese": "\u5408\u80a5", "Variety": "Hefei", "marker-color": "#e31a1c", "Sources": "Hou2004b,Cihui", "Group": "Mandarin", "Pinyin": "H\u00e9f\u00e9i"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [117.223663, 31.873593]}}, {"properties": {"Chinese": "\u547c\u548c\u6d69\u7279", "Variety": "Huhehaote", "marker-color": "#fb9a99", "Sources": "Hou2004b", "Group": "Jin", "Pinyin": "H\u016bh\u00e8h\u00e0ot\u00e8"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [111.743889, 40.855526]}}, {"properties": {"Chinese": "\u5efa\u74ef", "Variety": "Jian_ou", "marker-color": "#fdbf6f", "Sources": "Hou2004b", "Group": "Min", "Pinyin": "Ji\u00e0n\u2019\u014du"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [118.307419, 27.04237]}}, {"properties": {"Chinese": "\u6606\u660e", "Variety": "Kunming", "marker-color": "#e31a1c", "Sources": "Hou2004b,Cihui", "Group": "Mandarin", "Pinyin": "K\u016bnm\u00edng"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [102.72274, 25.049711]}}, {"properties": {"Chinese": "\u5170\u5dde", "Variety": "Lanzhou", "marker-color": "#e31a1c", "Sources": "Hou2004b", "Group": "Mandarin", "Pinyin": "L\u00e1nzh\u014du"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [103.838425, 36.080515]}}, {"properties": {"Chinese": "\u8fde\u57ce", "Variety": "Liancheng", "marker-color": "#b2df8a", "Sources": "Wang2004a", "Group": "Hakka", "Pinyin": "L\u00edanch\u00e9ng"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [116.783333, 25.566667]}}, {"properties": {"Chinese": "\u5357\u5b81", "Variety": "Nanning", "marker-color": "#ff7f00", "Sources": "Hou2004b", "Group": "Pinghua", "Pinyin": "N\u00e1nn\u00edng"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [108.366165, 22.848716]}}, {"properties": {"Chinese": "\u5b81\u6ce2", "Variety": "Ningbo", "marker-color": "#cab2d6", "Sources": "Wang2004a", "Group": "Wu", "Pinyin": "N\u00edngb\u014d"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [121.533333, 29.866667]}}, {"properties": {"Chinese": "\u5b81\u590f", "Variety": "Ningxia", "marker-color": "#e31a1c", "Sources": "Wang2004a", "Group": "Mandarin", "Pinyin": "N\u00edngxi\u00e0"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [106.240082, 38.546662]}}, {"properties": {"Chinese": "\u5e73\u9065", "Variety": "Pingyao", "marker-color": "#fb9a99", "Sources": "Hou2004b", "Group": "Jin", "Pinyin": "P\u00edngy\u00e1o"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [111.75, 37.202058]}}, {"properties": {"Chinese": "\u9752\u5c9b", "Variety": "Qingdao", "marker-color": "#e31a1c", "Sources": "Hou2004b", "Group": "Mandarin", "Pinyin": "Q\u012bngd\u01ceo"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [120.379715, 36.089393]}}, {"properties": {"Chinese": "\u4e0a\u6d77", "Variety": "Shanghai", "marker-color": "#cab2d6", "Sources": "Hou2004b,Wang2004a", "Group": "Wu", "Pinyin": "Sh\u00e0ngh\u01cei"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [121.475372, 31.222902]}}, {"properties": {"Chinese": "\u4e0a\u6d77", "Variety": "Shanghai_B", "marker-color": "#cab2d6", "Sources": "Wang2004a", "Group": "Wu", "Pinyin": "Sh\u00e0ngh\u01cei"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [121.475372, 31.222902]}}, {"properties": {"Chinese": "\u6c55\u5934", "Variety": "Shantou", "marker-color": "#fdbf6f", "Sources": "Hou2004b", "Group": "Min", "Pinyin": "Sh\u00e0nt\u00f3u"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [116.666667, 23.35]}}, {"properties": {"Chinese": "\u6c88\u9633", "Variety": "Shenyang", "marker-color": "#e31a1c", "Sources": "Cihui", "Group": "Mandarin", "Pinyin": "Sh\u011bny\u00e1ng"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [123.4, 41.8]}}, {"properties": {"Chinese": "\u6b59\u53bf", "Variety": "Shexian", "marker-color": "#33a02c", "Sources": "Hou2004b", "Group": "Hui", "Pinyin": "Sh\u00e8xi\u00e0n"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [118.428268, 30.589829]}}, {"properties": {"Chinese": "\u53cc\u5cf0", "Variety": "Shuangfeng", "marker-color": "#6a3d9a", "Sources": "Wang2004a", "Group": "Xiang", "Pinyin": "Shu\u0101ngf\u0113ng"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [112202.0, 27452.0]}}, {"properties": {"Chinese": "\u53f0\u5317", "Variety": "Taibei", "marker-color": "#fdbf6f", "Sources": "Hou2004b,Wang2004a", "Group": "Min", "Pinyin": "T\u00e1ib\u011bi"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [121.9, 25.3]}}, {"properties": {"Chinese": "\u6843\u56ed", "Variety": "Taoyuan", "marker-color": "#b2df8a", "Sources": "Hou2004b", "Group": "Hakka", "Pinyin": "T\u00e1oyu\u00e1n"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [120.5, 24.0]}}, {"properties": {"Chinese": "\u5929\u6d25", "Variety": "Tianjin", "marker-color": "#e31a1c", "Sources": "Hou2004b", "Group": "Mandarin", "Pinyin": "Ti\u0101nj\u012bn"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [117.215424, 39.186072]}}, {"properties": {"Chinese": "\u5c6f\u6eaa", "Variety": "Tunxi", "marker-color": "#33a02c", "Sources": "Hou2004b", "Group": "Hui", "Pinyin": "T\u016bnx\u012b"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [118.0, 29.0]}}, {"properties": {"Chinese": "\u6b66\u6c49", "Variety": "Wuhan", "marker-color": "#e31a1c", "Sources": "Hou2004b,Wang2004a", "Group": "Mandarin", "Pinyin": "W\u01d4h\u00e0n"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [114.305649, 30.624086]}}, {"properties": {"Chinese": "\u4e4c\u9c81\u6728\u9f50", "Variety": "Wulumuqi", "marker-color": "#e31a1c", "Sources": "Hou2004b", "Group": "Mandarin", "Pinyin": "W\u016bl\u01d4m\u00f9q\u00ed"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [89.0, 43.9]}}, {"properties": {"Chinese": "\u9999\u6e2f", "Variety": "Xianggang", "marker-color": "#040404", "Sources": "Hou2004b", "Group": "Yue", "Pinyin": "Xi\u0101ngg\u01ceng"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [114.098396, 22.422645]}}, {"properties": {"Chinese": "\u6e58\u6f6d", "Variety": "Xiangtan", "marker-color": "#6a3d9a", "Sources": "Hou2004b", "Group": "Xiang", "Pinyin": "Xi\u0101ngt\u00e1n"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [112.945518, 27.0]}}, {"properties": {"Chinese": "\u897f\u5b81", "Variety": "Xining", "marker-color": "#e31a1c", "Sources": "Hou2004b", "Group": "Mandarin", "Pinyin": "X\u012bn\u00edng"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [101.776886, 36.671283]}}, {"properties": {"Chinese": "\u9633\u6c5f", "Variety": "Yangjiang", "marker-color": "#040404", "Sources": "Cihui", "Group": "Yue", "Pinyin": "Y\u00e1ngji\u0101ng"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [111.966667, 21.85]}}, {"properties": {"Chinese": "\u63da\u5dde", "Variety": "Yangzhou", "marker-color": "#e31a1c", "Sources": "Cihui", "Group": "Mandarin", "Pinyin": "Y\u00e1ngzh\u014du"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [119.416667, 32.4]}}, {"properties": {"Chinese": "\u94f6\u5ddd", "Variety": "Yinchuan", "marker-color": "#e31a1c", "Sources": "Hou2004b", "Group": "Mandarin", "Pinyin": "Y\u00ednchu\u0101n"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [106.240082, 38.546662]}}, {"properties": {"Chinese": "\u6986\u6b21", "Variety": "Yuci", "marker-color": "#e31a1c", "Sources": "Wang2004a", "Group": "Mandarin", "Pinyin": "Y\u00fac\u00ec"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [112.85, 37.616667]}}, {"properties": {"Chinese": "\u6f33\u5e73", "Variety": "Zhangping", "marker-color": "#fdbf6f", "Sources": "Wang2004a", "Group": "Min", "Pinyin": "Zh\u0101ngp\u00edng"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [117.416667, 25.283333]}}, {"properties": {"Chinese": "\u90d1\u5dde", "Variety": "Zhengzhou", "marker-color": "#e31a1c", "Sources": "Hou2004b", "Group": "Mandarin", "Pinyin": "Zh\u00e8ngzh\u014du"}, "type": "Feature", "geometry": {"type": "Point", "coordinates": [113.639374, 34.807715]}}]}
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007",
+        "Variety": "Beijing",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u5317\u4eac",
+        "Pinyin": "B\u011bij\u012bng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.42,
+          40.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Wu",
+        "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007",
+        "Variety": "Suzhou",
+        "marker-color": "#cab2d6",
+        "Chinese": "\u82cf\u5dde",
+        "Pinyin": "S\u016bzh\u014du"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0,
+          31.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Wu",
+        "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007",
+        "Variety": "Wenzhou",
+        "marker-color": "#cab2d6",
+        "Chinese": "\u6e29\u5dde",
+        "Pinyin": "W\u0113nzh\u014du"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.701179,
+          28.005496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Xiang",
+        "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007",
+        "Variety": "Changsha",
+        "marker-color": "#6a3d9a",
+        "Chinese": "\u957f\u6c99",
+        "Pinyin": "Ch\u00e1ngsh\u0101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.943344,
+          28.85032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Xiang",
+        "Sources": "Liu2007",
+        "Variety": "Loudi",
+        "marker-color": "#6a3d9a",
+        "Chinese": "\u5a04\u5e95",
+        "Pinyin": "L\u00f3ud\u00ee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.0,
+          27.733333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Gan",
+        "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007",
+        "Variety": "Nanchang",
+        "marker-color": "#1f78b4",
+        "Chinese": "\u5357\u660c",
+        "Pinyin": "N\u00e1nch\u0101ng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.857468,
+          28.706609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Hakka",
+        "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007",
+        "Variety": "Meixian",
+        "marker-color": "#b2df8a",
+        "Chinese": "\u6885\u53bf",
+        "Pinyin": "M\u00e9ixi\u00e0n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.95,
+          24.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Pinghua",
+        "Sources": "Liu2007",
+        "Variety": "Guilin",
+        "marker-color": "#ff7f00",
+        "Chinese": "\u6842\u6797",
+        "Pinyin": "Gu\u012bl\u00edn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.283333,
+          25.266667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Yue",
+        "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007",
+        "Variety": "Guangzhou",
+        "marker-color": "#040404",
+        "Chinese": "\u5e7f\u5dde",
+        "Pinyin": "Gu\u01cengzh\u014du"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.1,
+          23.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Min",
+        "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007",
+        "Variety": "Fuzhou",
+        "marker-color": "#fdbf6f",
+        "Chinese": "\u798f\u5dde",
+        "Pinyin": "F\u00fazh\u014du"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.294243,
+          26.08904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Min",
+        "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007",
+        "Variety": "Xiamen",
+        "marker-color": "#fdbf6f",
+        "Chinese": "\u53a6\u95e8",
+        "Pinyin": "Xi\u00e0m\u00e9n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08918,
+          24.49421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Hou2004b,Liu2007",
+        "Variety": "Haerbin",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u54c8\u5c14\u6ee8",
+        "Pinyin": "H\u0101\u011brb\u012bn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.551056,
+          45.846595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007",
+        "Variety": "Jinan",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u6d4e\u5357",
+        "Pinyin": "J\u01d0n\u00e1n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.997299,
+          36.690777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Liu2007,Liu2007",
+        "Variety": "Rongcheng",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u8363\u6210",
+        "Pinyin": "R\u00f3ngch\u00e9ng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.434269,
+          37.130642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Jin",
+        "Sources": "Hou2004b,Wang2004a",
+        "Variety": "Taiyuan",
+        "marker-color": "#fb9a99",
+        "Chinese": "\u592a\u539f",
+        "Pinyin": "T\u00e0iyu\u00e1n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.25,
+          37.88423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Hou2004b,Cihui",
+        "Variety": "Xi_an",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u897f\u5b89",
+        "Pinyin": "X\u012b\u2019\u0101n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.960571,
+          34.228154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Hou2004b,Wang2004a,Cihui,Liu2007",
+        "Variety": "Chengdu",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u6210\u90fd",
+        "Pinyin": "Ch\u00e9ngd\u016b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.970947,
+          30.605768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Hou2004b,Liu2007",
+        "Variety": "Nanjing",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u5357\u4eac",
+        "Pinyin": "N\u00e1nj\u012bng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.0,
+          32.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Hui",
+        "Sources": "Liu2007",
+        "Variety": "Jixi",
+        "marker-color": "#33a02c",
+        "Chinese": "\u7ee9\u6eaa",
+        "Pinyin": "J\u00ecx\u012b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.592222,
+          30.071111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Gan",
+        "Sources": "Wang2004a",
+        "Variety": "Anyi",
+        "marker-color": "#1f78b4",
+        "Chinese": "\u5b89\u7fa9",
+        "Pinyin": "\u0100ny\u00ec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.54773,
+          28.84359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Min",
+        "Sources": "Cihui",
+        "Variety": "Chaozhou",
+        "marker-color": "#fdbf6f",
+        "Chinese": "\u6f6e\u5dde",
+        "Pinyin": "Ch\u00e1ozh\u014du"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.633333,
+          23.666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Hou2004b",
+        "Variety": "Guiyang",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u8d35\u9633",
+        "Pinyin": "Gu\u00ecy\u00e1ng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.638336,
+          26.71691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Min",
+        "Sources": "Hou2004b",
+        "Variety": "Haikou",
+        "marker-color": "#fdbf6f",
+        "Chinese": "\u6d77\u53e3",
+        "Pinyin": "H\u01ceik\u01d2u"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.329399,
+          20.043869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Wu",
+        "Sources": "Hou2004b",
+        "Variety": "Hangzhou",
+        "marker-color": "#cab2d6",
+        "Chinese": "\u676d\u5dde",
+        "Pinyin": "H\u00e1ngzh\u014du"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8,
+          29.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Hou2004b,Cihui",
+        "Variety": "Hefei",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u5408\u80a5",
+        "Pinyin": "H\u00e9f\u00e9i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.223663,
+          31.873593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Jin",
+        "Sources": "Hou2004b",
+        "Variety": "Huhehaote",
+        "marker-color": "#fb9a99",
+        "Chinese": "\u547c\u548c\u6d69\u7279",
+        "Pinyin": "H\u016bh\u00e8h\u00e0ot\u00e8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.743889,
+          40.855526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Min",
+        "Sources": "Hou2004b",
+        "Variety": "Jian_ou",
+        "marker-color": "#fdbf6f",
+        "Chinese": "\u5efa\u74ef",
+        "Pinyin": "Ji\u00e0n\u2019\u014du"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.307419,
+          27.04237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Hou2004b,Cihui",
+        "Variety": "Kunming",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u6606\u660e",
+        "Pinyin": "K\u016bnm\u00edng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.72274,
+          25.049711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Hou2004b",
+        "Variety": "Lanzhou",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u5170\u5dde",
+        "Pinyin": "L\u00e1nzh\u014du"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838425,
+          36.080515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Hakka",
+        "Sources": "Wang2004a",
+        "Variety": "Liancheng",
+        "marker-color": "#b2df8a",
+        "Chinese": "\u8fde\u57ce",
+        "Pinyin": "L\u00edanch\u00e9ng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.783333,
+          25.566667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Pinghua",
+        "Sources": "Hou2004b",
+        "Variety": "Nanning",
+        "marker-color": "#ff7f00",
+        "Chinese": "\u5357\u5b81",
+        "Pinyin": "N\u00e1nn\u00edng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.366165,
+          22.848716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Wu",
+        "Sources": "Wang2004a",
+        "Variety": "Ningbo",
+        "marker-color": "#cab2d6",
+        "Chinese": "\u5b81\u6ce2",
+        "Pinyin": "N\u00edngb\u014d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.533333,
+          29.866667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Wang2004a",
+        "Variety": "Ningxia",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u5b81\u590f",
+        "Pinyin": "N\u00edngxi\u00e0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.240082,
+          38.546662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Jin",
+        "Sources": "Hou2004b",
+        "Variety": "Pingyao",
+        "marker-color": "#fb9a99",
+        "Chinese": "\u5e73\u9065",
+        "Pinyin": "P\u00edngy\u00e1o"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.75,
+          37.202058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Hou2004b",
+        "Variety": "Qingdao",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u9752\u5c9b",
+        "Pinyin": "Q\u012bngd\u01ceo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.379715,
+          36.089393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Wu",
+        "Sources": "Hou2004b,Wang2004a",
+        "Variety": "Shanghai",
+        "marker-color": "#cab2d6",
+        "Chinese": "\u4e0a\u6d77",
+        "Pinyin": "Sh\u00e0ngh\u01cei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.475372,
+          31.222902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Wu",
+        "Sources": "Wang2004a",
+        "Variety": "Shanghai_B",
+        "marker-color": "#cab2d6",
+        "Chinese": "\u4e0a\u6d77",
+        "Pinyin": "Sh\u00e0ngh\u01cei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.475372,
+          31.222902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Min",
+        "Sources": "Hou2004b",
+        "Variety": "Shantou",
+        "marker-color": "#fdbf6f",
+        "Chinese": "\u6c55\u5934",
+        "Pinyin": "Sh\u00e0nt\u00f3u"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.666667,
+          23.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Cihui",
+        "Variety": "Shenyang",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u6c88\u9633",
+        "Pinyin": "Sh\u011bny\u00e1ng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.4,
+          41.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Hui",
+        "Sources": "Hou2004b",
+        "Variety": "Shexian",
+        "marker-color": "#33a02c",
+        "Chinese": "\u6b59\u53bf",
+        "Pinyin": "Sh\u00e8xi\u00e0n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.428268,
+          30.589829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Xiang",
+        "Sources": "Wang2004a",
+        "Variety": "Shuangfeng",
+        "marker-color": "#6a3d9a",
+        "Chinese": "\u53cc\u5cf0",
+        "Pinyin": "Shu\u0101ngf\u0113ng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112202.0,
+          27452.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Min",
+        "Sources": "Hou2004b,Wang2004a",
+        "Variety": "Taibei",
+        "marker-color": "#fdbf6f",
+        "Chinese": "\u53f0\u5317",
+        "Pinyin": "T\u00e1ib\u011bi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9,
+          25.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Hakka",
+        "Sources": "Hou2004b",
+        "Variety": "Taoyuan",
+        "marker-color": "#b2df8a",
+        "Chinese": "\u6843\u56ed",
+        "Pinyin": "T\u00e1oyu\u00e1n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5,
+          24.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Hou2004b",
+        "Variety": "Tianjin",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u5929\u6d25",
+        "Pinyin": "Ti\u0101nj\u012bn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.215424,
+          39.186072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Hui",
+        "Sources": "Hou2004b",
+        "Variety": "Tunxi",
+        "marker-color": "#33a02c",
+        "Chinese": "\u5c6f\u6eaa",
+        "Pinyin": "T\u016bnx\u012b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0,
+          29.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Hou2004b,Wang2004a",
+        "Variety": "Wuhan",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u6b66\u6c49",
+        "Pinyin": "W\u01d4h\u00e0n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.305649,
+          30.624086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Hou2004b",
+        "Variety": "Wulumuqi",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u4e4c\u9c81\u6728\u9f50",
+        "Pinyin": "W\u016bl\u01d4m\u00f9q\u00ed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0,
+          43.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Yue",
+        "Sources": "Hou2004b",
+        "Variety": "Xianggang",
+        "marker-color": "#040404",
+        "Chinese": "\u9999\u6e2f",
+        "Pinyin": "Xi\u0101ngg\u01ceng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.098396,
+          22.422645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Xiang",
+        "Sources": "Hou2004b",
+        "Variety": "Xiangtan",
+        "marker-color": "#6a3d9a",
+        "Chinese": "\u6e58\u6f6d",
+        "Pinyin": "Xi\u0101ngt\u00e1n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.945518,
+          27.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Hou2004b",
+        "Variety": "Xining",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u897f\u5b81",
+        "Pinyin": "X\u012bn\u00edng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.776886,
+          36.671283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Yue",
+        "Sources": "Cihui",
+        "Variety": "Yangjiang",
+        "marker-color": "#040404",
+        "Chinese": "\u9633\u6c5f",
+        "Pinyin": "Y\u00e1ngji\u0101ng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.966667,
+          21.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Cihui",
+        "Variety": "Yangzhou",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u63da\u5dde",
+        "Pinyin": "Y\u00e1ngzh\u014du"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.416667,
+          32.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Hou2004b",
+        "Variety": "Yinchuan",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u94f6\u5ddd",
+        "Pinyin": "Y\u00ednchu\u0101n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.240082,
+          38.546662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Wang2004a",
+        "Variety": "Yuci",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u6986\u6b21",
+        "Pinyin": "Y\u00fac\u00ec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.85,
+          37.616667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Min",
+        "Sources": "Wang2004a",
+        "Variety": "Zhangping",
+        "marker-color": "#fdbf6f",
+        "Chinese": "\u6f33\u5e73",
+        "Pinyin": "Zh\u0101ngp\u00edng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.416667,
+          25.283333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Mandarin",
+        "Sources": "Hou2004b",
+        "Variety": "Zhengzhou",
+        "marker-color": "#e31a1c",
+        "Chinese": "\u90d1\u5dde",
+        "Pinyin": "Zh\u00e8ngzh\u014du"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.639374,
+          34.807715
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
