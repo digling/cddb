@@ -1,0 +1,17 @@
+{
+	"dataset" : "Wang2004",
+	"datatype" : "lexemes",
+	"datastructure" : "wordlist",
+	"varieties_in_source" : {
+		"B": "Beijing",
+		"Y": "Yingshan",
+		"S": "Suzhou",
+		"H": "Shanghai",
+		"F": "Shuangfeng",
+		"C": "Changsha",
+		"N": "Nanchang",
+		"G": "Guangzhou",
+		"M": "Meixian",
+		"X": "Xiamen"
+	}
+}

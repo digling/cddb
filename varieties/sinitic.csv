@@ -1,59 +1,59 @@
-NAME	ALT_NAME	PINYIN	HANZI	LATITUDE	LONGITUDE	GROUP	GROUP_CHINESE	GROUP_PINYIN	Liu2007_ID	CLASSIFICATION_LIU2007	CLASSIFICATION_ZIHUI	CLASSIFICATION_CIHUI	CLASSIFICATION_KURPASKA	CLASSIFICATION_HOU	Hou2004_ID	Cihui_ID	ZIHUI_ID	CHARACTER	LEXICON	MUTUAL_INTELLIGIBILITY	NOTE
-Anyi		Ānyì 	安義	28.84359	115.54773	Gan	赣	Gàn											Wang2004a		Anyi is a city in the county of Nanchang.
-Beijing	Peking	Běijīng	北京	40.05	116.42	Mandarin	管话	Guānhuà	1	Guanhua	Guanhua	Guanhua, Beifang Fangyan	Guanhua, Beijng 	Guanhua, I	24	一	1	Hou2004a, Zihui	Hou2004b, Wang2004a, Cihui, Liu2007	Tang2009	
-Changsha		Chángshā	长沙	28.85032	112.943344	Xiang	湘	Xiāng	12	Xiang	Xiang	Xiang	Xiang	Xiang	17	十一	11	Hou2004a, Zihui	Hou2004b, Wang2004a, Cihui, Liu2007	Tang2009	
-Chaozhou		Cháozhōu	潮州	23.666667	116.633333	Min	闽	Mǐn			Min	Min, Minnan				十七	18	Zihui	Cihui	Tang2009	
-Chengdu		Chéngdū	成都	30.605768	103.970947	Mandarin	管话	Guānhuà	7	Guanhua	Guanhua	Guanhua, Xinan Fangyan	Guanhua, Southwestern	Guanhua, VI	32	五	6	Hou2004a, Zihui	Hou2004b, Wang2004a, Cihui, Liu2007	Tang2009	
-Fuzhou	Foochow	Fúzhōu	福州	26.08904	119.294243	Min	闽	Mǐn	18	Min	Min	Min, Mindong	闽	Mǐn	9	十八	19	Hou2004a, Zihui	Hou2004b, Wang2004a, Cihui, Liu2007	Tang2009	
-Guangzhou		Guǎngzhōu	广州	23.5	113.1	Yue	粤	Yuè	17	Yue	Yue	Yue	Yue	Yue	5	十四	15	Hou2004a, Zihui	Hou2004b, Wang2004a, Cihui, Liu2007	Tang2009	
-Guilin		Guīlín	桂林	25.266667	110.283333	Pinghua	平话	Pínghuà	16	Pinghua									Liu2007		
-Guiyang		Guìyáng	贵阳	26.71691	106.638336	Mandarin	管话	Guānhuà					Guanhua, Southwestern	Guanhua, VI	33			Hou2004a	Hou2004b		
-Ha_erbin	Harbin, Ha'erbin, Ha’erbin	Hāěrbīn	哈尔滨	45.846595	126.551056	Mandarin	管话	Guānhuà	2	Guanhua			Guanhua, Northeastern	Guanhua, VII	35			Hou2004a	Hou2004b, Liu2007		
-Haikou		Hǎikǒu	海口	20.043869	110.329399	Min	闽	Mǐn					Min, Qiongwen	Min, Coastal, South	12			Hou2004a	Hou2004b		
-Hangzhou		Hángzhōu	杭州	29.25	119.8	Wu	吴	Wú					Wu, Taihu	Wu	3			Hou2004a	Hou2004b		
-Hankou		Hànkǒu	汉口	30.581179	114.272597	Mandarin	管话	Guānhuà												Tang2009	"""Hankou"" remains a commonly used name for the part of Wuhan urban area north of the Yangtze and Han Rivers. [W] Hankou is the old name for a city that is now part of Wuhan."
-Hefei		Héféi	合肥	31.873593	117.223663	Mandarin	管话	Guānhuà			Guanhua	Guanhua, Beifang Fangyan	Guanhua, Jianghuai	Guanhua, VIII	29	七	7	Hou2004a, Zihui	Hou2004b, Cihui		
-Huhehaote		Hūhèhàotè	呼和浩特	40.855526	111.743889	Jin	晋	Jìn					Jin	Jin	23			Hou2004a	Hou2004b		
-Jian_ou	Jian'ou, Jian’ou	Jiàn’ōu	建瓯	27.04237	118.307419	Min	闽	Mǐn			Min		Min, Northern	Min, Inland	10		20	Hou2004a, Zihui	Hou2004b		
-Jinan		Jǐnán	济南	36.690777	116.997299	Mandarin	管话	Guānhuà	3	Guanhua	Guanhua	Guanhua, Jianghuai	Guanhua, Jilu 	Guanhua, II	26	二	2	Hou2004a, Zihui	Hou2004b, Wang2004a, Cihui, Liu2007	Tang2009	
-Jixi		Jìxī	绩溪	30.071111	118.592222	Hui	徽	Huī	9	Hui									Liu2007		
-Kunming		Kūnmíng	昆明	25.049711	102.72274	Mandarin	管话	Guānhuà				Guanhua, Xinan Fangyan	Guanhua, Southwestern	Guanhua, VI	34	六		Hou2004a	Hou2004b, Cihui		
-Lanzhou		Lánzhōu	兰州	36.080515	103.838425	Mandarin	管话	Guānhuà					Guanhua, Lanyin	Guanhua, V	38			Hou2004a	Hou2004b		
-Liancheng		Líanchéng	连城	25.566667	116.783333	Hakka	客家	Kèjiā											Wang2004a		
-Loudi		Lóudî	娄底	27.733333	112	Xiang	湘	Xiāng	13	Xiang									Liu2007		
-Meixian		Méixiàn	梅县	24.5	115.95	Hakka	客家	Kèjiā	15	Kejia	Kejia	Kejia	Hakka	Hakka	14	十三	14	Hou2004a, Zihui	Hou2004b, Wang2004a, Cihui, Liu2007	Tang2009	
-Nanchang		Nánchāng	南昌	28.706609	115.857468	Gan	赣	Gàn	14	Gan	Gan	Gan	Gan	Gan	16	十二	13	Hou2004a, Zihui	Hou2004b, Wang2004a, Cihui, Liu2007	Tang2009	
-Nanjing		Nánjīng	南京	32.5	119.0	Mandarin	管话	Guānhuà	8	Guanhua			Guanhua, Jianghuai	Guanhua, VIII	28			Hou2004a	Hou2004b, Liu2007		
-Nanning		Nánníng	南宁	22.848716	108.366165	Pinghua	平话	Pínghuà					Pinghua	Pinghua	6			Hou2004a	Hou2004b		
-Ningbo		Níngbō	宁波	29.866667	121.533333	Wu	吴	Wú											Wang2004a		
-Ningxia		Níngxià	宁夏	38.546662	106.240082	Mandarin	管话	Guānhuà											Wang2004a		Ningxia is a region in China, containing the city Yinchuan.
-Pingyao		Píngyáo	平遥	37.202058	111.75	Jin	晋	Jìn					Jin	Jin	22			Hou2004a	Hou2004b		
-Qingdao	Tsingtao	Qīngdǎo	青岛	36.089393	120.379715	Mandarin	管话	Guānhuà					Guanhua, Jiaoliao	Guanhua, III	27			Hou2004a	Hou2004b		
-Rongcheng		Róngchéng	荣成	37.130642	122.434269	Mandarin	管话	Guānhuà	4	Guanhua									Liu2007, Liu2007		
-Shanghai		Shànghǎi	上海	31.222902	121.475372	Wu	吴	Wú					Wu, Taihu	Wu	1			Hou2004a	Hou2004b, Wang2004a		
-Shanghai_B		Shànghǎi	上海	31.222902	121.475372	Wu	吴	Wú					Wu, Taihu	Wu					Wang2004a		
-Shantou		Shàntóu	汕头	23.35	116.666667	Min	闽	Mǐn					Min, Southern	Min, Coastal, South	11			Hou2004a	Hou2004b		
-Shenyang		Shěnyáng	沈阳	41.8	123.4	Mandarin	管话	Guānhuà				Guanhua, Beifang Fangyan				三			Cihui		
-Shexian		Shèxiàn	歙县	30.589829	118.428268	Hui	徽	Huī					Hui	Hui	19			Hou2004a	Hou2004b		
-Shuangfeng		Shuāngfēng	双峰	27452	112202	Xiang	湘	Xiāng			Xiang						12	Zihui	Wang2004a		Shuangfeng is a part of the city Loudi (a xian) in Hunan. 
-Suzhou		Sūzhōu	苏州	31.5	120.0	Wu	吴	Wú	10	Wu	Wu	Wu, Beiqu	Wu, Taihu	Wu	2	九	9	Hou2004a, Zihui	Hou2004b, Wang2004a, Cihui, Liu2007	Tang2009	
-Taibei		Táiběi	台北	25.3	121.9	Min	闽	Mǐn					Min, Southern	Min, Coastal, South	13			Hou2004a	Hou2004b, Wang2004a		
-Taiyuan		Tàiyuán	太原	37.88423	113.25	Jin	晋	Jìn	5	Jin	Guanhua		Jin	Jin	21		4	Hou2004a, Zihui	Hou2004b, Wang2004a	Tang2009	
-Taoyuan		Táoyuán	桃园	24.0	120.5	Hakka	客家	Kèjiā					Hakka	Hakka	15			Hou2004a	Hou2004b		
-Tianjin		Tiānjīn	天津	39.186072	117.215424	Mandarin	管话	Guānhuà					Guanhua, Jilu	Guanhua, II	25			Hou2004a	Hou2004b		
-Tunxi		Tūnxī	屯溪	29.0	118.0	Hui	徽	Huī					Hui	Hui	20			Hou2004a	Hou2004b		
-Wenzhou		Wēnzhōu	温州	28.005496	120.701179	Wu	吴	Wú	11	Wu	Wu	Wu, Nanqu	Wu, Oujiang	Wu	4	十	10	Hou2004a, Zihui	Hou2004b, Wang2004a, Cihui, Liu2007	Tang2009	
-Wuhan		Wǔhàn	武汉	30.624086	114.305649	Mandarin	管话	Guānhuà			Guanhua		Guanhua, Southwestern	Guanhua, VI	31		5	Hou2004a, Zihui	Hou2004b, Wang2004a		
-Wulumuqi	Ürümqi	Wūlǔmùqí	乌鲁木齐	43.9	89.0	Mandarin	管话	Guānhuà					Guanhua, Lanyin	Guanhua, V	40			Hou2004a	Hou2004b		
-Xi_an	Xi'an, Xi’an	Xī’ān	西安	34.228154	108.960571	Mandarin	管话	Guānhuà	6	Guanhua	Guanhua	Guanhua, Xibei Fangyan	Guanhua, Central Plain	Guanhua, IV	36	四	3	Hou2004a, Zihui	Hou2004b, Cihui	Tang2009	
-Xiamen		Xiàmén	厦门	24.49421	118.08918	Min	闽	Mǐn	19	Min	Min	Min, Minnan	Min, Southern	Min, Coastal, South	8	十六	17	Hou2004a, Zihui	Hou2004b, Wang2004a, Cihui, Liu2007	Tang2009	
-Xianggang	Hong Kong	Xiānggǎng	香港	22.422645	114.098396	Yue	粤	Yuè					Yue	Yue	7			Hou2004a	Hou2004b		
-Xiangtan		Xiāngtán	湘潭	27.0	112.945518	Xiang	湘	Xiāng					Xiang	Xiang	18			Hou2004a	Hou2004b		
-Xining		Xīníng	西宁	36.671283	101.776886	Mandarin	管话	Guānhuà					Guanhua, Central Plain	Guanhua, IV	39			Hou2004a	Hou2004b		
-Yangjiang		Yángjiāng	阳江	21.85	111.966667	Yue	粤	Yuè			Yue	Yue				十五	16	Zihui	Cihui		
-Yangzhou	Yangchow	Yángzhōu	揚州	32.4	119.416667	Mandarin	管话	Guānhuà			Guanhua	Guanhua, Jianghuai				八	8	Zihui	Cihui		
-Yinchuan		Yínchuān	银川	38.546662	106.240082	Mandarin	管话	Guānhuà					Guanhua, Lanyin	Guanhua, V	37			Hou2004a	Hou2004b		
-Yingshan		Yìngshān	应山	?	?	Mandarin	管话	Guānhuà											Wang2004a		It is not clear which Yingshan is meant, as there are many districts which could qualify as the name. 
-Yuci		Yúcì	榆次	37.616667	112.85	Mandarin	管话	Guānhuà											Wang2004a		
-Zhangping		Zhāngpíng	漳平	25.283333	117.416667	Min	闽	Mǐn											Wang2004a		
-Zhengzhou		Zhèngzhōu	郑州	34.807715	113.639374	Mandarin	管话	Guānhuà					Guanhua, Central Plain	Guanhua, IV	30			Hou2004a	Hou2004b		
+NAME	ALT_NAME	PINYIN	HANZI	LATITUDE	LONGITUDE	GLOTTOLOG		GROUP	GROUP_CHINESE	GROUP_PINYIN	Wang2004_ID	Liu2007_ID	CLASSIFICATION_LIU2007	CLASSIFICATION_ZIHUI	CLASSIFICATION_CIHUI	CLASSIFICATION_KURPASKA	CLASSIFICATION_HOU	Hou2004_ID	Cihui_ID	ZIHUI_ID	CHARACTER	LEXICON	MUTUAL_INTELLIGIBILITY	NOTE
+Beijing	Peking	Běijīng	北京	39.9385466	116.1172766	mand1415	cmn	Mandarin	管话	Guānhuà	B	1	Guanhua	Guanhua	Guanhua, Beifang Fangyan	Guanhua, Beijng 	Guanhua, I	24	一	1	Hou2004a, Zihui	Hou2004b, Wang2004a, Wang2004, Cihui, Liu2007	Tang2009	
+Changsha		Chángshā	长沙	28.85032	112.943344	xian1251	hsn	Xiang	湘	Xiāng	C	12	Xiang	Xiang	Xiang	Xiang	Xiang	17	十一	11	Hou2004a, Zihui	Hou2004b, Wang2004a, Wang2004, Cihui, Liu2007	Tang2009	
+Shuangfeng		Shuāngfēng	双峰	27.4569781	111.916486	xian1251	hsn	Xiang	湘	Xiāng	F			Xiang						12	Zihui	Wang2004a, Wang2004		Shuangfeng is a part of the city Loudi (a xian) in Hunan. 
+Guangzhou		Guǎngzhōu	广州	23.1253503	112.9476548	yuec1235	yue	Yue	粤	Yuè	G	17	Yue	Yue	Yue	Yue	Yue	5	十四	15	Hou2004a, Zihui	Hou2004b, Wang2004a, Wang2004, Cihui, Liu2007	Tang2009	
+Shanghai		Shànghǎi	上海	31.222902	121.475372	taih1244	(wuu)	Wu	吴	Wú	H					Wu, Taihu	Wu	1			Hou2004a	Hou2004b, Wang2004a, Wang2004		
+Meixian		Méixiàn	梅县	24.3522958	115.8903375	hak1236	hak	Hakka	客家	Kèjiā	M	15	Kejia	Kejia	Kejia	Hakka	Hakka	14	十三	14	Hou2004a, Zihui	Hou2004b, Wang2004a, Wang2004, Cihui, Liu2007	Tang2009	
+Nanchang		Nánchāng	南昌	28.706609	115.857468	ganc1239	gan	Gan	赣	Gàn	N	14	Gan	Gan	Gan	Gan	Gan	16	十二	13	Hou2004a, Zihui	Hou2004b, Wang2004a, Wang2004, Cihui, Liu2007	Tang2009	
+Suzhou		Sūzhōu	苏州	31.3280439	120.364116	taih1244	(wuu)	Wu	吴	Wú	S	10	Wu	Wu	Wu, Beiqu	Wu, Taihu	Wu	2	九	9	Hou2004a, Zihui	Hou2004b, Wang2004a, Wang2004, Cihui, Liu2007	Tang2009	
+Xiamen		Xiàmén	厦门	24.49421	118.08918	minn1241	nan	Min	闽	Mǐn	X	19	Min	Min	Min, Minnan	Min, Southern	Min, Coastal, South	8	十六	17	Hou2004a, Zihui	Hou2004b, Wang2004a, Wang2004, Cihui, Liu2007	Tang2009	
+Yingshan		Yīngshān	英山	30.7462984	115.3468074	mand1415	cmn	Mandarin	管话	Guānhuà	Y											Wang2004a, Wang2004		It is not clear which Yingshan is meant, as there are many districts which could qualify as the name. Juding from the fact that Yingshan clusters closely with Wuhan, it is likely that it is 英山, east of Wǔhàn.
+Anyi		Ānyì 	安義	28.84359	115.54773	ganc1239	gan	Gan	赣	Gàn												Wang2004a		Anyi is a city in the county of Nanchang.
+Liancheng		Líanchéng	连城	25.566667	116.783333	hak1236	hak	Hakka	客家	Kèjiā												Wang2004a		
+Taoyuan		Táoyuán	桃园	24.854549	120.9520006	hak1236	hak	Hakka	客家	Kèjiā						Hakka	Hakka	15			Hou2004a	Hou2004b		
+Jixi		Jìxī	绩溪	30.071111	118.592222	huiz1242	czh	Hui	徽	Huī		9	Hui									Liu2007		
+Shexian		Shèxiàn	歙县	30.589829	118.428268	huiz1242	czh	Hui	徽	Huī						Hui	Hui	19			Hou2004a	Hou2004b		
+Tunxi		Tūnxī	屯溪	29.7201616	118.2294365	huiz1242	czh	Hui	徽	Huī						Hui	Hui	20			Hou2004a	Hou2004b		
+Huhehaote		Hūhèhàotè	呼和浩特	40.855526	111.743889	jiny1235	cjy	Jin	晋	Jìn						Jin	Jin	23			Hou2004a	Hou2004b		
+Pingyao		Píngyáo	平遥	37.1390706	111.9656111	jiny1235	cjy	Jin	晋	Jìn						Jin	Jin	22			Hou2004a	Hou2004b		
+Taiyuan		Tàiyuán	太原	37.8632119	112.4024883	jiny1235	cjy	Jin	晋	Jìn		5	Jin	Guanhua		Jin	Jin	21		4	Hou2004a, Zihui	Hou2004b, Wang2004a	Tang2009	
+Chengdu		Chéngdū	成都	30.605768	103.970947	mand1415	cmn	Mandarin	管话	Guānhuà		7	Guanhua	Guanhua	Guanhua, Xinan Fangyan	Guanhua, Southwestern	Guanhua, VI	32	五	6	Hou2004a, Zihui	Hou2004b, Wang2004a, Cihui, Liu2007	Tang2009	
+Guiyang		Guìyáng	贵阳	26.71691	106.638336	mand1415	cmn	Mandarin	管话	Guānhuà						Guanhua, Southwestern	Guanhua, VI	33			Hou2004a	Hou2004b		
+Ha_erbin	Harbin, Ha'erbin, Ha’erbin	Hāěrbīn	哈尔滨	45.846595	126.551056	mand1415	cmn	Mandarin	管话	Guānhuà		2	Guanhua			Guanhua, Northeastern	Guanhua, VII	35			Hou2004a	Hou2004b, Liu2007		
+Hankou		Hànkǒu	汉口	30.581179	114.272597	mand1415	cmn	Mandarin	管话	Guānhuà													Tang2009	"""Hankou"" remains a commonly used name for the part of Wuhan urban area north of the Yangtze and Han Rivers. [W] Hankou is the old name for a city that is now part of Wuhan."
+Hefei		Héféi	合肥	31.873593	117.223663	mand1415	cmn	Mandarin	管话	Guānhuà				Guanhua	Guanhua, Beifang Fangyan	Guanhua, Jianghuai	Guanhua, VIII	29	七	7	Hou2004a, Zihui	Hou2004b, Cihui		
+Jinan		Jǐnán	济南	36.690777	116.997299	mand1415	cmn	Mandarin	管话	Guānhuà		3	Guanhua	Guanhua	Guanhua, Jianghuai	Guanhua, Jilu 	Guanhua, II	26	二	2	Hou2004a, Zihui	Hou2004b, Wang2004a, Cihui, Liu2007	Tang2009	
+Kunming		Kūnmíng	昆明	25.049711	102.72274	mand1415	cmn	Mandarin	管话	Guānhuà					Guanhua, Xinan Fangyan	Guanhua, Southwestern	Guanhua, VI	34	六		Hou2004a	Hou2004b, Cihui		
+Lanzhou		Lánzhōu	兰州	36.080515	103.838425	mand1415	cmn	Mandarin	管话	Guānhuà						Guanhua, Lanyin	Guanhua, V	38			Hou2004a	Hou2004b		
+Nanjing		Nánjīng	南京	32.0989607	118.4575646	mand1415	cmn	Mandarin	管话	Guānhuà		8	Guanhua			Guanhua, Jianghuai	Guanhua, VIII	28			Hou2004a	Hou2004b, Liu2007		
+Ningxia		Níngxià	宁夏	38.546662	106.240082	mand1415	cmn	Mandarin	管话	Guānhuà												Wang2004a		Ningxia is a region in China, containing the city Yinchuan.
+Qingdao	Tsingtao	Qīngdǎo	青岛	36.089393	120.379715	mand1415	cmn	Mandarin	管话	Guānhuà						Guanhua, Jiaoliao	Guanhua, III	27			Hou2004a	Hou2004b		
+Rongcheng		Róngchéng	荣成	37.130642	122.434269	mand1415	cmn	Mandarin	管话	Guānhuà		4	Guanhua									Liu2007, Liu2007		
+Shenyang		Shěnyáng	沈阳	41.8049906	123.1563167	mand1415	cmn	Mandarin	管话	Guānhuà					Guanhua, Beifang Fangyan				三			Cihui		
+Tianjin		Tiānjīn	天津	39.186072	117.215424	mand1415	cmn	Mandarin	管话	Guānhuà						Guanhua, Jilu	Guanhua, II	25			Hou2004a	Hou2004b		
+Wuhan		Wǔhàn	武汉	30.624086	114.305649	mand1415	cmn	Mandarin	管话	Guānhuà				Guanhua		Guanhua, Southwestern	Guanhua, VI	31		5	Hou2004a, Zihui	Hou2004b, Wang2004a		
+Wulumuqi	Ürümqi	Wūlǔmùqí	乌鲁木齐	43.8216271	87.4226688	mand1415	cmn	Mandarin	管话	Guānhuà						Guanhua, Lanyin	Guanhua, V	40			Hou2004a	Hou2004b		
+Xi_an	Xi'an, Xi’an	Xī’ān	西安	34.228154	108.960571	mand1415	cmn	Mandarin	管话	Guānhuà		6	Guanhua	Guanhua	Guanhua, Xibei Fangyan	Guanhua, Central Plain	Guanhua, IV	36	四	3	Hou2004a, Zihui	Hou2004b, Cihui	Tang2009	
+Xining		Xīníng	西宁	36.671283	101.776886	mand1415	cmn	Mandarin	管话	Guānhuà						Guanhua, Central Plain	Guanhua, IV	39			Hou2004a	Hou2004b		
+Yangzhou	Yangchow	Yángzhōu	揚州	32.4171449	119.209227	mand1415	cmn	Mandarin	管话	Guānhuà				Guanhua	Guanhua, Jianghuai				八	8	Zihui	Cihui		
+Yinchuan		Yínchuān	银川	38.546662	106.240082	mand1415	cmn	Mandarin	管话	Guānhuà						Guanhua, Lanyin	Guanhua, V	37			Hou2004a	Hou2004b		
+Yuci		Yúcì	榆次	37.6394177	112.5650222	mand1415	cmn	Mandarin	管话	Guānhuà												Wang2004a		In the map shown in Hamed2006, Yuci is placed close to Yingshan. however, comparing this with other maps, there is no place that could be identified with the name Yuci. I assume that, given that Yuci clusters as Northern dialect, it is much higher up in the North.
+Zhengzhou		Zhèngzhōu	郑州	34.807715	113.639374	mand1415	cmn	Mandarin	管话	Guānhuà						Guanhua, Central Plain	Guanhua, IV	30			Hou2004a	Hou2004b		
+Chaozhou		Cháozhōu	潮州	23.666667	116.633333	min1241	nan	Min	闽	Mǐn				Min	Min, Minnan				十七	18	Zihui	Cihui	Tang2009	
+Fuzhou	Foochow	Fúzhōu	福州	26.08904	119.294243	mind1253	cdo	Min	闽	Mǐn		18	Min	Min	Min, Mindong	闽	Mǐn	9	十八	19	Hou2004a, Zihui	Hou2004b, Wang2004a, Cihui, Liu2007	Tang2009	
+Haikou		Hǎikǒu	海口	20.043869	110.329399	minn1241	nan	Min	闽	Mǐn						Min, Qiongwen	Min, Coastal, South	12			Hou2004a	Hou2004b		
+Jian_ou	Jian'ou, Jian’ou	Jiàn’ōu	建瓯	27.04237	118.307419	minb1244	mnp	Min	闽	Mǐn				Min		Min, Northern	Min, Inland	10		20	Hou2004a, Zihui	Hou2004b		
+Shantou		Shàntóu	汕头	23.3372419	116.6068173	minn1241	nan	Min	闽	Mǐn						Min, Southern	Min, Coastal, South	11			Hou2004a	Hou2004b		
+Taibei		Táiběi	台北	25.0853403	121.4231642	minn1241	nan	Min	闽	Mǐn						Min, Southern	Min, Coastal, South	13			Hou2004a	Hou2004b, Wang2004a		
+Zhangping		Zhāngpíng	漳平	25.283333	117.416667	minn1241	nan	Min	闽	Mǐn												Wang2004a		
+Guilin		Guīlín	桂林	25.266667	110.283333	ping1244	(wuu)	Pinghua	平话	Pínghuà		16	Pinghua									Liu2007		
+Nanning		Nánníng	南宁	22.848716	108.366165	ping1244	(wuu)	Pinghua	平话	Pínghuà						Pinghua	Pinghua	6			Hou2004a	Hou2004b		
+Hangzhou		Hángzhōu	杭州	30.261316	120.0318057	taih1244	(wuu)	Wu	吴	Wú						Wu, Taihu	Wu	3			Hou2004a	Hou2004b		
+Ningbo		Níngbō	宁波	29.866667	121.533333	taih1244	(wuu)	Wu	吴	Wú												Wang2004a		
+Shanghai_B		Shànghǎi	上海	31.222902	121.475372	taih1244	(wuu)	Wu	吴	Wú						Wu, Taihu	Wu					Wang2004a		
+Wenzhou		Wēnzhōu	温州	28.005496	120.701179	ouji1238	(wuu)	Wu	吴	Wú		11	Wu	Wu	Wu, Nanqu	Wu, Oujiang	Wu	4	十	10	Hou2004a, Zihui	Hou2004b, Wang2004a, Cihui, Liu2007	Tang2009	
+Loudi		Lóudî	娄底	27.733333	111.9281883	xian1251	hsn	Xiang	湘	Xiāng		13	Xiang									Liu2007		
+Xiangtan		Xiāngtán	湘潭	27.8482649	112.7688127	xian1251	hsn	Xiang	湘	Xiāng						Xiang	Xiang	18			Hou2004a	Hou2004b		
+Xianggang	Hong Kong	Xiānggǎng	香港	22.422645	114.098396	yuec1235	yue	Yue	粤	Yuè						Yue	Yue	7			Hou2004a	Hou2004b		
+Yangjiang		Yángjiāng	阳江	21.7895612	111.966667	yuec1235	yue	Yue	粤	Yuè				Yue	Yue				十五	16	Zihui	Cihui		
