@@ -37,7 +37,7 @@ sing	37	唱	ts_h9N33
 sing	37	唱	ts_huoN212
 sing	37	唱	ts_hiu~21
 dust	38	塵土 	ts`_h@n35 t_hu214
-dust	38	塵土	ts`_@n24 t_hu213
+dust	38	塵土	ts`_h@n24 t_hu213
 dust	38	土垃	t_hu45-214 la0
 dust	38	灰	xuei52
 dust	38	塵土,灰塵	(1) ts_h@N21 thu53, (2) xuei21 ts_h@N21
@@ -49,7 +49,7 @@ dust	38	灰塵	huEE44 z@n13-21
 dust	38	坌塵	baN341-31 dzaN341-21
 dust	38	灰塵	fei33 ts@n13
 dust	38	灰	xue44
-dust	38	塵土,灰塵	(1) ts_En24 t_hu213, (2) f1i42 ts_hEn0
+dust	38	塵土,灰塵	(1) ts_hEn24 t_hu213, (2) f1i42 ts_hEn0
 dust	38	塵	ts_h@n11
 dust	38	灰塵	fei42 ts7N22
 dust	38	灰塵	fui53 ts_h6n21
@@ -79,10 +79,10 @@ wing	39	翅膀	si_z53 paN213
 wing	39	翅子	ts`_hi`21-44 tsi_z0
 wing	39	翅膀	ts`_hi_z334 p@0
 wing	39	翅膀	ts_hi_z45 p6~53
-wing	39	翅,翅膀	(1) t_hi_z44, (2) ts_i_z44 pAN0
+wing	39	翅,翅膀	(1) t_hi_z44, (2) ts_hi_z44 pAN0
 wing	39	翅膀	tsi_z213 paN53
 wing	39	翅膀	ts`_hi`44 pA0
-wing	39	翼梭,翅膀	(1) iA?32) s855, (2) ts_hi_z35-53 po~213
+wing	39	翼梭,翅膀	(1) iA?32_ s855, (2) ts_hi_z35-53 po~213
 wing	39	翅革+羽	tc\i44 ka?4-2
 wing	39	翼膀	jiai21-2 p_huO242
 wing	39	翅膀 翼胛子	(1) ts_hi_z55 pan13, (2) i55 ka13 tsi_z0

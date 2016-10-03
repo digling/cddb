@@ -80,7 +80,7 @@ ice	34	脖子	p753-45 tsi_0
 ice	34	脖子	pO35-3 k@N214 tsi_z0
 ice	34	脖子	pa?54_ ts@?0
 ice	34	脖子	po24 tsi_z0
-ice	34	頸項,頸子	(1) tc\in53-55 xaN53 (2) tc\in 53-45 tsi_z53
+ice	34	頸項,頸子	(1) tc\in53-55 xaN53, (2) tc\in 53-45 tsi_z53
 ice	34	脖子	po?5 tsi_z
 ice	34	扣頸	k_hi35-53 tc\iA~213
 ice	34	頭頸	d713-22 tc\in52-31
@@ -169,7 +169,7 @@ grass	36	草	ts_hAu23
 grass	36	草	ts_hou35
 grass	36	草	ts_hau32
 grass	36	草	ts_hau53
-long	36	長 	ts`_AN35
+long	36	長 	ts`_hAN35
 long	36	長	ts`_haN24
 long	36	長	ts_hAN53
 long	36	長	ts`_haN35
