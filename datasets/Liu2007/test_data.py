@@ -21,14 +21,18 @@ for f in files:
         for sampa in sampas:
             if sampa.startswith('('):
                 sampa = sampa[sampa.index(' '):]
-            print(f, concept, page, char, sampa, line)
-            sampa = re.sub(r'([012345\-_]+)$|([012345\-_]+) ', r'<\1>', sampa) 
-            # get all tone combis
-            tones = re.findall('<.*?>', sampa)
-            for tone in tones:
-                newtone = ''.join([tone_converter.get(x, x) for x in tone])
-                sampa = sampa.replace(tone, newtone[1:-1])
-            print(sampa)
-            ipa = sampa2uni(sampa)
-            print('\t',sampa, ipa)
+
+            morphemes = sampa.split(' ')
+            for morpheme in morphemes:
+                #print(f, concept, page, char, sampa, line)
+                morph = re.sub(r'([012345\-_]+)$', r'<\1>',
+                        morpheme) 
+                # get all tone combis
+                tones = re.findall('<.*?>', morph)
+                for tone in tones:
+                    newtone = ''.join([tone_converter.get(x, x) for x in tone])
+                    morph = morph.replace(tone, newtone[1:-1])
+                print(concept, page, sampas, morph)
+                ipa = sampa2uni(morph)
+                print('\t',morph, ipa)
         
