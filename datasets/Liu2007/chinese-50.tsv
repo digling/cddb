@@ -17,7 +17,6 @@ dog	52	狗	kai23
 dog	52	狗	k6u35
 dog	52	犬,犬囝	(1) k_hEiN32, (2) k_hEiN32-35 NiaN32
 dog	52	狗	kau53
-
 bone	52	骨	ku214
 bone	52	骨頭	ku213-21 t_hou0
 bone	52	骨頭	ku214-21 t_hou0
@@ -37,7 +36,6 @@ bone	52	骨頭	ku55 tai22
 bone	52	骨	ku6t5
 bone	52	骨頭,骨骨	(1) kOu?21_, (2) kOu?24_-21_ kOu?24_
 bone	52	骨頭	kut32_-5 t_hau24
-
 stick	53	棍	ku@n51
 stick	53	棍子	ku@n53 tsi_z0
 stick	53	棍子	kue~21-44 tsi_z0
@@ -57,7 +55,6 @@ stick	53	棍子	ku7N42-24 tse23-33
 stick	53	棍	ku6n33
 stick	53	棍棍	kuN212-21 kouN212
 stick	53	捶仔	ts_he53-55 ia53
-
 child	53	孩	xE35
 child	53	小孩兒,小嘎兒	(1) c\iau231-21 xar24, (2) c\iau231-21 kar44
 child	53	孩子,孩兒	(1) xE53-45 tsi_z0, (2) xar53
@@ -77,7 +74,6 @@ child	53	細個子	c\i25 kuo0 tse23-33
 child	53	孩	hai21
 child	53	孩兒,伲囝哥	(1) ha53-33 i53, (2) nie53-21 iaN32-35 No55
 child	53	囝仔	in53-55 na53
-
 sea	54	海	xE214
 sea	54	海	xai213
 sea	54	海	xE45
@@ -97,7 +93,6 @@ sea	54	海	xai23
 sea	54	海	hOi35
 sea	54	海	hai32
 sea	54	海	hai53
-
 good	54	好	xAu214
 good	54	好,帶勁,不賴	(1) xau213, (2) tai53 tc\iN53, (3) pu53-24 lai53
 good	54	好	xO45
@@ -117,7 +112,6 @@ good	54	好	xAu23
 good	54	好	hou35
 good	54	好	ho32
 good	54	好	ho53
-
 drink	55	喝	x755
 drink	55	喝	x744
 drink	55	喝	x7214
@@ -137,7 +131,6 @@ drink	55	喝	xuo55
 drink	55	飲	i6m35
 drink	55	啜,食	(1) ts_huo?24_, (2) si2?5
 drink	55	啉	lim55
-
 and	55	和	x735
 and	55	和	x721
 and	55	和	x753
@@ -157,7 +150,6 @@ and	55	跟	k7N42
 and	55	和	uO21
 and	55	共	kOyN242
 and	55	和	ka?32_
-
 river	56	河	x735
 river	56	河	x724
 river	56	河	x735
@@ -177,7 +169,6 @@ river	56	河	xuo22
 river	56	河	hO21
 river	56	河	o53
 river	56	河	k_hue55
-
 river_2	56	江	tc\iAN55
 river_2	56	江	tc\iaN44
 river_2	56	江	tc\iAN214
@@ -197,4 +188,3 @@ river_2	56	江	tc\iAN42
 river_2	56	江	kON53
 river_2	56	江	k27N55
 river_2	56	江	kaN55
-

@@ -1,22 +1,22 @@
-black	32	白	pE35
-black	32	白	pai24
-black	32	白	pei53
-black	32	白	pE334
-black	32	白_,白_	(1) pai21, (2) pi@54_ 
-black	32	白	pei24
-black	32	白	pe21
-black	32	白	p@?5
-black	32	白	pha?32_
-black	32	白	bA?23_
-black	32	白	ba21
-black	32	白	p@24
-black	32	白	p_hO35
-black	32	白	p_ha?5
-black	32	白	p_hak5
-black	32	白	piAA22
-black	32	白	pak2
-black	32	白	pa?5
-black	32	白	pe?5
+white	32	白	pE35
+white	32	白	pai24
+white	32	白	pei53
+white	32	白	pE334
+white	32	白_,白_	(1) pai21, (2) pi@54_ 
+white	32	白	pei24
+white	32	白	pe21
+white	32	白	p@?5
+white	32	白	pha?32_
+white	32	白	bA?23_
+white	32	白	ba21
+white	32	白	p@24
+white	32	白	p_hO35
+white	32	白	p_ha?5
+white	32	白	p_hak5
+white	32	白	piAA22
+white	32	白	pak2
+white	32	白	pa?5
+white	32	白	pe?5
 back	32	背 	pei51
 back	32	背	pei53
 back	32	背	pei31
@@ -74,25 +74,25 @@ ice	33	冰	piN42
 ice	33	冰	peN55
 ice	33	冰	piN55
 ice	33	冰,霜	(1) piN55, (2) sN=55
-ice	34	脖子	po35 tsi_z0
-ice	34	脖子	p724 tsi_z0
-ice	34	脖子	p753-45 tsi_0
-ice	34	脖子	pO35-3 k@N214 tsi_z0
-ice	34	脖子	pa?54_ ts@?0
-ice	34	脖子	po24 tsi_z0
-ice	34	頸項,頸子	(1) tc\in53-55 xaN53, (2) tc\in 53-45 tsi_z53
-ice	34	脖子	po?5 tsi_z
-ice	34	扣頸	k_hi35-53 tc\iA~213
-ice	34	頭頸	d713-22 tc\in52-31
-ice	34	頭頸	d7u341-42 tc\iaN242-23
-ice	34	脖子,頸根	(1) po13 tsi_z0, (2) tc\in41-44 k@n33
-ice	34	頸骨	tc\iO~42 ku0
-ice	34	脖子,頸	(1) pO?5 tsi_z0, (2) tc\iaN213
-ice	34	頸骨 	kiaN31 kin33
-ice	34	頸 	kei23
-ice	34	頸 	kEN35
-ice	34	脰骨 	tau242-53 Ou?24_
-ice	34	頷頸	am22-21 kun53
+neck	34	脖子	po35 tsi_z0
+neck	34	脖子	p724 tsi_z0
+neck	34	脖子	p753-45 tsi_0
+neck	34	脖子	pO35-3 k@N214 tsi_z0
+neck	34	脖子	pa?54_ ts@?0
+neck	34	脖子	po24 tsi_z0
+neck	34	頸項,頸子	(1) tc\in53-55 xaN53, (2) tc\in 53-45 tsi_z53
+neck	34	脖子	po?5 tsi_z
+neck	34	扣頸	k_hi35-53 tc\iA~213
+neck	34	頭頸	d713-22 tc\in52-31
+neck	34	頭頸	d7u341-42 tc\iaN242-23
+neck	34	脖子,頸根	(1) po13 tsi_z0, (2) tc\in41-44 k@n33
+neck	34	頸骨	tc\iO~42 ku0
+neck	34	脖子,頸	(1) pO?5 tsi_z0, (2) tc\iaN213
+neck	34	頸骨 	kiaN31 kin33
+neck	34	頸 	kei23
+neck	34	頸 	kEN35
+neck	34	脰骨 	tau242-53 Ou?24_
+neck	34	頷頸	am22-21 kun53
 thin	34	薄 	pAu35
 thin	34	薄	p724
 thin	34	薄	p753
