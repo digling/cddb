@@ -1,0 +1,199 @@
+tie	67	捆	k_hu@n214
+tie	67	捆	k_hu@n213
+tie	67	捆	k_hue~45
+tie	67	綁	paN214
+tie	67	捆,扎	(1) k_huN53, (2) tsa?2
+tie	67	捆,扎	k_hue~53, (2) tsA21
+tie	67	捆起,扎	(1) k_huEn53-55 tc\_hi53, (2) tsa21
+tie	67	捆	k_hu@n11
+tie	67	綁	po~213
+tie	67	捆,扎	(1) k_hu@n52, (2) tsa?4
+tie	67	捆	h\o21
+tie	67	捆	k_hu@n41
+tie	67	捆,扎,囗	(1) k_hun42, (2) tsa13, (3) diO~13
+tie	67	捆,扎,囗	(1) k_hun213, (2) tsat5, (3) t_hia?5
+tie	67	捆	k_hun31
+tie	67	捆	k_hu7N22
+tie	67	捆	k_hu6n35
+tie	67	捆,扎	(1) k_huN32, (2) tsa?24_
+tie	67	捆,縛	(1) k_hun53, (2) pak5
+
+pull	67	拉	lAA55
+pull	67	拉	la44
+pull	67	拉	la214
+pull	67	拉	la214
+pull	67	拉	la21
+pull	67	拉	lA21
+pull	67	拉	la45
+pull	67	拉	lA31
+pull	67	拉	lO55
+pull	67	拉	lA44
+pull	67	拉	la44
+pull	67	拉,扯	(1) la33, (2) ts_h@41
+pull	67	拉,挑	(1) la44, (2) t_hi744
+pull	67	拉	la42
+pull	67	手+方	paN33
+pull	67	拖	t_huo42
+pull	67	拉	lai53
+pull	67	撥	pEi?5
+pull	67	拉	la55
+
+come	68	來	lE35
+come	68	來	lai24
+come	68	來	lE53
+come	68	來	lai35
+come	68	來	lai21
+come	68	來	lE24
+come	68	來	lai21
+come	68	來	nE13
+come	68	來	na44
+come	68	來	lEE13
+come	68	走來	tsau242-24 lo0
+come	68	來	lai13
+come	68	來	le13
+come	68	來	lai45
+come	68	來	loi11
+come	68	來	lai22
+come	68	來	lOi21
+come	68	來	li32
+come	68	來	lai24
+
+old	68	老	lAu214
+old	68	老	lau213
+old	68	老	lO45
+old	68	老	lau214
+old	68	老	lau53
+old	68	老	lAu53
+old	68	老	lau53
+old	68	老	lO11
+old	68	老	n7213
+old	68	老	l{231
+old	68	老	l@24
+old	68	老	lau41
+old	68	老	l742
+old	68	老	lau213
+old	68	老	lau31
+old	68	老	lAu23
+old	68	老	lou23
+old	68	老,老	(1) lau242, (2) lo32
+old	68	老	lau22
+
+cold	69	冷	l@N214
+cold	69	冷	l@N213
+cold	69	冷	l@N45
+cold	69	冷	l@N214
+cold	69	冷	l@N53
+cold	69	冷	l@N53
+cold	69	冷	n@n53
+cold	69	冷	l@n11
+cold	69	冷	ne~213
+cold	69	冷	la231
+cold	69	冷	liE242
+cold	69	冷	l@n41
+cold	69	冷	niO~42
+cold	69	冷	laN213
+cold	69	冷	laN33
+cold	69	冷	lei23
+cold	69	冷	laN23
+cold	69	寒,凍,凊	(1) kaN53, (2) tOyN212, (3) ts_hiN212
+cold	69	冷,凊,寒	(1) liN53, (2) ts_hin21, (3) kua~24
+
+flow	69	流	liou35
+flow	69	流	liou24
+flow	69	流	liou53
+flow	69	流	liou35
+flow	69	流	li@u21
+flow	69	流	liou24
+flow	69	流	li@u21
+flow	69	淌,流	(1) t_hA~11, (2) n`i@M13
+flow	69	流	ni44
+flow	69	淌	t_hA~52
+flow	69	流	l7u341
+flow	69	流	li@u13
+flow	69	流	lio13
+flow	69	流	liu45
+flow	69	流	liu11
+flow	69	流	liou22
+flow	69	流	l6u21
+flow	69	流	lau53
+flow	69	流	lau24
+
+path	70	路	lu51
+path	70	路,道兒	(1) lu53, (2) taur53
+path	70	路	lu31
+path	70	道兒	tOr334
+path	70	路	lu45
+path	70	路	lou44
+path	70	路	nu213
+path	70	路	lu44
+path	70	路	nu31
+path	70	路	l@u231
+path	70	路	l2y22
+path	70	路	l@u11
+path	70	路	l7u11
+path	70	路	lu21
+path	70	路	lu53
+path	70	路	lu21
+path	70	路	lou22
+path	70	墿	tuo242
+path	70	路	lO22
+
+green	70	綠	ly51
+green	70	綠	ly53
+green	70	綠	ly31
+green	70	綠	ly214
+green	70	綠	ly45
+green	70	綠	liou21
+green	70	綠	nu21
+green	70	綠	lu?5
+green	70	綠	n7?23_
+green	70	綠	lo?23_
+green	70	綠	lo21
+green	70	綠	l@u24
+green	70	綠	l7u35
+green	70	綠	liu?5
+green	70	綠	liuk5
+green	70	綠	liou55
+green	70	綠	lok2
+green	70	綠	luo?5
+green	70	綠	lik5
+
+full	71	滿	man214
+full	71	滿	man213
+full	71	滿	m{~45
+full	71	滿	m6n214
+full	71	滿	m{~53
+full	71	滿	m{~53
+full	71	滿, 爆	(1) man53, (2) pau213
+full	71	滿	mA~11
+full	71	滿	mA~213
+full	71	滿	mø231
+full	71	滿	mø242
+full	71	滿	mo~41
+full	71	滿	me~42
+full	71	滿	mon213
+full	71	滿	man33
+full	71	滿	ma~23
+full	71	滿	mun23
+full	71	個郎,滿	(1) ko212-55 louN53, (2) muaN32
+full	71	滿	mua~53
+
+name	71	名字	miN35 tsi_z0
+name	71	名字	miN24 tsi_z0
+name	71	名字	miN53-45 tsi_z0
+name	71	名字	miN52 tsi_z0
+name	71	名字	miN21 tsi_z45
+name	71	名字	miN24 tsi_z0
+name	71	名字	min21-55 tsi_z213-21
+name	71	名字	min13-21 si_z0
+name	71	名字	miA~44-35 ts_hi_z31
+name	71	名字	min13-22 zi_z231
+name	71	名字	meN341-22 zi_z22-41
+name	71	名字	min13 tsi_z0
+name	71	名字	miO~13 dzi_z11-1
+name	71	名字	miaN45 tsi_z0
+name	71	名字	miaN11 si_z53
+name	71	名字	mei22 tsi_z21
+name	71	名字	mEN21 tsi22
+name	71	名字	miaN53-21 ZEi242
+name	71	名字	mia~24-22 li22
