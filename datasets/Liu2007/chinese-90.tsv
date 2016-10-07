@@ -26,97 +26,97 @@ hold-take	72	拿	na21
 hold-take	72	拿	nA24
 hold-take	72	逮	tai21
 hold-take	72	拿	lA13
-hold-take	72	?	tO55
+hold-take	72	擔	tO55
 hold-take	72	拿	no13
 hold-take	72	朵	to242
 hold-take	72	拿	la13
 hold-take	72	拿	nO44
-hold-take	72	?,拿	(1) la?5, (2) la45
+hold-take	72	搦,拿	(1) la?5, (2) la45
 hold-take	72	拿	na33
 hold-take	72	給～	kei22
-hold-take	72	?	lO35
+hold-take	72	手+羅	lO35
 hold-take	72	拈,掏	(1) nieN55, (2) to53
-hold-take	72	?	t_he?5
+hold-take	72	手+帶	t_he?5
 
 where	72	哪里	nAA214-35 li214
-where	72	哪里,?,?	(1) na24 li213, (2) nar213, (3) na213-21 kar44
+where	72	哪里,哪兒,哪疙兒	(1) na24 li213, (2) nar213, (3) na213-21 kar44
 where	72	哪里	na213 n`ie~0
 where	72	哪里	na34 li214
-where	72	哪?	na53 lE0
-where	72	??	A53 tA21
-where	72	哪?,????	(1) n@r53, (2) n@r53-45 k@n55 tc\_hiEn21
-where	72	哪?	lA11-21 k_huE44
-where	72	哪?	na213-31 xA~35
-where	72	哪?	no13 ta?0
-where	72	??	n`iau21-2 duO24
-where	72	哪里,??	(1) la41 li0, (2) o13 tsi_z0
+where	72	哪嘞	na53 lE0
+where	72	啊搭	A53 tA21
+where	72	哪兒,哪兒跟前	(1) n@r53, (2) n@r53-45 k@n55 tc\_hiEn21
+where	72	哪塊	lA11-21 k_huE44
+where	72	哪塊	na213-31 xA~35
+where	72	哪搭	no13 ta?0
+where	72	狃宕	n`iau21-2 duO24
+where	72	哪里,何至	(1) la41 li0, (2) o13 tsi_z0
 where	72	哪里	la42 li0
 where	72	哪里	la213 li0
-where	72	哪?	Nai53-55 ie0
-where	72	里?	lA23 xAN33
-where	72	??	pin55 tou22
-where	72	??	tie32-35 n932
-where	72	??	to55 lo?5
+where	72	哪兒	Nai53-55 ie0
+where	72	里囗	lAA23 xAN33
+where	72	邊度	pin55 tou22
+where	72	底所	tie32-35 n932
+where	72	倒落	to55 lo?5
 
 that	73	那	nA51
 that	73	那	na53
 that	73	那	na31
-that	73	?	niEr334
-that	73	?	vai53
+that	73	乜兒	niEr334
+that	73	口+外	vai53
 that	73	那	nA53
 that	73	那	na213
 that	73	那	l@?5
 that	73	那	na31
-that	73	?	kuEE44
-that	73	?	he24
+that	73	歸～	kuEE44
+that	73	許	he24
 that	73	那	la55
 that	73	那	lo11
-that	73	?,?	(1) he213, (2) la213
-that	73	?	ke53
+that	73	許,那	(1) he213, (2) la213
+that	73	囗	ke53
 that	73	那	lAA23
 that	73	那	na33
-that	73	?,?	(1) hy32, (2) huoi53
-that	73	?	hit32_
+that	73	許～,回	(1) hy32, (2) huoi53
+that	73	迄	hit32_
 
 there	74	那兒	nar51
 there	74	那兒	nar53
 there	74	那兒	nar31
-there	74	?兒	niEr334
+there	74	乜兒	niEr334
 there	74	那兒	nar45
 there	74	那兒	nAr53
-there	74	那兒,????	(1) nEr213, (2) na213 ko55 ti213 faN55
-there	74	那?	le?5 k_huE44
+there	74	那兒,那個地方	(1) nEr213, (2) na213 ko55 ti213 faN55
+there	74	那塊	le?5 k_huE44
 there	74	那兒	na31 n=0
-there	74	??	uEE44 miI231-21
-there	74	??	buO341-2 ta44
+there	74	彎面	uEE44 miI231-21
+there	74	旁單	buO341-2 ta44
 there	74	那里	la55 li41
 there	74	那里	lo11 li0
 there	74	那兒	la213 li0
 there	74	那兒	e53-55 ie0
 there	74	那個地方	lAA23 kuo0 ti24-21 fAN42-22
 there	74	個到	kO33 tou33
-there	74	夫?	hu55-53 uoi212
-there	74	??	hit32_-5 te21
+there	74	夫塊	hu55-53 uoi212
+there	74	迄帶	hit32_-5 te21
 
 man	74	男人	nan35 z`@n35
-man	74	?????,???	(1) ta53 lau213-21 E24 m@r0, (2) lau213-21 iE24 m@r0
+man	74	大老爺們兒,老爺們兒	(1) ta53 lau213-21 E24 m@r0, (2) lau213-21 iE24 m@r0
 man	74	男人	n{~53-45 z`e~0
 man	74	男人	n6n35 in0
 man	74	男人	n{~21 z@N21
 man	74	男人	n{~24 z`e~0
-man	74	男人,??	(1) nan21-55 z@n21, (2) nan21-55 ni55
+man	74	男人,男的	(1) nan21-55 z@n21, (2) nan21-55 ni55
 man	74	男人	lA~13 z`@n13
-man	74	男?	nO44 n70
+man	74	男仂	nO44 n70
 man	74	男人	nø13-22 n`in13-31
-man	74	男??	nø341-22 tsi_z242-45 k_ha41
-man	74	男人,??,???	(1) lan13 z`@n13, (2) lan13 ti0, (3) lan13 z`@n0 ka0
-man	74	男人?	na~13 nin13-33 ka44-33
+man	74	男子客	nø341-22 tsi_z242-45 k_ha41
+man	74	男人,男的,男人家	(1) lan13 z`@n13, (2) lan13 ti0, (3) lan13 z`@n0 ka0
+man	74	男人家	na~13 nin13-33 ka44-33
 man	74	男人	lan45 lɨn0
-man	74	男?人	nam11 me33 Nin11
+man	74	男兒人	nam11 me33 Nin11
 man	74	男人	la~22 liN22
 man	74	男人	nam21 li6n21-35
-man	74	???,男?	(1) touN212-21 muo32-35 n2yN53, () naN53-21 Nai212
-man	74	???	ta22-33 pO55-44 laN24
+man	74	丈夫儂,男?	(1) touN212-21 muo32-35 n2yN53, () naN53-21 Nai212
+man	74	丈夫人	ta22-33 pO55-44 laN24
 
 you	75	你	ni214
 you	75	你	ni213
@@ -135,7 +135,7 @@ you	75	你	n=213
 you	75	你	n=11
 you	75	你	lio23
 you	75	你	nei23
-you	75	如 如?	(1) ny32, (2) ny32-21 n2yN53
+you	75	如,如儂	(1) ny32, (2) ny32-21 n2yN53
 you	75	如	li53
 
 year	75	年	niEn35
@@ -159,18 +159,18 @@ year	75	載,歲	(1) tsai32, (2) huoi212
 year	75	歲頭	he22-21 t_hau24
 
 bird	76	鳥兒	niAur213
-bird	76	鳥兒,??	(1) niaur213, (2) tc\_hiaur213
+bird	76	鳥兒,雀兒	(1) niaur213, (2) tc\_hiaur213
 bird	76	鳥兒	n`iOr45
-bird	76	?兒	ts_hyOr35
+bird	76	雀兒	ts_hyOr35
 bird	76	鳥	niau53
 bird	76	鳥兒	tc\_hiAur53
-bird	76	?兒,??	(1) tc\_hyo21-55 @r55, (2) tc\_ho21-55
-bird	76	鳥,??	(1) liO11, (2) tc\_hio?5 tsi_z0
+bird	76	雀兒,雀雀	(1) tc\_hyo21-55 @r55, (2) tc\_ho21-55
+bird	76	鳥,雀子	(1) liO11, (2) tc\_hio?5 tsi_z0
 bird	76	鳥	n`ie213
 bird	76	鳥	ti{52
 bird	76	鳥兒	tiE242-42 N=0
 bird	76	鳥	n`iau41
-bird	76	鳥?	ti742 tc\i35-5
+bird	76	鳥唧	ti742 tc\i35-5
 bird	76	鳥	n`iEu213
 bird	76	鳥兒	tiau33-35 ve0
 bird	76	鳥	tiAu34
@@ -179,21 +179,21 @@ bird	76	鳥	tsEu43
 bird	76	鳥	tsiau53
 
 woman	76	女人	ny214-21 z`En35
-woman	76	???	niaN24 m@r0
+woman	76	娘們兒	niaN24 m@r0
 woman	76	女人	n`y45 z`e~53
 woman	76	女人	ny213-21 in52
 woman	76	女人	ny53 z@N21
 woman	76	女人	ny53 z`e~0
-woman	76	女人,??	(1) n`y53-45 z@n21, (2) n`y53-45 li55
+woman	76	女人,女的	(1) n`y53-45 z@n21, (2) n`y53-45 li55
 woman	76	女人	li31 z`@n13
-woman	76	女?	n`y213 n70
+woman	76	女仂	n`y213 n70
 woman	76	女人	n`y213-22 n`in13-44
-woman	76	???	l@24-2 n`iaN341-44 k_ha41
-woman	76	女人,??	(1) n`y41 z`@n0, (2) n`y41 ti0
-woman	76	女人?	ny42 nin13-33 ka0
-woman	76	女?	n`y213-24 k_ha?5
-woman	76	??人	moi53-55 ie0 Nin11
+woman	76	老人客	l@24-2 n`iaN341-44 k_ha41
+woman	76	女人,女的	(1) n`y41 z`@n0, (2) n`y41 ti0
+woman	76	女人家	ny42 nin13-33 ka0
+woman	76	女客	n`y213-24 k_ha?5
+woman	76	妹兒人	moi53-55 ie0 Nin11
 woman	76	女人	ly23 liN23-22
 woman	76	女人	n2y23 i6n21-23
-woman	76	??,??,???	(1) i55-53 tsia32, (2) ny32-55 E212, (3) tsy55 n2yN53-55 n2yN53
-woman	76	???	tsa55-22 bO53-55 laN24
+woman	76	儂～姐,女界,諸娘儂	(1) i55-53 tsia32, (2) ny32-55 E212, (3) tsy55 n2yN53-55 n2yN53
+woman	76	查～某～人	tsa55-22 bO53-55 laN24
