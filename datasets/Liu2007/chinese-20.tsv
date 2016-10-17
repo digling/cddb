@@ -130,7 +130,7 @@ blow	40	囗	p_haN33
 blow	40	吹	ts_huei42
 blow	40	吹	ts_h2y55
 blow	40	吹,口+盆	(1) ts_huoi55, (2) puN53
-stab	40	口+盆	pun24
+blow	40	口+盆	pun24
 stab	40	刺	ts_hi_z51
 stab	40	刺	ts_hi_z53
 stab	40	刺	ts_hi_z21
@@ -167,8 +167,8 @@ hit	41	打	ta213
 hit	41	打	ta31
 hit	41	打	tAA23
 hit	41	打	ta35
-fight	41	拍	p_ha?24_
-fight	41	拍	p_ha?32_
+hit	41	拍	p_ha?24_
+hit	41	拍	p_ha?32_
 fight	41	打架 	tA214-21 tc\iA51
 fight	41	打架 打仗 干仗	(1) ta213-21 tc\ia53, (2) ta213-21 ts`aN53, (3) kan53 ts`aN53
 fight	41	打架	ta45 tc\ia21
