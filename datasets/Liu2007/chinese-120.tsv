@@ -1,0 +1,190 @@
+water	93	水	s`uei213
+water	93	水	s`uei213
+water	93	水	s`uei45
+water	93	水	s`uei213
+water	93	水	suei53
+water	93	水	fei53
+water	93	水	suei53
+water	93	水	suei11
+water	93	水	c\y213
+water	93	水	sH`52
+water	93	水	si_z24
+water	93	水	c\yei41
+water	93	水	c\y42
+water	93	水	sui213
+water	93	水	sui31
+water	93	水	suei23
+water	93	水	s2y35
+water	93	水	tsuoi32
+water	93	水	tsui53
+fruit	93	水果	s`uei213-35 kuo213
+fruit	93	水果兒	s`uei213-24 kuor213
+fruit	93	水果	s`uei45-53 ku745
+fruit	93	果兒們	kOr213 m@n0
+fruit	93	水果	suei53-21 kuo53
+fruit	93	水果	fei53 kuo9
+fruit	93	水果	suei53-55 ko11
+fruit	93	水果	suei11-12 ko11
+fruit	93	水果	c\y213-31 k8213
+fruit	93	水果	sH`52-41 k@u52-23
+fruit	93	水果	si_z24-53 ku242-23
+fruit	93	水果	c\yei41 ko41
+fruit	93	果子	ko42 tsi_z0
+fruit	93	水果	sui213-44 kuo213
+fruit	93	水果	sui31-33 kuo31
+fruit	93	水果	suei23 kuo23-22
+fruit	93	水果	s2y35 kyO35
+fruit	93	果子	kuo32-35 Zi32
+fruit	93	水果	tsui53-55 ko53
+sleep	94	睡	s`uei51
+sleep	94	睡	s`uei53
+sleep	94	睡	s`uei31
+sleep	94	睡	s`uei334
+sleep	94	睡	suei45
+sleep	94	睡	fei44
+sleep	94	睡	suei213
+sleep	94	睡	suei44
+sleep	94	睏	k_huA~35
+sleep	94	睏	k_hu@n412
+sleep	94	睏	k_hy51
+sleep	94	睡,睏	(1) c\yei11, (2) k_hu@n55
+sleep	94	睏	k_hun35
+sleep	94	睏	k_hun213
+sleep	94	睡	soi53
+sleep	94	睡	suei21
+sleep	94	睡	s2y22
+sleep	94	睏	k_hOuN212
+sleep	94	睏	k_hun21
+suck	94	吸	c\i55
+suck	94	?	kuo213
+suck	94	吮	s`ue~53
+suck	94	吮	Cy214
+suck	94	吸	c\i@?2
+suck	94	吸	c\i21
+suck	94	?	tc\y21
+suck	94	suo?	so?5
+suck	94	suo?	so?32_
+suck	94	?,suo?	(1) h@u44, (2) so?4
+suck	94	?,吸	(1) tc\y41, (2) c\iai41
+suck	94	cin?	tc\in33
+suck	94	cin?	tsin44
+suck	94	?	tc\it5
+suck	94	吸	k_hip1
+suck	94	suo?	suo55
+suck	94	吮,吸	(1) syn23, (2) k_h6p5
+suck	94	suo?	so?24_
+suck	94	suo?	su?5
+say	95	說	s`uo55
+say	95	說,pai1?,lau?	(1) s`uo44, (2) pai44, (3) lau41
+say	95	說	s`u721
+say	95	說	SuE214
+say	95	說	su@?2
+say	95	說	s`y21
+say	95	說,pai2?	(1) so21, (2) pai53
+say	95	講,說	(1) tc\iA~11, (2) so?5
+say	95	說,講	(1) c\ya?32_, (2) ko~213
+say	95	說	s@?4
+say	95	講	kuO242
+say	95	說,講	(1) so24, (2) tc\ian41
+say	95	講	kON42
+say	95	話	ua21
+say	95	講	koN31
+say	95	講	kAN23
+say	95	說	syt3
+say	95	講	kouN32
+say	95	講	kON53
+split	95	撕裂	si_z55 liE51
+split	95	撕裂	si_z44 liE53
+split	95	撕裂	si_z214-24 li@31
+split	95	撕裂	si_z52 liE214
+split	95	撕,撕裂	(1) si_z21, (2) si_z21 lie45
+split	95	撕?,撕	(1) si_z21 l{~44, (2) si_z21
+split	95	撕開	si_z45 k_hai45
+split	95	撕,撕裂	(1) si_z31, (2) si_z31 lie?5
+split	95	手+止,手+止開	(1) tc\_hiO213, (2) tc\_hiO213-31 k_ha55
+split	95	?	h@n44
+split	95	?	do21
+split	95	撕,手+止	(1) si33, (2) ts`_h@41
+split	95	手+止破	t_hiO42 bu35-5
+split	95	撕裂,撕,囗	(1) si42 liEt5, (2) si_z42, (3) tsei42
+split	95	手+止開	ts_ha31 k_hoi33
+split	95	手+止破	ts_hA`23-22 p_huo25
+split	95	撕裂	si53 lit2
+split	95	手+止裂	t_hie32 lie?5
+split	95	??	t_hia?53_ li22
+die	96	死	si_z213
+die	96	死	si_z213
+die	96	死	si_z45
+die	96	死	si_z214
+die	96	死	si_z53
+die	96	死	si_z53
+die	96	死	si_z53
+die	96	死	si_z11
+die	96	死	si_z213
+die	96	死	si52
+die	96	死	si_z242
+die	96	死,瓜,彈四郎	(1) si_z41, (2) kua33, (3) tan13 si_z55 lan13
+die	96	死	si_z42
+die	96	死	si_z213
+die	96	死	si_z31
+die	96	死	si_z23
+die	96	死	sei35
+die	96	死	si32
+die	96	死	si53
+four	96	四	si_z51
+four	96	四	si_z53
+four	96	四	si_z31
+four	96	四	si_z334
+four	96	四	si_z45
+four	96	四	si_z45
+four	96	四	si_z44
+four	96	四	si_z213
+four	96	四	si_z44
+four	96	四	si_z35
+four	96	四	si_z412
+four	96	四	si_z51
+four	96	四	si_z55
+four	96	四	si_z35
+four	96	四	si_z45
+four	96	四	si53
+four	96	四	sei33
+four	96	四	sEi212
+four	96	四	si21
+he	97	他	t_hA`55
+he	97	他	t_ha44
+he	97	他	t_ha45
+he	97	他	t_ha52
+he	97	他	t_ha21
+he	97	他	t_hA21
+he	97	他	t_ha45
+he	97	他	t_hA31
+he	97	渠	ki44
+he	97	俚	li44
+he	97	渠	gei341
+he	97	他	t_ha33
+he	97	他	t_hO44
+he	97	渠	tc\ie24
+he	97	佢	ki11
+he	97	他	t_hA`42
+he	97	佢	k_h2y23
+he	97	伊伊,儂	(1) i55, (2) i55 n2yN53
+he	97	伊	i55
+they	97	他們	t_hA`55 m@n35
+they	97	他們	t_ha44 m@n0
+they	97	他們	t_ha45-214 me~0
+they	97	他們	t_ha52 m@n334
+they	97	他們	t_ha21 m@N0
+they	97	他的	t_hA21 ti0
+they	97	他們	t_ha45 m@n21-55
+they	97	他們	t_hA31 m@n13
+they	97	渠人	ki44 iA~0
+they	97	俚竹-马	li44 to?0
+they	97	渠?	gei341-31 liE341-21
+they	97	他們	t_ha33 m@n
+they	97	他?	t_hO44 na~13-33
+they	97	渠們	tc\ie24 m1n0
+they	97	佢丁人	ki11 ten33-35 Nin11
+they	97	他的個	t_hA`42 ti0 k721
+they	97	佢?	k_h2y23 tei22
+they	97	伊儂伊各儂	(1) i55 n2yN53, (2) i55 ko?24_-21_ n2yN53
+they	97	人+因	in55
