@@ -1,4 +1,4 @@
-NUMBER	CONCEPT	CC	BJ	Sz	Nc	Mx	Gz	Jy	Hp	Zq	Jc	Js
+NUMBER	CONCEPT	CC	Bj	Sz	Nc	Mx	Gz	Jy	Hp	Zq	Jc	Js
 1	sky	*thian¹	tʰiεn1	tʰiɪ¹	tʰiεn1	tʰiεn1	tʰin1	tʰəŋ¹	hæn¹	tʰiŋ¹	xɛ̃²	tʰiεn¹
 2	three	*sam¹	san¹	se¹	san¹	sam¹	sam¹	soŋ¹	sam¹	saŋ¹	sã²	saŋ¹
 3	chicken	*kiai¹	tɕi¹	tɕi¹	tɕi¹	kε¹	kɐi¹	t  i1	kei¹	kai¹	ke¹	iε¹
@@ -8,31 +8,31 @@ NUMBER	CONCEPT	CC	BJ	Sz	Nc	Mx	Gz	Jy	Hp	Zq	Jc	Js
 7	come	*loi²	lai²	le²	lai²	loi²	lɐi²	lø²	li²	lœ²	ɣɯ⁴	li²
 8	flow	*liou²	liu²	lʏ²	liu²	liu²	lɐu²	liou²	liu²	lo²	kɯ⁸	lu²
 9	cow	*ŋiou²	niu²	nʏ²	niu ²	niu²	ŋɐu²	ŋou²	ny²	niu²	ŋɯ⁸	ŋɯə²
-10	long	*jioŋ²	tʂʰaŋ²	zaŋ²	tsʰoŋ²	tsʰoŋ²	tsʰœŋ²	tɕiaŋ ²	hoŋ²	tauŋ⁹	tsõ⁸	tʰœ̃²
-11	water	*shyi³	ui³	sɥ ³	sui³	sui³	s  y ³	ɕya³	sui³	sui³	ɕui¹	yi³
-12	fire	*huo³	xuo³	həu³	fo ³	fo³	fo³	fu³	kʰuei³	hue³	xui1	xuei³
-13	hand	*shiou³	ou³	s  ³	sə u ³	su³	sɐu³	ɕiou³	iɕu³	siu³	sɯ¹	tɕʰye³
-14	early	*tsou³	tsau³	tsÆ³	tsau ³	tsau³	tsou ³	tsau³	tʰoʔ⁴	tso³	tsu¹	tsiau ³
-15	wait	*teŋ³	təŋ ³	tən³	tεn ³	tεn³	tɐŋ ³	lai³	ten³	teuŋ³	tɯ¹	tœ̃³
-16	rise	*zhioŋ⁴	ʂaŋ⁴	zɐŋ⁶	soŋ⁶	soŋ¹	sœŋ⁴	ɕiaŋ⁴	ɕioŋʔ ⁴	ioŋ5	tsõ1	dʑiaŋ ⁴
-17	go down	*hha⁴	ɕia⁴	ɦo6	ha⁶	ha1	ha⁴	fɯə⁴	haʔ⁴	ha5	thɯ²	ɔ⁴
-18	heavy	*jiuŋ⁴	tʂuŋ³	zoŋ⁶	tsʰuŋ 6	tsʰuŋ¹	tsʰuŋ ⁴	tɕiaŋ⁴	hn̍ʔ⁴	toŋ6	tsṽ1	dʑiuŋ ⁴
-19	sit	*dzuo⁴	tsuo5	zəu6	tsʰo6	tsʰo1	tsʰo⁴	tsəɯ⁴	tʰoiʔ⁴	tsuai5	kv⁷	si⁴
-20	near	*gin⁴	tɕin5	dʑin6	tɕʰin6	kʰiun1	kʰɐn⁴	tɕie⁴	kʰuanʔ⁴	kyeŋ5	tɕĩ¹	gœ̃ ⁴
+10	long	*jioŋ²	tʂʰaŋ²	zaŋ²	tsʰoŋ²	tsʰoŋ²	tsʰœŋ²	tɕiaŋ²	hoŋ²	tauŋ⁹	tsõ⁸	tʰœ̃²
+11	water	*shyi³	ʂui³	sɥ³	sui³	sui³	sœy³	ɕya³	sui³	sui³	ɕui¹	yi³
+12	fire	*huo³	xuo³	həu³	fo³	fo³	fo³	fu³	kʰuei³	hue³	xui1	xuei³
+13	hand	*shiou³	ʂou³	sʏ³	səu³	su³	sɐu³	ɕiou³	iɕu³	siu³	sɯ¹	tɕʰye³
+14	early	*tsou³	tsau³	tsæ³	tsau³	tsau³	tsou³	tsau³	tʰoʔ⁴	tso³	tsu¹	tsiau³
+15	wait	*teŋ³	təŋ³	tən³	tεn ³	tεn³	tɐŋ³	lai³	ten³	teuŋ³	tɯ¹	tœ̃³
+16	rise	*zhioŋ⁴	ʂaŋ⁴	zɐŋ⁶	soŋ⁶	soŋ¹	sœŋ⁴	ɕiaŋ⁴	ɕioŋʔ⁴	ioŋ5	tsõ1	dʑiaŋ⁴
+17	go down	*hha⁴	ɕia⁴	ɦo6	ha⁶	ha1	ha⁴	fɯə⁴	haʔ⁴	ha5	tʰɯ²	ɔ⁴
+18	heavy	*jiuŋ⁴	tʂuŋ³	zoŋ⁶	tsʰuŋ⁶	tsʰuŋ¹	tsʰuŋ⁴	tɕiaŋ⁴	hn̍ʔ⁴	toŋ6	tsṽ1	dʑiuŋ⁴
+19	sit	*dzuo⁴	tsuo5	zəu6	tsʰo⁶	tsʰo1	tsʰo⁴	tsəɯ⁴	tʰoiʔ⁴	tsuai5	kv⁷	si⁴
+20	near	*gin⁴	tɕin5	dʑin6	tɕʰin⁶	kʰiun1	kʰɐn⁴	tɕie⁴	kʰuanʔ⁴	kyeŋ5	tɕĩ¹	gœ̃⁴
 21	go	*khie⁵	tɕʰy⁵	tɕʰi⁵	tɕʰiε⁵	hi⁵	hœy⁵	hu⁵	kʰo⁵	kʰo⁵	ŋε⁸	kʰɯə⁵
 22	broken	*pho⁵	pʰuo⁵	pʰu⁵	pʰo⁵	pʰo⁵	pʰo⁵	pʰu⁵	pʰai⁵	pʰua⁵	pʰo³	pʰai⁵
 23	four	*si⁵	sɿ⁵	sɿ⁵	sɿ⁵	si⁵	sei⁵	sa⁵	si⁵	si⁵	ɕi⁵	si⁵
 24	half	*pon⁵	pan⁵	pø⁵	pon⁵	pan⁴	pun⁵	paŋ⁵	pon⁵	puaiŋ⁵	po⁸	piεn⁵
-25	laugh	*siau5	ɕiau⁵	siæ⁵	ɕiεu⁵	siau⁵	siu⁵	siu⁵	sieu5	sio5	so³	tɕʰiau 5
+25	laugh	*siau5	ɕiau⁵	siæ⁵	ɕiεu⁵	siau⁵	siu⁵	siu⁵	sieu5	sio5	so³	tɕʰiau⁵
 26	sick	*biaŋ⁶	piŋ⁵	beŋ⁶	pʰiaŋ⁶	pʰiaŋ⁵	pεŋ⁶	pioŋ⁶	kʰuæ5	paŋ⁶	pɛ̃³	baŋ⁶
 27	graph	*dzi⁶	tsɿ⁵	zɿ⁵	tsʰɿ⁶	sɿ⁵	tsi⁶	tsɯə ⁶	tʰe⁶	tsi⁹	tsɯ³	dzɯə⁶
 28	old	*giou⁶	tɕiu⁵	dʑiʏ⁶	tɕʰiu⁶	kʰiu⁵	kɐu⁶	tɕiou⁶	kʰy⁶	kiu⁶	kɯ³	gɯ⁶
 29	tree	*zhy⁶	ʂu⁵	zɥ⁶	ɕy⁶	su⁵	sy⁶	ɕyu⁶	tɕʰy5	tsʰiu⁶	tsɯ³	dzɯə⁶
 30	two	*nhi⁶	ər⁵	ni⁶	ə⁶	ni⁵	ji⁶	na⁶	ni⁶	ni⁶	ne⁵	ni⁶
 31	blood	*hiot⁷	ɕiε³	ɕyɤʔ⁷	ɕyot⁷	hiat⁷	hyt⁷	ɕy⁷	fæ⁷	huai³	sua⁵	xyεʔ⁷
-32	seven	*tshit⁷	tɕʰi1	tɕʰiɪʔ⁷	tɕʰitʔ⁷	tsʰit⁷	tsʰɐt⁷	tsʰa⁷	tʰi⁷	tsʰi³	tɕʰi⁵	tɕʰəʔ ⁷
+32	seven	*tshit⁷	tɕʰi1	tɕʰiɪʔ⁷	tɕʰitʔ⁷	tsʰit⁷	tsʰɐt⁷	tsʰa⁷	tʰi⁷	tsʰi³	tɕʰi⁵	tɕʰəʔ⁷
 33	bamboo	*ciuk⁷	tʂu²	tsoʔ⁷	tsuk⁷	tsuk⁷	tsuk⁷	liou⁷	ty⁷	ty³	kε⁴	taʔ⁷
-34	go out	*chiut⁷	tʂʰu1	tsʰɤʔ⁷	tsʰət⁷	tsʰut⁷	tsʰɔt ⁷	ɕya⁷	tsʰui⁷	tsʰue³	tɕʰi⁴	tɕʰyεʔ ⁷
+34	go out	*chiut⁷	tʂʰu¹	tsʰɤʔ⁷	tsʰət⁷	tsʰut⁷	tsʰɔt⁷	ɕya⁷	tsʰui⁷	tsʰue³	tɕʰi⁴	tɕʰyεʔ⁷
 35	nail	*kap⁷	tɕia3	kaʔ⁷	kat⁷	kap⁷	kap⁷	kuə⁷	kam⁷	ka³	kε⁴	kaʔ⁷
 36	month	*ŋiot8	yε⁵	ŋɤʔ⁸	ɲyot⁸	ɲyat⁸	jyt⁸	ɲy⁶	væʔ⁴	ŋye⁵	ŋua⁵	ŋuoʔ⁸
 37	white	*bak⁸	pai²	bɐʔ⁸	pʰak⁸	pʰak⁸	pak⁸	pɯə⁶	pʰaʔ⁴	pa⁶	pε⁷	baʔ⁸

@@ -23,7 +23,7 @@ def prepare(dataset):
             source = dataset.languages[lang][dataset.id+'_source']
             D[idx] = [lang, lidx, concept, sinopy.gbk2big5(char), cid, entry, source]
             idx += 1
-    D[0] = ['doculect', 'doculect_in_source', 'concept', 'character',
+    D[0] = ['doculect', 'doculect_in_source', 'concept', 'concept_chinese',
         'concepticon_id', 'value', 'source']
     wl = Wordlist(D)
     wl.output('tsv', filename=dataset.get_path(['words']), ignore='all',

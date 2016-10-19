@@ -9,12 +9,12 @@ pkg_location = '.'
 
 setup(
         name=pkgname,
-        version='0.1',
+        version='0.2',
         packages=find_packages(pkg_location),
         package_dir=pkg_dir,
         install_requires=['lingpy', 'clldutils', 'pylexibank'],
         entry_points={
-            'console_scripts': ['cddb=pycddb.cli:main'],
+            'console_scripts': ['CDDB=pycddb.cli:main'],
         },
         author='Johann-Mattis List'
         )

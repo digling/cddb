@@ -85,9 +85,9 @@ wing	39	翅膀	ts`_hi`44 pA0
 wing	39	翼梭,翅膀	(1) iA?32_ s855, (2) ts_hi_z35-53 po~213
 wing	39	翅革+羽	tc\i44 ka?4-2
 wing	39	翼膀	jiai21-2 p_huO242
-wing	39	翅膀 翼胛子	(1) ts_hi_z55 pan13, (2) i55 ka13 tsi_z0
+wing	39	翅膀,翼胛子	(1) ts_hi_z55 pan13, (2) i55 ka13 tsi_z0
 wing	39	翼胛	ie35 ka35-5
-wing	39	翅膀,翅光 葉光	(1) ts_hi_z213 paN0, (2) ts_hi_z213 kuaN0, (3) iEt21_ kuaN0
+wing	39	翅膀,翅光,葉光	(1) ts_hi_z213 paN0, (2) ts_hi_z213 kuaN0, (3) iEt21_ kuaN0
 wing	39	翼胛	it5 kap1
 wing	39	囗囗子	tc\25 kua~22 tse 23-33
 wing	39	翅	ts_hi33
@@ -140,7 +140,7 @@ stab	40	刺	ts_hi_z44
 stab	40	居～	tc\y45
 stab	40	戳	ts_o?5
 stab	40	戳	ts_ho?32_
-stab	40	刺 戳	(1) ts_hi_z412, (2) ts_ho?4
+stab	40	刺,戳	(1) ts_hi_z412, (2) ts_ho?4
 stab	40	頓	taN51
 stab	40	刺	ts_hi_z55
 stab	40	刺	tsi_z35
@@ -170,16 +170,16 @@ hit	41	打	ta35
 hit	41	拍	p_ha?24_
 hit	41	拍	p_ha?32_
 fight	41	打架 	tA214-21 tc\iA51
-fight	41	打架 打仗 干仗	(1) ta213-21 tc\ia53, (2) ta213-21 ts`aN53, (3) kan53 ts`aN53
+fight	41	打架,打仗,干仗	(1) ta213-21 tc\ia53, (2) ta213-21 ts`aN53, (3) kan53 ts`aN53
 fight	41	打架	ta45 tc\ia21
 fight	41	打仗	ta214-2 ts`aN334
 fight	41	打架	ta53 tc\ia45
 fight	41	打捶	tA53 pf_hei24
-fight	41	打架 打錘 角逆	(1) ta53-55 tc\ia213, (2) ta53-55 ts_huei21, (3) ko21-55 n\ie21
+fight	41	打架,打錘,角逆	(1) ta53-55 tc\ia213, (2) ta53-55 ts_huei21, (3) ko21-55 n\ie21
 fight	41	打架	tA11-22 tc\iA44-22
 fight	41	打架	tO213-31 ko35
 fight	41	打相打	ta~52 sia~44-31 ta~52-31
-fight	41	打起 賭打	(1) ti@242-24 ts_hi_z0, (2) t2y242-53 tiE242-22
+fight	41	打起,賭打	(1) ti@242-24 ts_hi_z0, (2) t2y242-53 tiE242-22
 fight	41	打架	ta41-44 tc\ia55
 fight	41	打架	ta42 tc\iO35
 fight	41	打架	ta213 ka45

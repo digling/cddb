@@ -55,6 +55,8 @@ def main():
                 print('Wordlist')
                 print('Languages: {0}\nConcepts: {1}\nWords: {2}'.format(dset.wordlist.width,
                     dset.wordlist.height, len(dset.wordlist)))
+        if 'check' in argv:
+            dset._run_command('check')
 
 
 
