@@ -1,5 +1,3 @@
 {
-	"dataset" : "Liu2007",
-	"datatype" : "lexemes",
-	"datastructure" : "wordlist"
+	"dataset" : "Liu2007"
 }

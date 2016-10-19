@@ -3,10 +3,10 @@ Beijing	Peking	Běijīng	北京	39.9385466	116.1172766		mand1415	cmn	Mandarin	�
 Changsha		Chángshā	长沙	28.85032	112.943344		xian1251	hsn	Xiang	湘	Xiāng	C	12	Xiang	Xiang	Xiang	Xiang	Xiang	17	十一	11	Hou2004a, Zihui	Hou2004b, Wang2004a, Wang2004, Cihui, Liu2007	Tang2009	
 Shuangfeng		Shuāngfēng	双峰	27.4569781	111.916486		xian1251	hsn	Xiang	湘	Xiāng	F			Xiang						12	Zihui	Wang2004a, Wang2004		Shuangfeng is a part of the city Loudi (a xian) in Hunan. 
 Guangzhou		Guǎngzhōu	广州	23.1253503	112.9476548		yuec1235	yue	Yue	粤	Yuè	G	17	Yue	Yue	Yue	Yue	Yue	5	十四	15	Hou2004a, Zihui	Hou2004b, Wang2004a, Wang2004, Cihui, Liu2007	Tang2009	
-Shanghai		Shànghǎi	上海	31.222902	121.475372		taih1244	(wuu)	Wu	吴	Wú	H					Wu, Taihu	Wu	1			Hou2004a	Hou2004b, Wang2004a, Wang2004		
+Shanghai		Shànghǎi	上海	31.222902	121.475372		taih1244	wuu	Wu	吴	Wú	H					Wu, Taihu	Wu	1			Hou2004a	Hou2004b, Wang2004a, Wang2004		
 Meixian		Méixiàn	梅县	24.3522958	115.8903375		hak1236	hak	Hakka	客家	Kèjiā	M	15	Kejia	Kejia	Kejia	Hakka	Hakka	14	十三	14	Hou2004a, Zihui	Hou2004b, Wang2004a, Wang2004, Cihui, Liu2007	Tang2009	
 Nanchang		Nánchāng	南昌	28.706609	115.857468		ganc1239	gan	Gan	赣	Gàn	N	14	Gan	Gan	Gan	Gan	Gan	16	十二	13	Hou2004a, Zihui	Hou2004b, Wang2004a, Wang2004, Cihui, Liu2007	Tang2009	
-Suzhou		Sūzhōu	苏州	31.3280439	120.364116		taih1244	(wuu)	Wu	吴	Wú	S	10	Wu	Wu	Wu, Beiqu	Wu, Taihu	Wu	2	九	9	Hou2004a, Zihui	Hou2004b, Wang2004a, Wang2004, Cihui, Liu2007	Tang2009	
+Suzhou		Sūzhōu	苏州	31.3280439	120.364116		taih1244	wuu	Wu	吴	Wú	S	10	Wu	Wu	Wu, Beiqu	Wu, Taihu	Wu	2	九	9	Hou2004a, Zihui	Hou2004b, Wang2004a, Wang2004, Cihui, Liu2007	Tang2009	
 Xiamen		Xiàmén	厦门	24.49421	118.08918		minn1241	nan	Min	闽	Mǐn	X	19	Min	Min	Min, Minnan	Min, Southern	Min, Coastal, South	8	十六	17	Hou2004a, Zihui	Hou2004b, Wang2004a, Wang2004, Cihui, Liu2007	Tang2009	
 Yingshan		Yīngshān	英山	30.7462984	115.3468074		mand1415	cmn	Mandarin	管话	Guānhuà	Y											Wang2004a, Wang2004		It is not clear which Yingshan is meant, as there are many districts which could qualify as the name. Juding from the fact that Yingshan clusters closely with Wuhan, it is likely that it is 英山, east of Wǔhàn.
 Anyi		Ānyì 	安義	28.84359	115.54773		ganc1239	gan	Gan	赣	Gàn												Wang2004a		Anyi is a city in the county of Nanchang.
@@ -59,4 +59,4 @@ Xianggang	Hong Kong	Xiānggǎng	香港	22.422645	114.098396		yuec1235	yue	Yue	�
 Yangjiang		Yángjiāng	阳江	21.7895612	111.966667		yuec1235	yue	Yue	粤	Yuè				Yue	Yue				十五	16	Zihui	Cihui		
 Heping		Hépíng	和平	27.112778	117.297222		minb1244	mnp	Min	闽	Mǐn												Norman2003		
 Zhenqian		Zhènqián	鎮前	25.2474987	119.2778522		minb1244	mnp	Min	闽	Mǐn												Norman2003		
-Jiangshan		Jiāngshān	江山	28.5629681	118.3206425	http://baike.baidu.com/view/763966.htm			Wu	吴	Wú												Norman2003		
+Jiangshan		Jiāngshān	江山	28.5629681	118.3206425	http://baike.baidu.com/view/763966.htm	wuch1236	wuu	Wu	吴	Wú												Norman2003		
