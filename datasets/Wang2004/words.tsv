@@ -1,0 +1,1100 @@
+ID	DOCULECT	DOCULECT_IN_SOURCE	CONCEPT	CONCEPTICON_ID	VALUE	COGID	COGIDS
+463	Guangzhou	G	I	1209	我	96	102
+464	Suzhou	S	I	1209	我	96	102
+465	Meixian	M	I	1209	我	96	102
+466	Nanchang	N	I	1209	我	96	102
+467	Yingshan	Y	I	1209	我	96	102
+468	Beijing	B	I	1209	我	96	102
+469	Changsha	C	I	1209	我	96	102
+470	Shuangfeng	F	I	1209	我	96	102
+471	Shuangfeng	F	I	1209	卬	97	103
+472	Shanghai	H	I	1209	我	96	102
+473	Xiamen	X	I	1209	我	96	102
+1	Guangzhou	G	all	98	鹹	1	1
+2	Suzhou	S	all	98	通	2	2
+3	Meixian	M	all	98	完	3	3
+4	Nanchang	N	all	98	都	4	4
+5	Yingshan	Y	all	98	下	5	5
+6	Beijing	B	all	98	整	6	6
+7	Changsha	C	all	98	下	5	5
+8	Shuangfeng	F	all	98	下	5	5
+9	Shanghai	H	all	98	全	7	7
+10	Xiamen	X	all	98	全	7	7
+11	Guangzhou	G	ash	646	灰	8	8
+12	Suzhou	S	ash	646	灰	8	8
+13	Meixian	M	ash	646	灰	8	8
+14	Nanchang	N	ash	646	灰	8	8
+15	Yingshan	Y	ash	646	灰	8	8
+16	Beijing	B	ash	646	灰	8	8
+17	Changsha	C	ash	646	灰	8	8
+18	Shuangfeng	F	ash	646	灰	8	8
+19	Shanghai	H	ash	646	灰	8	8
+20	Xiamen	X	ash	646	灰	8	8
+21	Guangzhou	G	bark	1204	樹皮	9	9 10
+22	Suzhou	S	bark	1204	樹皮	9	9 10
+23	Meixian	M	bark	1204	樹皮	9	9 10
+24	Nanchang	N	bark	1204	樹皮	9	9 10
+25	Yingshan	Y	bark	1204	樹皮	9	9 10
+26	Beijing	B	bark	1204	樹皮	9	9 10
+27	Changsha	C	bark	1204	樹皮	9	9 10
+28	Shuangfeng	F	bark	1204	樹皮	9	9 10
+29	Shanghai	H	bark	1204	樹皮	9	9 10
+30	Xiamen	X	bark	1204	樹皮	9	9 10
+31	Guangzhou	G	belly	1251	肚	10	11
+32	Suzhou	S	belly	1251	肚	10	11
+33	Meixian	M	belly	1251	肚	10	11
+34	Nanchang	N	belly	1251	肚	10	11
+35	Yingshan	Y	belly	1251	肚	10	11
+36	Beijing	B	belly	1251	肚	10	11
+37	Changsha	C	belly	1251	肚	10	11
+38	Shuangfeng	F	belly	1251	肚	10	11
+39	Shanghai	H	belly	1251	肚	10	11
+40	Xiamen	X	belly	1251	腹肚	11	12 11
+41	Guangzhou	G	big	1202	大	12	13
+42	Suzhou	S	big	1202	大	12	13
+43	Meixian	M	big	1202	大	12	13
+44	Nanchang	N	big	1202	大	12	13
+45	Yingshan	Y	big	1202	大	12	13
+46	Beijing	B	big	1202	大	12	13
+47	Changsha	C	big	1202	大	12	13
+48	Shuangfeng	F	big	1202	大	12	13
+49	Shanghai	H	big	1202	A	13	14
+50	Xiamen	X	big	1202	大	12	13
+51	Guangzhou	G	bird	937	雀	14	15
+52	Guangzhou	G	bird	937	鳥	15	16
+53	Suzhou	S	bird	937	鳥	15	16
+54	Meixian	M	bird	937	鳥	15	16
+55	Nanchang	N	bird	937	鳥	15	16
+56	Yingshan	Y	bird	937	雀	14	15
+57	Beijing	B	bird	937	鳥	15	16
+58	Changsha	C	bird	937	鳥	15	16
+59	Shuangfeng	F	bird	937	鳥	15	16
+60	Shanghai	H	bird	937	鳥	15	16
+61	Xiamen	X	bird	937	A	13	17
+62	Guangzhou	G	bite	1403	咬	16	18
+63	Suzhou	S	bite	1403	咬	16	18
+64	Meixian	M	bite	1403	咬	16	18
+65	Meixian	M	bite	1403	齧	17	19
+66	Nanchang	N	bite	1403	咬	16	18
+67	Yingshan	Y	bite	1403	咬	16	18
+68	Beijing	B	bite	1403	咬	16	18
+69	Changsha	C	bite	1403	咬	16	18
+70	Shuangfeng	F	bite	1403	咬	16	18
+71	Shanghai	H	bite	1403	咬	16	18
+72	Xiamen	X	bite	1403	咬	16	18
+73	Guangzhou	G	black	163	黑	18	20
+74	Suzhou	S	black	163	黑	18	20
+75	Meixian	M	black	163	烏	19	21
+76	Nanchang	N	black	163	烏	19	21
+77	Nanchang	N	black	163	青	20	22
+78	Nanchang	N	black	163	黑	18	20
+79	Yingshan	Y	black	163	黑	18	20
+80	Beijing	B	black	163	黑	18	20
+81	Changsha	C	black	163	黑	18	20
+82	Changsha	C	black	163	青	20	22
+83	Shuangfeng	F	black	163	黑	18	20
+84	Shuangfeng	F	black	163	青	20	22
+85	Shanghai	H	black	163	黑	18	20
+86	Xiamen	X	black	163	烏	19	21
+87	Guangzhou	G	blood	946	血	21	23
+88	Suzhou	S	blood	946	血	21	23
+89	Meixian	M	blood	946	血	21	23
+90	Nanchang	N	blood	946	血	21	23
+91	Yingshan	Y	blood	946	血	21	23
+92	Beijing	B	blood	946	血	21	23
+93	Changsha	C	blood	946	血	21	23
+94	Shuangfeng	F	blood	946	血	21	23
+95	Shanghai	H	blood	946	血	21	23
+96	Xiamen	X	blood	946	血	21	23
+97	Guangzhou	G	bone	1394	骨	22	24
+98	Suzhou	S	bone	1394	骨	22	24
+99	Meixian	M	bone	1394	骨	22	24
+100	Nanchang	N	bone	1394	骨	22	24
+101	Yingshan	Y	bone	1394	骨	22	24
+102	Beijing	B	bone	1394	骨	22	24
+103	Changsha	C	bone	1394	骨	22	24
+104	Shuangfeng	F	bone	1394	骨	22	24
+105	Shanghai	H	bone	1394	骨	22	24
+106	Xiamen	X	bone	1394	骨	22	24
+107	Guangzhou	G	breasts	1402	A	13	25
+108	Suzhou	S	breasts	1402	奶	23	26
+109	Meixian	M	breasts	1402	奶	23	26
+110	Nanchang	N	breasts	1402	奶	23	26
+111	Yingshan	Y	breasts	1402	媽	24	27
+112	Beijing	B	breasts	1402	咂	25	28
+113	Beijing	B	breasts	1402	媽	24	27
+114	Changsha	C	breasts	1402	奶	23	26
+115	Shuangfeng	F	breasts	1402	奶	23	26
+116	Shanghai	H	breasts	1402	奶	23	26
+117	Xiamen	X	breasts	1402	奶	23	26
+118	Guangzhou	G	burn	141	燒	26	29
+119	Suzhou	S	burn	141	燒	26	29
+120	Meixian	M	burn	141	燒	26	29
+121	Nanchang	N	burn	141	燒	26	29
+122	Yingshan	Y	burn	141	燒	26	29
+123	Beijing	B	burn	141	燒	26	29
+124	Beijing	B	burn	141	著	27	30
+125	Changsha	C	burn	141	燒	26	29
+126	Shuangfeng	F	burn	141	燒	26	29
+127	Shanghai	H	burn	141	燒	26	29
+128	Xiamen	X	burn	141	燒	26	29
+129	Xiamen	X	burn	141	熱	28	31
+130	Guangzhou	G	claw	72	爪	29	32
+131	Suzhou	S	claw	72	腳爪	30	33 32
+132	Meixian	M	claw	72	腳爪	30	33 32
+133	Nanchang	N	claw	72	爪	29	32
+134	Nanchang	N	claw	72	腳爪	30	33 32
+135	Yingshan	Y	claw	72	爪	29	32
+136	Beijing	B	claw	72	爪	29	32
+137	Changsha	C	claw	72	爪	29	32
+138	Shuangfeng	F	claw	72	爪	29	32
+139	Shanghai	H	claw	72	腳爪	30	33 32
+140	Xiamen	X	claw	72	爪	29	32
+141	Guangzhou	G	cloud	1489	雲	31	34
+142	Suzhou	S	cloud	1489	雲	31	34
+143	Meixian	M	cloud	1489	雲	31	34
+144	Nanchang	N	cloud	1489	雲	31	34
+145	Yingshan	Y	cloud	1489	雲	31	34
+146	Beijing	B	cloud	1489	雲	31	34
+147	Changsha	C	cloud	1489	雲	31	34
+148	Shuangfeng	F	cloud	1489	雲	31	34
+149	Shanghai	H	cloud	1489	雲	31	34
+150	Xiamen	X	cloud	1489	雲	31	34
+151	Guangzhou	G	cold	1287	凍	32	35
+152	Guangzhou	G	cold	1287	冷	33	36
+153	Suzhou	S	cold	1287	冷	33	36
+154	Meixian	M	cold	1287	冷	33	36
+155	Nanchang	N	cold	1287	冷	33	36
+156	Yingshan	Y	cold	1287	冷	33	36
+157	Beijing	B	cold	1287	冷	33	36
+158	Changsha	C	cold	1287	冷	33	36
+159	Changsha	C	cold	1287	清	34	37
+160	Shuangfeng	F	cold	1287	冷	33	36
+161	Shuangfeng	F	cold	1287	清	34	37
+162	Shanghai	H	cold	1287	冷	33	36
+163	Xiamen	X	cold	1287	冷	33	36
+164	Xiamen	X	cold	1287	寒	35	38
+165	Guangzhou	G	come	1446	來	36	39
+166	Guangzhou	G	come	1446	嚟	37	40
+167	Suzhou	S	come	1446	來	36	39
+168	Meixian	M	come	1446	來	36	39
+169	Nanchang	N	come	1446	來	36	39
+170	Yingshan	Y	come	1446	來	36	39
+171	Beijing	B	come	1446	來	36	39
+172	Changsha	C	come	1446	來	36	39
+173	Shuangfeng	F	come	1446	來	36	39
+174	Shanghai	H	come	1446	來	36	39
+175	Xiamen	X	come	1446	來	36	39
+176	Guangzhou	G	die	1494	死	38	41
+177	Suzhou	S	die	1494	死	38	41
+178	Meixian	M	die	1494	死	38	41
+179	Nanchang	N	die	1494	死	38	41
+180	Yingshan	Y	die	1494	死	38	41
+181	Beijing	B	die	1494	死	38	41
+182	Changsha	C	die	1494	死	38	41
+183	Shuangfeng	F	die	1494	死	38	41
+184	Shanghai	H	die	1494	死	38	41
+185	Xiamen	X	die	1494	死	38	41
+186	Guangzhou	G	dog	2009	狗	39	42
+187	Suzhou	S	dog	2009	狗	39	42
+188	Meixian	M	dog	2009	狗	39	42
+189	Nanchang	N	dog	2009	狗	39	42
+190	Yingshan	Y	dog	2009	狗	39	42
+191	Beijing	B	dog	2009	狗	39	42
+192	Changsha	C	dog	2009	狗	39	42
+193	Shuangfeng	F	dog	2009	狗	39	42
+194	Shanghai	H	dog	2009	狗	39	42
+195	Xiamen	X	dog	2009	狗	39	42
+196	Guangzhou	G	drink	1401	飲	40	43
+197	Suzhou	S	drink	1401	吃	41	44
+198	Meixian	M	drink	1401	食	42	45
+199	Nanchang	N	drink	1401	吃	41	44
+200	Yingshan	Y	drink	1401	喝	43	46
+201	Beijing	B	drink	1401	喝	43	46
+202	Changsha	C	drink	1401	吃	41	44
+203	Shuangfeng	F	drink	1401	吃	41	44
+204	Shuangfeng	F	drink	1401	呵	44	47
+205	Shanghai	H	drink	1401	吃	41	44
+206	Xiamen	X	drink	1401	啉	45	48
+207	Xiamen	X	drink	1401	啜	46	49
+208	Guangzhou	G	dry	1398	幹	47	50
+209	Suzhou	S	dry	1398	幹	47	50
+210	Suzhou	S	dry	1398	燥	48	51
+211	Meixian	M	dry	1398	A	13	52
+212	Nanchang	N	dry	1398	幹	47	50
+213	Yingshan	Y	dry	1398	幹	47	50
+214	Beijing	B	dry	1398	幹	47	50
+215	Changsha	C	dry	1398	幹	47	50
+216	Shuangfeng	F	dry	1398	幹	47	50
+217	Shuangfeng	F	dry	1398	A	13	52
+218	Shanghai	H	dry	1398	幹	47	50
+219	Xiamen	X	dry	1398	焦	49	53
+220	Guangzhou	G	ear	1247	耳	50	54
+221	Suzhou	S	ear	1247	耳	50	54
+222	Meixian	M	ear	1247	耳	50	54
+223	Nanchang	N	ear	1247	耳	50	54
+224	Yingshan	Y	ear	1247	耳	50	54
+225	Beijing	B	ear	1247	耳	50	54
+226	Changsha	C	ear	1247	耳	50	54
+227	Shuangfeng	F	ear	1247	耳	50	54
+228	Shanghai	H	ear	1247	耳	50	54
+229	Xiamen	X	ear	1247	耳	50	54
+230	Guangzhou	G	earth	1228	地	51	55
+231	Suzhou	S	earth	1228	地	51	55
+232	Meixian	M	earth	1228	地	51	55
+233	Nanchang	N	earth	1228	地	51	55
+234	Yingshan	Y	earth	1228	地	51	55
+235	Beijing	B	earth	1228	地	51	55
+236	Changsha	C	earth	1228	地	51	55
+237	Shuangfeng	F	earth	1228	地	51	55
+238	Shanghai	H	earth	1228	地	51	55
+239	Xiamen	X	earth	1228	地	51	55
+240	Guangzhou	G	eat	1336	吃	41	44
+241	Suzhou	S	eat	1336	吃	41	44
+242	Meixian	M	eat	1336	食	42	45
+243	Nanchang	N	eat	1336	吃	41	44
+244	Yingshan	Y	eat	1336	吃	41	44
+245	Beijing	B	eat	1336	吃	41	44
+246	Changsha	C	eat	1336	吃	41	44
+247	Shuangfeng	F	eat	1336	吃	41	44
+248	Shanghai	H	eat	1336	吃	41	44
+249	Xiamen	X	eat	1336	食	42	45
+250	Guangzhou	G	egg	744	春	52	56
+251	Suzhou	S	egg	744	蛋	53	57
+252	Meixian	M	egg	744	卵	54	58
+253	Nanchang	N	egg	744	蛋	53	57
+254	Yingshan	Y	egg	744	蛋	53	57
+255	Beijing	B	egg	744	雞子	55	59 60
+256	Beijing	B	egg	744	蛋	53	57
+257	Changsha	C	egg	744	蛋	53	57
+258	Shuangfeng	F	egg	744	蛋	53	57
+259	Shanghai	H	egg	744	蛋	53	57
+260	Xiamen	X	egg	744	卵	54	58
+261	Guangzhou	G	eye	1248	眼	56	61
+262	Suzhou	S	eye	1248	眼	56	61
+263	Meixian	M	eye	1248	目	57	62
+264	Nanchang	N	eye	1248	眼	56	61
+265	Yingshan	Y	eye	1248	眼	56	61
+266	Beijing	B	eye	1248	眼	56	61
+267	Changsha	C	eye	1248	眼	56	61
+268	Shuangfeng	F	eye	1248	眼	56	61
+269	Shanghai	H	eye	1248	眼	56	61
+270	Xiamen	X	eye	1248	目瞅	58	62 63
+271	Guangzhou	G	feather	1201	毛羽毛	59	64 65 64
+272	Suzhou	S	feather	1201	毛	60	64
+273	Meixian	M	feather	1201	毛	60	64
+274	Nanchang	N	feather	1201	毛	60	64
+275	Yingshan	Y	feather	1201	毛	60	64
+276	Beijing	B	feather	1201	毛	60	64
+277	Changsha	C	feather	1201	毛	60	64
+278	Shuangfeng	F	feather	1201	毛	60	64
+279	Shanghai	H	feather	1201	毛	60	64
+280	Xiamen	X	feather	1201	目瞅	58	62 63
+281	Guangzhou	G	fire	221	火	61	66
+282	Suzhou	S	fire	221	火	61	66
+283	Meixian	M	fire	221	火	61	66
+284	Nanchang	N	fire	221	火	61	66
+285	Yingshan	Y	fire	221	火	61	66
+286	Beijing	B	fire	221	火	61	66
+287	Changsha	C	fire	221	火	61	66
+288	Shuangfeng	F	fire	221	火	61	66
+289	Shanghai	H	fire	221	火	61	66
+290	Xiamen	X	fire	221	火	61	66
+291	Guangzhou	G	fish	227	魚	62	67
+292	Suzhou	S	fish	227	魚	62	67
+293	Meixian	M	fish	227	魚	62	67
+294	Nanchang	N	fish	227	魚	62	67
+295	Yingshan	Y	fish	227	魚	62	67
+296	Beijing	B	fish	227	魚	62	67
+297	Changsha	C	fish	227	魚	62	67
+298	Shuangfeng	F	fish	227	魚	62	67
+299	Shanghai	H	fish	227	魚	62	67
+300	Xiamen	X	fish	227	魚	62	67
+301	Guangzhou	G	flesh	2615	肉	63	68
+302	Suzhou	S	flesh	2615	肉	63	68
+303	Meixian	M	flesh	2615	肉	63	68
+304	Nanchang	N	flesh	2615	肉	63	68
+305	Yingshan	Y	flesh	2615	肉	63	68
+306	Beijing	B	flesh	2615	肉	63	68
+307	Changsha	C	flesh	2615	肉	63	68
+308	Shuangfeng	F	flesh	2615	肉	63	68
+309	Shanghai	H	flesh	2615	肉	63	68
+310	Xiamen	X	flesh	2615	A	13	69
+311	Guangzhou	G	fly	1441	飛	64	70
+312	Suzhou	S	fly	1441	飛	64	70
+313	Meixian	M	fly	1441	飛	64	70
+314	Nanchang	N	fly	1441	飛	64	70
+315	Yingshan	Y	fly	1441	飛	64	70
+316	Beijing	B	fly	1441	飛	64	70
+317	Changsha	C	fly	1441	飛	64	70
+318	Shuangfeng	F	fly	1441	飛	64	70
+319	Shanghai	H	fly	1441	飛	64	70
+320	Xiamen	X	fly	1441	飛	64	70
+321	Guangzhou	G	foot	1301	腳	65	33
+322	Suzhou	S	foot	1301	腳	65	33
+323	Meixian	M	foot	1301	腳	65	33
+324	Nanchang	N	foot	1301	腳	65	33
+325	Yingshan	Y	foot	1301	腳	65	33
+326	Beijing	B	foot	1301	腳	65	33
+327	Changsha	C	foot	1301	腳	65	33
+328	Shuangfeng	F	foot	1301	腳	65	33
+329	Shanghai	H	foot	1301	腳	65	33
+330	Xiamen	X	foot	1301	骹	66	71
+331	Guangzhou	G	full	1429	滿	67	72
+332	Suzhou	S	full	1429	滿	67	72
+333	Meixian	M	full	1429	滿	67	72
+334	Nanchang	N	full	1429	滿	67	72
+335	Yingshan	Y	full	1429	滿	67	72
+336	Beijing	B	full	1429	滿	67	72
+337	Changsha	C	full	1429	滿	67	72
+338	Shuangfeng	F	full	1429	滿	67	72
+339	Shanghai	H	full	1429	滿	67	72
+340	Xiamen	X	full	1429	A	13	73
+341	Guangzhou	G	give	1447	畀	68	74
+342	Suzhou	S	give	1447	撥	69	75
+343	Meixian	M	give	1447	分	70	76
+344	Nanchang	N	give	1447	把	71	77
+345	Nanchang	N	give	1447	給	72	78
+346	Yingshan	Y	give	1447	把	71	77
+347	Beijing	B	give	1447	給	72	78
+348	Changsha	C	give	1447	把	71	77
+349	Shuangfeng	F	give	1447	B	73	79
+350	Shanghai	H	give	1447	撥	69	75
+351	Xiamen	X	give	1447	A	13	80
+352	Guangzhou	G	good	1035	好	74	81
+353	Guangzhou	G	good	1035	A	13	82
+354	Suzhou	S	good	1035	好	74	81
+355	Suzhou	S	good	1035	美	75	83
+356	Suzhou	S	good	1035	贊	76	84
+357	Meixian	M	good	1035	好	74	81
+358	Meixian	M	good	1035	A	13	82
+359	Nanchang	N	good	1035	好	74	81
+360	Yingshan	Y	good	1035	好	74	81
+361	Beijing	B	good	1035	好	74	81
+362	Beijing	B	good	1035	強	77	85
+363	Changsha	C	good	1035	好	74	81
+364	Shuangfeng	F	good	1035	好	74	81
+365	Shanghai	H	good	1035	好	74	81
+366	Shanghai	H	good	1035	靈光	78	86 87
+367	Xiamen	X	good	1035	好	74	81
+368	Guangzhou	G	grease	323	油	79	88
+369	Guangzhou	G	grease	323	膏	80	89
+370	Suzhou	S	grease	323	油	79	88
+371	Meixian	M	grease	323	油	79	88
+372	Nanchang	N	grease	323	油	79	88
+373	Yingshan	Y	grease	323	油	79	88
+374	Yingshan	Y	grease	323	膘	81	90
+375	Beijing	B	grease	323	大油	82	13 88
+376	Beijing	B	grease	323	葷油	83	91 88
+377	Changsha	C	grease	323	油	79	88
+378	Shuangfeng	F	grease	323	油	79	88
+379	Shanghai	H	grease	323	油	79	88
+380	Xiamen	X	grease	323	油	79	88
+381	Guangzhou	G	green	1425	綠	84	92
+382	Suzhou	S	green	1425	綠	84	92
+383	Meixian	M	green	1425	青	20	22
+384	Nanchang	N	green	1425	綠	84	92
+385	Yingshan	Y	green	1425	綠	84	92
+386	Beijing	B	green	1425	綠	84	92
+387	Changsha	C	green	1425	綠	84	92
+388	Shuangfeng	F	green	1425	綠	84	92
+389	Shanghai	H	green	1425	綠	84	92
+390	Xiamen	X	green	1425	青	20	22
+391	Guangzhou	G	hair	1040	頭髮	85	93 94
+392	Suzhou	S	hair	1040	頭髮	85	93 94
+393	Meixian	M	hair	1040	頭顱毛	86	93 95 64
+394	Nanchang	N	hair	1040	頭髮	85	93 94
+395	Yingshan	Y	hair	1040	頭髮	85	93 94
+396	Beijing	B	hair	1040	頭髮	85	93 94
+397	Changsha	C	hair	1040	頭髮	85	93 94
+398	Shuangfeng	F	hair	1040	頭髮	85	93 94
+399	Shanghai	H	hair	1040	頭髮	85	93 94
+400	Xiamen	X	hair	1040	頭毛	87	93 64
+401	Guangzhou	G	hand	1277	手	88	96
+402	Suzhou	S	hand	1277	手	88	96
+403	Meixian	M	hand	1277	手	88	96
+404	Nanchang	N	hand	1277	手	88	96
+405	Yingshan	Y	hand	1277	手	88	96
+406	Beijing	B	hand	1277	手	88	96
+407	Changsha	C	hand	1277	手	88	96
+408	Shuangfeng	F	hand	1277	手	88	96
+409	Shanghai	H	hand	1277	手	88	96
+410	Xiamen	X	hand	1277	手	88	96
+411	Guangzhou	G	head	1256	頭	89	93
+412	Suzhou	S	head	1256	頭	89	93
+413	Meixian	M	head	1256	頭顱	90	93 95
+414	Nanchang	N	head	1256	頭	89	93
+415	Yingshan	Y	head	1256	腦	91	97
+416	Beijing	B	head	1256	腦	91	97
+417	Changsha	C	head	1256	腦	91	97
+418	Shuangfeng	F	head	1256	腦	91	97
+419	Shanghai	H	head	1256	頭	89	93
+420	Xiamen	X	head	1256	頭	89	93
+421	Guangzhou	G	hear	1408	聽	92	98
+422	Suzhou	S	hear	1408	聽	92	98
+423	Meixian	M	hear	1408	聽	92	98
+424	Nanchang	N	hear	1408	聽	92	98
+425	Yingshan	Y	hear	1408	聽	92	98
+426	Beijing	B	hear	1408	聽	92	98
+427	Changsha	C	hear	1408	聽	92	98
+428	Shuangfeng	F	hear	1408	聽	92	98
+429	Shanghai	H	hear	1408	聽	92	98
+430	Xiamen	X	hear	1408	聽	92	98
+431	Guangzhou	G	heart	1223	心	93	99
+432	Suzhou	S	heart	1223	心	93	99
+433	Meixian	M	heart	1223	心	93	99
+434	Nanchang	N	heart	1223	心	93	99
+435	Yingshan	Y	heart	1223	心	93	99
+436	Beijing	B	heart	1223	心	93	99
+437	Changsha	C	heart	1223	心	93	99
+438	Shuangfeng	F	heart	1223	心	93	99
+439	Shanghai	H	heart	1223	心	93	99
+440	Xiamen	X	heart	1223	心	93	99
+441	Guangzhou	G	horn	1393	角	94	100
+442	Suzhou	S	horn	1393	角	94	100
+443	Meixian	M	horn	1393	角	94	100
+444	Nanchang	N	horn	1393	角	94	100
+445	Yingshan	Y	horn	1393	角	94	100
+446	Beijing	B	horn	1393	角	94	100
+447	Changsha	C	horn	1393	角	94	100
+448	Shuangfeng	F	horn	1393	角	94	100
+449	Shanghai	H	horn	1393	角	94	100
+450	Xiamen	X	horn	1393	角	94	100
+451	Guangzhou	G	hot	1286	熱	28	31
+452	Guangzhou	G	hot	1286	慶	95	101
+453	Suzhou	S	hot	1286	熱	28	31
+454	Meixian	M	hot	1286	燒	26	29
+455	Nanchang	N	hot	1286	熱	28	31
+456	Yingshan	Y	hot	1286	熱	28	31
+457	Beijing	B	hot	1286	熱	28	31
+458	Changsha	C	hot	1286	熱	28	31
+459	Shuangfeng	F	hot	1286	熱	28	31
+460	Shanghai	H	hot	1286	熱	28	31
+461	Xiamen	X	hot	1286	熱	28	31
+462	Xiamen	X	hot	1286	燒	26	29
+474	Guangzhou	G	kill	1417	殺	98	104
+475	Suzhou	S	kill	1417	殺	98	104
+476	Meixian	M	kill	1417	殺	98	104
+477	Nanchang	N	kill	1417	殺	98	104
+478	Yingshan	Y	kill	1417	殺	98	104
+479	Beijing	B	kill	1417	殺	98	104
+480	Changsha	C	kill	1417	殺	98	104
+481	Shuangfeng	F	kill	1417	殺	98	104
+482	Shanghai	H	kill	1417	殺	98	104
+483	Xiamen	X	kill	1417	殺	98	104
+484	Guangzhou	G	knee	1371	膝	99	105
+485	Suzhou	S	knee	1371	膝饅頭	100	105 106 93
+486	Suzhou	S	knee	1371	腳饅頭	101	33 106 93
+487	Meixian	M	knee	1371	膝	99	105
+488	Nanchang	N	knee	1371	舌頭蓋	102	107 93 108
+489	Yingshan	Y	knee	1371	膝	99	105
+490	Beijing	B	knee	1371	膊楞蓋兒	103	109 110 108 111
+491	Changsha	C	knee	1371	膝	99	105
+492	Shuangfeng	F	knee	1371	膝	99	105
+493	Shanghai	H	knee	1371	腳饅頭	101	33 106 93
+494	Xiamen	X	knee	1371	骹頭A	104	71 93 112
+495	Guangzhou	G	know	1410	知	105	113
+496	Suzhou	S	know	1410	曉	106	114
+497	Meixian	M	know	1410	知	105	113
+498	Nanchang	N	know	1410	曉	106	114
+499	Yingshan	Y	know	1410	曉	106	114
+500	Beijing	B	know	1410	知	105	113
+501	Changsha	C	know	1410	曉	106	114
+502	Shuangfeng	F	know	1410	曉	106	114
+503	Shanghai	H	know	1410	曉	106	114
+504	Xiamen	X	know	1410	知	105	113
+505	Guangzhou	G	leaf	628	葉	107	115
+506	Suzhou	S	leaf	628	葉	107	115
+507	Meixian	M	leaf	628	葉	107	115
+508	Nanchang	N	leaf	628	葉	107	115
+509	Yingshan	Y	leaf	628	葉	107	115
+510	Beijing	B	leaf	628	葉	107	115
+511	Changsha	C	leaf	628	葉	107	115
+512	Shuangfeng	F	leaf	628	葉	107	115
+513	Shanghai	H	leaf	628	葉	107	115
+514	Xiamen	X	leaf	628	箬	108	116
+515	Guangzhou	G	lie	1411	睏	109	117
+516	Suzhou	S	lie	1411	睏	109	117
+517	Suzhou	S	lie	1411	A	13	118
+518	Meixian	M	lie	1411	眠	110	119
+519	Nanchang	N	lie	1411	睏	109	117
+520	Yingshan	Y	lie	1411	睡	111	120
+521	Beijing	B	lie	1411	躺	112	121
+522	Changsha	C	lie	1411	困	113	122
+523	Shuangfeng	F	lie	1411	睏	109	117
+524	Shanghai	H	lie	1411	睏	109	117
+525	Xiamen	X	lie	1411	倒	114	123
+526	Guangzhou	G	liver	1224	肝	115	124
+527	Suzhou	S	liver	1224	肝	115	124
+528	Meixian	M	liver	1224	肝	115	124
+529	Nanchang	N	liver	1224	肝	115	124
+530	Yingshan	Y	liver	1224	肝	115	124
+531	Beijing	B	liver	1224	肝	115	124
+532	Changsha	C	liver	1224	肝	115	124
+533	Shuangfeng	F	liver	1224	肝	115	124
+534	Shanghai	H	liver	1224	肝	115	124
+535	Xiamen	X	liver	1224	肝	115	124
+536	Guangzhou	G	long	1203	長	116	125
+537	Suzhou	S	long	1203	長	116	125
+538	Meixian	M	long	1203	長	116	125
+539	Nanchang	N	long	1203	長	116	125
+540	Yingshan	Y	long	1203	長	116	125
+541	Beijing	B	long	1203	長	116	125
+542	Changsha	C	long	1203	長	116	125
+543	Shuangfeng	F	long	1203	長	116	125
+544	Shanghai	H	long	1203	長	116	125
+545	Xiamen	X	long	1203	長	116	125
+546	Guangzhou	G	louse	1392	虱	117	126
+547	Suzhou	S	louse	1392	虱	117	126
+548	Meixian	M	louse	1392	虱	117	126
+549	Nanchang	N	louse	1392	虱	117	126
+550	Yingshan	Y	louse	1392	虱	117	126
+551	Beijing	B	louse	1392	虱	117	126
+552	Changsha	C	louse	1392	虱	117	126
+553	Shuangfeng	F	louse	1392	虱	117	126
+554	Shanghai	H	louse	1392	虱	117	126
+555	Xiamen	X	louse	1392	虱	117	126
+556	Guangzhou	G	man	1554	男人	118	127 128
+557	Guangzhou	G	man	1554	佬	119	129
+558	Suzhou	S	man	1554	男	120	127
+559	Suzhou	S	man	1554	男子客	121	127 60 130
+560	Meixian	M	man	1554	男子人	122	127 60 128
+561	Nanchang	N	man	1554	男個	123	127 131
+562	Yingshan	Y	man	1554	男的	124	127 132
+563	Yingshan	Y	man	1554	男將	125	127 133
+564	Beijing	B	man	1554	男的	124	127 132
+565	Beijing	B	man	1554	爺們	126	134 135
+566	Changsha	C	man	1554	男的	124	127 132
+567	Changsha	C	man	1554	男人家男人家	127	127 128 136 127 128 136
+568	Shuangfeng	F	man	1554	男人	118	127 128
+569	Shanghai	H	man	1554	A夫	128	137 138
+570	Shanghai	H	man	1554	A夫儂	129	137 138 139
+571	Xiamen	X	man	1554		130	
+572	Guangzhou	G	many	1198	多	131	140
+573	Suzhou	S	many	1198	多	131	140
+574	Suzhou	S	many	1198	交關	132	141 142
+575	Meixian	M	many	1198	多	131	140
+576	Nanchang	N	many	1198	多	131	140
+577	Yingshan	Y	many	1198	多	131	140
+578	Beijing	B	many	1198	多	131	140
+579	Changsha	C	many	1198	多	131	140
+580	Shuangfeng	F	many	1198	多	131	140
+581	Shanghai	H	many	1198	多	131	140
+582	Xiamen	X	many	1198	A	13	143
+583	Guangzhou	G	moon	1313	月	133	144
+584	Suzhou	S	moon	1313	月	133	144
+585	Meixian	M	moon	1313	月	133	144
+586	Nanchang	N	moon	1313	月	133	144
+587	Yingshan	Y	moon	1313	月	133	144
+588	Beijing	B	moon	1313	月	133	144
+589	Changsha	C	moon	1313	月	133	144
+590	Shuangfeng	F	moon	1313	月	133	144
+591	Shanghai	H	moon	1313	月	133	144
+592	Xiamen	X	moon	1313	月	133	144
+593	Guangzhou	G	mountain	639	山	134	145
+594	Suzhou	S	mountain	639	山	134	145
+595	Meixian	M	mountain	639	山	134	145
+596	Nanchang	N	mountain	639	山	134	145
+597	Yingshan	Y	mountain	639	山	134	145
+598	Beijing	B	mountain	639	山	134	145
+599	Changsha	C	mountain	639	山	134	145
+600	Shuangfeng	F	mountain	639	山	134	145
+601	Shanghai	H	mountain	639	山	134	145
+602	Xiamen	X	mountain	639	山	134	145
+603	Guangzhou	G	mouth	674	嘴	135	146
+604	Guangzhou	G	mouth	674	口	136	147
+605	Suzhou	S	mouth	674	嘴	135	146
+606	Meixian	M	mouth	674	啜	46	49
+607	Nanchang	N	mouth	674	嘴	135	146
+608	Yingshan	Y	mouth	674	嘰	137	148
+609	Beijing	B	mouth	674	嘴	135	146
+610	Changsha	C	mouth	674	嘴	135	146
+611	Shuangfeng	F	mouth	674	嘴	135	146
+612	Shanghai	H	mouth	674	嘴	135	146
+613	Xiamen	X	mouth	674	喙	138	149
+614	Guangzhou	G	name	1405	名	139	150
+615	Suzhou	S	name	1405	名	139	150
+616	Meixian	M	name	1405	名	139	150
+617	Nanchang	N	name	1405	名	139	150
+618	Yingshan	Y	name	1405	名	139	150
+619	Beijing	B	name	1405	名	139	150
+620	Changsha	C	name	1405	名	139	150
+621	Shuangfeng	F	name	1405	名	139	150
+622	Shanghai	H	name	1405	名	139	150
+623	Xiamen	X	name	1405	名	139	150
+624	Guangzhou	G	neck	1333	頸	140	151
+625	Suzhou	S	neck	1333	頸	140	151
+626	Suzhou	S	neck	1333	頭根	141	93 152
+627	Meixian	M	neck	1333	頸	140	151
+628	Nanchang	N	neck	1333	頸	140	151
+629	Yingshan	Y	neck	1333	頸	140	151
+630	Beijing	B	neck	1333	脖	142	153
+631	Changsha	C	neck	1333	頸	140	151
+632	Shuangfeng	F	neck	1333	頸	140	151
+633	Shanghai	H	neck	1333	頸	140	151
+634	Xiamen	X	neck	1333	頷管	143	154 155
+635	Guangzhou	G	new	1231	新	144	156
+636	Suzhou	S	new	1231	新	144	156
+637	Meixian	M	new	1231	新	144	156
+638	Nanchang	N	new	1231	新	144	156
+639	Yingshan	Y	new	1231	新	144	156
+640	Beijing	B	new	1231	新	144	156
+641	Changsha	C	new	1231	新	144	156
+642	Shuangfeng	F	new	1231	新	144	156
+643	Shanghai	H	new	1231	新	144	156
+644	Xiamen	X	new	1231	新	144	156
+645	Guangzhou	G	night	1233	夜晚	145	157 158
+646	Guangzhou	G	night	1233	晚黑	146	158 20
+647	Suzhou	S	night	1233	夜	147	157
+648	Meixian	M	night	1233	夜	147	157
+649	Nanchang	N	night	1233	夜	147	157
+650	Yingshan	Y	night	1233	黒	148	159
+651	Beijing	B	night	1233	夜	147	157
+652	Beijing	B	night	1233	黑	18	20
+653	Changsha	C	night	1233	夜	147	157
+654	Shuangfeng	F	night	1233	夜	147	157
+655	Shanghai	H	night	1233	夜	147	157
+656	Xiamen	X	night	1233	下昏時	149	5 160 161
+657	Xiamen	X	night	1233	冥時	150	162 161
+658	Xiamen	X	night	1233	暗時	151	163 161
+659	Guangzhou	G	nose	1221	鼻	152	164
+660	Suzhou	S	nose	1221	鼻	152	164
+661	Meixian	M	nose	1221	鼻	152	164
+662	Nanchang	N	nose	1221	鼻	152	164
+663	Yingshan	Y	nose	1221	鼻	152	164
+664	Beijing	B	nose	1221	鼻	152	164
+665	Changsha	C	nose	1221	鼻	152	164
+666	Shuangfeng	F	nose	1221	鼻	152	164
+667	Shanghai	H	nose	1221	鼻	152	164
+668	Xiamen	X	nose	1221	鼻	152	164
+669	Guangzhou	G	not	1240	唔	153	165
+670	Guangzhou	G	not	1240	冇	154	166
+671	Suzhou	S	not	1240	勿	155	167
+672	Meixian	M	not	1240	唔	153	165
+673	Nanchang	N	not	1240	不	156	168
+674	Yingshan	Y	not	1240	不	156	168
+675	Beijing	B	not	1240	不	156	168
+676	Changsha	C	not	1240	不	156	168
+677	Shuangfeng	F	not	1240	不	156	168
+678	Shanghai	H	not	1240	勿	155	167
+679	Xiamen	X	not	1240	勿會	157	167 169
+680	Xiamen	X	not	1240	無	158	170
+681	Guangzhou	G	one	1493	一	159	171
+682	Suzhou	S	one	1493	一	159	171
+683	Meixian	M	one	1493	一	159	171
+684	Nanchang	N	one	1493	一	159	171
+685	Yingshan	Y	one	1493	一	159	171
+686	Beijing	B	one	1493	一	159	171
+687	Changsha	C	one	1493	一	159	171
+688	Shuangfeng	F	one	1493	一	159	171
+689	Shanghai	H	one	1493	一	159	171
+690	Xiamen	X	one	1493	一	159	171
+691	Guangzhou	G	path	2252	路	160	172
+692	Suzhou	S	path	2252	路	160	172
+693	Meixian	M	path	2252	路	160	172
+694	Nanchang	N	path	2252	路	160	172
+695	Yingshan	Y	path	2252	路	160	172
+696	Beijing	B	path	2252	道	161	173
+697	Beijing	B	path	2252	路	160	172
+698	Changsha	C	path	2252	路	160	172
+699	Shuangfeng	F	path	2252	路	160	172
+700	Shanghai	H	path	2252	路	160	172
+701	Xiamen	X	path	2252	路	160	172
+702	Guangzhou	G	person	683	人	162	128
+703	Suzhou	S	person	683	人	162	128
+704	Meixian	M	person	683	人	162	128
+705	Nanchang	N	person	683	人	162	128
+706	Yingshan	Y	person	683	人	162	128
+707	Beijing	B	person	683	人	162	128
+708	Changsha	C	person	683	人	162	128
+709	Shuangfeng	F	person	683	人	162	128
+710	Shanghai	H	person	683	人	162	128
+711	Xiamen	X	person	683	人	162	128
+712	Guangzhou	G	rain	658	雨	163	174
+713	Suzhou	S	rain	658	雨	163	174
+714	Meixian	M	rain	658	雨	163	174
+715	Nanchang	N	rain	658	雨	163	174
+716	Yingshan	Y	rain	658	雨	163	174
+717	Beijing	B	rain	658	雨	163	174
+718	Changsha	C	rain	658	雨	163	174
+719	Shuangfeng	F	rain	658	雨	163	174
+720	Shanghai	H	rain	658	雨	163	174
+721	Xiamen	X	rain	658	雨	163	174
+722	Guangzhou	G	red	156	紅	164	175
+723	Suzhou	S	red	156	紅	164	175
+724	Meixian	M	red	156	紅	164	175
+725	Meixian	M	red	156	赤	165	176
+726	Nanchang	N	red	156	紅	164	175
+727	Yingshan	Y	red	156	紅	164	175
+728	Beijing	B	red	156	紅	164	175
+729	Changsha	C	red	156	紅	164	175
+730	Shuangfeng	F	red	156	紅	164	175
+731	Shanghai	H	red	156	紅	164	175
+732	Xiamen	X	red	156	紅	164	175
+733	Guangzhou	G	root	670	根	166	152
+734	Guangzhou	G	root	670	蔃	167	177
+735	Suzhou	S	root	670	根	166	152
+736	Meixian	M	root	670	根	166	152
+737	Nanchang	N	root	670	根	166	152
+738	Yingshan	Y	root	670	根	166	152
+739	Beijing	B	root	670	根	166	152
+740	Changsha	C	root	670	根	166	152
+741	Changsha	C	root	670	篼	168	178
+742	Shuangfeng	F	root	670	根	166	152
+743	Shuangfeng	F	root	670	蔸	169	179
+744	Shanghai	H	root	670	根	166	152
+745	Xiamen	X	root	670	根	166	152
+746	Guangzhou	G	round	1395	圓	170	180
+747	Suzhou	S	round	1395	圓	170	180
+748	Meixian	M	round	1395	圓	170	180
+749	Nanchang	N	round	1395	圓	170	180
+750	Yingshan	Y	round	1395	團	171	181
+751	Beijing	B	round	1395	圓	170	180
+752	Changsha	C	round	1395	圓	170	180
+753	Shuangfeng	F	round	1395	欒	172	182
+754	Shanghai	H	round	1395	圓	170	180
+755	Xiamen	X	round	1395	圓	170	180
+756	Guangzhou	G	sand	671	沙	173	183
+757	Suzhou	S	sand	671	沙	173	183
+758	Meixian	M	sand	671	沙	173	183
+759	Nanchang	N	sand	671	沙	173	183
+760	Yingshan	Y	sand	671	沙	173	183
+761	Beijing	B	sand	671	沙	173	183
+762	Changsha	C	sand	671	沙	173	183
+763	Shuangfeng	F	sand	671	沙	173	183
+764	Shanghai	H	sand	671	沙	173	183
+765	Xiamen	X	sand	671	沙	173	183
+766	Guangzhou	G	say	1458	講	174	184
+767	Guangzhou	G	say	1458	話	175	185
+768	Suzhou	S	say	1458	說	176	186
+769	Suzhou	S	say	1458	講	174	184
+770	Meixian	M	say	1458	講	174	184
+771	Meixian	M	say	1458	話	175	185
+772	Nanchang	N	say	1458	話	175	185
+773	Yingshan	Y	say	1458	說	176	186
+774	Beijing	B	say	1458	說	176	186
+775	Changsha	C	say	1458	講	174	184
+776	Shuangfeng	F	say	1458	話	175	185
+777	Shuangfeng	F	say	1458	講	174	184
+778	Shanghai	H	say	1458	講	174	184
+779	Xiamen	X	say	1458	講	174	184
+780	Guangzhou	G	see	1409	睇	177	187
+781	Suzhou	S	see	1409	看	178	188
+782	Suzhou	S	see	1409	望	179	189
+783	Meixian	M	see	1409	看	178	188
+784	Nanchang	N	see	1409	看	178	188
+785	Nanchang	N	see	1409	望	179	189
+786	Nanchang	N	see	1409	妻*	180	190 191
+787	Yingshan	Y	see	1409	看	178	188
+788	Beijing	B	see	1409	看	178	188
+789	Beijing	B	see	1409	瞧	181	192
+790	Beijing	B	see	1409	瞅	182	63
+791	Beijing	B	see	1409	A	13	193
+792	Changsha	C	see	1409	看	178	188
+793	Shuangfeng	F	see	1409	看	178	188
+794	Shuangfeng	F	see	1409	相	183	194
+795	Shanghai	H	see	1409	看	178	188
+796	Xiamen	X	see	1409	看	178	188
+797	Guangzhou	G	seed	714	種	184	195
+798	Suzhou	S	seed	714	種	184	195
+799	Meixian	M	seed	714	種	184	195
+800	Nanchang	N	seed	714	籽	185	196
+801	Yingshan	Y	seed	714	種	184	195
+802	Beijing	B	seed	714	種	184	195
+803	Changsha	C	seed	714	種	184	195
+804	Shuangfeng	F	seed	714	種	184	195
+805	Shanghai	H	seed	714	種	184	195
+806	Xiamen	X	seed	714	種	184	195
+807	Xiamen	X	seed	714	籽	185	196
+808	Guangzhou	G	sit	1416	坐	186	197
+809	Suzhou	S	sit	1416	坐	186	197
+810	Meixian	M	sit	1416	坐	186	197
+811	Nanchang	N	sit	1416	坐	186	197
+812	Yingshan	Y	sit	1416	坐	186	197
+813	Beijing	B	sit	1416	坐	186	197
+814	Changsha	C	sit	1416	坐	186	197
+815	Shuangfeng	F	sit	1416	坐	186	197
+816	Shanghai	H	sit	1416	坐	186	197
+817	Xiamen	X	sit	1416	坐	186	197
+818	Guangzhou	G	skin	763	皮	187	10
+819	Suzhou	S	skin	763	皮膚	188	10 198
+820	Meixian	M	skin	763	皮	187	10
+821	Nanchang	N	skin	763	皮	187	10
+822	Yingshan	Y	skin	763	皮	187	10
+823	Beijing	B	skin	763	皮	187	10
+824	Changsha	C	skin	763	皮	187	10
+825	Shuangfeng	F	skin	763	皮	187	10
+826	Shanghai	H	skin	763	皮	187	10
+827	Xiamen	X	skin	763	皮	187	10
+828	Guangzhou	G	sleep	1585	睏	109	117
+829	Suzhou	S	sleep	1585	睏	109	117
+830	Meixian	M	sleep	1585	睡	111	120
+831	Nanchang	N	sleep	1585	睏	109	117
+832	Yingshan	Y	sleep	1585	睡	111	120
+833	Beijing	B	sleep	1585	睡	111	120
+834	Changsha	C	sleep	1585	困	113	122
+835	Shuangfeng	F	sleep	1585	睏	109	117
+836	Shanghai	H	sleep	1585	睏	109	117
+837	Xiamen	X	sleep	1585	睏	109	117
+838	Guangzhou	G	small	1246	細	189	199
+839	Suzhou	S	small	1246	小	190	200
+840	Meixian	M	small	1246	細	189	199
+841	Nanchang	N	small	1246	小	190	200
+842	Nanchang	N	small	1246	細	189	199
+843	Yingshan	Y	small	1246	小	190	200
+844	Beijing	B	small	1246	小	190	200
+845	Changsha	C	small	1246	細	189	199
+846	Changsha	C	small	1246	小	190	200
+847	Shuangfeng	F	small	1246	細	189	199
+848	Shanghai	H	small	1246	小	190	200
+849	Xiamen	X	small	1246	細	189	199
+850	Xiamen	X	small	1246	小	190	200
+851	Guangzhou	G	smoke	778	煙	191	201
+852	Suzhou	S	smoke	778	煙	191	201
+853	Meixian	M	smoke	778	煙	191	201
+854	Nanchang	N	smoke	778	煙	191	201
+855	Yingshan	Y	smoke	778	煙	191	201
+856	Beijing	B	smoke	778	煙	191	201
+857	Changsha	C	smoke	778	煙	191	201
+858	Shuangfeng	F	smoke	778	煙	191	201
+859	Shanghai	H	smoke	778	煙	191	201
+860	Xiamen	X	smoke	778	薰	192	202
+861	Guangzhou	G	stand	1442	徛	193	203
+862	Suzhou	S	stand	1442	立	194	204
+863	Meixian	M	stand	1442	徛	193	203
+864	Nanchang	N	stand	1442	徛	193	203
+865	Nanchang	N	stand	1442	站	195	205
+866	Yingshan	Y	stand	1442	站	195	205
+867	Beijing	B	stand	1442	站	195	205
+868	Beijing	B	stand	1442	戳	196	206
+869	Changsha	C	stand	1442	站	195	205
+870	Changsha	C	stand	1442	企	197	207
+871	Shuangfeng	F	stand	1442	徛	193	203
+872	Shanghai	H	stand	1442	立	194	204
+873	Xiamen	X	stand	1442	徛	193	203
+874	Guangzhou	G	star	1430	星	198	208
+875	Suzhou	S	star	1430	星	198	208
+876	Meixian	M	star	1430	星	198	208
+877	Nanchang	N	star	1430	星	198	208
+878	Yingshan	Y	star	1430	星	198	208
+879	Beijing	B	star	1430	星	198	208
+880	Changsha	C	star	1430	星	198	208
+881	Shuangfeng	F	star	1430	星	198	208
+882	Shanghai	H	star	1430	星	198	208
+883	Xiamen	X	star	1430	星	198	208
+884	Guangzhou	G	stone	857	石	199	209
+885	Suzhou	S	stone	857	石	199	209
+886	Meixian	M	stone	857	石	199	209
+887	Nanchang	N	stone	857	石	199	209
+888	Yingshan	Y	stone	857	石	199	209
+889	Beijing	B	stone	857	石	199	209
+890	Changsha	C	stone	857	石	199	209
+891	Shuangfeng	F	stone	857	石	199	209
+892	Shanghai	H	stone	857	石	199	209
+893	Xiamen	X	stone	857	石	199	209
+894	Guangzhou	G	sun	1343	頭	89	93
+895	Suzhou	S	sun	1343	太陽	200	210 211
+896	Meixian	M	sun	1343	日	201	212
+897	Nanchang	N	sun	1343	日	201	212
+898	Yingshan	Y	sun	1343	日	201	212
+899	Beijing	B	sun	1343	太陽	200	210 211
+900	Changsha	C	sun	1343	太陽	200	210 211
+901	Changsha	C	sun	1343	日	201	212
+902	Shuangfeng	F	sun	1343	日	201	212
+903	Shuangfeng	F	sun	1343	太陽	200	210 211
+904	Shanghai	H	sun	1343	太陽	200	210 211
+905	Xiamen	X	sun	1343	日	201	212
+906	Guangzhou	G	swim	1439	游水	202	213 214
+907	Suzhou	S	swim	1439	游水	202	213 214
+908	Meixian	M	swim	1439	泅水	203	215 214
+909	Meixian	M	swim	1439	洗身	204	216 217
+910	Nanchang	N	swim	1439	玩水	205	218 214
+911	Nanchang	N	swim	1439	洗澡	206	216 219
+912	Yingshan	Y	swim	1439	抹汗	207	220 221
+913	Beijing	B	swim	1439	鳧水	208	222 214
+914	Beijing	B	swim	1439	游泳	209	213 223
+915	Changsha	C	swim	1439	洗冷水澡	210	216 36 214 219
+916	Changsha	C	swim	1439	游泳	209	213 223
+917	Shuangfeng	F	swim	1439	洗冷水澡	210	216 36 214 219
+918	Shanghai	H	swim	1439	游泳	209	213 223
+919	Xiamen	X	swim	1439	泅水	203	215 214
+920	Guangzhou	G	tail	1220	尾	211	224
+921	Suzhou	S	tail	1220	尾	211	224
+922	Meixian	M	tail	1220	尾	211	224
+923	Nanchang	N	tail	1220	尾	211	224
+924	Yingshan	Y	tail	1220	尾	211	224
+925	Beijing	B	tail	1220	尾	211	224
+926	Changsha	C	tail	1220	尾	211	224
+927	Shuangfeng	F	tail	1220	尾	211	224
+928	Shanghai	H	tail	1220	尾	211	224
+929	Xiamen	X	tail	1220	尾	211	224
+930	Guangzhou	G	that	78	個個	212	131 131
+931	Suzhou	S	that	78	歸個	213	225 131
+932	Suzhou	S	that	78	A個	214	226 131
+933	Meixian	M	that	78	B個	215	227 131
+934	Nanchang	N	that	78	C	216	228
+935	Yingshan	Y	that	78	那	217	229
+936	Beijing	B	that	78	那個	218	229 131
+937	Changsha	C	that	78	那個	218	229 131
+938	Changsha	C	that	78	那只	219	229 230
+939	Shuangfeng	F	that	78	喏只	220	231 230
+940	Shanghai	H	that	78	伊	221	232
+941	Xiamen	X	that	78	許	222	233
+942	Guangzhou	G	this	1214	爾個	223	234 131
+943	Suzhou	S	this	1214	該個	224	235 131
+944	Suzhou	S	this	1214	哀個	225	236 131
+945	Suzhou	S	this	1214	A個	214	237 131
+946	Meixian	M	this	1214	B個	215	238 131
+947	Nanchang	N	this	1214	C	216	239
+948	Yingshan	Y	this	1214	D	226	240
+949	Beijing	B	this	1214	這個	227	241 131
+950	Changsha	C	this	1214	F個	228	242 131
+951	Shuangfeng	F	this	1214	咯只	229	243 230
+952	Shanghai	H	this	1214	G	230	244
+953	Xiamen	X	this	1214	即	231	245
+954	Guangzhou	G	tongue	1205	脷	232	246
+955	Suzhou	S	tongue	1205	舌	233	107
+956	Meixian	M	tongue	1205	舌	233	107
+957	Meixian	M	tongue	1205	利	234	247
+958	Nanchang	N	tongue	1205	舌	233	107
+959	Yingshan	Y	tongue	1205	舌	233	107
+960	Beijing	B	tongue	1205	舌	233	107
+961	Changsha	C	tongue	1205	舌	233	107
+962	Shuangfeng	F	tongue	1205	舌	233	107
+963	Shanghai	H	tongue	1205	舌頭	235	107 93
+964	Xiamen	X	tongue	1205	舌	233	107
+965	Guangzhou	G	tooth	1380	牙齒	236	248 249
+966	Suzhou	S	tooth	1380	牙齒	236	248 249
+967	Meixian	M	tooth	1380	牙齒	236	248 249
+968	Nanchang	N	tooth	1380	牙齒	236	248 249
+969	Yingshan	Y	tooth	1380	牙齒	236	248 249
+970	Beijing	B	tooth	1380	牙	237	248
+971	Changsha	C	tooth	1380	牙齒	236	248 249
+972	Shuangfeng	F	tooth	1380	牙齒	236	248 249
+973	Shanghai	H	tooth	1380	牙	237	248
+974	Xiamen	X	tooth	1380	喙齒	238	149 249
+975	Guangzhou	G	tree	906	樹	239	9
+976	Suzhou	S	tree	906	樹	239	9
+977	Meixian	M	tree	906	樹	239	9
+978	Nanchang	N	tree	906	樹	239	9
+979	Yingshan	Y	tree	906	樹	239	9
+980	Beijing	B	tree	906	樹	239	9
+981	Changsha	C	tree	906	樹	239	9
+982	Shuangfeng	F	tree	906	樹	239	9
+983	Shanghai	H	tree	906	樹	239	9
+984	Xiamen	X	tree	906	樹	239	9
+985	Guangzhou	G	two	1498	二	240	250
+986	Suzhou	S	two	1498	二	240	250
+987	Meixian	M	two	1498	二	240	250
+988	Nanchang	N	two	1498	二	240	250
+989	Yingshan	Y	two	1498	二	240	250
+990	Beijing	B	two	1498	二	240	250
+991	Changsha	C	two	1498	二	240	250
+992	Shuangfeng	F	two	1498	二	240	250
+993	Shanghai	H	two	1498	兩	241	251
+994	Shanghai	H	two	1498	二	240	250
+995	Xiamen	X	two	1498	二	240	250
+996	Guangzhou	G	walk	1443	行	242	252
+997	Suzhou	S	walk	1443	走	243	253
+998	Suzhou	S	walk	1443	跑	244	254
+999	Meixian	M	walk	1443	行	242	252
+1000	Nanchang	N	walk	1443	走	243	253
+1001	Yingshan	Y	walk	1443	走	243	253
+1002	Beijing	B	walk	1443	走	243	253
+1003	Changsha	C	walk	1443	走	243	253
+1004	Shuangfeng	F	walk	1443	行	242	252
+1005	Shanghai	H	walk	1443	走	243	253
+1006	Xiamen	X	walk	1443	行	242	252
+1007	Guangzhou	G	water	948	水	245	214
+1008	Suzhou	S	water	948	水	245	214
+1009	Meixian	M	water	948	水	245	214
+1010	Nanchang	N	water	948	水	245	214
+1011	Yingshan	Y	water	948	水	245	214
+1012	Beijing	B	water	948	水	245	214
+1013	Changsha	C	water	948	水	245	214
+1014	Shuangfeng	F	water	948	水	245	214
+1015	Shanghai	H	water	948	水	245	214
+1016	Xiamen	X	water	948	水	245	214
+1017	Guangzhou	G	we	1212	我哋	246	102 255
+1018	Suzhou	S	we	1212	伲	247	256
+1019	Meixian	M	we	1212	我兜人	248	102 257 128
+1020	Nanchang	N	we	1212	我裏	249	102 258
+1021	Nanchang	N	we	1212	我們	250	102 135
+1022	Yingshan	Y	we	1212	我們	250	102 135
+1023	Beijing	B	we	1212	我們	250	102 135
+1024	Changsha	C	we	1212	我們	250	102 135
+1025	Shuangfeng	F	we	1212	我哩	251	102 259
+1026	Shuangfeng	F	we	1212	卬哩	252	103 259
+1027	Shanghai	H	we	1212	我A	253	102 260
+1028	Shanghai	H	we	1212	阿拉	254	261 262
+1029	Xiamen	X	we	1212	阮	255	263
+1030	Guangzhou	G	what	1236	乜	256	264
+1031	Suzhou	S	what	1236	啥	257	265
+1032	Meixian	M	what	1236	A	13	266
+1033	Nanchang	N	what	1236	什	258	267
+1034	Yingshan	Y	what	1236	麼	259	268
+1035	Beijing	B	what	1236	什麼	260	267 268
+1036	Changsha	C	what	1236	麼	259	268
+1037	Shuangfeng	F	what	1236	麼	259	268
+1038	Shanghai	H	what	1236	啥B事體	261	265 269 270 271
+1039	Xiamen	X	what	1236	什物	262	267 272
+1040	Guangzhou	G	white	1335	白	263	273
+1041	Suzhou	S	white	1335	白	263	273
+1042	Meixian	M	white	1335	白	263	273
+1043	Nanchang	N	white	1335	白	263	273
+1044	Yingshan	Y	white	1335	白	263	273
+1045	Beijing	B	white	1335	白	263	273
+1046	Changsha	C	white	1335	白	263	273
+1047	Shuangfeng	F	white	1335	白	263	273
+1048	Shanghai	H	white	1335	白	263	273
+1049	Xiamen	X	white	1335	白	263	273
+1050	Guangzhou	G	who	1235	邊個	264	274 131
+1051	Suzhou	S	who	1235	啥人	265	265 128
+1052	Suzhou	S	who	1235	A格	266	275 276
+1053	Meixian	M	who	1235	瞞人	267	277 128
+1054	Nanchang	N	who	1235	哪個	268	278 131
+1055	Yingshan	Y	who	1235	哪個	268	278 131
+1056	Yingshan	Y	who	1235	啥個	269	265 131
+1057	Beijing	B	who	1235	誰	270	279
+1058	Changsha	C	who	1235	哪個	268	278 131
+1059	Shuangfeng	F	who	1235	哪個	268	278 131
+1060	Shanghai	H	who	1235	啥人	265	265 128
+1061	Xiamen	X	who	1235	啥人	265	265 128
+1062	Xiamen	X	who	1235	AB	271	275 280
+1063	Guangzhou	G	woman	962	女人	272	281 128
+1064	Guangzhou	G	woman	962	婆乸	273	282 283
+1065	Suzhou	S	woman	962	女A	274	281 284
+1066	Meixian	M	woman	962	婦人家	275	285 128 136
+1067	Nanchang	N	woman	962	女個	276	281 131
+1068	Yingshan	Y	woman	962	女的	277	281 132
+1069	Yingshan	Y	woman	962	女將	278	281 133
+1070	Beijing	B	woman	962	女的	277	281 132
+1071	Beijing	B	woman	962	娘們	279	286 135
+1072	Changsha	C	woman	962	女的	277	281 132
+1073	Changsha	C	woman	962	女人家	280	281 128 136
+1074	Changsha	C	woman	962	堂客	281	287 130
+1075	Shuangfeng	F	woman	962	女人家	280	281 128 136
+1076	Shuangfeng	F	woman	962	堂客們	282	287 130 135
+1077	Shanghai	H	woman	962	女人	272	281 128
+1078	Xiamen	X	woman	962	查某	283	288 289
+1079	Xiamen	X	woman	962	女的	277	281 132
+1080	Guangzhou	G	yellow	1424	黃	284	290
+1081	Suzhou	S	yellow	1424	黃	284	290
+1082	Meixian	M	yellow	1424	黃	284	290
+1083	Nanchang	N	yellow	1424	黃	284	290
+1084	Yingshan	Y	yellow	1424	黃	284	290
+1085	Beijing	B	yellow	1424	黃	284	290
+1086	Changsha	C	yellow	1424	黃	284	290
+1087	Shuangfeng	F	yellow	1424	黃	284	290
+1088	Shanghai	H	yellow	1424	黃	284	290
+1089	Xiamen	X	yellow	1424	黃	284	290
+1090	Guangzhou	G	you	1215	爾	285	234
+1091	Suzhou	S	you	1215	汝	286	291
+1092	Meixian	M	you	1215	爾	285	234
+1093	Nanchang	N	you	1215	爾	285	234
+1094	Yingshan	Y	you	1215	爾	285	234
+1095	Beijing	B	you	1215	爾	285	234
+1096	Changsha	C	you	1215	爾	285	234
+1097	Shuangfeng	F	you	1215	爾	285	234
+1098	Shanghai	H	you	1215	儂	287	139
+1099	Xiamen	X	you	1215	爾	285	234

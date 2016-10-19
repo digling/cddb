@@ -95,7 +95,7 @@ def prepare(dataset):
                 idx += 1
     for k, v in errors.items():
         print('"'+k+'" : "'+v+'",')
-    with open(dataset.get_path(['characters.csv']), 'w') as f:
+    with open(dataset.get_path(['characters.tsv']), 'w') as f:
         for line in C:
             f.write('\t'.join([str(x) for x in line])+'\n')
     
