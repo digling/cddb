@@ -2,6 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
+scripts/
+_privat_*
+.*
+*.ods
+*.pdf
+output
 
 # C extensions
 *.so
