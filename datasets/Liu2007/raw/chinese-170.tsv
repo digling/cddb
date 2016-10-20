@@ -1,0 +1,192 @@
+rightside	118	右边	iou51-53 pi@n55
+rightside	118	右边儿,右边儿拉	(1) iou53 piar44, (2) iou53 piar44 la0
+rightside	118	右边儿	iou31 pi@r0
+rightside	118	右边儿	iou334 pi@r52
+rightside	118	右边边	i@u45 pie21 pie21-45
+rightside	118	右?儿	iou44 N{~r0
+rightside	118	右手,右手边	(1) iou213 s@u53, (2) i@u213 s@u53 pi@n55
+rightside	118	右边	i@M44 pien31
+rightside	118	右边	i831-53 pe~55
+rightside	118	右面	h\iY13-22 miI231
+rightside	118	右面	jiau22-33 mai0
+rightside	118	右边	i@u11 pie~33
+rightside	118	右边	io11 pi~44-33
+rightside	118	右边	iu21 piEn42
+rightside	118	右片	iu53-55 p_hien53
+rightside	118	右边	iou21 pia~42-22
+rightside	118	右边	i6u22 pin53
+rightside	118	大边,正边	(1) tuai242-55 BEiN55, (2) tsiaN212-55 mEiN55
+rightside	118	右边	iu22-21 pian55
+fish	118	鱼	yu35
+fish	118	鱼	yu24
+fish	118	鱼	yu53
+fish	118	鱼	yu52
+fish	118	鱼	yu21
+fish	118	鱼	yu24
+fish	118	鱼	yu21
+fish	118	鱼	yui13
+fish	118	鱼	n`y44
+fish	118	鱼	N=13
+fish	118	鱼	N2y341
+fish	118	鱼	y13
+fish	118	鱼	y13
+fish	118	鱼	n`ie45
+fish	118	鱼	n=11
+fish	118	囗囗囗	N=t23 si_z0 te33
+fish	118	鱼	yu21
+fish	118	鱼	Ny53
+fish	118	鱼	hi24
+feather	119	羽毛	yu213-21 mAu35
+feather	119	羽毛儿	yu213-21 maur24
+feather	119	羽毛,毛	(1) y45 mO53, (2) mO53
+feather	119	羽毛	y213 mO452
+feather	119	羽毛	yu53 mau21
+feather	119	毛	mAu24
+feather	119	羽毛	yu53-45 mau21
+feather	119	羽毛	i11-21 mO13
+feather	119	羽毛,毛	(1) y213-31 m744, (2) m744
+feather	119	羽毛,毛	(1) y44 m{13-21, (2) m{13
+feather	119	羽毛,毛	(1) vu24-33 m@341-22, (2) m@341
+feather	119	羽毛	y41 mau13
+feather	119	羽毛	y42 m713-33
+feather	119	羽毛	y213 mau45
+feather	119	羽毛	i33 mau45
+feather	119	毛	mAu22
+feather	119	羽毛	yu23 mou21
+feather	119	羽毛,毛毛	(1) y32 mau53, (2) mau53-33 mau53
+feather	119	翼毛	sit5-32_ mN=24
+rain	119	雨	yu213
+rain	119	雨	yu213
+rain	119	雨	yu45
+rain	119	雨	yu214
+rain	119	雨	yu53
+rain	119	雨	yu53
+rain	119	雨	yu53
+rain	119	雨	y11
+rain	119	雨	y213
+rain	119	雨	h\y231
+rain	119	雨	vu24
+rain	119	雨	y41
+rain	119	雨	y42
+rain	119	雨	y213
+rain	119	雨	i31
+rain	119	雨	y23
+rain	119	雨	y23
+rain	119	雨	y23
+rain	119	雨	hO22
+round	120	圆	yEn35
+round	120	圆	yan24
+round	120	圆	y{~53
+round	120	团	t_h6n35
+round	120	圆	ye21
+round	120	圆	y{~24
+round	120	圆	yan21
+round	120	圆	yen13
+round	120	圆	ye~44
+round	120	圆	h\iø13
+round	120	圆	yu341
+round	120	圆	ye~13
+round	120	圆圈	ui~13 t_hue44
+round	120	圆	yon45
+round	120	圆	ian11
+round	120	圆	ya~22
+round	120	圆	yn21
+round	120	圆	ieN53
+round	120	圆	i~24
+far	120	远	yEn213
+far	120	远	yan213
+far	120	远	y{~45
+far	120	远	y6n214
+far	120	远	ye53
+far	120	远	y{~53
+far	120	远	yan53
+far	120	远	yen11
+far	120	远	ye~213
+far	120	远	h\iø213
+far	120	远	ju24
+far	120	远	ye~41
+far	120	远	ui~42
+far	120	远	yon213
+far	120	远	ian31
+far	120	远	ya~23
+far	120	远	yn23
+far	120	远	huoN242
+far	120	远	uan53
+moon	121	月亮	yE51 liAN0
+moon	121	月亮	yE53 liaN0
+moon	121	月亮	y721-214 liAN31
+moon	121	月亮	yE334-34 liaN334
+moon	121	月亮,月明～	(1) y@?2 liQ~45, (2) y@? mi0
+moon	121	月亮	yE21 liAN0
+moon	121	月亮	ye21-55 liaN0
+moon	121	月亮	ye?5 liA~0
+moon	121	月亮	ya?32_-23 n`iA~31
+moon	121	月亮	N@?23_ lia~231-31
+moon	121	月光	n`y21-2 kuO44
+moon	121	月亮,月亮巴巴	(1) ye124 lian11, (2) ye24 lian11 pa33 pa0
+moon	121	月光	ue35 kON44-33
+moon	121	月光	n`yot5 liON0
+moon	121	月光	Niat5 kuoN33
+moon	121	月亮	lye55 liAN21
+moon	121	月光	yt2 kuON55
+moon	121	月	Nuo?5
+moon	121	月娘	ge?5-21_ niu~24
+cloud	121	云	yun35
+cloud	121	云彩	yun24 ts_hai0
+cloud	121	云	ye~53
+cloud	121	云	yn42
+cloud	121	云	yN21
+cloud	121	云	ye~24
+cloud	121	云	yn21
+cloud	121	云	in13
+cloud	121	云	yA~44
+cloud	121	云	h\y@n13
+cloud	121	云	jyoN341
+cloud	121	云	yn13
+cloud	121	云	un13
+cloud	121	云	yn24
+cloud	121	云	iun11
+cloud	121	云	yN22
+cloud	121	云	u6n21
+cloud	121	云	huN53
+cloud	121	云	hun24
+in	122	在	tsai51
+in	122	在	tsai53
+in	122	在	tsE31
+in	122	在	tsai334
+in	122	在	tsai45
+in	122	在	tsE44
+in	122	在	tsai213
+in	122	在	tsE44
+in	122	在	ts_ha35
+in	122	在	l@?23_
+in	122	在,宿	(1) zi_z242, (2) c\yo41
+in	122	在	tsai11
+in	122	在	ts_he11
+in	122	在	ts_hai21
+in	122	在	hoi53
+in	122	在	tsai23
+in	122	在	tsOi22
+in	122	着	tuo?5
+in	122	在	ti22
+dirty	122	脏	tsAN55
+dirty	122	脏,埋汰	(1) tsaN44, (2) mai24 t_hai0
+dirty	122	脏	tsAN214
+dirty	122	脏	tsaN52
+dirty	122	脏	tsQ~21
+dirty	122	脏	tsAN21
+dirty	122	脏,邋遢,??	(1) tsaN45, la21-55 t_ha21, n@u21-55 s@u55
+dirty	122	脏	tsA~31
+dirty	122	活囗	vo?32_23 lo31
+dirty	122	u?tso?	o?5 ts_ho?4
+dirty	122	?糟	@44 ts@44
+dirty	122	脏,邋遢	(1) tsan33, (2) la24 t_ha24
+dirty	122	囗?	p_ha35 la11-1
+dirty	122	脏,??	(1) tsON42, (2) Na42 tsa0
+dirty	122	囗	me53
+dirty	122	邋遢	lA`55 t_hA`21
+dirty	122	?糟	u55 tsou53
+dirty	122	拉水+查,u?tso?	(1) la55 ts_ha55, (2) ou?5 ts_huO?24_
+dirty	122	流疡	lau24-22 siON24
+
+
