@@ -1,192 +1,190 @@
-rightside	118	右边	iou51-53 pi@n55
-rightside	118	右边儿,右边儿拉	(1) iou53 piar44, (2) iou53 piar44 la0
-rightside	118	右边儿	iou31 pi@r0
-rightside	118	右边儿	iou334 pi@r52
-rightside	118	右边边	i@u45 pie21 pie21-45
-rightside	118	右?儿	iou44 N{~r0
-rightside	118	右手,右手边	(1) iou213 s@u53, (2) i@u213 s@u53 pi@n55
-rightside	118	右边	i@M44 pien31
-rightside	118	右边	i831-53 pe~55
-rightside	118	右面	h\iY13-22 miI231
-rightside	118	右面	jiau22-33 mai0
-rightside	118	右边	i@u11 pie~33
-rightside	118	右边	io11 pi~44-33
-rightside	118	右边	iu21 piEn42
-rightside	118	右片	iu53-55 p_hien53
-rightside	118	右边	iou21 pia~42-22
-rightside	118	右边	i6u22 pin53
-rightside	118	大边,正边	(1) tuai242-55 BEiN55, (2) tsiaN212-55 mEiN55
-rightside	118	右边	iu22-21 pian55
-fish	118	鱼	yu35
-fish	118	鱼	yu24
-fish	118	鱼	yu53
-fish	118	鱼	yu52
-fish	118	鱼	yu21
-fish	118	鱼	yu24
-fish	118	鱼	yu21
-fish	118	鱼	yui13
-fish	118	鱼	n`y44
-fish	118	鱼	N=13
-fish	118	鱼	N2y341
-fish	118	鱼	y13
-fish	118	鱼	y13
-fish	118	鱼	n`ie45
-fish	118	鱼	n=11
-fish	118	囗囗囗	N=t23 si_z0 te33
-fish	118	鱼	yu21
-fish	118	鱼	Ny53
-fish	118	鱼	hi24
-feather	119	羽毛	yu213-21 mAu35
-feather	119	羽毛儿	yu213-21 maur24
-feather	119	羽毛,毛	(1) y45 mO53, (2) mO53
-feather	119	羽毛	y213 mO452
-feather	119	羽毛	yu53 mau21
-feather	119	毛	mAu24
-feather	119	羽毛	yu53-45 mau21
-feather	119	羽毛	i11-21 mO13
-feather	119	羽毛,毛	(1) y213-31 m744, (2) m744
-feather	119	羽毛,毛	(1) y44 m{13-21, (2) m{13
-feather	119	羽毛,毛	(1) vu24-33 m@341-22, (2) m@341
-feather	119	羽毛	y41 mau13
-feather	119	羽毛	y42 m713-33
-feather	119	羽毛	y213 mau45
-feather	119	羽毛	i33 mau45
-feather	119	毛	mAu22
-feather	119	羽毛	yu23 mou21
-feather	119	羽毛,毛毛	(1) y32 mau53, (2) mau53-33 mau53
-feather	119	翼毛	sit5-32_ mN=24
-rain	119	雨	yu213
-rain	119	雨	yu213
-rain	119	雨	yu45
-rain	119	雨	yu214
-rain	119	雨	yu53
-rain	119	雨	yu53
-rain	119	雨	yu53
-rain	119	雨	y11
-rain	119	雨	y213
-rain	119	雨	h\y231
-rain	119	雨	vu24
-rain	119	雨	y41
-rain	119	雨	y42
-rain	119	雨	y213
-rain	119	雨	i31
-rain	119	雨	y23
-rain	119	雨	y23
-rain	119	雨	y23
-rain	119	雨	hO22
-round	120	圆	yEn35
-round	120	圆	yan24
-round	120	圆	y{~53
-round	120	团	t_h6n35
-round	120	圆	ye21
-round	120	圆	y{~24
-round	120	圆	yan21
-round	120	圆	yen13
-round	120	圆	ye~44
-round	120	圆	h\iø13
-round	120	圆	yu341
-round	120	圆	ye~13
-round	120	圆圈	ui~13 t_hue44
-round	120	圆	yon45
-round	120	圆	ian11
-round	120	圆	ya~22
-round	120	圆	yn21
-round	120	圆	ieN53
-round	120	圆	i~24
-far	120	远	yEn213
-far	120	远	yan213
-far	120	远	y{~45
-far	120	远	y6n214
-far	120	远	ye53
-far	120	远	y{~53
-far	120	远	yan53
-far	120	远	yen11
-far	120	远	ye~213
-far	120	远	h\iø213
-far	120	远	ju24
-far	120	远	ye~41
-far	120	远	ui~42
-far	120	远	yon213
-far	120	远	ian31
-far	120	远	ya~23
-far	120	远	yn23
-far	120	远	huoN242
-far	120	远	uan53
-moon	121	月亮	yE51 liAN0
-moon	121	月亮	yE53 liaN0
-moon	121	月亮	y721-214 liAN31
-moon	121	月亮	yE334-34 liaN334
-moon	121	月亮,月明～	(1) y@?2 liQ~45, (2) y@? mi0
-moon	121	月亮	yE21 liAN0
-moon	121	月亮	ye21-55 liaN0
-moon	121	月亮	ye?5 liA~0
-moon	121	月亮	ya?32_-23 n`iA~31
-moon	121	月亮	N@?23_ lia~231-31
-moon	121	月光	n`y21-2 kuO44
-moon	121	月亮,月亮巴巴	(1) ye124 lian11, (2) ye24 lian11 pa33 pa0
-moon	121	月光	ue35 kON44-33
-moon	121	月光	n`yot5 liON0
-moon	121	月光	Niat5 kuoN33
-moon	121	月亮	lye55 liAN21
-moon	121	月光	yt2 kuON55
-moon	121	月	Nuo?5
-moon	121	月娘	ge?5-21_ niu~24
-cloud	121	云	yun35
-cloud	121	云彩	yun24 ts_hai0
-cloud	121	云	ye~53
-cloud	121	云	yn42
-cloud	121	云	yN21
-cloud	121	云	ye~24
-cloud	121	云	yn21
-cloud	121	云	in13
-cloud	121	云	yA~44
-cloud	121	云	h\y@n13
-cloud	121	云	jyoN341
-cloud	121	云	yn13
-cloud	121	云	un13
-cloud	121	云	yn24
-cloud	121	云	iun11
-cloud	121	云	yN22
-cloud	121	云	u6n21
-cloud	121	云	huN53
-cloud	121	云	hun24
-in	122	在	tsai51
-in	122	在	tsai53
-in	122	在	tsE31
-in	122	在	tsai334
-in	122	在	tsai45
-in	122	在	tsE44
-in	122	在	tsai213
-in	122	在	tsE44
-in	122	在	ts_ha35
-in	122	在	l@?23_
-in	122	在,宿	(1) zi_z242, (2) c\yo41
-in	122	在	tsai11
-in	122	在	ts_he11
-in	122	在	ts_hai21
-in	122	在	hoi53
-in	122	在	tsai23
-in	122	在	tsOi22
-in	122	着	tuo?5
-in	122	在	ti22
-dirty	122	脏	tsAN55
-dirty	122	脏,埋汰	(1) tsaN44, (2) mai24 t_hai0
-dirty	122	脏	tsAN214
-dirty	122	脏	tsaN52
-dirty	122	脏	tsQ~21
-dirty	122	脏	tsAN21
-dirty	122	脏,邋遢,??	(1) tsaN45, la21-55 t_ha21, n@u21-55 s@u55
-dirty	122	脏	tsA~31
-dirty	122	活囗	vo?32_23 lo31
-dirty	122	u?tso?	o?5 ts_ho?4
-dirty	122	?糟	@44 ts@44
-dirty	122	脏,邋遢	(1) tsan33, (2) la24 t_ha24
-dirty	122	囗?	p_ha35 la11-1
-dirty	122	脏,??	(1) tsON42, (2) Na42 tsa0
-dirty	122	囗	me53
-dirty	122	邋遢	lA`55 t_hA`21
-dirty	122	?糟	u55 tsou53
-dirty	122	拉水+查,u?tso?	(1) la55 ts_ha55, (2) ou?5 ts_huO?24_
-dirty	122	流疡	lau24-22 siON24
-
-
+squeeze	113	壓	iA`55
+squeeze	113	壓	ia44
+squeeze	113	壓	ia214
+squeeze	113	壓	ia214
+squeeze	113	壓,qi?	1. ia45, 2. tc\i53
+squeeze	113	壓	n`iA21
+squeeze	113	榨,壓	1. tsa 213, 2. Na45
+squeeze	113	qi?,榨,壓	1. tc\i11, 2. tsA?5, 3. iA?5
+squeeze	113	榨	tso35
+squeeze	113	壓	A?4
+squeeze	113	壓	a41
+squeeze	113	壓	ia24
+squeeze	113	壓,囗得	1. ia13, 2. ts_he42 t70
+squeeze	113	壓,qi?	1. Nat5, 2. tc\i213
+squeeze	113	壓	ap1
+squeeze	113	壓	Na55
+squeeze	113	壓	Nat3
+squeeze	113	壓	ta?24_
+squeeze	113	壓	te?32_
+tooth	113	牙齒	iA`35 ts`_hi`213
+tooth	113	牙	ia24
+tooth	113	牙齒	ia53 ts`_hi`45
+tooth	113	牙齒	ia52 ts`_hi`214
+tooth	113	牙齒	ia21 ts_hi_z53
+tooth	113	牙齒	n`iA24 ts_hi_z0
+tooth	113	牙齒	ia21-55 ts_hi_z0
+tooth	113	牙齒	iA13 ts`_hi`11
+tooth	113	牙齒	No44-35 tsi_z213
+tooth	113	牙子	NA13-22 tsi_z52-31
+tooth	113	牙齒	No341-42 ts_hi_z242-22
+tooth	113	牙齒	Na13 ts_hi_z41
+tooth	113	牙齒	Na45 tsi_z0
+tooth	113	牙齒	NO13 dzi_z42
+tooth	113	牙齒	Na11 ts_hi_z31
+tooth	113	牙齒	NA`22 tc\_hi23-33
+tooth	113	牙齒	Na21 ts_hi35
+tooth	113	齒	k_hi32
+tooth	113	喙齒	ts_hui22-21 k_hi53
+smoke	114	煙	iEn55
+smoke	114	煙	ian44
+smoke	114	煙	i{~214
+smoke	114	煙	i6n52
+smoke	114	煙	ie21
+smoke	114	煙	i{~21
+smoke	114	煙煙兒,煙子	1. iEn45 i@r55, 2. iEn45 tsi_z53-21
+smoke	114	煙	ien31
+smoke	114	煙	ie~55
+smoke	114	煙	iI44
+smoke	114	煙	i44
+smoke	114	煙	ie~33
+smoke	114	煙	ni~44
+smoke	114	煙	iEn42
+smoke	114	煙	ian33
+smoke	114	煙	ia~42
+smoke	114	煙	in55
+smoke	114	煙	houN55
+smoke	114	煙	hun55
+salt	114	盐	iEn35
+salt	114	盐	ian24
+salt	114	盐	i{~53
+salt	114	盐	i6n52
+salt	114	咸盐	c\ie21 ie21
+salt	114	盐	i{~24
+salt	114	盐巴	iEn21-55 pa55
+salt	114	盐	ien13
+salt	114	盐	ie~44
+salt	114	盐	h\iI13
+salt	114	盐	ji341
+salt	114	盐	ie~13
+salt	114	盐	ni~13
+salt	114	盐	iEn45
+salt	114	盐	iam11
+salt	114	盐	ia~22
+salt	114	盐	im21
+salt	114	盐	sieN53
+salt	114	盐	iam24
+eye	115	眼睛	iEn213-21 tc\iN55
+eye	115	眼睛,眼	1. ian213-21 tc\iN0, 2. ian213
+eye	115	眼睛	i{~45-212 tc\iN0
+eye	115	眼睛	i6n214 tsiN52
+eye	115	眼,眼睛	1. ie53, 2. ie53 tc\iN0
+eye	115	眼窝	ni{~53 uo0
+eye	115	眼睛	iEn53-55 tc\in55
+eye	115	眼睛	ien11-22 tc\in0
+eye	115	眼睛	No213-31 tc\iA~55
+eye	115	眼烏珠	NE`231-22 u44 tsH`44-21
+eye	115	眼灵珠	Na24 leN341-42 tsi_z44-21
+eye	115	眼睛	Nan41-44 tcin0
+eye	115	眼珠	Na~42 tc\y44-33
+eye	115	眼睛	Nan213 tc\iaN0
+eye	115	眼珠	Nian31 tsu33
+eye	115	眼睛	Na~23 tsei42-22
+eye	115	眼睛	Nan23 tsEN55
+eye	115	目目+周	mEi?5 tsieu55
+eye	115	目珠	bak5-32_ tsiu55
+bite	115	咬	iAu213
+bite	115	咬	iau213
+bite	115	咬	iO45
+bite	115	咬	iau214
+bite	115	咬	iau53
+bite	115	咬	n`iAu53
+bite	115	咬	Nau53
+bite	115	咬	iO11
+bite	115	咬	N7213
+bite	115	咬	N{231 
+bite	115	咬	NuO242
+bite	115	咬	Na41
+bite	115	齒+厓	Na35
+bite	115	咬	Nau213
+bite	115	口+齒	Nat1
+bite	115	咬	NAu23
+bite	115	咬	Nau23
+bite	115	咬	ka242
+bite	115	咬	ka22
+leaf	116	叶	iE51
+leaf	116	叶子	iE53 tsi_z0
+leaf	116	叶子	i@31-44 tsi_z0
+leaf	116	叶儿	i@r214
+leaf	116	叶,叶子	1. ie45, 2. ie45 ts@?0
+leaf	116	叶	iE21
+leaf	116	树子叶叶	su213 tsi_z53 ie21 ie21
+leaf	116	叶子	i2?5 tsi_z0
+leaf	116	叶	ia?32_
+leaf	116	叶子	h\i@?23_ tsi_z52-31
+leaf	116	叶	ji21
+leaf	116	叶子	ie24 tsi_z0
+leaf	116	叶子	ie35 tsi_z0
+leaf	116	叶子	iEt5 tsi_z0
+leaf	116	叶儿	iap5 pe0
+leaf	116	叶子	lie55 te23-33
+leaf	116	叶	ip2
+leaf	116	竹-若,竹-若竹-若	1. lo?5, 2. lo?5-33 lo?5
+leaf	116	竹-若	hio?5
+one	116	一	i55
+one	116	一	i44
+one	116	一	i214
+one	116	一	i214
+one	116	一	i@?2
+one	116	一	i21
+one	116	一	i21
+one	116	一	i?5
+one	116	一	i2?32_
+one	116	一	i@?4
+one	116	一	iai41
+one	116	一	i24
+one	116	一	i13
+one	116	一	it5
+one	116	一	it1
+one	116	一	i55
+one	116	一	i6t5
+one	116	?,一	1. so?5, 2. Ei?24_
+one	116	一	tsit5
+because	117	因为	in55 uei0
+because	117	因为,?乎	1. in44 v\ei0, 2. yN44 xu0
+because	117	因为	ie~213-24 vei31
+because	117	因为	in52 uei35
+because	117	因为	iN21 vei45
+because	117	因为	ie~21 uei24
+because	117	因为	in45 uei213-21
+because	117	因为	in31 v\ei13
+because	117	因为	iA~55 vi55
+because	117	因为	in44 h\uE`231-21
+because	117	因为	iaN44 vu341-21
+because	117	因为	in33 uei11
+because	117	因为	in44 ui11
+because	117	因为	in42 ui21
+because	117	因为	in33-35 vi11
+because	117	因为	iN42 uei22
+because	117	因为	i6n53 u6i22
+because	117	因为	iN55-53 Nuoi242
+because	117	因为	iN55-22 ui22
+swim	117	游水	iou35 s`uei213
+swim	117	游泳	iou24 yN213
+swim	117	游泳	iou53 yN45
+swim	117	洗澡	si214-35 tsau214
+swim	117	游泳	i@u21 yN53
+swim	117	游水,浮水,游	1. iou24 fei53, 2. fu24 fei53, iou24
+swim	117	游泳,洗澡	1. i@u21-55 yn213, 2. c\i53-55 tsau53
+swim	117	游泳	i@M13 ioN11
+swim	117	囗水	vo55-45 c\y213
+swim	117	???	ho?4 la~23-22 h\io?23_-4
+swim	117	泅河儿	jieu341-24 vu341-42 N=0
+swim	117	游水,玩水	1. i@u13 c\yei41, 2. uan13 c\yei41
+swim	117	游水,游泳	1. io13-33 c\y42, 2. io13-33 un11
+swim	117	游水,游泳	1. iu45 sui213, 2. iu45 iuN213
+swim	117	洗身儿	se31 s@n33-35 ne0
+swim	117	游水	iou22 suei23
+swim	117	游水	i6u21 s2y35
+swim	117	泅水	sieu53-33 tsuoi32
+swim	117	泅水	siu24-22 tsui53

@@ -1,190 +1,190 @@
-leg	103	腿	t_huei213
-leg	103	腿	t_huei213
-leg	103	腿	t_huei45
-leg	103	腿	t_hei214
-leg	103	腿	t_huei53
-leg	103	腿	t_huei53
-leg	103	腿	t_huei53
-leg	103	腿	t_huei11
-leg	103	腿	t_ha213
-leg	103	膀	phA~52
-leg	103	腳腳	tc\ia41-3 tc\ia41
-leg	103	腿,腿把子	(1) t_hei41, t_hei31 pa55 tsi_z0
-leg	103	腿	t_hue42
-leg	103	腿	t_hui213
-leg	103	腿	t_hui31
-leg	103	腿肚子	tc\iAu55 tu21 tse23-33
-leg	103	腿	t_h2y35
-leg	103	骹腿	k_ha55-53 l2y32
-leg	103	骹骨	k_ha55-22 kut32_
-dig	103	挖	uA`55
-dig	103	挖	ua44
-dig	103	挖	va214
-dig	103	挖	ua213
-dig	103	挖	va21
-dig	103	挖	uA1`
-dig	103	挖,包+刀,?	(1) ua45, (2) p_hau21, (3) tsua21
-dig	103	挖	uA31
-dig	103	挖	va?32_
-dig	103	挖	ua?4
-dig	103	?	lau44
-dig	103	挖	ua24
-dig	103	挖	ua13
-dig	103	挖	ua42
-dig	103	挖	vat1
-dig	103	挖	uA`55
-dig	103	挖	uat3
-dig	103	挖	ua?24_
-dig	103	手+烏	O53
-play	104	玩兒	uar35
-play	104	玩兒	uar24
-play	104	玩兒	v@r53
-play	104	玩兒	uEr35
-play	104	耍	sua53
-play	104	耍	fA53
-play	104	耍	sua53
-play	104	玩	uA~13
-play	104	嬉	si_z55
-play	104	白相	b@?23_ sia~412-13
-play	104	嬉	si_z44
-play	104	玩	uan13
-play	104	耍	sO42
-play	104	玩	uan45
-play	104	?,?	(1) kau31, (2) liau53
-play	104	耍	suA`23
-play	104	玩	uan21
-play	104	嬉?,骨+交遛	(1) hi55-53 hie212, (2) k_ha55 lieu53
-play	104	??	ts_hit32_-5 t_ho24
-night	104	晚上	uan123-21 s`AN51
-night	104	晚上,??,????	(1) uan213-21 s`aN0, (2) c\ia53 x@r44, (3) c\ia53 uar213-21 xei44
-night	104	晚上	v{!45-213 s`AN0
-night	104	???	xou334 s`i`0
-night	104	晚上	v{~53 sQ45
-night	104	黑咧	xei21 liE0
-night	104	晚上,黑了	(1) uan53-45 saN213-21, (2) xe21-55 l@u21
-night	104	晚上	uA~11-22 sA~44-22
-night	104	夜下	io31-53 xo0
-night	104	夜裡向	iA412-44 li0 c\ia~412-21
-night	104	黃昏	h\341-33 c\y44-22
-night	104	晚上,夜間子	(1) uan41 san11, (2) ia11 ka0 tsi_z0
-night	104	夜裡	iO11 li0
-night	104	夜晚	ia21 uan213
-night	104	暗晡	am53 pu33
-night	104	夜下	iA`21 xA`22
-night	104	晚上	man23 s9N22
-night	104	?晡	maN53-55 muo55
-night	104	下昏	e22-21 hN=55
-tail	105	尾	uei213
-tail	105	尾巴	uei213-21 pa0
-tail	105	尾巴	i45-213 pa0
-tail	105	尾巴	uei214-21 pa334
-tail	105	尾巴	vei53 pa0
-tail	105	尾巴	i53 pA0
-tail	105	尾巴,尾子	(1) uei53-45 pa55, (2) uei53-55 tsi_z53
-tail	105	尾巴	uei11-22 pA0
-tail	105	尾巴	vi213-31 po55
-tail	105	尾巴	n`i231-22 po44
-tail	105	尾巴	mei24 po44-42 N=0
-tail	105	尾巴	uei41 pa0
-tail	105	尾巴	ui42 pa0
-tail	105	尾巴	ui213 pa0
-tail	105	尾巴	mi33 pa33
-tail	105	尾巴	uei23 pA`42-22
-tail	105	尾巴	mei23
-tail	105	尾巴	muoi32 muoi32
-tail	105	尾巴,尾	(1) me53-55 pa55, (2) me53
-smell	105	聞	u@n35
-smell	105	聞	u@n24
-smell	105	聞	ve~53
-smell	105	聞	u@n52
-smell	105	聞	v@N21
-smell	105	聞	ve~24
-smell	105	聞	u@n21
-smell	105	聞	u@n13
-smell	105	碰～	p_hA~35
-smell	105	聞	m22n13
-smell	105	嗅<!sic!, would expect no nasal coda>	hoN51
-smell	105	聞	u@n13
-smell	105	嗅	c\i7N35
-smell	105	聞,嗅	(1) un45, (2) c\iuN45
-smell	105	鼻	p_hi53
-smell	105	聞	u7N22
-smell	105	聞	m6n21
-smell	105	鼻	pEi242
-smell	105	鼻	p_hi22
-I	106	我	uo213
-I	106	我	uo213
-I	106	我	vO45
-I	106	我	uO214
-I	106	我	G753
-I	106	我	N753
-I	106	我	No53
-I	106	我	o11
-I	106	我	O213
-I	106	吾	N@u231
-I	106	我	N=24
-I	106	我	No41
-I	106	我	N=42
-I	106	我	No213
-I	106	?	Nai11
-I	106	我	uo23
-I	106	我	NO23
-I	106	我	Nuai32
-I	106	我	Nua53
-we	106	我們	uo213-211 m@n35
-we	106	我們	uo213-21 m@n0
-we	106	我們	vO45-214 me~0
-we	106	我們	uO214-21 m@n35
-we	106	我們	G753 m70
-we	106	?	NE21
-we	106	我們	No53-45 m=55 
-we	106	我們	o11-21 m@n13
-we	106	我人	O213 iA~0
-we	106	吾伲	N@u231-13 n`i0
-we	106	我人+來	N=24-22 liE341-4
-we	106	我們	No41 m@n0
-we	106	我人+奄	N=42 Na44-33
-we	106	我們,我竹-固哩	(1) No213 m1n0, (2) No213 ko0 li0
-we	106	?丁人	Nai11 ten33-35 Nin11
-we	106	我囗囗囗	uo23 te23 lei42 k721
-we	106	我口+地	NO23 tei22
-we	106	侬家,侬家各侬,奴各侬(多用於女性，少用)	(1) naN53-21 Na55, (2) naN53-21 Na55-53 ko?24_-21_ n2yN53, nu53 ko?24_-21_ n2yN53
-we	106	人+自	lan53
-five	107	五	u213
-five	107	五	u213
-five	107	五	u45
-five	107	五	u214
-five	107	五	u53
-five	107	五	u53
-five	107	五	u53
-five	107	五	u11
-five	107	五	vu213
-five	107	五	N=231
-five	107	五	N=24
-five	107	五	u41
-five	107	五	u42
-five	107	五	N=213
-five	107	五	n=31
-five	107	五	N=23
-five	107	五	N=23
-five	107	五	Nou242
-five	107	五	gO22
-fog	107	霧	u51
-fog	107	霧	u53
-fog	107	霧	u31
-fog	107	霧	u334
-fog	107	霧	u45
-fog	107	霧	vu44
-fog	107	霧	u213
-fog	107	霧	u44
-fog	107	霧	vu31
-fog	107	迷露	mi13-22 l@u231
-fog	107	?	mø22
-fog	107	??	tsau55 tsi_z9
-fog	107	霧	u11
-fog	107	霧	u21
-fog	107	??	muN11 sa33
-fog	107	霧氣	u21 tc\_hi42-22
-fog	107	霧	mou22
-fog	107	霧	muo53
-fog	107	霧	bu22
+sun	98	太陽	t_hai51-53 iAN35
+sun	98	日頭,太陽	(1) z`i`53 t_hou0, (2) t_hai31 iAN53
+sun	98	太陽	t_h@31 iAN53
+sun	98	日頭	i213-35 t_hou0
+sun	98	太陽	t_hai45 iQ~0
+sun	98	太陽,日頭,日頭爺	(1) t_hE44 iAN0, (2) @r21 t_hou0, (3) @r21 t_hou0 iE44
+sun	98	太陽	t_hai213 iaN21
+sun	98	太陽	t_hE44-42 iA~0
+sun	98	太陽	t_hO35-53 iO44
+sun	98	太陽	t_hA412-44 h`ia~13-21
+sun	98	太陽	t_ha51-42 ji341-21
+sun	98	太陽	t_hai55 ian13
+sun	98	太陽,日頭?	(1) t_ha35 iON13-33, (2) ni35 di713-33 k_hu44-33
+sun	98	太陽	t_hai213 iON45
+sun	98	日頭	Nit1 t_heu11
+sun	98	日頭	lie55 tai22
+sun	98	太陽	t_hai33 i9N21
+sun	98	日頭	ni?5 t_hau53
+sun	98	日	lit5
+lie	98	躺	t_hAN213
+lie	98	躺	t_haN213
+lie	98	躺	t_hAN45
+lie	98	躺	t_haN213
+lie	98	躺	t_hQ~45
+lie	98	睡	fei44
+lie	98	睡倒,睡起,躺倒起	(1) suei213 tau53, (2) suei213 tc\_hi53, (3) t_haN53-55 tau53 tc\_hi53-21
+lie	98	躺,睡	(1) t_hA~11, (2) suei44
+lie	98	睏,躺	(1) k_hua~35, (2) t_ho~213
+lie	98	躺	t_hA~52
+lie	98	翻	fa44
+lie	98	躺,睡	(1) t_han41, (2) c\yei11
+lie	98	睏	k_hun35
+lie	98	躺	t_hON213
+lie	98	眠,躺	(1) min11, (2) t_hoN11
+lie	98	躺	t_hAN23
+lie	98	躺	t_hON35
+lie	98	倒	to32
+lie	98	倒	to53
+day	99	天	t_hiEn55
+day	99	天	t_hian44
+day	99	天	t_hi{~214
+day	99	天	t_hi6n52
+day	99	天	t_hie21
+day	99	天	t_hi{~21
+day	99	天	t_hiEn45
+day	99	天	t_hien31
+day	99	天	t_he~55
+day	99	天	t_hiI44
+day	99	日	ne21
+day	99	天	t_hie~33
+day	99	天	t_hi~44
+day	99	天	t_hiEn42
+day	99	天	t_hien33
+day	99	天	t_hia~42
+day	99	天	t_hin53
+day	99	天	t_hieN55
+day	99	天	t_hi~55
+sky	99	天空	t_hiEn55 k_huN55
+sky	99	天,天上	(1) t_hian44, (2) t_hian44 s`aN0
+sky	99	天空	t_hi{~214-23 k_huN31
+sky	99	天空	t_hi6n52-21 k_hoN334-32
+sky	99	天上	t_hie21 sQ~45
+sky	99	天空	t_hi{~21 k_huN21
+sky	99	天上	t_hiEn45 saN213-21
+sky	99	天空	t_hien31-33 k_hoN31
+sky	99	天空	t_he~55 55 k_huA~55
+sky	99	天,天老爺	(1) t_hiI44, (2) t_hiI41 l{231-44 h`iA13-21
+sky	99	天里	t_hi44 lei44
+sky	99	天空	t_hie~33 k_h@n33
+sky	99	天	t_hi~44
+sky	99	天空	t_hiEn42 kuN42
+sky	99	天上	t_hien33-35 hoN53
+sky	99	天空	t_hia~42 k_h7N42-22
+sky	99	天空	t_hin55 hoN53
+sky	99	天中	t_hieN55 n2yN55
+sky	99	天頂	t_hi~55-22 tiN53
+hear	100	聽見	t_hing55 tc\iEn51
+hear	100	聽見	t_hiN44 tc\ian53
+hear	100	聽見	t_hiN213-21 tc\i{~0
+hear	100	聽見	t_hiN52 ci6n334
+hear	100	聽見	t_hiN21 tc\ie45
+hear	100	聽見	t_hiN21 tc\i{~0
+hear	100	聽到	t_hin45 tau53
+hear	100	聽見	t_hin44-42 tc\ien44-22
+hear	100	聽見	t_hiA~35-53 tc\ie~35
+hear	100	聽見	t_hin44 tc\iI412-21
+hear	100	聽着	t_heN dz\ia21-44
+hear	100	聽見	t_hin33 tc\ie~55
+hear	100	聽見	t_hiO~44 tc\i~35-5
+hear	100	聽見	t_hiaN42 tc\iEn45
+hear	100	聽	t_haN33
+hear	100	聽見	t_hei42-24 tc\ia~25-33
+hear	100	聽見	t_hEN53 kin33
+hear	100	聽見	t_hiaN5553 NieN212
+hear	100	聽着	t_hia~55 tio0
+head	100	頭	t_hou35
+head	100	頭	t_hour24
+head	100	頭	t_hou53
+head	100	頭	tou35
+head	100	頭,得腦	(1) t_h@u21, (2) t@?2-45 lau53
+head	100	頭,?	(1) t_hou24, (2) sA24
+head	100	頭	t_h@u21
+head	100	頭	t_h@M13
+head	100	頭	t_hi44
+head	100	頭	dY13
+head	100	頭	d7u341
+head	100	頭,腦壳	(1) t@u13, (2) lau41 k_ho0
+head	100	頭	di713
+head	100	頭	t_hEu24
+head	100	頭那	t_heu11 na11
+head	100	頭	tai22
+head	100	頭	t_h6u21
+head	100	頭	t_hau53
+head	100	頭壳	t_hau24-22 khak32_
+hair	101	頭髮	t_hou35 fA`51
+hair	101	頭髮	t_hour24 fa0
+hair	101	頭髮	t_hou53-45 fa0
+hair	101	頭髮	tou35 fa0
+hair	101	頭髮	t_h@u21 fa?2
+hair	101	頭髮	t_hou24 fA0
+hair	101	頭髮	t_h@u21-55 fa21-55
+hair	101	頭髮	t_h@M13-21 fA?5
+hair	101	頭毛,頭髮	(1) t_hi44 m744, (2) t_hi44-35 fa?32_
+hair	101	頭髮	dY13-22 fa?4
+hair	101	頭髮	d7u341-24 ho41
+hair	101	頭髮	t@u13 fa24
+hair	101	頭髮	di713 xO0
+hair	101	頭髮	t_hEu24 fat0
+hair	101	頭那髮	t_heu11 na11 mau33
+hair	101	頭毛	tai22 mau22
+hair	101	頭髮	t_h6u21 fat3
+hair	101	頭髮	t_hau53-21 uo?24_
+hair	101	頭毛	t_hau24-22 mN=24
+earth	101	土地	t_hu213-21 ti51
+earth	101	土地	t_hu213-21 ti53
+earth	101	土地	t_hu45 ti31
+earth	101	土地	t_hu213-21 ti334
+earth	101	土地,地	(1) t_hu53 ti45, (2) ti45
+earth	101	土地,地	(1) t_hou53 ti44, (2) ti44
+earth	101	土,土地	(1) t_hu53-55 ti213, ti213
+earth	101	地,土地	(1) ti44, (2) t_hu11-21 ti44
+earth	101	地,土地	(1) ts_hi_z31, t_hu213-31 ts_hi_z31
+earth	101	地皮,土地	(1) di231-22 bi13-31, t_h@u52-41 di231-21
+earth	101	土地	t_h2y242-53 dei22-21
+earth	101	土地	t_h@u41 ti11
+earth	101	土地,地	(1) t_h7u42 di11-1, (2) di11
+earth	101	土地	t_hu213 t_hi42
+earth	101	土地	t_hu31 t_hi53
+earth	101	土地	t_hu23 ti21
+earth	101	土地	t_hou35 tei22
+earth	101	涂地(泥土地)	t_hu53 lEi242
+earth	101	土地	t_hO53-55 tue22
+spit	102	吐	t_hu51
+spit	102	吐	t_hu53
+spit	102	吐	t_hu31
+spit	102	吐	t_hu214
+spit	102	吐	t_hu53
+spit	102	吐	t_hou53
+spit	102	吐	t_hu53
+spit	102	吐	t_hu11
+spit	102	吐	t_hu213
+spit	102	吐	t_h@u52
+spit	102	吐	t_h2y24
+spit	102	吐	t_h@u55
+spit	102	吐	t_h7u42
+spit	102	吐	t_hu213
+spit	102	吐	t_hui53
+spit	102	吐	t_hu23
+spit	102	吐	t_hou33
+spit	102	口+非	p_huoi212
+spit	102	口+非	p_hui21
+push	102	推	t_huei55
+push	102	推	t_huei44
+push	102	推	t_huei214
+push	102	推	t_hei52
+push	102	推	t_huei21
+push	102	推,?	(1) t_huei21, (2) c\i{~21
+push	102	推	t_huei45
+push	102	推	t_huei31
+push	102	推(另義(被水)鹽)	t_ha55
+push	102	推	t_hE`44
+push	102	逃～	d@341
+push	102	推,手+宣	(1) t_hei33, (2) c\ye~33
+push	102	?	n7N35
+push	102	推	t_hui42
+push	102	推	t_hui33
+push	102	推	t_hei42
+push	102	推	t_h2y53
+push	102	手+點,手+送,推	(1) t_hiaN32, (2) s2uyN32, (3) t_huoi55
+push	102	推	tu55

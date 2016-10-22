@@ -1,219 +1,190 @@
-knee	108	膝	tc\_hi55
-knee	108	膝蓋,??蓋?	(1) c\i213-21 kai53, (2) p7213-21 l@N0 kar53
-knee	108	膝蓋er?	tc\_hi214-23 kar21
-knee	108	??蓋	pO523 l@0 kai334
-knee	108	膝,膝蓋	(1) c\i@?2, (2) c\i@?2 kai45
-knee	108	膝,克～膝蓋	tc\_hi21, (2) k_hM21 tc\_hi21 kE44
-knee	108	克～膝頭er?	k_he21 c\i21-55 t_h@r21
-knee	108	膝蓋骨,波羅蓋兒,褲膝頭兒	(1) c\i?5 kE44-42 ku?5, (2) po31-22 lo13-22 k@r44-22, (3) k_hu44-42 tc\_hi0 t_h@Mr13
-knee	108	腳膝頭	tc\yo?32_ c\ie?55 t_hi44
-knee	108	腳饅頭	tc\iA?4 mø13-23 dY13-21
-knee	108	腳月+出頭	tcia31-3 k_hø41 d7u341-21
-knee	108	膝,膝蓋,膝頭骨,客+頁膝骨	(1) c\i24, (2) c\i24 kai55, (3) c\i24 t@u13 ku0, (4) k@24 ci24 ku0
-knee	108	膝頭骨	tc\_hi13 di713-33 ku0
-knee	108	膝蓋	tc\_hit5 kai42
-knee	108	膝頭	ts_hit1 t_heu11
-knee	108	膝頭	c\y55 tai22
-knee	108	膝頭	s6t5 t_h6u21
-knee	108	骨+交腹頭	k_ha55-21 Bu?24_-21_ t_hau53
-knee	108	腳頭足+夫	k_ha22-21 t_hau24-22 hu55
-
-wash	108	洗	c\i213
-wash	108	洗	c\i213
-wash	108	洗	c\i45
-wash	108	洗	c\i214
-wash	108	洗	c\i53
-wash	108	洗	c\i53
-wash	108	洗	c\i53
-wash	108	洗	c\i11
-wash	108	洗	si213
-wash	108	洗	dA231
-wash	108	洗	sei242
-wash	108	洗	c\i41
-wash	108	洗	c\i42
-wash	108	洗	c\i213
-wash	108	洗	se31
-wash	108	洗	c\i23
-wash	108	洗	s6i35
-wash	108	洗	sE32
-wash	108	洗	sue53
-
-think	109	想	c\iAN213
-think	109	想	c\iaN213
-think	109	想	c\iAN45
-think	109	想	siaN213
-think	109	想	c\iQ~53
-think	109	想	c\iAN53
-think	109	想	c\iaN53
-think	109	想	c\iA~11
-think	109	想	c\io~213
-think	109	想	sia~52
-think	109	想	c\i24
-think	109	想	c\ian41
-think	109	想	c\iON42
-think	109	想	c\iON213
-think	109	想	sioN213
-think	109	想	c\iAN23
-think	109	想	s9N35
-think	109	想	suoN32
-think	109	想	siu~22
-
-small	109	小	c\iAu213
-small	109	小	c\iau213
-small	109	小	c\iO45
-small	109	小	siau214
-small	109	小	c\iau53
-small	109	小	c\iAu53
-small	109	小	c\iau53
-small	109	小	c\iO11
-small	109	小	c\ie213
-small	109	小	si{52
-small	109	小	sai24
-small	109	小,細	(1) c\iau41, (2) c\i55
-small	109	小	c\i742
-small	109	小	c\iEu213
-small	109	細	se53
-small	109	細	c\i24
-small	109	小	siu35
-small	109	?,細	(1) nOuN242, (2) sA212
-small	109	小	sue21
-
-laugh	110	笑	c\iAu51
-laugh	110	笑,樂	(1) c\iau53, (2) l753
-laugh	110	笑	c\iO31
-laugh	110	笑	siau334
-laugh	110	笑	c\iau45
-laugh	110	笑	c\iAu44
-laugh	110	笑	c\iau213
-laugh	110	笑	c\iO44
-laugh	110	笑	c\ie35
-laugh	110	笑	si{412
-laugh	110	笑	c\iE51
-laugh	110	笑	c\iau55
-laugh	110	笑	si735
-laugh	110	笑	c\iEu45
-laugh	110	笑	siau53
-laugh	110	笑	c\iAu25
-laugh	110	笑	siu33
-laugh	110	笑	ts_hieu212
-laugh	110	笑	ts_hio21
-
-heart	110	心	c\in55
-heart	110	心	c\in44
-heart	110	心	c\ie~214
-heart	110	心	sin52
-heart	110	心	c\in21
-heart	110	心	c\ie~21
-heart	110	心	c\in45
-heart	110	心	c\in31
-heart	110	心	ciA~55
-heart	110	心	sin44
-heart	110	心	saN44
-heart	110	心	c\in33
-heart	110	心	c\in44
-heart	110	心	c\in42
-heart	110	心	sim33
-heart	110	心	c\iN42
-heart	110	心	s6m55
-heart	110	心	siN55
-heart	110	心	sim55
-
-heart [compound]	110	心臟	c\in55 tsAN51
-heart [compound]	110	心臟	c\in44 tsaN53
-heart [compound]	110	心臟	c\ie~213 tsAN21
-heart [compound]	110	心臟	sin52 tsaN334
-heart [compound]	110	心臟	c\in21 tsQ~45
-heart [compound]	110	心臟	c\ie~21 tsAN44
-heart [compound]	110	心<identical with "heart">	c\in45
-heart [compound]	110	心臟	c\in31 tsA~44
-heart [compound]	110	心臟	ciA~55-45 ts_hO31
-heart [compound]	110	心臟	sin44 zA~44
-heart [compound]	110	心臟	saN44 zuO22-24
-heart [compound]	110	心臟	c\in33 tsan11
-heart [compound]	110	完心	Gue~13 c\in44-33
-heart [compound]	110	心臟	c\in42 tsON42
-heart [compound]	110	心臟	sim33 ts_hoN53
-heart [compound]	110	心臟	c\iN42 tsAN21-33
-heart [compound]	110	心臟	s6m53 tsON22
-heart [compound]	110	心臟	siN55-53 NouN242
-heart [compound]	110	心臟	sim55-22 tsON22
-
-new	111	新	c\in55
-new	111	新	c\in44
-new	111	新	c\ie~214
-new	111	新	sin52
-new	111	新	c\iN21
-new	111	新	c\ie~21
-new	111	新	c\in45
-new	111	新	c\in31
-new	111	新	c\iA~55
-new	111	新	sin44
-new	111	新	saN44
-new	111	新	c\in33
-new	111	新	c\in44
-new	111	新	c\in42
-new	111	新	sin33
-new	111	新	c\iN42
-new	111	新	s6n53
-new	111	新	siN55
-new	111	新	sin55
-
-star	111	星星	c\iN55 c\iN0
-star	111	星星兒	c\iN44 c\i@r0
-star	111	星星	c\iN213-21 c\iN0
-star	111	星星	siN52 siN0
-star	111	星星	c\iN21 c\iN21-45
-star	111	星星	c\iN21 c\iN24
-star	111	星星兒,星宿兒	(1) c\in45 c\i@r55, (2) c\in45 c\i@r213-21
-star	111	星星	c\in31 c\in0
-star	111	星星	c\iA~55 c\iA55
-star	111	星	sin44
-star	111	星	seN44
-star	111	星星	c\in33 c\in0
-star	111	星子	siO~44 tsi_z0
-star	111	星子	c\iaN42 tsi_z0
-star	111	星兒	sen33-35 ne0
-star	111	星子	sei42 tse23-33
-star	111	星星	sEN55 sEN55
-star	111	星	siN55
-star	111	星	ts_hi~55
-
-snow	112	雪	c\yE213
-snow	112	雪	c\yE213
-snow	112	雪	c\y7214
-snow	112	雪	siE214
-snow	112	雪	c\y@?2
-snow	112	雪	c\yE21
-snow	112	雪	c\ye21
-snow	112	雪	c\ye?5
-snow	112	雪	c\ia?32_
-snow	112	雪	si@?4
-snow	112	雪	c\y41
-snow	112	雪	c\ie24
-snow	112	雪	sue13
-snow	112	雪	c\yet5
-snow	112	雪	siet1
-snow	112	雪	c\ye55
-snow	112	雪	syt3
-snow	112	雪	suo?24_
-snow	112	雪	se?32_
-
-blood	112	血	c\yE213
-blood	112	血	c\yE213
-blood	112	血	c\i@214
-blood	112	血	siE214
-blood	112	血	c\y@?2
-blood	112	血	c\iE21
-blood	112	血	c\ye21
-blood	112	血	c\ye?5
-blood	112	血	c\ya?32_
-blood	112	血	c\y@?4
-blood	112	血	c\y41
-blood	112	血	c\ie24
-blood	112	血	sue13
-blood	112	血	c\yet5
-blood	112	血	Ciat1
-blood	112	血	c\ye55
-blood	112	血	hyt3
-blood	112	血	hai?24_
-blood	112	血	hui?32_
+leg	103	腿	t_huei213
+leg	103	腿	t_huei213
+leg	103	腿	t_huei45
+leg	103	腿	t_hei214
+leg	103	腿	t_huei53
+leg	103	腿	t_huei53
+leg	103	腿	t_huei53
+leg	103	腿	t_huei11
+leg	103	腿	t_ha213
+leg	103	膀	phA~52
+leg	103	腳腳	tc\ia41-3 tc\ia41
+leg	103	腿,腿把子	(1) t_hei41, t_hei31 pa55 tsi_z0
+leg	103	腿	t_hue42
+leg	103	腿	t_hui213
+leg	103	腿	t_hui31
+leg	103	腿肚子	tc\iAu55 tu21 tse23-33
+leg	103	腿	t_h2y35
+leg	103	骹腿	k_ha55-53 l2y32
+leg	103	骹骨	k_ha55-22 kut32_
+dig	103	挖	uA`55
+dig	103	挖	ua44
+dig	103	挖	va214
+dig	103	挖	ua213
+dig	103	挖	va21
+dig	103	挖	uA1`
+dig	103	挖,包+刀,?	(1) ua45, (2) p_hau21, (3) tsua21
+dig	103	挖	uA31
+dig	103	挖	va?32_
+dig	103	挖	ua?4
+dig	103	?	lau44
+dig	103	挖	ua24
+dig	103	挖	ua13
+dig	103	挖	ua42
+dig	103	挖	vat1
+dig	103	挖	uA`55
+dig	103	挖	uat3
+dig	103	挖	ua?24_
+dig	103	手+烏	O53
+play	104	玩兒	uar35
+play	104	玩兒	uar24
+play	104	玩兒	v@r53
+play	104	玩兒	uEr35
+play	104	耍	sua53
+play	104	耍	fA53
+play	104	耍	sua53
+play	104	玩	uA~13
+play	104	嬉	si_z55
+play	104	白相	b@?23_ sia~412-13
+play	104	嬉	si_z44
+play	104	玩	uan13
+play	104	耍	sO42
+play	104	玩	uan45
+play	104	?,?	(1) kau31, (2) liau53
+play	104	耍	suA`23
+play	104	玩	uan21
+play	104	嬉?,骨+交遛	(1) hi55-53 hie212, (2) k_ha55 lieu53
+play	104	??	ts_hit32_-5 t_ho24
+night	104	晚上	uan123-21 s`AN51
+night	104	晚上,??,????	(1) uan213-21 s`aN0, (2) c\ia53 x@r44, (3) c\ia53 uar213-21 xei44
+night	104	晚上	v{!45-213 s`AN0
+night	104	???	xou334 s`i`0
+night	104	晚上	v{~53 sQ45
+night	104	黑咧	xei21 liE0
+night	104	晚上,黑了	(1) uan53-45 saN213-21, (2) xe21-55 l@u21
+night	104	晚上	uA~11-22 sA~44-22
+night	104	夜下	io31-53 xo0
+night	104	夜裡向	iA412-44 li0 c\ia~412-21
+night	104	黃昏	h\341-33 c\y44-22
+night	104	晚上,夜間子	(1) uan41 san11, (2) ia11 ka0 tsi_z0
+night	104	夜裡	iO11 li0
+night	104	夜晚	ia21 uan213
+night	104	暗晡	am53 pu33
+night	104	夜下	iA`21 xA`22
+night	104	晚上	man23 s9N22
+night	104	?晡	maN53-55 muo55
+night	104	下昏	e22-21 hN=55
+tail	105	尾	uei213
+tail	105	尾巴	uei213-21 pa0
+tail	105	尾巴	i45-213 pa0
+tail	105	尾巴	uei214-21 pa334
+tail	105	尾巴	vei53 pa0
+tail	105	尾巴	i53 pA0
+tail	105	尾巴,尾子	(1) uei53-45 pa55, (2) uei53-55 tsi_z53
+tail	105	尾巴	uei11-22 pA0
+tail	105	尾巴	vi213-31 po55
+tail	105	尾巴	n`i231-22 po44
+tail	105	尾巴	mei24 po44-42 N=0
+tail	105	尾巴	uei41 pa0
+tail	105	尾巴	ui42 pa0
+tail	105	尾巴	ui213 pa0
+tail	105	尾巴	mi33 pa33
+tail	105	尾巴	uei23 pA`42-22
+tail	105	尾巴	mei23
+tail	105	尾巴	muoi32 muoi32
+tail	105	尾巴,尾	(1) me53-55 pa55, (2) me53
+smell	105	聞	u@n35
+smell	105	聞	u@n24
+smell	105	聞	ve~53
+smell	105	聞	u@n52
+smell	105	聞	v@N21
+smell	105	聞	ve~24
+smell	105	聞	u@n21
+smell	105	聞	u@n13
+smell	105	碰～	p_hA~35
+smell	105	聞	m22n13
+smell	105	嗅<!sic!, would expect no nasal coda>	hoN51
+smell	105	聞	u@n13
+smell	105	嗅	c\i7N35
+smell	105	聞,嗅	(1) un45, (2) c\iuN45
+smell	105	鼻	p_hi53
+smell	105	聞	u7N22
+smell	105	聞	m6n21
+smell	105	鼻	pEi242
+smell	105	鼻	p_hi22
+I	106	我	uo213
+I	106	我	uo213
+I	106	我	vO45
+I	106	我	uO214
+I	106	我	G753
+I	106	我	N753
+I	106	我	No53
+I	106	我	o11
+I	106	我	O213
+I	106	吾	N@u231
+I	106	我	N=24
+I	106	我	No41
+I	106	我	N=42
+I	106	我	No213
+I	106	?	Nai11
+I	106	我	uo23
+I	106	我	NO23
+I	106	我	Nuai32
+I	106	我	Nua53
+we	106	我們	uo213-211 m@n35
+we	106	我們	uo213-21 m@n0
+we	106	我們	vO45-214 me~0
+we	106	我們	uO214-21 m@n35
+we	106	我們	G753 m70
+we	106	?	NE21
+we	106	我們	No53-45 m=55 
+we	106	我們	o11-21 m@n13
+we	106	我人	O213 iA~0
+we	106	吾伲	N@u231-13 n`i0
+we	106	我人+來	N=24-22 liE341-4
+we	106	我們	No41 m@n0
+we	106	我人+奄	N=42 Na44-33
+we	106	我們,我竹-固哩	(1) No213 m1n0, (2) No213 ko0 li0
+we	106	?丁人	Nai11 ten33-35 Nin11
+we	106	我囗囗囗	uo23 te23 lei42 k721
+we	106	我口+地	NO23 tei22
+we	106	侬家,侬家各侬,奴各侬(多用於女性，少用)	(1) naN53-21 Na55, (2) naN53-21 Na55-53 ko?24_-21_ n2yN53, nu53 ko?24_-21_ n2yN53
+we	106	人+自	lan53
+five	107	五	u213
+five	107	五	u213
+five	107	五	u45
+five	107	五	u214
+five	107	五	u53
+five	107	五	u53
+five	107	五	u53
+five	107	五	u11
+five	107	五	vu213
+five	107	五	N=231
+five	107	五	N=24
+five	107	五	u41
+five	107	五	u42
+five	107	五	N=213
+five	107	五	n=31
+five	107	五	N=23
+five	107	五	N=23
+five	107	五	Nou242
+five	107	五	gO22
+fog	107	霧	u51
+fog	107	霧	u53
+fog	107	霧	u31
+fog	107	霧	u334
+fog	107	霧	u45
+fog	107	霧	vu44
+fog	107	霧	u213
+fog	107	霧	u44
+fog	107	霧	vu31
+fog	107	迷露	mi13-22 l@u231
+fog	107	?	mø22
+fog	107	??	tsau55 tsi_z9
+fog	107	霧	u11
+fog	107	霧	u21
+fog	107	??	muN11 sa33
+fog	107	霧氣	u21 tc\_hi42-22
+fog	107	霧	mou22
+fog	107	霧	muo53
+fog	107	霧	bu22
