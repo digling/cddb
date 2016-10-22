@@ -61,9 +61,9 @@ Heping		Hépíng	和平	27.112778	117.297222		minb1244	mnp	Sinitic	Min	闽	Mǐn
 Zhenqian		Zhènqián	鎮前	25.2474987	119.2778522		minb1244	mnp	Sinitic	Min	闽	Mǐn		
 Jiangshan		Jiāngshān	江山	28.5629681	118.3206425	http://baike.baidu.com/view/763966.htm	wuch1236	wuu	Sinitic	Wu	吴	Wú		
 Jiangyong		Jiāngyǒng					xian1251	hsn	Sinitic	Xiang	湘	Xiāng		
-Old_Chinese		Shànggǔ Hànyǔ	上古汉语											
-Middle_Chinese		Zhōnggǔ Hànyǔ	中古汉语											
-Common_Chinese														
+Old_Chinese		Shànggǔ Hànyǔ	上古汉语						Sinitic	Old_Chinese				
+Middle_Chinese		Zhōnggǔ Hànyǔ	中古汉语						Sinitic	Middle_Chinese				
+Common_Chinese									Sinitic	Middle_Chinese				
 Jianchuan		Jiànchuān	剑川	26.538056	99.910000				Bai	Central				
 Eryuan		Ěryuán	洱源	26.0991374	99.9416161				Bai	Central				
 Heqing		Hèqìng	鹤庆	26.5536208	100.1396921				Bai	Central				
@@ -73,3 +73,4 @@ Qiliqiao		Qīlǐqiáo	七里桥	25.6553283	100.1709288				Bai	Southern
 Yunlong		Yúnlóng	云龙	25.9223745	99.0352884				Bai	Central				
 Xiangyun		Xiángyún	祥云	25.5313657	100.4478932				Bai	Southern				
 Luobenzhuo		Lùběnzhuó	洛本卓	26.4240223	98.8862088				Bai	Northern				
+Late_Han_Chinese									Sinitic	Old_Chinese				
