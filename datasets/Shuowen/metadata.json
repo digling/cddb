@@ -1,0 +1,8 @@
+{
+	"dataset" : "Shuowen",
+	"provider" : "Kawabata2016",
+	"source" : "Shuowen",
+	"comment" : "Duan1808",
+	"description_by_provider": "Shuowen Jiezi Zhu (説文解字注) Data is an attempt to encode \"Shuowen Jiezi Zhu\" written by Duan Yucai (段玉裁) in the UCS/Unicode. As of 2008, most of head characters are encoded, while some explanation and Duan notes have not yet been fully encoded. This data is originally produced by the research project funded by \"Japan Society for the Promotion of Science\" (2002-2004, Research ID 14510494). This data is distributed under GPL License.",
+	"license" : "GPL"
+}
