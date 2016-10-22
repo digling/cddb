@@ -6,9 +6,10 @@ def prepare(dataset):
     with open(dataset.get_path(['raw', 'sbgy.xml'])) as f:
         data = f.readlines()
     
-    D = [('ID', 'CHARACTER', 'DOCULECT', 'PINYIN', 'READING', 'FANQIE',
-        'RHYME_ID', 'RHYME_NUMBER', 'VOLUME', 'NOTE')]
+    D = [('ID', 'CHARACTER_ID', 'CHARACTER', 'DOCULECT', 'PINYIN', 'READING', 'FANQIE',
+        'RHYME_ID', 'RHYME_NUMBER', 'VOLUME', 'NOTE', 'SOURCE')]
     volume, rhyme_id, rhyme, ipa, fanqie, text  = '', '', '', '', '', ''
+    idx = 1
     for line in data:
         if '<volume id' in line:
             volume = re.findall('id="(.*?)"', line)[0]
@@ -40,10 +41,12 @@ def prepare(dataset):
                     pinyin = sinopy.pinyin(char)
                     if '?' in pinyin or sinopy.is_chinese(pinyin):
                         pinyin = ''
-                D += [(
+                D += [(str(idx),
                     charid, char.strip(), 'Middle_Chinese', pinyin, ipa,
                     fanqie.strip(),
-                    rhyme_id.strip(), rhyme.strip(), volume, note.strip())]
+                    rhyme_id.strip(), rhyme.strip(), volume, note.strip(),
+                    'Zhou1938')]
+                idx += 1
                 text = ''
             
             if text:
@@ -56,5 +59,5 @@ def prepare(dataset):
 
     with open(dataset.get_path(['characters.tsv']), 'w') as f:
         for line in D:
-            f.write('\t'.join(line)+'\n')
+            f.write('\t'.join([l.replace('\t', '') for l in line])+'\n')
             

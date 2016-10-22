@@ -1,4 +1,6 @@
 from pycddb import *
+from pycddb.util import cddb_path
+from glob import glob
 from pycddb.data import github
 import os
 from pycddb.dataset import Dataset
@@ -58,7 +60,18 @@ def main():
         if 'check' in argv:
             dset._run_command('check')
 
-
-
-
+    if 'list' in argv:
+        if 'sources' in argv:
+            sources = sorted(glob(cddb_path('datasets', '*', '__init__.py')))
+            for i, s in enumerate(sources):
+                src = os.path.split(os.path.split(s)[0])[1]
+                dset = Dataset(src)
+                words, chars = 0, 0
+                if dset.words:
+                    words = len(dset.words)
+                if dset.characters:
+                    chars = dset.characters.height
+                print('{0:20}: {1:5} languages {2:6} words {3:6} characters'.format(src,
+                    len(dset.languages), words, chars)) 
+                
     

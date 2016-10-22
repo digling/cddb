@@ -66,7 +66,13 @@ class Dataset(object):
 
 
     @cached_property()
-    def wordlist(self):
+    def words(self):
         if os.path.exists(self.get_path(['words.tsv'])):
             return Wordlist(self.get_path(['words.tsv']))
+        return None
+    
+    @cached_property()
+    def characters(self):
+        if os.path.exists(self.get_path(['characters.tsv'])):
+            return Wordlist(self.get_path(['characters.tsv']), row='character')
         return None

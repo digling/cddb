@@ -4,6 +4,7 @@ import os
 from clldutils.misc import slug
 from pyconcepticon.api import Concepticon
 from collections import OrderedDict
+from sinopy import sinopy
 
 import lingpy as lp
 
@@ -28,6 +29,28 @@ def load_languages(delimiter='\t', return_type='dict'):
     else:
         return data
 
-def query_languages(family, column):
-    pass
-    
+def renumber_partial(wordlist, name='cogids', partial_cognates='value'):
+    # renumber for partial cognates
+    pcogs, idx = {}, 1
+    converter = {}
+    for k in wordlist:
+        chars = sinopy.gbk2big5(wordlist[k, partial_cognates])
+        concept = wordlist[k, 'concept']
+        cogids = []
+        for char in chars:
+            if sinopy.is_chinese(char):
+                if char not in pcogs:
+                    pcogs[char] = idx
+                    idx += 1
+                cchar = concept + ':' + str(pcogs[char])
+                if cchar not in pcogs:
+                    pcogs[cchar] = pcogs[char]
+            else:
+                cchar = concept + ':' + char
+                if cchar not in pcogs:
+                    pcogs[cchar] = idx
+                    idx += 1
+            cogids += [pcogs[cchar]]
+        converter[k] = ' '.join([str(x) for x in cogids])
+    wordlist.add_entries(name, converter, lambda x: x)
+

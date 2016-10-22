@@ -24,8 +24,12 @@ def check(dataset):
                 tmp = re.split(r'\s*', stack)
                 try:
                     py, ch, _qy, qy, _cc, cc = tmp
-                    D += [[str(idx), ch, py, qy, cc, str(page+1)]]
-                    idx += 1
+                    if qy:
+                        D += [[str(idx), ch, py, 'Middle_Chinese', qy, str(page+1)]]
+                        idx += 1
+                    if cc:
+                        D += [[str(idx), ch, py, 'Common_Chinese', cc, str(page+1)]]
+                        idx += 1
                 except ValueError:
                     print(errors, page+1, len(tmp), stack)
                     errors += 1
@@ -38,6 +42,6 @@ def check(dataset):
                 page = int(pagex[0])
 
     with open(dataset.get_path(['characters.tsv']), 'w') as f:
-        f.write('ID\tCHARACTER\tPINYIN\tQIEYUN\tCOMMON_CHINESE\tPAGE\n')
+        f.write('ID\tCHARACTER\tPINYIN\tDOCULECT\tREADING\tPAGE\n')
         for line in D:
             f.write('\t'.join(line)+'\n')
