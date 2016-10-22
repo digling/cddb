@@ -1,0 +1,9 @@
+{
+	"dataset" : "Guangyun",
+	"provider" : "Kawabata2016",
+	"source" : "Guangyun",
+	"commentary" : "Zhou1938",
+	"license" : "LGPL",
+	"description_by_provider" : "Songben Guangyun (宋本廣韻) Data is an attempt to encode \"Songben Guangyun\" corrected by Zhou Zumo (周祖謨) in the UCS/Unicode. As of 2008, most of head characters are encoded, while some notes have not yet been fully encoded. This data is originally produced by the research project funded by \"Japan Society for the Promotion of Science\" (2002-2004, Research ID 14510494). This data is distributed under GPL License.",
+	"character_url" : "http://kanji-database.sourceforge.net/dict/sbgy/{volume}.html#{ID}"
+}
