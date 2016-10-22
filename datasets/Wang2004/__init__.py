@@ -25,7 +25,7 @@ def prepare(dataset):
     # correct wrong pinyins in sinopy
     pinyin = { "虱" : "shī", "咯" : "gē", "強" : "qiáng", "哩" : "lǐ", "喏" : "nuò", "鳧" : "fú", "伲" : "nǐ", "黃" : "huáng", "哋" : "dì", "阿" : "ā", "卵" : "luǎn", "說" : "shuō", "喙" : "huì", "頸" : "jǐng", "唔" : "wú}", "雞" : "jī", "黒" : "hēi", "哪" : "nǎ", "麼" : "me", "蔃" : "qiáng", "葷" : "hūn", "鳥" : "niǎo}", "舌" : "huà", "吃" : "chī", "膘" : "biǎo}", "綠" : "lǜ", "羽" : "yǔ", "們" : "men", "焦" : "jiāo", "腳" : "jiǎo", "乜" : "miē", "即" : "jí", "佬" : "lǎo", }
 
-    with UnicodeReader(dataset.get_path(['raw', 'Wang2004.csv']), delimiter='\t') as reader:
+    with UnicodeReader(dataset.get_path('raw', 'Wang2004.csv'), delimiter='\t') as reader:
         lines = list(reader)
     D = {}
     idx = 1
@@ -70,7 +70,7 @@ def prepare(dataset):
             cogids += [pcogs[cchar]]
         converter[k] = ' '.join([str(x) for x in cogids])
     wl.add_entries('cogids', converter, lambda x: x)
-    wl.output('tsv', filename=dataset.get_path(['words']), prettify=False, ignore='all')
+    wl.output('tsv', filename=dataset.get_path('words'), prettify=False, ignore='all')
     
     # we also write the characters
     C = [['ID', 'CHARACTER', 'PINYIN', 'WORDS_COGIDS', 'WORDS_ID', 'CONCEPT', 'DOCULECT',
@@ -95,14 +95,14 @@ def prepare(dataset):
                 idx += 1
     for k, v in errors.items():
         print('"'+k+'" : "'+v+'",')
-    with open(dataset.get_path(['characters.tsv']), 'w') as f:
+    with open(dataset.get_path('characters.tsv'), 'w') as f:
         for line in C:
             f.write('\t'.join([str(x) for x in line])+'\n')
     
     # prepare the trees
-    with open(dataset.get_path(['raw', 'tree-100.tre'])) as f1:
-        with open(dataset.get_path(['trees', 'tree-100.tre']), 'w') as f2:
+    with open(dataset.get_path('raw', 'tree-100.tre')) as f1:
+        with open(dataset.get_path('trees', 'tree-100.tre'), 'w') as f2:
             f2.write(''.join([varieties_in_source.get(x, x) for x in f1.read()]))
-    with open(dataset.get_path(['raw', 'tree-95.tre'])) as f1:
-        with open(dataset.get_path(['trees', 'tree-95.tre']), 'w') as f2:
+    with open(dataset.get_path('raw', 'tree-95.tre')) as f1:
+        with open(dataset.get_path('trees', 'tree-95.tre'), 'w') as f2:
             f2.write(''.join([varieties_in_source.get(x, x) for x in f1.read()]))

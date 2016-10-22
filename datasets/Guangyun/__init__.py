@@ -3,7 +3,7 @@ from sinopy import sinopy
 
 def prepare(dataset):
 
-    with open(dataset.get_path(['raw', 'sbgy.xml'])) as f:
+    with open(dataset.get_path('raw', 'sbgy.xml')) as f:
         data = f.readlines()
     
     D = [('ID', 'CHARACTER_ID', 'CHARACTER', 'DOCULECT', 'PINYIN', 'READING', 'FANQIE',
@@ -57,7 +57,7 @@ def prepare(dataset):
 
 
 
-    with open(dataset.get_path(['characters.tsv']), 'w') as f:
+    with open(dataset.get_path('characters.tsv'), 'w') as f:
         for line in D:
             f.write('\t'.join([l.replace('\t', '') for l in line])+'\n')
             

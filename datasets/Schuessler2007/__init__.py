@@ -1,7 +1,7 @@
 import re
 
 def prepare(dataset):
-    with open(dataset.get_path(['raw', '__private__schuessler.txt'])) as f:
+    with open(dataset.get_path('raw', '__private__schuessler.txt')) as f:
         data = f.readlines()
 
     D = [('ID', 'CHARACTER', 'PINYIN', 'DOCULECT', 'WORD_FAMILY',
@@ -65,6 +65,6 @@ def prepare(dataset):
         if line.startswith('OCM'):
             ocm = line[26:].strip()
     
-    with open(dataset.get_path(['characters.tsv']), 'w') as f:
+    with open(dataset.get_path('characters.tsv'), 'w') as f:
         for i, line in enumerate(D):
             f.write('\t'.join([str(x) for x in line])+'\n')

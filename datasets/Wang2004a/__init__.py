@@ -8,10 +8,10 @@ def prepare(dataset):
     # correct wrong pinyins in sinopy
     pinyin = { "虱" : "shī", "咯" : "gē", "強" : "qiáng", "哩" : "lǐ", "喏" : "nuò", "鳧" : "fú", "伲" : "nǐ", "黃" : "huáng", "哋" : "dì", "阿" : "ā", "卵" : "luǎn", "說" : "shuō", "喙" : "huì", "頸" : "jǐng", "唔" : "wú}", "雞" : "jī", "黒" : "hēi", "哪" : "nǎ", "麼" : "me", "蔃" : "qiáng", "葷" : "hūn", "鳥" : "niǎo}", "舌" : "huà", "吃" : "chī", "膘" : "biǎo}", "綠" : "lǜ", "羽" : "yǔ", "們" : "men", "焦" : "jiāo", "腳" : "jiǎo", "乜" : "miē", "即" : "jí", "佬" : "lǎo"}
 
-    wl = Wordlist(dataset.get_path(['raw', 'D_wang-2006.tsv']))
+    wl = Wordlist(dataset.get_path('raw', 'D_wang-2006.tsv'))
     concepts = dict([(x.english, x.concepticon_id) for x in Concepticon().conceptlists['Wang-2006-200'].concepts.values()])
     D = {}
-    och = csv2list(dataset.get_path(['raw', 'D_old_chinese.csv']))
+    och = csv2list(dataset.get_path('raw', 'D_old_chinese.csv'))
     nidx = max([k for k in wl]) + 1
     
     wl.add_entries('concepticon_id', 'concept', lambda x: concepts[x])
@@ -33,7 +33,7 @@ def prepare(dataset):
 
     wl2 = Wordlist(D)
     renumber_partial(wl2, name='cogids', partial_cognates='characters')
-    wl2.output('tsv', filename=dataset.get_path(['words']), ignore='all',
+    wl2.output('tsv', filename=dataset.get_path('words'), ignore='all',
             prettify=False)
 
     # we also write the characters
@@ -59,7 +59,7 @@ def prepare(dataset):
                 idx += 1
     for k, v in errors.items():
         print('"'+k+'" : "'+v+'",')
-    with open(dataset.get_path(['characters.tsv']), 'w') as f:
+    with open(dataset.get_path('characters.tsv'), 'w') as f:
         for line in C:
             f.write('\t'.join([str(x) for x in line])+'\n')
 

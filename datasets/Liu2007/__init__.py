@@ -8,7 +8,7 @@ from pyconcepticon.api import Concepticon
 
 def _get_data(dataset):
 
-    files = sorted(glob(dataset.get_path(['raw', 'chinese-*.tsv'])))
+    files = sorted(glob(dataset.get_path('raw', 'chinese-*.tsv')))
     tone_converter = dict(zip('012345-', '⁰¹²³⁴⁵¯'))
     tone_converter['_'] = ''
     converter = [
@@ -96,7 +96,7 @@ def prepare(dataset):
     D[0] = ['doculect', 'doculect_id', 'concept', 'concept_chinese',
             'concepticon_id', 'characters', 'value', 'tokens', 'sampa', 'page']
     wl = Wordlist(D)
-    wl.output('tsv', filename=dataset.get_path(['words']), ignore='all',
+    wl.output('tsv', filename=dataset.get_path('words'), ignore='all',
             prettify=False)
     print(errors)
 

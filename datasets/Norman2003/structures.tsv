@@ -1,0 +1,166 @@
+ID	STRUCTURE	STRUCTURE_ID	DOCULECT	DOCULECT_IN_SOURCE	VALUE
+1	The third person pronoun is tā, or cognate to it.	1	Beijing	Bj	+
+2	The third person pronoun is tā, or cognate to it.	1	Taiyuan	Ty	+
+3	The third person pronoun is tā, or cognate to it.	1	Yangzhou	Yz	+
+4	The third person pronoun is tā, or cognate to it.	1	Suzhou	Sz	−
+5	The third person pronoun is tā, or cognate to it.	1	Wenzhou	Wz	−
+6	The third person pronoun is tā, or cognate to it.	1	Changsha	Cs	+
+7	The third person pronoun is tā, or cognate to it.	1	Shuangfeng	Sf	+
+8	The third person pronoun is tā, or cognate to it.	1	Nanchang	Nc	−
+9	The third person pronoun is tā, or cognate to it.	1	Meixian	Mx	−
+10	The third person pronoun is tā, or cognate to it.	1	Guangzhou	Gz	−
+11	The third person pronoun is tā, or cognate to it.	1	Jiangyong	Jy	−
+12	The subordinative particle is de, or cognate to it.	2	Beijing	Bj	+
+13	The subordinative particle is de, or cognate to it.	2	Taiyuan	Ty	+
+14	The subordinative particle is de, or cognate to it.	2	Yangzhou	Yz	+
+15	The subordinative particle is de, or cognate to it.	2	Suzhou	Sz	−
+16	The subordinative particle is de, or cognate to it.	2	Wenzhou	Wz	−
+17	The subordinative particle is de, or cognate to it.	2	Changsha	Cs	−
+18	The subordinative particle is de, or cognate to it.	2	Shuangfeng	Sf	−
+19	The subordinative particle is de, or cognate to it.	2	Nanchang	Nc	−
+20	The subordinative particle is de, or cognate to it.	2	Meixian	Mx	−
+21	The subordinative particle is de, or cognate to it.	2	Guangzhou	Gz	−
+22	The subordinative particle is de, or cognate to it.	2	Jiangyong	Jy	−
+23	The copula is shì, or cognate to it.	3	Beijing	Bj	+
+24	The copula is shì, or cognate to it.	3	Taiyuan	Ty	+
+25	The copula is shì, or cognate to it.	3	Yangzhou	Yz	+
+26	The copula is shì, or cognate to it.	3	Suzhou	Sz	+
+27	The copula is shì, or cognate to it.	3	Wenzhou	Wz	+
+28	The copula is shì, or cognate to it.	3	Changsha	Cs	+
+29	The copula is shì, or cognate to it.	3	Shuangfeng	Sf	+
+30	The copula is shì, or cognate to it.	3	Nanchang	Nc	+
+31	The copula is shì, or cognate to it.	3	Meixian	Mx	−
+32	The copula is shì, or cognate to it.	3	Guangzhou	Gz	−
+33	The copula is shì, or cognate to it.	3	Jiangyong	Jy	−
+34	Velars palatalize before high front vowels.	4	Beijing	Bj	+
+35	Velars palatalize before high front vowels.	4	Taiyuan	Ty	+
+36	Velars palatalize before high front vowels.	4	Yangzhou	Yz	+
+37	Velars palatalize before high front vowels.	4	Suzhou	Sz	+
+38	Velars palatalize before high front vowels.	4	Wenzhou	Wz	+
+39	Velars palatalize before high front vowels.	4	Changsha	Cs	+
+40	Velars palatalize before high front vowels.	4	Shuangfeng	Sf	+
+41	Velars palatalize before high front vowels.	4	Nanchang	Nc	+
+42	Velars palatalize before high front vowels.	4	Meixian	Mx	−
+43	Velars palatalize before high front vowels.	4	Guangzhou	Gz	−
+44	Velars palatalize before high front vowels.	4	Jiangyong	Jy	+
+45	Words like rǎn ‘dye’ and rè ‘hot’ have a non-nasal initial.	5	Beijing	Bj	+
+46	Words like rǎn ‘dye’ and rè ‘hot’ have a non-nasal initial.	5	Taiyuan	Ty	+
+47	Words like rǎn ‘dye’ and rè ‘hot’ have a non-nasal initial.	5	Yangzhou	Yz	+
+48	Words like rǎn ‘dye’ and rè ‘hot’ have a non-nasal initial.	5	Suzhou	Sz	−
+49	Words like rǎn ‘dye’ and rè ‘hot’ have a non-nasal initial.	5	Wenzhou	Wz	−
+50	Words like rǎn ‘dye’ and rè ‘hot’ have a non-nasal initial.	5	Changsha	Cs	+
+51	Words like rǎn ‘dye’ and rè ‘hot’ have a non-nasal initial.	5	Shuangfeng	Sf	−
+52	Words like rǎn ‘dye’ and rè ‘hot’ have a non-nasal initial.	5	Nanchang	Nc	−
+53	Words like rǎn ‘dye’ and rè ‘hot’ have a non-nasal initial.	5	Meixian	Mx	−
+54	Words like rǎn ‘dye’ and rè ‘hot’ have a non-nasal initial.	5	Guangzhou	Gz	−
+55	Words like rǎn ‘dye’ and rè ‘hot’ have a non-nasal initial.	5	Jiangyong	Jy	−
+56	Words like wěi ‘tail’ and wén ‘mosquito’ have a non-nasal initial.	6	Beijing	Bj	+
+57	Words like wěi ‘tail’ and wén ‘mosquito’ have a non-nasal initial.	6	Taiyuan	Ty	+
+58	Words like wěi ‘tail’ and wén ‘mosquito’ have a non-nasal initial.	6	Yangzhou	Yz	+
+59	Words like wěi ‘tail’ and wén ‘mosquito’ have a non-nasal initial.	6	Suzhou	Sz	+
+60	Words like wěi ‘tail’ and wén ‘mosquito’ have a non-nasal initial.	6	Wenzhou	Wz	−
+61	Words like wěi ‘tail’ and wén ‘mosquito’ have a non-nasal initial.	6	Changsha	Cs	+
+62	Words like wěi ‘tail’ and wén ‘mosquito’ have a non-nasal initial.	6	Shuangfeng	Sf	+
+63	Words like wěi ‘tail’ and wén ‘mosquito’ have a non-nasal initial.	6	Nanchang	Nc	+
+64	Words like wěi ‘tail’ and wén ‘mosquito’ have a non-nasal initial.	6	Meixian	Mx	−
+65	Words like wěi ‘tail’ and wén ‘mosquito’ have a non-nasal initial.	6	Guangzhou	Gz	−
+66	Words like wěi ‘tail’ and wén ‘mosquito’ have a non-nasal initial.	6	Jiangyong	Jy	−
+67	The qù tone lacks a register distinction.	7	Beijing	Bj	+
+68	The qù tone lacks a register distinction.	7	Taiyuan	Ty	+
+69	The qù tone lacks a register distinction.	7	Yangzhou	Yz	+
+70	The qù tone lacks a register distinction.	7	Suzhou	Sz	−
+71	The qù tone lacks a register distinction.	7	Wenzhou	Wz	−
+72	The qù tone lacks a register distinction.	7	Changsha	Cs	−
+73	The qù tone lacks a register distinction.	7	Shuangfeng	Sf	−
+74	The qù tone lacks a register distinction.	7	Nanchang	Nc	−
+75	The qù tone lacks a register distinction.	7	Meixian	Mx	+
+76	The qù tone lacks a register distinction.	7	Guangzhou	Gz	−
+77	The qù tone lacks a register distinction.	7	Jiangyong	Jy	−
+78	The verb ‘to wear (clothing)’ is chuān, or cognate to it.	8	Beijing	Bj	+
+79	The verb ‘to wear (clothing)’ is chuān, or cognate to it.	8	Taiyuan	Ty	+
+80	The verb ‘to wear (clothing)’ is chuān, or cognate to it.	8	Yangzhou	Yz	+
+81	The verb ‘to wear (clothing)’ is chuān, or cognate to it.	8	Suzhou	Sz	−
+82	The verb ‘to wear (clothing)’ is chuān, or cognate to it.	8	Wenzhou	Wz	−
+83	The verb ‘to wear (clothing)’ is chuān, or cognate to it.	8	Changsha	Cs	+
+84	The verb ‘to wear (clothing)’ is chuān, or cognate to it.	8	Shuangfeng	Sf	+
+85	The verb ‘to wear (clothing)’ is chuān, or cognate to it.	8	Nanchang	Nc	−
+86	The verb ‘to wear (clothing)’ is chuān, or cognate to it.	8	Meixian	Mx	−
+87	The verb ‘to wear (clothing)’ is chuān, or cognate to it.	8	Guangzhou	Gz	−
+88	The verb ‘to wear (clothing)’ is chuān, or cognate to it.	8	Jiangyong	Jy	−
+89	The word for ‘(cooking) pot’ is guō, or cognate to it.	9	Beijing	Bj	+
+90	The word for ‘(cooking) pot’ is guō, or cognate to it.	9	Taiyuan	Ty	+
+91	The word for ‘(cooking) pot’ is guō, or cognate to it.	9	Yangzhou	Yz	+
+92	The word for ‘(cooking) pot’ is guō, or cognate to it.	9	Suzhou	Sz	−
+93	The word for ‘(cooking) pot’ is guō, or cognate to it.	9	Wenzhou	Wz	−
+94	The word for ‘(cooking) pot’ is guō, or cognate to it.	9	Changsha	Cs	+
+95	The word for ‘(cooking) pot’ is guō, or cognate to it.	9	Shuangfeng	Sf	+
+96	The word for ‘(cooking) pot’ is guō, or cognate to it.	9	Nanchang	Nc	+
+97	The word for ‘(cooking) pot’ is guō, or cognate to it.	9	Meixian	Mx	−
+98	The word for ‘(cooking) pot’ is guō, or cognate to it.	9	Guangzhou	Gz	−
+99	The word for ‘(cooking) pot’ is guō, or cognate to it.	9	Jiangyong	Jy	−
+100	The word for ‘house’ is fáng(zi), or cognate to it.	10	Beijing	Bj	+
+101	The word for ‘house’ is fáng(zi), or cognate to it.	10	Taiyuan	Ty	+
+102	The word for ‘house’ is fáng(zi), or cognate to it.	10	Yangzhou	Yz	+
+103	The word for ‘house’ is fáng(zi), or cognate to it.	10	Suzhou	Sz	+
+104	The word for ‘house’ is fáng(zi), or cognate to it.	10	Wenzhou	Wz	−
+105	The word for ‘house’ is fáng(zi), or cognate to it.	10	Changsha	Cs	−
+106	The word for ‘house’ is fáng(zi), or cognate to it.	10	Shuangfeng	Sf	−
+107	The word for ‘house’ is fáng(zi), or cognate to it.	10	Nanchang	Nc	−
+108	The word for ‘house’ is fáng(zi), or cognate to it.	10	Meixian	Mx	−
+109	The word for ‘house’ is fáng(zi), or cognate to it.	10	Guangzhou	Gz	−
+110	The word for ‘house’ is fáng(zi), or cognate to it.	10	Jiangyong	Jy	−
+111	The word for ‘son’ is ér(zi), or cognate to it.	11	Beijing	Bj	+
+112	The word for ‘son’ is ér(zi), or cognate to it.	11	Taiyuan	Ty	+
+113	The word for ‘son’ is ér(zi), or cognate to it.	11	Yangzhou	Yz	+
+114	The word for ‘son’ is ér(zi), or cognate to it.	11	Suzhou	Sz	+
+115	The word for ‘son’ is ér(zi), or cognate to it.	11	Wenzhou	Wz	+
+116	The word for ‘son’ is ér(zi), or cognate to it.	11	Changsha	Cs	−
+117	The word for ‘son’ is ér(zi), or cognate to it.	11	Shuangfeng	Sf	−
+118	The word for ‘son’ is ér(zi), or cognate to it.	11	Nanchang	Nc	−
+119	The word for ‘son’ is ér(zi), or cognate to it.	11	Meixian	Mx	−
+120	The word for ‘son’ is ér(zi), or cognate to it.	11	Guangzhou	Gz	−
+121	The word for ‘son’ is ér(zi), or cognate to it.	11	Jiangyong	Jy	−
+122	The word for ‘stand’ is zhàn, or cognate to it.	12	Beijing	Bj	+
+123	The word for ‘stand’ is zhàn, or cognate to it.	12	Taiyuan	Ty	+
+124	The word for ‘stand’ is zhàn, or cognate to it.	12	Yangzhou	Yz	+
+125	The word for ‘stand’ is zhàn, or cognate to it.	12	Suzhou	Sz	−
+126	The word for ‘stand’ is zhàn, or cognate to it.	12	Wenzhou	Wz	−
+127	The word for ‘stand’ is zhàn, or cognate to it.	12	Changsha	Cs	±
+128	The word for ‘stand’ is zhàn, or cognate to it.	12	Shuangfeng	Sf	−
+129	The word for ‘stand’ is zhàn, or cognate to it.	12	Nanchang	Nc	−
+130	The word for ‘stand’ is zhàn, or cognate to it.	12	Meixian	Mx	−
+131	The word for ‘stand’ is zhàn, or cognate to it.	12	Guangzhou	Gz	−
+132	The word for ‘stand’ is zhàn, or cognate to it.	12	Jiangyong	Jy	−
+133	The verb in the expression ‘to rain’ is xià, or cognate to it.	13	Beijing	Bj	+
+134	The verb in the expression ‘to rain’ is xià, or cognate to it.	13	Taiyuan	Ty	+
+135	The verb in the expression ‘to rain’ is xià, or cognate to it.	13	Yangzhou	Yz	+
+136	The verb in the expression ‘to rain’ is xià, or cognate to it.	13	Suzhou	Sz	−
+137	The verb in the expression ‘to rain’ is xià, or cognate to it.	13	Wenzhou	Wz	−
+138	The verb in the expression ‘to rain’ is xià, or cognate to it.	13	Changsha	Cs	−
+139	The verb in the expression ‘to rain’ is xià, or cognate to it.	13	Shuangfeng	Sf	−
+140	The verb in the expression ‘to rain’ is xià, or cognate to it.	13	Nanchang	Nc	−
+141	The verb in the expression ‘to rain’ is xià, or cognate to it.	13	Meixian	Mx	−
+142	The verb in the expression ‘to rain’ is xià, or cognate to it.	13	Guangzhou	Gz	−
+143	The verb in the expression ‘to rain’ is xià, or cognate to it.	13	Jiangyong	Jy	−
+144	The verb for ‘to walk’ is zǒu, or cognate to it.	14	Beijing	Bj	+
+145	The verb for ‘to walk’ is zǒu, or cognate to it.	14	Taiyuan	Ty	+
+146	The verb for ‘to walk’ is zǒu, or cognate to it.	14	Yangzhou	Yz	+
+147	The verb for ‘to walk’ is zǒu, or cognate to it.	14	Suzhou	Sz	±
+148	The verb for ‘to walk’ is zǒu, or cognate to it.	14	Wenzhou	Wz	±
+149	The verb for ‘to walk’ is zǒu, or cognate to it.	14	Changsha	Cs	+
+150	The verb for ‘to walk’ is zǒu, or cognate to it.	14	Shuangfeng	Sf	−
+151	The verb for ‘to walk’ is zǒu, or cognate to it.	14	Nanchang	Nc	+
+152	The verb for ‘to walk’ is zǒu, or cognate to it.	14	Meixian	Mx	−
+153	The verb for ‘to walk’ is zǒu, or cognate to it.	14	Guangzhou	Gz	−
+154	The verb for ‘to walk’ is zǒu, or cognate to it.	14	Jiangyong	Jy	−
+155	The gender marker for animals is prefixed.	15	Beijing	Bj	+
+156	The gender marker for animals is prefixed.	15	Taiyuan	Ty	+
+157	The gender marker for animals is prefixed.	15	Yangzhou	Yz	+
+158	The gender marker for animals is prefixed.	15	Suzhou	Sz	+
+159	The gender marker for animals is prefixed.	15	Wenzhou	Wz	±
+160	The gender marker for animals is prefixed.	15	Changsha	Cs	−
+161	The gender marker for animals is prefixed.	15	Shuangfeng	Sf	−
+162	The gender marker for animals is prefixed.	15	Nanchang	Nc	−
+163	The gender marker for animals is prefixed.	15	Meixian	Mx	−
+164	The gender marker for animals is prefixed.	15	Guangzhou	Gz	−
+165	The gender marker for animals is prefixed.	15	Jiangyong	Jy	−

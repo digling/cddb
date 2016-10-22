@@ -8,7 +8,7 @@ def _clean_html(line):
 def check(dataset):
     
     D, idx, errors = [], 1, 1
-    with open(dataset.get_path(['raw', '08-Gan Appendix.html'])) as f:
+    with open(dataset.get_path('raw', '08-Gan Appendix.html')) as f:
         stack = ''
         qys, cdc = False, True
         page = 360
@@ -41,7 +41,7 @@ def check(dataset):
             if pagex:
                 page = int(pagex[0])
 
-    with open(dataset.get_path(['characters.tsv']), 'w') as f:
+    with open(dataset.get_path('characters.tsv'), 'w') as f:
         f.write('ID\tCHARACTER\tPINYIN\tDOCULECT\tREADING\tPAGE\n')
         for line in D:
             f.write('\t'.join(line)+'\n')

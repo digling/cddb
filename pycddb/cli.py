@@ -1,5 +1,5 @@
 from pycddb import *
-from pycddb.util import cddb_path
+from pycddb.util import cddb_path, write_map
 from glob import glob
 from pycddb.data import github
 import os
@@ -38,6 +38,14 @@ def main():
     if 'open' in argv:
         if 'github' in argv:
             os.system('firefox --new-tab '+github)
+    
+    if 'prepare' in argv:
+        dset = Dataset(argv[argv.index('prepare')+1])
+        dset.prepare()
+
+    if 'map' in argv:
+        write_map(cddb_path('varieties', 'languages.csv'), 
+                cddb_path('varieties', 'languages.geojson'))
 
     if dataset:
         dset = Dataset(dataset)

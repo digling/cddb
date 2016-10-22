@@ -5,7 +5,7 @@ def prepare(dataset):
     
     img_url = "http://kanji-database.sourceforge.net/dict/swjz/swjz-img/"
 
-    with open(dataset.get_path(['raw', 'swjz.xml'])) as f:
+    with open(dataset.get_path('raw', 'swjz.xml')) as f:
         data = f.readlines()
     
     wordheads = {}
@@ -53,7 +53,7 @@ def prepare(dataset):
                 if bu and sinopy.is_chinese(bu):
                     wordheads[wid]['rhyme'] = bu[0]
 
-    with open(dataset.get_path(['characters.tsv']), 'w') as f:
+    with open(dataset.get_path('characters.tsv'), 'w') as f:
         f.write('ID\tCHARACTER_ID\tGROUP\tCHARACTER\tPINYIN\tDOCULECT\tRADICAL\tPHONETIC\tFANQIE\tRHYME\tCHAPTER\tIMAGE\n')
         idx = 1
         for k, vals in sorted(wordheads.items(), key=lambda x: x[0]):
