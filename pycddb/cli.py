@@ -5,6 +5,7 @@ from pycddb.data import github
 import os
 from pycddb.dataset import Dataset
 from lingpy import *
+from pycddb.md import *
 
 
 def parse_dash(dash, datatype, args, default):
@@ -81,5 +82,12 @@ def main():
                     chars = dset.characters.height
                 print('{0:20}: {1:5} languages {2:6} words {3:6} characters'.format(src,
                     len(dset.languages), words, chars)) 
-                
+     
+    if 'markdown' in argv:
+        md_sources()
+
+    if 'master' in argv:
+        if 'characters' in argv:
+            from pycddb.commands import character_list
+            character_list()
     

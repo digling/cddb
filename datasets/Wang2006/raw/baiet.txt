@@ -1,0 +1,467 @@
+NUMBER  	PB  	PRNUM  	WORD  	TL  	GX  	EQ  	EG  	JM  	JX  	DS  	ZC  	MZL  	JC  	EY  	HQ  	LP  	QLQ  	YL  	XY  	LBZ  	   
+1	xen1  	0	sky  	xen55  	hen55  	xE24  	xɛ̃55  	xɛ̃55  	xen55  	xen55  	xe55  	xen55  	  	  	  	  	  	  	  	  	   
+2	nji4  	0	sun  	jien42  	ɲi24  	ɲi55  	ɲi44  	ɲi55  	jien44  	jien44  	mi44  	ɲiɛ44  	  	  	  	  	  	  	  	  	   
+4	mji1a-ŋua4  	0	moon  	jien55uo42  	ɲi24uaŋ55  	miE24ua55  	ɲia55ŋua44  	ɲio55ŋõ55  	mi5̄̄5uɑ̃55  	mi55uã55  	mi35ua44  	mien55ŋua44  	  	  	  	  	  	  	  	  	   
+5	sjæn1  	0	star  	ɕiaŋ55  	san55  	ɕiæ24  	ɕia55  	ɕiã55  	ɕian55  	ɕiɚ̃55  	ɕiɛ55  	ɕɚ̃55  	  	  	  	  	  	  	  	  	   
+7	ŋɔ1b		cloud	ŋɔ35	ŋE12	Ræ21	(mM~121)	(mM21)	v~21	vo~21	v21	yen21									
+8	sky+cry  	0	thunder  	xen55ma35  	hen55mæ12   	xE24mæ21  	xẽ55ma21  	xẽ55ma21  	xen55man21  	xen55mɚ21  	xe55mɛ21  	xen55mɚ21  	  	  	  	  	  	  	  	  	   
+9	pren1  	0	wind  	tɕyen55  	tɕyen55  	tsuE24  	tɕyi55  	tɕyi55  	pi55  	piɛ̃35  	pi35  	pien55  	  	  	  	  	  	  	  	  	   
+12	sʰuɛ4  	0	snow  	sue42  	suɛ42  	suE55  	suɛ44  	sue55  	sui44  	sʰue44  	sue44  	ɕyɛ44  	  	  	  	  	  	  	  	  	   
+14	soŋ1  	0	frost  	ɕioŋ55  	soŋ55  	ɕio24  	ɕuoŋ55  	ɕiõ55  	sõ55  	ʂou44  	sou55  	soŋ55  	  	  	  	  	  	  	  	  	   
+17	sʰroŋ1  	0	ice  	ɕioŋ55qa42  	soŋ55ŋɛ24  	ɕio24pæ22  	ɕioŋ55  	ɕiõ55  	sou55lou44pʰiɛ55  	ʂou55lou44pʰiɚ55  	(tv21jɯ21)  	ɕyɛ44pʰien33  	  	  	  	  	  	  	  	  	   
+18	xui2  	0	fire  	xue33  	xuɛ22  	xui22  	fi22  	fi22  	xui33  	xui33  	xui33  	fi33  	  	  	  	  	  	  	  	  	   
+19	fire+sjen1  	0	smoke  	xue33ɕien55  	xui22ɕi55  	xui22si24  	fi22sɛ55  	fi22se55  	xui33ɕien55  	xui33ɕien35  	xui33ɕe55  	fi33ɕen55  	  	  	  	  	  	  	  	  	   
+20	tɕʰi4  	0	air; breath  	tɕʰi42  	tɕʰi55  	tɕʰi55  	  	  	tɕʰi44  	tɕʰi44  	tɕʰi55  	tɕʰi44  	  	  	  	  	  	  	  	  	   
+22	di3  	0	earth  	ʑi21  	dʑi42  	dʑi42 3  	tɕi42  	dʑi42  	tɕi31  	tɕi31  	tɕi31  	ti21  	  	  	  	  	  	  	  	  	   
+23	sro4 (general); sren1 (snow mountain)  	0	mountain  	ɕien55  	sao42  	ɕio43 (general); ɕiE24 (snow mountain)  	sɛ55  	ʂɚ̃55  	sṽ42  	ʂo42  	sv53  	sen55  	  	  	  	  	  	  	  	  	   
+24	boŋ2  	0	hillside; mountain slope  	boŋ33  	bõ22  	bo22  	bo22  	bo22  	pao31  	bau33  	bo33  	pio44  	  	  	  	  	  	  	  	  	   
+30	qoŋ1(a) droŋ1(b)  	0	river  	qoŋ55  	qoŋ55  	qo24/tio21  	qu55/tɕo21  	qõ55/ʈo21  	kvŋ55  	kõ35  	kv35  	koŋ55  	  	  	  	  	  	  	  	  	   
+31	ɢɔ1  	0	lake  	ʁɔ35  	qao12  	qo21  	(li21bɯ22)  	(lu21bɯ̃22)  	kou21  	(xu42)  	(pɛ21)  	(ɕu33tu33/pen33)  	  	  	  	  	  	  	  	  	   
+32	ɢɔ1  	0	sea  	ʁɔ35  	qao12  	  	(li21bɯ22)  	(lu21bɯ̃22)  	kou21  	[hai31]  	ko21  	[xe21]  	  	  	  	  	  	  	  	  	   
+38	tʰju2  	0	path; road  	tʰv33  	tʰy22  	tʰiu22  	tɕiu22  	ʈʰu22  	tʰu33  	tʰu33  	tʰo33  	tʰǝɯ33  	  	  	  	  	  	  	  	  	   
+40	tʰu2(a) nɛ1b(b)  	0	soil; earth  	tʰoŋ33  	tʰy22  	nE21  	nɛ215  	ne21  	tʰu33  	(pʰɚ55le21)  	tʰu33  	ne42  	  	  	  	  	  	  	  	  	   
+42	water/paddy+field  	0	paddy fields  	ɕyi3ʑi21  	  	  	  	  	tsa21tɕi31  	ɕyi33tɕi21  	tɕi31  	ɕu33ti31  	  	  	  	  	  	  	  	  	   
+43	dro4  	0	stone  	diu42  	dzu21  	tiu21  	tɕiu42  	ʈo21  	tsou42  	tʂou42  	tsou42  	tsʰv42  	  	  	  	  	  	  	  	  	   
+44	sʰrɔ1  	0	sand  	ɕɨo55  	sao55  	ɕio24  	ɕio55mi22  	ɕio55  	sou55  	ʂʰou55 (ʂhou55 in Wang 2006, probably a mistake)  	so55  	sa55  	  	  	  	  	  	  	  	  	   
+46	nɛ1b  	0	mud  	nɛ35  	nɛ24  	nE21  	nɛ21  	ne21  	ni31  	ne42  	ne21  	ne42  	  	  	  	  	  	  	  	  	   
+47	ɕui2  	0	water  	ɕyi33  	ɕy22  	ɕyi22  	ɕyi22  	ɕyi22  	ɕyi33  	ɕiui33  	ɕyi33  	ɕyi33  	  	  	  	  	  	  	  	  	   
+50	trɚ+group  	0	forest  	diɯ21koŋ̯̥  	dʐi12goŋ55  	diɯ43kɯ43  	dʑi42kɯ42  	ɖɯ42kɯ̃42  	tsɯ31suɑ̃55  	tʂɯ21jɚ55  	tsɯ31sua35  	ɕen55koŋ33  	  	  	  	  	  	  	  	  	   
+51	tɕen1  	0	gold  	tɕien55  	tɕien55  	tɕɨ24  	tɕi55  	tɕĩ55  	tɕien55  	tɕien35  	tɕɨɛ35  	tɕen55  	  	  	  	  	  	  	  	  	   
+52	njen1b  	0	silver  	jien35  	ɲi21  	ɲi21  	ɲi21  	ɲi21  	jen21  	jien21  	ɲi21  	ɲien21  	  	  	  	  	  	  	  	  	   
+53	qæn2 [doŋ1]  	0	copper, bronze  	qaŋ33  	qan22  	qæ22  	qa22  	qã22  	[tṽ21]  	[tõ21]  	kɛ33  	kɚ̃33  	  	  	  	  	  	  	  	  	   
+54	tʰe4  	0	iron  	tɕʰi42  	tɕʰi24  	tɕʰi55  	tɕʰi55  	tɕʰi55  	tʰe44  	tʰe44  	tʰɛ33  	tʰɛ44  	  	  	  	  	  	  	  	  	   
+61	pren1  	0	salt  	tɕyen55  	tɕyen55  	tsuE24  	tsuɛ55  	tsuẽ55  	pien55  	piẽ35  	pi35  	  	  	  	  	  	  	  	  	  	   
+66	jɯ4  	0	village  	ju42  	ju24  	(I22)  	(ɣo22ji22)  	(ɣo22lĩ22)  	jɯ44  	jɯ44  	jɯ44  	ji42  	  	  	  	  	  	  	  	  	   
+70	gu1  	0	bridge  	gv35  	gu12  	ku21  	kv21  	kv21  	kuo21  	ku21  	ku21  	kv21  	  	  	  	  	  	  	  	  	   
+74	djɯ1  	0	head  	diɯ35  	di21  	tiu21  	tɕu22  	ʈo22  	tǝ31  	ti42  	tɯ31  	ta42  	  	  	  	  	  	  	  	  	   
+75	ɕa  	0	hair  	[diɯ35me55]  	[di24miɛ12]  	[tiɯ21miE24]  	[ti21mi55]  	[ʈe21me55]  	ɕɔ44  	ɕa44  	[tɯ21ma35]  	[tɛ21mɛ]  	  	  	  	  	  	  	  	  	   
+79	ŋuen2  	0	eye  	uen33  	uen22  	ŋui22  	ŋui22  	mi22  	uẽ33  	uẽ33  	ue33  	ŋuɛ33  	  	  	  	  	  	  	  	  	   
+94	ba4  	0	breasts  	bo42  	ba21  	pa21  	pa42  	pa42  	pɑ42  	pa42  	pa42  	[ŋɔŋ33]  	  	  	  	  	  	  	  	  	   
+96	pju4  	0	belly  	fɚ42  	[ʐi21]  	fo24  	xu44  	[ʐɚ42]  	fv44  	fo44  	fv44  	pɯ44  	  	  	  	  	  	  	  	  	   
+103	ko4  	0	foot  	ko42  	ku24  	ku55  	ku44  	ko55  	kou44  	kou44  	ko44  	ko44  	  	  	  	  	  	  	  	  	   
+107	sʰrɯ2  	0	hand  	ɕiɯ33  	ʂi22  	ɕiɯ22  	ɕi22  	ɕi22  	sɯ33  	ʂʰɯ33  	sɯ33  	sǝɯ33  	  	  	  	  	  	  	  	  	   
+109	hand+tsri2  	0	finger  	ɕɨɯ33tʂɚ33  	ʂi22tʂi22  	ɕiɯ22tsɿ22  	ɕi22tsɛ22  	ɕi22tʂɚ22  	sɯ33tsi33  	ʂɯ33ti31  	sɯ33tsi33  	sǝɯ33tsi44  	  	  	  	  	  	  	  	  	   
+113	hand+scale  	0	nail  	ɕiɯ33qa42  	tʂi24qa24  	tiɯ21qa24  	ɕi22qa44  	qa44  	sɯ33ka44  	ʂɯ33ka44  	sɯ33ka44  	sǝɯ33kɚ44  	  	  	  	  	  	  	  	  	   
+118	pri4  	0	female genitals  	tɕyi42  	tɕy24  	pi55  	tɕyi44  	tɕyi55  	pi44  	pi44  	  	pʰi55 (phi55 in Wang 2006, guess this is a mistake)  	  	  	  	  	  	  	  	  	   
+120	be1  	0	skin  	bi25  	bi12  	pi21  	tɕyi21qa55  	tɕyi21  	pe21  	pe21  	pe21  	pe21  	  	  	  	  	  	  	  	  	   
+125	tsuŋ1  	0	scar  	tsvŋ55  	(qæ24)  	(tɕia24ma24tæ55)  	tsoŋ55  	(ʈʰa55koŋ22pe55)  	tsṽ55  	  	  	tsʰoŋ55pa55  	  	  	  	  	  	  	  	  	   
+129	sʰua4  	0	blood  	suɔ42  	sua24  	sua55  	sua44  	sua55  	suɑ44  	sʰua44  	sua44  	sua44  	  	  	  	  	  	  	  	  	   
+130	tɕen1  	0	tendon; sinew  	tɕen55  	tɕien22  	tɕi24  	tɕi55  	tɕɨ̃55  	tɕien55  	tɕien35  	tɕe35  	tɕĩ55  	  	  	  	  	  	  	  	  	   
+132	no2  	0	brains  	nv33  	noŋ22  	no22  	nõ22  	nõ22  	nõ33  	nõ33  	[nao31kʰv55/nao31tsi33]  	nɚ̃22ɕyi22  	  	  	  	  	  	  	  	  	   
+133	qua4  	0	bone  	ku42  	qua24  	qua55  	qua44  	qua55  	kuɑ44  	kua44  	kua44  	kua44  	  	  	  	  	  	  	  	  	   
+139	drɛ4  	0	tongue  	de42  	djɛ21  	tjE21  	ti21  	ʈɚ42  	tse42  	tʂe42  	tse42  	tsʰɛ42  	  	  	  	  	  	  	  	  	   
+143	pʰra4  	0	lung  	tɕʰuo42  	tʂua24  	pʰia55  	tɕʰya44  	tɕʰya55  	pʰio44  	[fi44]  	pʰia44  	pʰio44  	  	  	  	  	  	  	  	  	   
+144	sjen1  	0	heart  	ɕien55  	ɕin55  	si24  	sɛ55  	sẽ55  	ɕien55  	ɕien55  	ɕi35  	ɕen55  	  	  	  	  	  	  	  	  	   
+145	qaŋ1  	0	liver  	qɔŋ55  	qaŋ55  	qa24  	qo55  	qã55  	kɑ55  	kã35  	ka35  	kaŋ55  	  	  	  	  	  	  	  	  	   
+148	r-wu4  	0	stomach  	ʐɚ42  	ʐi22  	zɿ21  	zɛ22  	ʐɚ42  	v42 [/uei55]  	[uei55]]  	v42  	ju42  	  	  	  	  	  	  	  	  	   
+149	droŋ1  	0	intestine; guts  	dv35  	-  	tio21  	tʣɨɯ21  	ʈõ21  	tsõ21  	tʂoŋ21  	tsou21  	tsoŋ21  	  	  	  	  	  	  	  	  	   
+150	pʰɯ1  	0	bladder  	pʰɯ55  	pʰɯ55  	pʰɯ24  	pʰɯ55  	pʰɯ55  	[kuã33]  	  	  	pʰǝɯ55  	  	  	  	  	  	  	  	  	   
+151	sri2  	0	excrement  	ʂi33  	ʂi22  	sɿ22  	sɛ22  	ʂɚ22  	si33  	si33  	si33  	si33  	  	  	  	  	  	  	  	  	   
+153	pʰjɛ3  	0	fart  	fɚ21  	pfʰu55  	fE43  	fɛ22  	fe42  	fv31  	fv31  	  	[pʰi21]  	  	  	  	  	  	  	  	  	   
+154	ʁaŋ1b  	0	sweat  	ŋɔ35  	ʁaŋ12  	ʁa21  	ŋa21  	ã21  	ŋɑ̃21  	ŋa21  	ŋa21  	ɣaŋ21  	  	  	  	  	  	  	  	  	   
+159	nioŋ1b  	0	pus  	nen35  	nõ12  	ɲiu21  	nu21  	nu21  	nṽ21  	jũ21  	nu21  	nǝɯ21  	  	  	  	  	  	  	  	  	   
+161	tʰæn1  	0	sound  	tʰiaŋ55  	tʰian55  	tʰiæ24  	tɕʰia55  	ʈã55  	tsʰan55  	tʂʰɚ̃55  	tsʰɛ55  	tsʰɚ55  	  	  	  	  	  	  	  	  	   
+162	tsʰoŋ1  	0	corpse  	tsʰoŋ55  	tsʰoŋ55  	tsʰo24  	tsʰo55  	tsõ55  	  	  	  	tsʰoŋ55  	  	  	  	  	  	  	  	  	   
+165	haŋ5  	0	Han Chinese  	haŋ21  	haŋ42  	χa43  	xa42  	xa42  	xɑ̃42  	xã42  	  	  	  	  	  	  	  	  	  	  	   
+167	njen1b  	0	person  	jen35  	ɲi12  	ɲi21  	ɲi21  	ɲi21  	jen21  	jen21  	ɲi21  	ɲien21  	  	  	  	  	  	  	  	  	   
+172	jɔ5  	0	old lady  	jo21  	ja55  	jo43  	  	  	jou42  	jou42  	  	  	  	  	  	  	  	  	  	  	   
+173	tsi2  	0	man  	(ɕia55tjʰo21po55)  	tsi22  	(da43xo24)  	tsi22  	tsi2  	tsi33  	tsi33  	tsi44  	tsi33  	  	  	  	  	  	  	  	  	   
+174	ŋjo2  	0	woman  	(jen35hoŋ55mo33)  	  	  	ɲyi22  	ɲu22  	jṽ33  	jũ33  	ɲv33  	ɲõ33  	  	  	  	  	  	  	  	  	   
+179	kroŋ1  	0	soldier  	tʂẽ55  	  	(næ24tsi22)  	tse55  	tʂɚ̃55  	kṽ55  	kõ55  	kv35  	  	  	  	  	  	  	  	  	  	   
+194	djɛ5  	0	thief  	de21(bo42)  	dɛ42  	(tsɿ21)  	ti42  	die42  	(tsɯ42)  	(tsẽ42)  	(tsɯ42)  	den21  	  	  	  	  	  	  	  	  	   
+201	dʑa4  	0	friend  	ʐɔ42  	dʑia21  	tʣia21  	tʣio42  	tɕa42  	tɕiɑ42  	tɕia42  	tɕia42  	tɕʰa42  	  	  	  	  	  	  	  	  	   
+213	qʰæ4  	0	guest  	qʰa42  	qʰæ24  	qʰæ55  	qʰa44  	qʰa55  	kʰa44  	kʰɚ44  	kʰɛ44  	kʰɚ44  	  	  	  	  	  	  	  	  	   
+218	bo2(b)  	0	father  	bo33  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	   
+219	mø2  	0	mother  	mo33  	mu22  	mo22  	mo22  	mo22  	mõ33  	mouu33  	mo33  	moŋ33  	  	  	  	  	  	  	  	  	   
+220	tsi2  	0	son  	tsi33  	tsi22  	tsi22  	tsi22  	tsi22  	tsi33  	tsi33  	tsi33  	tsi33  	  	  	  	  	  	  	  	  	   
+222	njo2  	0	daughter  	jvŋ33  	ɲiõ22  	ɲiu22  	ɲiu22  	ɲiu22  	jṽ33  	jũ33  	ɲiv33  	ɲõ33  	  	  	  	  	  	  	  	  	   
+224	sʰuaŋ1  	0	grandson  	suaŋ55  	suaŋ55  	ɕyE24  	sua55  	sõ55  	suɑ̃55  	sʰuaŋ55  	sua55  	suaŋ55  	  	  	  	  	  	  	  	  	   
+228	tʰje2  	0	younger brother  	tʰi33  	tʰi22  	tʰi22  	tʰi22  	tʰie22  	tʰi33  	tʰe33  	tʰe33  	tʰɛ33  	  	  	  	  	  	  	  	  	   
+229	female+brother  	0	younger sister  	jvŋ33tʰi33  	ɲõ22tʰi22  	[mi24]  	(a55ba42)tʰi22  	(a55pa42)tʰie22  	jṽ33tʰi33  	jũ33tʰi33  	ɲiv33tʰe33  	ɲoŋ33tʰɛ33  	  	  	  	  	  	  	  	  	   
+234	di4  	0	nephew  	ʑi42  	dʑi21  	tɕi21  	tɕy55  	tɕĩ42  	tɕi42  	tɕi42  	tɕi42  	tʰi42  	  	  	  	  	  	  	  	  	   
+235	njoŋ1+brother  	0	brothers  	jvŋ55tʰi33  	joŋ55tʰi22  	ɲio24tʰi22  	  	  	jõ55tʰi33  	  	  	joŋ55tʰɛ33  	  	  	  	  	  	  	  	  	   
+238	ɢɯ̃2  	0	uncle (mother's brother)  	qɯ33  	qɯ22  	qɯ22  	qɯ22  	gɯ̃22  	[tɕiou55tɕou55]  	[a55tɕiou55]  	[tɕou55]  	[tɕi55kǝɯ33]  	  	  	  	  	  	  	  	  	   
+249	back+mother  	0	stepmother  	ɣɯ33mo33  	ɣe21mu33  	ɣɯ21mo22  	  	  	ɣǝ33mõ33  	  	  	ɣǝ33moŋ33  	  	  	  	  	  	  	  	  	   
+254	ŋɯ1b  	0	cattle  	ŋe35  	ŋe12  	ŋɯ21  	ŋɯ21  	ɯ̃21  	ŋǝ21  	ŋǝ21  	ŋɯ21  	ŋǝɯ21  	  	  	  	  	  	  	  	  	   
+263	qɔ4  	0	horn  	qo42  	qao24  	qo55  	qo44  	qo55  	kv44  	ko44  	kv44  	koŋ44  	  	  	  	  	  	  	  	  	   
+264	bã1  	0	hoof  	bo35  	bao12  	po21  	pu21  	põ21  	[tʰi55tsi33]  	?  	pa21  	[tʰi55tsi33]  	  	  	  	  	  	  	  	  	   
+268	mæ2  	0	horse  	ma33  	mæ22  	mæ22  	ma22  	mo22  	man33  	mɚ33  	mɛ33  	mɚ33  	  	  	  	  	  	  	  	  	   
+271	horse+mother  	0	mare  	ma33mo33  	mæ22mu22  	mE22mo22  	  	mo22mo22  	man33mõ33  	mɚ33mõ33  	  	  	  	  	  	  	  	  	  	  	   
+271	ɕa4  	0	horse mane  	ɕia42  	ɕia24  	ɕia55  	(mi21)  	(mie21)  	ɕɑ44  	  	[mɛ33tsou35]  	  	  	  	  	  	  	  	  	  	   
+274	njo1b  	0	sheep (general)  	joŋ35  	joŋ12  	ɲio21  	ɲiõ21  	ɲiõ21  	jõ21  	joŋ21  	jou21  	joŋ21  	  	  	  	  	  	  	  	  	   
+284	dɛ4  	0	pig  	dɛ42  	dɛ21  	tE21  	tɛ42  	te42  	te42  	te42  	te42  	tʰɛ42  	  	  	  	  	  	  	  	  	   
+289	qʰuaŋ2  	0	dog  	qʰuaŋ33  	qʰuaŋ22  	qʰua22  	qʰua22  	qʰõ22  	kʰuɑ̃g33 (is this the right form?)  	kʰuaŋ33  	kʰua33  	kʰuaŋ33  	  	  	  	  	  	  	  	  	   
+291	xua1  	0	cat  	hɔ42lɔ35  	xua55lao21  	xuæ55lo21  	xua55lo21  	xua55lo21  	ɑ̃ni55  	aŋ55ni55  	a55mi55  	a55ni55tsi33  	  	  	  	  	  	  	  	  	   
+293	qɛ1  	0	chicken  	qɛ55  	qɛ55  	qE24  	qɛ55  	qɛ̃55  	ki55  	ke35  	ke35  	ke55  	  	  	  	  	  	  	  	  	   
+304	lɔ1b  	0	tiger  	lɔ35  	lao12  	lo21  	lo21  	lo21  	lou21  	lou21  	lo21  	lo21  	  	  	  	  	  	  	  	  	   
+306	loŋ1b  	0	dragon  	loŋ35  	lõ12  	lu21  	lu21  	lu21  	lṽ21  	lõ21  	lv21  	loŋ21  	  	  	  	  	  	  	  	  	   
+308	suaŋ1  	0	monkey  	(ŋe35)sɔŋ55  	(ʁaŋ12)ɕyen55  	(u21)ɕyE24  	(ŋõ21)sua55  	(õ21)sõ55  	(ɣou21)suɑ̃55  	(u33)suã35  	(ou42)sua35  	  	  	  	  	  	  	  	  	  	   
+310	baŋ4/5  	0	leopard; panther  	-  	pi42  	piɛ43  	  	pie42  	pɑ̃42  	pã42  	pa53  	paŋ42  	  	  	  	  	  	  	  	  	   
+314	bjo4  	0	muntjac; barking deer  	vɚ42  	bvu21  	(tʰia55)vo21  	wa42  	uo21  	  	  	v42  	v42  	  	  	  	  	  	  	  	  	   
+316	ji5+fragrant  	0	musk  	ji21ɕioŋ55  	jen42ɕioŋ55  	ji21ɕio24  	ji42ɕio55  	ji21ɕiõ55  	ji31ɕiõ55  	ʧɛ21ɕiõ35  	ji31ɕiou35  	ji21ɕioŋ55  	  	  	  	  	  	  	  	  	   
+319	ɢæ1  	0	hedgehog  	ʁɔ̈̄  	ɢa12  	qa21  	  	qa21  	  	  	ka21  	ken21  	  	  	  	  	  	  	  	  	   
+320	sro2  	0	mouse  	ʂv33  	sao22  	ɕu22  	ɕy22  	ɕu22  	sv33  	ʂo33  	sv33  	sou33  	  	  	  	  	  	  	  	  	   
+326	tso4  	0	bird  	tsu42  	tsu24  	tsu55  	tsu44  	tso55  	tsou44  	tsou33  	tsou44  	tso44  	  	  	  	  	  	  	  	  	   
+327	kʰro3  	0	"birs""s nest  "	tʂʰɚ21  	tʂʰi42  	(tiɯ24)  	tsʰɛ44  	tɕʰɚ42  	kʰv31  	kʰo33  	kʰv33  	tɕʰu21  	  	  	  	  	  	  	  	  	   
+340	dʑi2  	0	pheasant  	ʑi33  	dʑi22  	dʑi33  	  	(qo42)tɕyi22  	tɕiɯ33(ki55)  	tɕi33  	(je21ke35)  	(koŋ42ke55/tien33)  	  	  	  	  	  	  	  	  	   
+342	tɕu1kɯ1  	0	turtledove  	tɕɯ55kɯ̄̄  	tɕi22kɯ12  	tɕi24kɯ24  	  	tɕi55kɯ55  	  	  	(ku31ku55ku33)  	tɕi55kǝɯ55  	  	  	  	  	  	  	  	  	   
+347	pu2  	0	cuckoo  	(qɔ44)pɯ33  	(qe55)pu22  	(qa24)oɯ22  	(ko55)pɯ22  	(ko55)pu22  	  	  	  	(ko55ku22)  	  	  	  	  	  	  	  	  	   
+347	kʰro2  	0	snake  	tʂʰɚ̃33  	tʂʰi22  	tsʰɿ22  	ʃʰɛ22  	tɕ↑iɚ̃22  	kʰv33  	kʰo33  	kʰv33  	tɕʰiu33  	  	  	  	  	  	  	  	  	   
+349	oŋ1  	0	frog  	oŋ55(ma55)  	õ12(mæ12)  	u21(mæ24)  	(dʑia42)õ21  	õ21(mo55)  	õ21(man55)  	u31(mɚ55)  	ou21(mɛ31tsi33)  	lv44ɛ33mɚ55tsi33  	  	  	  	  	  	  	  	  	   
+351	ŋo1a  	0	fish  	ŋv55  	ŋo55  	ŋo24  	ŋu55  	ŋu55  	ṃ55  	võ35  	ŋo35  	oŋ55  	  	  	  	  	  	  	  	  	   
+352	qæ4  	0	scale  	qa42  	  	qæ55  	qa44  	qa55  	ka44  	kɚ44  	kɛ44  	kɚ44  	  	  	  	  	  	  	  	  	   
+353	dzruŋ1  	0	worm  	ʐv35  	dzao12  	tɕio21  	tɕiu21  	tɕiu21  	tsṽ21  	tʂo21  	tsv21  	dzõ21  	  	  	  	  	  	  	  	  	   
+356	ɕi4  	0	louse  	ɕi42  	ɕi24  	ɕi55  	ɕi44  	ɕi55  	ɕi44  	ɕi33  	ɕie44  	ɕi44  	  	  	  	  	  	  	  	  	   
+259	dzro1  	0	maggot  	ʐy35  	dzao12  	tɕio21  	tɕiu21  	tɕiu21  	tsṽ21  	tʂo21  	tsv21  	(zen21)  	  	  	  	  	  	  	  	  	   
+360	mɯ4  	0	mosquito  	mɯ42  	moŋ24  	mɯ55  	[xɛ42tʰoŋ55] (thoŋ in Wang 2006, probably a mistake)  	mo55  	mǝ̃44  	mõ44  	mɯ44  	mo44  	  	  	  	  	  	  	  	  	   
+364	tsji4  	0	leech  	tɕi42  	tɕi42  	tsi55  	tsi44  	tsi55  	tɕi44  	tɕi44  	tɕi44  	tɕi44  	  	  	  	  	  	  	  	  	   
+365	bri1bɯ1  	0	ant  	tɕien55(ɕaŋ55)  	dzu12bu12  	tsu43pɯ21  	tɕi21pɯ21  	tɕi21pɯ21  	pien21põ21  	pi21po21  	pi21pɯ21  	pi55pǝɯ21  	  	  	  	  	  	  	  	  	   
+367	pʰjuŋ1  	0	bee  	fɚ̃55  	pfuŋ55  	fo24  	xõ55  	xõ55  	fṽ55  	fṽ55  	fv55  	pʰen55  	  	  	  	  	  	  	  	  	   
+372	drɯ3  	0	tree  	diɯ21  	dʐi42  	diɯ43  	dʑi42  	ɖɯ42  	tsɯ31  	tʂɯ21  	tsɯ31  	dzǝɯ21  	  	  	  	  	  	  	  	  	   
+375	tɛ4  	0	root  	  	te24  	tE55  	tɛ42  	te42  	te44  	te44  	  	(tso33)  	  	  	  	  	  	  	  	  	   
+375	mi1a  	0	root  	mɛ21  	  	mE43  	mɛ42  	me42  	  	mi44  	mi44  	  	  	  	  	  	  	  	  	  	   
+376	qʰɔ2  	0	leaf  	qʰɔ33  	  	qʰo55  	(dʑi42lɛ21)  	  	kʰou33  	[ɕui33kuo33]  	(ɕyi33li55ta21ko33)  	kʰo33  	  	  	  	  	  	  	  	  	   
+382	ɣɯ2  	0	willow  	ɣɯ33  	(ɕi22ji21)  	(ja43)ɣɯ22  	  	  	ɣǝ33  	ɣǝ33  	  	ɣɯ33  	  	  	  	  	  	  	  	  	   
+385	zroŋ1  	0	pine  	ʐvŋ35  	zoŋ12  	ju21  	ju21  	v21  	ɕiõ21 (Wang 2006 gives ɕiõ ̲21, is this a mistake?)  	jou21  	jou21  	ʐyen21  	  	  	  	  	  	  	  	  	   
+387	mɛ1a  	0	resin, colophony  	mɛ55(tʂi55)  	(ʐoŋ21tɕi22)  	mE24(tsɿ24)  	mɛ̃55(tse44)  	me55(tʂi55)  	mɛ55(tsi33tsi33)  	me35(tʂi35)  	(jou21tsi55)  	mɛ55(tsi33)  	  	  	  	  	  	  	  	  	   
+388	mɛ1a  	0	pine torches  	mɛ55(tʂi55)  	men555  	mE24  	(ɕy55ɣo21)  	(u22ne21)  	me55  	me35  	  	  	  	  	  	  	  	  	  	  	   
+389	tsro4  	0	bamboo  	tʂv42  	tsao24  	tɕo55  	tɕu44  	tɕu55  	tsv44  	tʂo33  	tsv44  	tsu44  	  	  	  	  	  	  	  	  	   
+390	mɛ5  	0	cane, vine  	mɛ21  	men42  	mE43  	mɛ42  	me42  	me42  	me42  	me21  	me21  	  	  	  	  	  	  	  	  	   
+391	tsʰe3  	0	thorn; splinter  	tɕʰi121  	  	  	tsʰi42  	tsʰe42  	tɕʰi31  	tɕʰi31  	tɕʰi31  	tɕʰi21  	  	  	  	  	  	  	  	  	   
+392	dɔ1  	0	peach  	dɔ35  	dao12  	to21  	to21  	to21  	tɑ21  	ta21  	ta21  	tǝ21  	  	  	  	  	  	  	  	  	   
+395	tʰjæ4  	0	persimmon  	tʰa42(ʐɚ33)  	tʰæ24  	tʰiæ55  	tɕʰia55(tsɛ21)  	ʈa55(ʐi22)  	tʰɑ44(tsi31)  	tʰɑ44(tʂi31)  	tʰa44(tsi31)  	tʰɛ42(tsi33)  	  	  	  	  	  	  	  	  	   
+397	tsʰji1  	0	Chinese chestnut  	tɕʰi55(ji42)  	tɕʰi55(ʑi21  	tsʰi55(jɯ21)  	(ɕu22)tsʰi55(ji21lɛ21)  	(xa55ne221)  	tɕʰi55(ji31)  	tɕʰ(li44)  	  	(to21ju21)  	  	  	  	  	  	  	  	  	   
+403	sɔ4  	0	paddy rice  	  	sao42  	so55  	  	  	  	  	si55  	sv44  	  	  	  	  	  	  	  	  	   
+403	ɢɔ1  	0	paddy rice  	ʁɔ35  	  	qo21  	qo21  	qo21  	kou21  	ku21  	kuo21  	  	  	  	  	  	  	  	  	  	   
+404	suŋ2  	0	glutinous rice  	sv33  	sao22  	su22  	sy22  	sy22  	sv33  	sõ33  	si55  	sɯ33sɯ33mɛ  	  	  	  	  	  	  	  	  	   
+405	trsuŋ2  	0	seed  	tʂvŋ33  	tsoŋ22  	tɕo22  	tɕu22  	tɕõ22  	tsṽ33  	tʂoŋ33  	tsv33  	tsoŋ33  	  	  	  	  	  	  	  	  	   
+406	dzri1  	0	(rice) seedling  	ʐɚ35  	dʐi21  	tsɿ21  	tsɛ21  	tɕɚ21  	tsa21  	tʂi31  	tsi21  	dzi21  	  	  	  	  	  	  	  	  	   
+407	truæn2  	0	ear; spike  	tjuaŋ33  	tsuan22  	tzE22  	tɕya22  	ʈõ22  	tsuan33  	tʂuɚ̃33  	tsuɛ33  	tsuɚ33  	  	  	  	  	  	  	  	  	   
+408	ma4  	0	rice straw  	mo42  	(ɢao24tɕy22)  	ma55  	(qua44)  	(qo55qua55)  	mɑ̃44  	ma44  	ma55  	ma44  	  	  	  	  	  	  	  	  	   
+410	mɯ4  	0	wheat  	mɯ42  	moŋ24  	mɯ55  	mɯ55  	mɯ55  	mǝ̃44  	mǝ̃44  	mɯ44  	mǝɯ̃44  	  	  	  	  	  	  	  	  	   
+411	zɔ1  	0	barley  	zɔ35  	zao12  	zo43  	zo21  	zao21  	sou21  	zau21  	zo21  	zo21  	  	  	  	  	  	  	  	  	   
+413	go1  	0	buckwheat  	gv35  	gao12  	ku21  	kv21  	kv21  	kv21  	ko21  	kv21  	kv21  	  	  	  	  	  	  	  	  	   
+414	mɯ4qua4  	0	wheat straw  	mɯn42quo42 (is this a mistake?, not sure, whether this final occurs in other cases. Maybe originally mɯ̃42?)  	moŋ24qua24  	mɯ55qua55  	mɯ55qua44  	mɯ55qua55  	mǝ̃kuɑ44  	mǝ̃kua44  	  	kua44  	  	  	  	  	  	  	  	  	   
+419	si2  	0	hemp  	si33  	si33  	si33  	  	  	si33  	si33  	  	si33  	  	  	  	  	  	  	  	  	   
+420	tsʰɯ3  	0	vegetable  	tsʰi21  	tsʰe42  	tsʰɿ43  	tsʰi42  	tsʰɯ42  	tsʰɯ31  	tsʰɯ31  	tsʰɯ31  	tsʰǝɯ21  	  	  	  	  	  	  	  	  	   
+423	tsʰuŋ1  	0	onion, scallion  	tsʰv55  	tsʰ55  	tsʰo42  	tsʰoŋ55  	tsʰo55  	tsʰṽ55  	tsʰõ55  	tsʰi55[/fi31tsʰu31]  	tsʰoŋ55  	  	  	  	  	  	  	  	  	   
+424	sʰuaŋ3  	0	garlic  	soŋ21  	suaŋ42  	ɕyE42  	sua42  	suã42  	suɑ31  	sʰuaŋ31  	sua31  	suaŋ21  	  	  	  	  	  	  	  	  	   
+425	koŋ1  	0	ginger  	koŋ55  	koŋ55  	ko24  	ku55  	koŋ55  	kõ55  	koŋ55  	kou35  	koŋ55  	  	  	  	  	  	  	  	  	   
+430	dɯ5  	0	pea; bean  	djɯ21  	di42  	dɯ43  	dɯ42  	dɯ42  	tǝ̃31  	tɯ31  	tɯ31  	tɯ31dǝɯ21  	  	  	  	  	  	  	  	  	   
+437	sreŋ2  	0	mushroom  	ʂɚ̃33  	ʂẽ22  	ɕiæ  	sɛ22  	ʂɚ̃22  	san33  	(tɕʰɚ55mu33)  	sɛ33  	sen33  	  	  	  	  	  	  	  	  	   
+439	mǝ2  	0	rice  	mi33  	mi22  	mi22  	mi22  	mi22  	me33  	me33  	me33  	mɛ33  	  	  	  	  	  	  	  	  	   
+443	ɢæ1  	0	meat  	ʁa35  	ɢæ12  	qæ21  	qa21  	qa21  	ka21  	kɚ21  	kɛ21  	kɚ21  	  	  	  	  	  	  	  	  	   
+445	tsri1  	0	grease, fat  	tʂi55  	tʂi55  	tsɿ24  	tsɛ55  	tʂi55  	tsi55  	tʂi55  	tsi35  	tsi55  	  	  	  	  	  	  	  	  	   
+446	jɯ1b  	0	vegetable oil  	jɯ35  	ji12  	jɯ21  	ji21  	(tʂɚ55)  	jɯ21  	jɯ21  	jɯ21  	jou21  	  	  	  	  	  	  	  	  	   
+448	sru1  	0	seed of Chinese prickly ash  	ʂv55  	ɕy55  	ɕu24  	ɕu55  	ɕy55  	su55  	su35  	su35  	su55  	  	  	  	  	  	  	  	  	   
+450	sen5  	0	egg  	sen21 'testicle'  	sen42  	sE43  	sɛ42  	sẽ42  	sen42  	sen42  	se42  	sɛ42  	  	  	  	  	  	  	  	  	   
+451	χæn1  	0	soup  	xaŋ55  	han55  	χæ24  	xã55  	xã55  	xan55  	xɚ̃55  	xɛ55  	(tsi55)  	  	  	  	  	  	  	  	  	   
+452	tsuŋ2  	0	alcoholic beverage  	tsvŋ33  	tsoŋ22  	tso22  	tsõ22  	tsŋ22  	tsṽ33  	tsõ33  	tsi33  	tsoŋ33  	  	  	  	  	  	  	  	  	   
+454	drɔ1  	0	tea  	djɔ35  	dzao12  	tjo21  	tɕo21  	ʈo21  	tsou21  	tʂou21  	tso21  	tso21  	  	  	  	  	  	  	  	  	   
+456	jɔ4  	0	medicine  	jɔ42  	ju42  	ju55  	ju44  	jo55  	jou44  	jou44  	jou44  	jo44  	  	  	  	  	  	  	  	  	   
+457	tʰroŋ1  	0	chaff; bran  	tʰioŋ55  	tsʰoŋ55  	tʰio24  	(qa44tɕyi21)  	ʈõ55  	tsʰõ55  	tʂoŋ55  	tsʰo55  	tsʰoŋ55  	  	  	  	  	  	  	  	  	   
+461	xɯ33  	0	xɯ2  	xɯ22  	xɯ22  	xɯ22  	xɯ22  	xɯ22  	(sou44jen42)  	(xou35)  	xɯ33  	xɯ33  	  	  	  	  	  	  	  	  	   
+462	sʰɛ4  	0	cloth  	sɛ42  	sɛ24  	sE55  	sɛ44  	se55  	se44  	sʰe44  	(pʰio31)  	(pʰio21)  	  	  	  	  	  	  	  	  	   
+461	xɯ2  	0	thread  	xɯ33  	xɯ33  	xɯ22  	xɯ22  	xɯ22  	(sou44jen42)  	(xou35)  	xɯ33  	xɯ33  	  	  	  	  	  	  	  	  	   
+479	ʁɛ1  	0	shoe  	(jen35)  	ʁɛ12  	(ɲ21)  	ŋa21  	o21tse44  	ŋe21  	  	ŋe21  	ɣɛ21  	  	  	  	  	  	  	  	  	   
+481	sro1  	0	comb  	ʂv55  	sao55  	ɕu24  	ɕy55  	ɕu55  	sṽ55  	ʂ35  	sv35  	su55  	  	  	  	  	  	  	  	  	   
+484	ɢoŋ1  	0	earrings  	qoŋ35  	(tɕien22)  	ko22  	ko21  	kõ21  	kõ21  	koŋ31  	ku21  	koŋ21  	  	  	  	  	  	  	  	  	   
+490	tsren2  	0	pillow  	tʂɚ̃33(diɯ35)  	tʂi22(di12)  	tsɿ22(tiǝ21)  	tsɛ22(tɕi21)  	tʂɚ22(ʈɯ21)  	tsi33(tǝ31)  	tʂɚ33(ti31pu33)  	tsi33(tɯ21)  	tsen33(tǝɯ21)  	  	  	  	  	  	  	  	  	   
+493	bri3  	0	straw or palm-bark rain cape  	ʑi21  	dʑy42  	bi43  	dʑyi42  	tɕyǝ̃42  	pi31  	pi31  	pi21?  	bi21  	  	  	  	  	  	  	  	  	   
+494	hɔ3  	0	house  	hɔ21  	ha42  	xo43  	xo42  	xo42  	xou31  	xou31  	ho31  	xo21  	  	  	  	  	  	  	  	  	   
+509	ŋuæ5  	0	tile  	ua21  	uɛ42  	uæ43  	ŋua42  	  	uan42  	uɚ42  	uɛ42  	vɚ31  	  	  	  	  	  	  	  	  	   
+511	ɢua4  	0	(wood)  	guo42  	ɢua21  	qua21  	  	  	kuɑ42  	kua42  	  	  	  	  	  	  	  	  	  	  	   
+512	pæn2  	0	plank; board  	paŋ33  	pan22  	pæ22  	pa22 (Wang 2006 has: pa225, probably a mistake)  	põ42  	pan33  	pɚ̃33  	pɛ33  	pɚ̃33  	  	  	  	  	  	  	  	  	   
+513	drɯ2  	0	pillar  	diɯ33  	dʐi33  	diɯ22  	dʑi22  	tɕõ22  	tsɯ33  	tʂ33  	tsɯ33  	dzǝɯ33  	  	  	  	  	  	  	  	  	   
+514	mɛ1b  	0	door  	mɛ35  	mǝn12  	mE21  	mɛ21  	me21  	me21  	me21  	me21  	me21  	  	  	  	  	  	  	  	  	   
+522	sua|ng21  	0	garden (plot)  	suaŋ55  	ɕyen55  	ɕyE24  	sua55(lu21)  	sõ55(lu21)  	suɑ̃55  	suaŋ35  	sua35  	suaŋ55  	  	  	  	  	  	  	  	  	   
+526	droŋ1  	0	bed  	dioŋ35  	dzoŋ12  	tio21  	(ŋu22ti22tɕʰu42qʰa44)  	(ũ42fi22tɕʰu42)  	tsõ21  	(kʰo33)  	tso21  	(tɕʰyi21)  	  	  	  	  	  	  	  	  	   
+534	sjen1  	0	firewood  	ɕien55  	χien55  	si24  	sɛ55  	sẽ55  	ɕien55  	ɕien55  	ɕi35  	ɕen55  	  	  	  	  	  	  	  	  	   
+544	tso5  	0	cooking stove; kitchen range  	tsu21  	tsu42  	tsu43  	tsy42  	  	tsou42  	tsu42  	  	tso42  	  	  	  	  	  	  	  	  	   
+548	ŋuen1  	0	bamboo food steamer  	uen35  	uen12  	ŋui21  	|nguɛ21  	  	uẽ21  	uen21  	uɛ21  	  	  	  	  	  	  	  	  	  	   
+551	dro4  	0	ladle  	(mɯ35)tiu42  	(mi55)tsu21  	(mE24)tiu21  	(mɛ55)tɕio21  	(me55)ʈo21  	(mi55)tso42  	(mi55)tʂou42  	(mi35)tso42  	(mi55)tsʰo42  	  	  	  	  	  	  	  	  	   
+555	dzro3  	0	chopsticks  	ʐv21  	dʐao42  	dʐo42  	tɕiu42  	tɕiu42  	tsṽ42  	tʂo31  	tsv31  	tsǝɯ21  	  	  	  	  	  	  	  	  	   
+559	bjɛ4  	0	kettle; pot  	vɚ42  	bvu21  	(la24)fE21  	(li55ui42qʰo22)  	(lo55)ue21  	vu42  	(xu42)  	  	(kua42tsi33)  	  	  	  	  	  	  	  	  	   
+560	kaŋ1  	0	vat; jar  	kaŋ55  	  	ka24  	  	kã55  	kɑ̃55  	kã35  	ka35  	kaŋ55  	  	  	  	  	  	  	  	  	   
+576	bɯ1  	0	interest  	bɯ35  	bu12  	bɯ21  	p'u,21  	pɯ21  	[li55ɕie35]  	[li55si35]  	pɯ21  	pǝ21  	  	  	  	  	  	  	  	  	   
+578	tsre|ng1  	0	needle  	tʂɚ̃55  	tʂɚ55  	tsɿ24  	tsẽ55  	tʂɚ̃55  	tsan55  	t|srmɚ̃35  	tsi35  	tsen55  	  	  	  	  	  	  	  	  	   
+580	tɕæŋ1  	0	nail; tack  	tɕaŋ55  	(tsen22zaŋ24)  	tɕæ24  	[ti55tsi22]  	(tɕʰi55tsẽ22)  	tɕian55  	tɕiɚ̃35  	tɕiɛ55  	tɕiɚ55  	  	  	  	  	  	  	  	  	   
+585	dro4  	0	key  	diu42  	dzu21  	tio21  	tsɛ44  	(so22pa22qua55)  	tsou42  	tʂʰou42  	tsou42  	tsʰo42  	  	  	  	  	  	  	  	  	   
+586	ɢua4  	0	stick  	duɔ42  	qua21  	qua21  	qua42  	qua42  	kuɑ42  	kua42  	kua42  	(paŋ21mo33)  	  	  	  	  	  	  	  	  	   
+586	|prɔ1  	0	stick  	tɕiɔ55  	  	(pio24)  	tɕo55  	(qua42)  	pio55  	piou35  	pia35  	pio55  	  	  	  	  	  	  	  	  	   
+602	jen1b  	0	boat; ship  	jen35  	jen12  	ɲia21  	ɲa21  	ɲɚ21  	jen21  	jen21  	je21  	jen21  	  	  	  	  	  	  	  	  	   
+605	pɯ2  	0	axe  	pɯ33  	pu33  	pɯ22  	pɯ22  	pɯ22  	pɯ33  	pɯ33  	pɯ33  	pǝɯ33  	  	  	  	  	  	  	  	  	   
+607	dzo4  	0	chisel  	zu42  	dzu21  	tsu21  	tsy42  	tsv21  	tsou42(ne31)  	[tsaŋ44tsi33]  	tsu42  	tsʰo42  	  	  	  	  	  	  	  	  	   
+608	pjo5  	0	saw  	fv21  	pfu42  	fo43  	fv42  	fv42  	fv42  	fv42  	fv42  	fv42  	  	  	  	  	  	  	  	  	   
+615	tɕi1-kuɛ1  	0	plougshare  	tɕi55kue55  	tɕi55kuɛ55  	tɕi24kui24  	tɕi55kui55  	tɕĩkui55  	tɕi55kui55  	  	  	tɕi55kuɛ55  	  	  	  	  	  	  	  	  	   
+617	dzruŋ1  	0	hoe (large)  	ʐvŋ35  	dzao12  	tɕo21  	tɕu21  	tɕu21  	tsṽ21  	tʂo21  	tsv21  	dzu21  	  	  	  	  	  	  	  	  	   
+619	sʰo4  	0	rope  	su42  	su24  	su55  	su44  	so55  	sou44  	sʰou44  	so44  	so44  	  	  	  	  	  	  	  	  	   
+623	tɕʰi1  	0	fertilizer; manure  	tɕʰi55  	tɕʰi55  	tɕʰi24  	tɕʰi55  	tɕʰi55  	tɕʰi55  	tɕʰi55  	tɕʰi55  	tɕʰi55  	  	  	  	  	  	  	  	  	   
+624	jen1b  	0	sickle  	jen35  	jen12  	ɲia21  	ɲia21  	na21  	jen21  	jen21  	je21  	[li55to55]  	  	  	  	  	  	  	  	  	   
+626	duɛ5  	0	trip-hammer for hulling rice  	due21  	tyɛ42  	tyi43  	ti42  	(ɕyi33kue55)  	tui42  	tui42  	(sɯ33kɯ33)  	tɛ42  	  	  	  	  	  	  	  	  	   
+629	lɔ1b  	0	sieve; sifter  	lɔ35  	lao12  	lo21  	lo21  	lo21  	lou21  	lou21  	lo21  	lo21  	  	  	  	  	  	  	  	  	   
+630	mo2tɕi1  	0	winnowing fan  	mo33tɕi55  	mu22tɕi55  	mo22tɕi24  	mɯ22tɕi55  	mo22tɕi55  	tɕi55  	tɕʰi35  	mo33tɕi35  	tɕi55  	  	  	  	  	  	  	  	  	   
+637	tsjen5  	0	arrow  	tɕien21  	tɕin42  	tsi43  	tsɛ42  	tsẽ42  	tɕien42  	tɕien42  	tɕi53  	tɕen42  	  	  	  	  	  	  	  	  	   
+647	tsri2  	0	paper  	tʂɚ̃33  	tʂi22  	tsɿ22  	tsɛ22  	tʂɚ̃22  	tsi33  	tʂi33  	tsi33  	tsi33  	  	  	  	  	  	  	  	  	   
+651	doŋ1  	0	speech; words; language  	doŋ35  	doŋ12  	do21  	(tɕa55)  	(la22kue55)  	  	  	tou21  	(ɣo21)  	  	  	  	  	  	  	  	  	   
+659	ɢuŋ2  	0	drum  	  	qoŋ22  	ɢu22  	  	  	ku33  	ku33  	ku33  	(kǝɯ21)  	  	  	  	  	  	  	  	  	   
+669	kro2  	0	ghost, spirit  	  	tʂi22  	tsɿ22  	tsɛ22  	tʂɚ22  	kv33  	ko33  	kv33  	tɕu33  	  	  	  	  	  	  	  	  	   
+673	pʰæn3  	0	(soul); spirit  	pʰaŋ21maŋ21  	pʰan42man22  	pʰæ43ma43  	p'h,42ma42  	pʰã42mã42  	p'h,an31man31  	  	pʰo31miɛ31  	pʰɚ21mɚ̃21  	  	  	  	  	  	  	  	  	   
+687	mjæ1  	0	name  	ɲua55  	ɲuɛ55  	miæ24  	ɲya55  	ɲo55  	mian55  	miɚ35  	miɛ35  	miɚ55  	  	  	  	  	  	  	  	  	   
+695	tsuŋ1  	0	tace; track  	tsvŋ55  	tsi22  	tɕia55  	tɕio55  	tsõ55  	tsṽ55  	(tso13)  	  	tsoŋ55  	  	  	  	  	  	  	  	  	   
+698	qæn1  	0	shadow  	qaŋ33  	qan22  	qæ22  	qa22  	qã22  	kɛ̃33  	kɚ̃33  	(zi21tsʰɛ55)  	kɚ̃33  	  	  	  	  	  	  	  	  	   
+699	mɯ5  	0	dream  	mo21  	moŋ24  	mɯ43  	mɯ̃55  	mɯ42  	mǝ̃31  	mǝ̃42  	mɯ53  	mǝɯ21  	  	  	  	  	  	  	  	  	   
+703	pjɛ2  	0	direction; orientation  	fɚ33  	(ɢo12pʰu55)  	fE22  	(p'h,u55)  	fe22  	fv33  	fv33  	(po33)  	[xõ33]  	  	  	  	  	  	  	  	  	   
+710	pri1(a)  	0	left  	tɕy55  	tjen55  	tsuE24  	(la55tɕo44tɕo44pʰo55)  	(lo55tɕyẽ55)  	pi55  	piǝ35  	pi35  	pi55  	  	  	  	  	  	  	  	  	   
+713	ɣɯ2  	0	back, behind  	ɣɯ33  	ɣe22  	ɯ22  	xɯ̃22  	xẽ55  	ɣeǝ33  	ɣɯ33  	ɣɯ33  	ɣǝ33  	  	  	  	  	  	  	  	  	   
+714	ŋua4  	0	outside  	ŋuɔ42  	uaŋ24  	ua55  	ŋua44  	(p|ɯ55ʐɚ21nõ22)  	uɑ̃44  	uaŋ33  	ua44  	ŋua44  	  	  	  	  	  	  	  	  	   
+722	djoŋ2  	0	the upper part; up reaches; above  	doŋ33  	doŋ33  	do22  	to22  	ɖɯ22  	tõ33  	tõ33  	to33  	doŋ33  	  	  	  	  	  	  	  	  	   
+738	qæn1  	0	today  	qan55(jien42)  	qɛ55(ɲi22)  	qæ24(ɲi22)  	qa44(ɲi44)  	qa55(ɲi44)  	ki55(ɕia44)  	ke55(jien44)  	kɛ55(ɲe44)  	kĩ55(ni44)  	  	  	  	  	  	  	  	  	   
+739	dʑen1  	0	yesterday  	ʑien35(jien42)  	dʑi21(ɲi22)  	tsi21(ɲi22)  	tsi21(ɲi44)  	tsi21(ɲi44)  	tɕi21(ɕia44)  	tɕien21(jien44)  	tɕi31(ɕe44ɲe44)  	tɕĩi42(ni44)  	  	  	  	  	  	  	  	  	   
+752	pɛ2  	0	at night; in the evening  	pɛ33  	(ja55xɯ42)  	(ɕia24xɯ22)  	(ɲi44u22)  	(ɕia55xɯ̃42)  	pẽ55  	pe33  	pe33  	(ɕɚ55pʰo55)  	  	  	  	  	  	  	  	  	   
+767	dzro4  	0	the 12 animals representing the 12 years  	ʐy42  	dzao21  	tɕio21  	tɕiu42  	tɕio21  	tsṽ42  	tʂõ42  	tsv42  	tsʰu21  	  	  	  	  	  	  	  	  	   
+771	ŋua4  	0	month  	ŋuɔ42  	uaŋ24  	ua55  	ŋua44  	uaŋ55  	uɑ̃44  	uaŋ33  	ua44  	ŋua44  	  	  	  	  	  	  	  	  	   
+781	back+year  	0	next year  	ɣɯ33suɔ42  	ɣe21sua24  	ɣɯ21sua55  	ɣɯ21sua44  	ɣɯ21sua44  	ɣǝ33suɑ44  	ɣɯ33sua44  	ɣɯ33sua44  	ɣǝ33sua44  	  	  	  	  	  	  	  	  	   
+797	ʔa4  	0	one  	a21  	a55  	a43  	a42  	a42  	a42  	  	a31  	a21  	  	  	  	  	  	  	  	  	   
+798	koŋ2  	0	two  	kpŋ33  	koŋ33  	ku22  	kv33  	koŋ33  	kõ33  	koŋ33  	kou33  	koŋ33  	  	  	  	  	  	  	  	  	   
+799	sʰaŋ1  	0	three  	saŋ55  	saŋ24  	sa24  	so55  	sã55  	sɑ̃55  	sʰã55  	sa55  	saŋ55  	  	  	  	  	  	  	  	  	   
+800	sji4  	0	four  	ɕi42  	ɕi24  	si55  	si44  	ɕi44  	ɕi44  	ɕi44  	ɕi44  	ɕi44  	  	  	  	  	  	  	  	  	   
+801	ŋu2  	0	five  	ŋv33  	ŋo22  	ŋu22  	ŋu22  	ŋu22  	ṽ33  	õ33  	mu33  	ŋ̣33 (added the character for vocalic consonants, not displayed in Wang 2006)  	  	  	  	  	  	  	  	  	   
+802	pjo4  	0	six  	fo42  	pfu24  	fo55  	xo44  	xo55  	fv44  	fo44  	fv44  	fv44  	  	  	  	  	  	  	  	  	   
+803	tsʰji4  	0	seven  	tɕʰi42  	tɕʰi24  	tsʰi55  	tsʰi44  	tsʰi55  	tɕʰi44  	tɕʰi44  	tɕʰi44  	tɕʰi44  	  	  	  	  	  	  	  	  	   
+804	pra4  	0	eight  	tɕo42  	tɕua24  	pia55  	tɕya44  	tɕua55  	pio44?  	pia44  	pia44  	pia44  	  	  	  	  	  	  	  	  	   
+805	tɕɯ2  	0	nine  	tɕi33  	tɕi22  	tɕiɯ22  	tɕi22  	tɕi22  	tɕiɯ33  	tɕiɯ33  	tɕiɯ33  	tɕǝɯ33  	  	  	  	  	  	  	  	  	   
+806	dzri4  	0	ten  	ʐɚ42  	dʐi21  	tsɿ21  	tsɛ42  	tʂɚ42  	tsa42  	tʂi42  	tsi42  	tsʰi42  	  	  	  	  	  	  	  	  	   
+808	'ten' + ne4  	0	twelve  	ʐɚ42ne42  	dʐi21nɛ55  	tsɿ21nE55  	tsɛ42(kv22)  	  	tsa42ne44  	tʂi42ne44  	tsi42ne44  	tsʰi42ne44  	  	  	  	  	  	  	  	  	   
+824	pæ4  	0	hundred  	pa42  	pæ24  	pæ55  	pa44  	pa55  	pa44  	pɚ44  	pǝ44  	pɚ44  	  	  	  	  	  	  	  	  	   
+826	tsjʰen1  	0	thousand  	tɕʰien55  	tɕʰian55  	tsʰi24  	tsʰi55  	tɕʰĩ55  	tɕʰien55  	tɕʰien55  	tɕʰi55  	tɕʰĩ55  	  	  	  	  	  	  	  	  	   
+832	pjo2  	0	a half  	fv33  	pfw22  	po22  	fe22  	fɚ22  	  	  	po21  	po21  	  	  	  	  	  	  	  	  	   
+839	troŋ1  	0	classifier (zhang zhi)  	tioŋ55  	tsoŋ12  	tio24  	(sy55qa42qa42)  	ʈõ55  	tsõ55  	tʂõ  	tsou35  	tsoŋ55  	  	  	  	  	  	  	  	  	   
+842	djɯ1  	0	classifier (zhi niao)  	diɯ35  	di12  	diɯ21  	tsu44tɕi21  	tso44a42ʈɯ21  	tǝ21  	tiǝ21  	tɯ21  	tǝɯ21  	  	  	  	  	  	  	  	  	   
+845	qʰɔ2  	0	classifier (limi)  	qʰɔ33  	qʰo22  	qʰo22  	qʰo22  	qʰo22  	kʰou33  	kʰu33  	kʰuo33  	kʰo33  	  	  	  	  	  	  	  	  	   
+848	drɯ3  	0	classifier (keshu)  	diɯ21  	dʐi42  	diɯ43  	dʑi42  	ɖɯ42  	tsɯ31  	tʂɯ31  	tsɯ31  	dzǝɯ21  	  	  	  	  	  	  	  	  	   
+852	t|hs,ua4  	0	xlassifier (bacai)  	tsʰuo42  	(dʑɛ24)  	(qE24)  	(qɛ55)  	(qẽ55)  	tsʰuɑ44  	tsʰua33  	(pa42)  	(k|eɯ44)  	  	  	  	  	  	  	  	  	   
+864	kʰoŋ1  	0	classifier (jianyifu)  	kʰoŋ55  	kʰoŋ55  	kʰo24  	kʰo55  	kʰõ55  	kʰõ55  	kʰoŋ55  	kʰou55  	  	  	  	  	  	  	  	  	  	   
+876	bjo2  	0	classifier (beicai)  	vɚ33  	"(Iæn42) (what consonant iss ""I""?, should be checked in any case)  "	(Iæ43) (dito, GX)  	  	  	v33  	(jɚ42)  	  	bi33  	  	  	  	  	  	  	  	  	   
+881	noŋ1b  	0	classifier (daimi)  	noŋ35  	nõ12  	no21  	nõ21  	nõ21  	  	  	ɲo21  	noŋ21  	  	  	  	  	  	  	  	  	   
+889	qæn1  	0	classifier (jianfang)  	qaŋ55  	qan55  	qæ24  	qa55  	qo55  	kɛ̃55  	kɚ35  	kɛ55  	kɚ̃55  	  	  	  	  	  	  	  	  	   
+894	noŋ3  	0	classifier (liang)  	liaŋ33  	ɲo43  	no42  	nõ42  	nõ42  	  	  	ɲo21  	noŋ21  	  	  	  	  	  	  	  	  	   
+899	zen1  	0	classifier (??)  	zi35  	zien12  	zɿ21  	zɛ21  	zẽ21  	(pʰa31)  	(pʰa21)  	(pʰe21)  	jen21  	  	  	  	  	  	  	  	  	   
+910	nji4  	0	day  	  	ɲi22  	ɲi22  	  	ɲi55  	  	jen33  	ɲie44  	ni44  	  	  	  	  	  	  	  	  	   
+914	sʰua4  	0	a year old  	suɔ42  	sua24  	sua55  	sua44  	sua55  	suɑ44  	sʰua44  	sua44  	sua44  	  	  	  	  	  	  	  	  	   
+916	pu3  	0	step  	(gɔ33)  	(gu22)  	pɯ43  	pɯ42  	pu42  	pu31  	pu31  	pu42  	pɯ21  	  	  	  	  	  	  	  	  	   
+928	C-ŋɔ3  	0	I  	ŋɔ21  	ŋa42  	ɴo43  	ŋo42  	õ42  	uõ31  	ŋõ31  	ŋo31  	nen42  	  	  	  	  	  	  	  	  	   
+931	nɔ3  	0	you  	nɔ21  	na42  	no43  	no42  	no42  	nou31  	nõ31  	no31  	nen42  	  	  	  	  	  	  	  	  	   
+934	bɔ3  	0	he  	bo21  	ba42  	uo55  	bo42  	bo42  	mo42  	pu31  	po31  	(kʰi55)  	  	  	  	  	  	  	  	  	   
+964	dɔ5  	0	big  	dɔ21  	da42  	da43  	do42  	do42  	tou42  	tou42  	to42  	do42  	  	  	  	  	  	  	  	  	   
+966	qʰua4  	0	wide  	qʰuo42  	qʰua24  	qʰua55  	qʰua44  	qʰua55  	kʰuɑ44  	kʰua44  	kʰua44  	kʰua44  	  	  	  	  	  	  	  	  	   
+968	qaŋ1  	0	high  	qɔŋ55  	qaŋ55  	qa24  	qo55  	qã55  	kɑ̃55  	kã35  	ka35  	kaŋ55  	  	  	  	  	  	  	  	  	   
+969	bri2  	0	low; short  	ʑyi33  	dʑy22  	dzyE22  	dʑyi22  	dʑyẽ22  	pi33  	pi33  	pi33  	pi33  	  	  	  	  	  	  	  	  	   
+972	droŋ1  	0	long  	dv35  	dʑou12  	tjo21  	tɕu21  	ʈõ21  	tsõ21  	tʂõ21  	tsou21  	tsoŋ21  	  	  	  	  	  	  	  	  	   
+974	tuen2  	0	far  	tue33  	tiuen22  	tyE22  	ti22  	tyi22  	tuen33  	tuen33  	tue33  	tsuen33  	  	  	  	  	  	  	  	  	   
+975	d|zren2  	0	near  	jen33  	dʑien22  	tɕi22  	(tsʰo55)  	tsʰo55)  	(tɕien33  	tɕien33  	tɕie33  	tɕen33  	  	  	  	  	  	  	  	  	   
+976	qʰua4  	0	wide  	qʰuo42  	qʰua24  	qʰua55  	qʰua44  	qʰua55  	kʰuɑ55  	kʰua44  	kʰua44  	kʰua44  	  	  	  	  	  	  	  	  	   
+977	træ4  	0	narrow  	tia42  	tsæ24  	tia55  	(so55)tɛ44  	tʂɚ55  	tsa44  	tʂɚ33  	tsɛ44  	tsɚ44  	  	  	  	  	  	  	  	  	   
+980	ɢɯ2  	0	thick  	ʁɚ33  	ɢe22  	ɢɯ22  	  	qɯ̃42  	kẽ33  	kẽ33  	kɯ33  	kǝɯ33  	  	  	  	  	  	  	  	  	   
+982	sʰreŋ1  	0	deep  	ʂɚ̃55  	ʂi55  	sɿ24  	sɛ55  	xõ55  	san55  	ʂʰɚ55  	si55  	sen55  	  	  	  	  	  	  	  	  	   
+985	qʰoŋ1  	0	empty  	qʰoŋ55  	qʰoŋ55  	qʰo24  	qʰõ55  	qʰõ55  	kʰṽ55  	kʰõ55  	  	koŋ55  	  	  	  	  	  	  	  	  	   
+987	tjɯ1  	0	many  	tɕiɯ55  	ti55  	ti24  	ti55  	ti55  	tɕi55  	tɕi35  	tɕi35  	ti55  	  	  	  	  	  	  	  	  	   
+990	ʁuen1b  	0	round  	ueŋ35  	uen12  	ʁuE21  	kʰuɛ44  	ŋue21  	uẽ21  	uẽ31  	ue21  	ven21  	  	  	  	  	  	  	  	  	   
+994	bæŋ1  	0	smooth  	baŋ35  	bæ12  	bE21  	pa21  	pã21  	pan21  	pɚ̃21  	pɛ21  	pɚ̃21  	  	  	  	  	  	  	  	  	   
+999	qʰuæ1  	0	slanting; learning  	  	qʰuæ55  	qʰuæ24  	qʰua55  	qʰue55  	[pʰiɛ55]  	[pʰiɚ55]  	[uɛ35]  	kʰuɚ55  	  	  	  	  	  	  	  	  	   
+1002	tuen1  	0	vertical, be standing  	tue55  	tyen55  	tyE24  	to55tɕi22  	tyi55  	tuen55  	tuen35  	tue35  	(tsuen55)  	  	  	  	  	  	  	  	  	   
+1003	tuen1  	0	straight  	tue55  	tuen55  	tyE24  	ti55  	tyi55  	tuen55  	tuen35  	miou42  	(tsuen55)  	  	  	  	  	  	  	  	  	   
+1004	kʰo4  	0	curved,; crooked; bent  	kʰv42  	kʰao24  	kʰo55  	kʰu44  	kɯ55  	kʰv44  	[uen35]  	kʰv44  	kʰu55  	  	  	  	  	  	  	  	  	   
+1005	χɯ4  	0	black  	[xɚ42]  	χe24  	χɯ55  	xɯ44  	xɯ55  	xɯ44  	xɯ44  	xɯ44  	xɯ44  	  	  	  	  	  	  	  	  	   
+1006	bæ4  	0	white  	ba42  	bæ21  	pa21  	pa42  	pa42  	pa42  	pɚ42  	pɛ42  	pʰɚ42  	  	  	  	  	  	  	  	  	   
+1007	tʰræ4  	0	red  	tʰa42  	tʰæ42  	tʰiæ55  	tɕʰa44  	ʈʰa55  	tsʰa44  	tʂʰɚ44  	tsʰɛ44  	[xoŋ33]  	  	  	  	  	  	  	  	  	   
+1008	ʁoŋ1b  	0	yellow  	ŋo|ng35  	ʁaŋ12  	ʁo21  	ŋõ21  	õ21  	ṽ21  	võ21  	ŋv21  	ɣoŋ21  	  	  	  	  	  	  	  	  	   
+1013	χɯ4  	0	dark  	[xɚ42]  	χe24  	  	xɯ44  	a42pa42  	(mian42)  	xɯ44  	(miɛ42)  	xɯ44  	  	  	  	  	  	  	  	  	   
+1014	dzruŋ2  	0	heavy  	ʐvŋ33  	dzoŋ22  	dʐo22  	dʑo22  	dʑõ22  	tsṽ33  	tʂo|n33  	tsv33  	tsõ21  	  	  	  	  	  	  	  	  	   
+1015	tʰæn1  	0	light  	tʰiaŋ55  	tsʰan55  	tʰiæ24  	tɕʰa55  	ʈʰã55  	tsʰan55  	tʂʰɚ̃55  	tsʰɛ55  	tsʰɚ55  	  	  	  	  	  	  	  	  	   
+1018	tsu2  	0	early  	tɕyi33  	tɕy22  	tɕyi22  	tɕyi22  	tsyi22  	tsu33  	tsu33  	tsu33  	tsu33  	  	  	  	  	  	  	  	  	   
+1019	mɛ2  	0	late  	mɛ33  	men22  	mE22  	mɛ22  	me22  	me33  	me33  	me33  	me33  	  	  	  	  	  	  	  	  	   
+1020	ji3  	0	sharp  	ji21  	ʑi42  	ɲi43  	ɲi44  	ji42  	ji31  	ji21  	ji31  	tɕiǝɯ42  	  	  	  	  	  	  	  	  	   
+1023	dzruŋ4  	0	muddy; turbid  	ʐv42  	dzao21  	tɕio21  	tɕiu21  	tɕiu21  	tsṽ42  	tso42  	tsɯ42  	tsʰv42  	  	  	  	  	  	  	  	  	   
+1028	qaŋ1  	0	dry  	qɔŋ55  	qaŋ55  	qa24  	qo55  	qã55  	kɑ̃55  	kã35  	ka35  	kaŋ55  	  	  	  	  	  	  	  	  	   
+1031	tsʰjæn1  	0	watery/thin (porridge)  	tɕʰiaŋ55  	tsʰan55  	tɕiæ24  	  	  	tɕʰian55  	tɕʰiɚ̃55  	tɕʰiɛ55  	tɕʰɚ̃55  	  	  	  	  	  	  	  	  	   
+1035	pʰæ1  	0	soft  	pʰa55  	pʰæ55  	pʰæ24  	pʰa55  	pʰa55pʰa55  	pʰa55  	pʰɚ55  	pʰɛ55  	pʰɚ55  	  	  	  	  	  	  	  	  	   
+1045	hɔ1  	0	correct; right  	hɔ55  	ho12  	χo24  	xo55  	(kv42)  	xou55  	xou35  	xo35  	xo55  	  	  	  	  	  	  	  	  	   
+1047	tsreŋ1  	0	real  	tʂɚ̃55  	tʂẽ12  	tsɿ24  	tsɛ55  	tʂɚ̃55  	tsan55  	tʂɚ̃35  	tsi35  	tsen55  	  	  	  	  	  	  	  	  	   
+1048	tɕa3  	0	fraud  	tɕɔ21  	  	(tɕia55a43tsi24)  	tɕa42  	(a42tʂɚ̃55)  	tɕiɑ31  	tɕia31  	tɕa31  	tɕa21  	  	  	  	  	  	  	  	  	   
+1050	sʰjen1  	0	new  	ɕien55  	ɕien55  	si24  	sɛ55  	sẽ55  	ɕien55  	ɕʰien55  	ɕi35  	ɕen55  	  	  	  	  	  	  	  	  	   
+1051	gɯ̃3  	0	used, old  	geŋ21  	gɯ42  	gɯ43  	gɯ42  	gɯ̃42  	  	  	kɯ31  	kǝɯ21  	  	  	  	  	  	  	  	  	   
+1052	dræn1  	0	good  	diaŋ35  	dzan12  	diæ21  	xo55  	xo22  	xu33  	xu33  	xu33  	xǝ33  	  	  	  	  	  	  	  	  	   
+1053	quɛ3(a)  	0	bad (things)  	quɛ21  	quɛ42  	quE43  	quɛ42  	que42  	kua44  	kue42  	  	kuɛ44  	  	  	  	  	  	  	  	  	   
+1057	njeŋ1b  	0	tender young (plant)  	jẽ35  	ɲe12  	ɲiǝ21  	ɲi21  	ɲi21  	jẽ21  	ʑẽ21  	(tɕʰiɛ33)  	ɲiǝɯ21  	  	  	  	  	  	  	  	  	   
+1062	nje4  	0	hot  	jen42  	ɲi24  	ɲi55  	ɲi44  	ɲi44  	jẽ44  	jen44  	ɲie44  	ɲiɛ44  	  	  	  	  	  	  	  	  	   
+1063	kɯ1(thing); gæ1(weather, fɚling)  	0	cold  	kɯ55  	ga12  	kɯ24  	kɯ55  	kɯ55  	kɯ55(thing); kɑ21(weather, fɚling)  	kɯka21  	kɯ35  	kɯ55  	  	  	  	  	  	  	  	  	   
+1064	ʔuen1  	0	lukewarm  	uen55  	uen22  	ʔuE24  	ʔuɛ̃55  	uẽ22  	ʔuen55  	uen35  	uɛ35  	(men33tʰen33)  	  	  	  	  	  	  	  	  	   
+1068	ɣo4  	0	easy  	(tsi55o33)  	u21  	u21  	u42  	u42  	ɣou42  	ɣou42  	ou42  	  	  	  	  	  	  	  	  	  	   
+1069	ɕoŋ1  	0	fragrant (smell)  	ɕoŋ55  	ɕioŋ55  	ɕio24  	mɛ44  	ɕõ55  	ɕiõ55  	ɕoŋ35  	ɕou35  	ɕoŋ55  	  	  	  	  	  	  	  	  	   
+1070	tʰru3  	0	stinking,; smelly  	tʰv21  	tsʰu42  	(xæ24)tʰiu43  	tɕʰu42  	ʈʰv42  	tsʰu31  	tʂʰu31  	tsʰu31  	  	  	  	  	  	  	  	  	  	   
+1072	sʰuaŋ1  	0	sour  	soŋ55  	suaŋ55  	ɕyE24  	sua55  	tɕã55  	suɑ̃55  	sʰuaŋ55  	sua55  	suaŋ55  	  	  	  	  	  	  	  	  	   
+1074	qʰu2  	0	bitter  	qʰo33  	q|hmu22  	qʰu22  	qʰu22  	qʰu22  	qʰu22  	kʰu33  	kʰu31  	kʰu33kʰǝɯ33  	  	  	  	  	  	  	  	  	   
+1076	tsʰoŋ3  	0	salty  	tsʰoŋ21  	tsʰoŋ42  	tsʰoŋ43  	tsʰo42  	kʰu42  	tsʰõ31  	tsʰoŋ42  	tsʰou31  	kʰǝɯ33  	  	  	  	  	  	  	  	  	   
+1078	sri4  	0	astringent; like unripe  	ʂi4  	tsua24  	sɿ55  	(kʰui42/tsʰi42)  	ʂɚ55  	sa44  	ʂi44  	si55  	si44  	  	  	  	  	  	  	  	  	   
+1083	gɔ1  	0	rich  	gɔ35  	gao12  	ko21  	ko21  	ko21  	ko42  	  	ko21  	ko21  	  	  	  	  	  	  	  	  	   
+1089	sji2  	0	dead  	ɕi33  	ɕi22  	si22  	si22  	ɕi22  	ɕi33  	ɕi33  	ɕi33  	ɕi33  	  	  	  	  	  	  	  	  	   
+1094	mæ1b  	0	loud  	ma35  	mæ12  	mæ12  	(do42)  	ma21  	man21  	mɚ21  	  	mɚ̃21  	  	  	  	  	  	  	  	  	   
+1124	pʰræ1  	0	xliffy; precipitous  	tʂua55  	tʂuen55  	pʰiæ24  	tɕya55  	tɕya55  	pʰiɛ55  	pʰiɚ55  	pʰiɛ55  	[tǝɯ21]  	  	  	  	  	  	  	  	  	   
+1126	gɔ1  	0	love; like  	gɔ35  	gao112  	ko21  	ko21  	ko21  	kou21  	ku21  	ko21  	ko21  	  	  	  	  	  	  	  	  	   
+1129	ja4  	0	press (with palm of finger)  	jɔ42  	ja24  	ja55  	o44  	(a55)  	jo44(/ɑ̃44)  	ja44  	ja44  	ja44  	  	  	  	  	  	  	  	  	   
+1131	bræ4  	0	pull up (weeds)  	ʐo42  	dʑua21  	pia21  	tɕia44  	tɕiõ55  	pio42(/mɑ̃21)  	(ma21)  	ma(21)  	[tsʰɛ42]  	  	  	  	  	  	  	  	  	   
+1132	bæ1  	0	to rake (the fields)  	ba35  	bæ12  	pæ21  	[to42ɕyi22]  	-  	pɑ44  	pǝ21  	pɛ21  	pɚ21  	  	  	  	  	  	  	  	  	   
+1141	bjo4  	0	bind; tie up  	vɚ42  	bvu21  	fo21  	u42  	u21  	fv42  	fv42  	v42  	pʰǝɯ42  	  	  	  	  	  	  	  	  	   
+1148	pɯ2  	0	have eaten one's fill  	pɯ33  	pu33  	pɯ22  	pɯ22  	pu22  	pu33  	pu33  	pu33  	pǝɯ33  	  	  	  	  	  	  	  	  	   
+1149	bɯ2/pɯ1  	0	hug  	bɯ33  	bu22  	bɯ22  	pɯ22  	bu22  	pu33  	pu33  	po55  	bɯ33  	  	  	  	  	  	  	  	  	   
+1151	bjo2  	0	carry (shoulder)  	vɚ33  	  	  	vɛ22  	ve22  	v33  	(jɚ31)  	(jɛ21)  	pa21[/piɛ̃42]  	  	  	  	  	  	  	  	  	   
+1155	me1a  	0	xlose (the mouth)  	mi55  	mi55  	mi24  	ɲyi55  	mi55  	me55  	me35  	me35  	mi55  	  	  	  	  	  	  	  	  	   
+1156	pren1  	0	to plait  	tɕyen55  	tɕyen55  	tsuE24  	tɕyi55  	tɕyẽ55  	pien55  	pi35  	pi35  	pien55  	  	  	  	  	  	  	  	  	   
+1158	pren5  	0	change  	tɕyen21  	tɕyen42  	pE43  	(ka42)pɛ42  	(ka42)pe42  	pien42  	pien42  	pi42  	pieɛ42  	  	  	  	  	  	  	  	  	   
+1160	bæn3  	0	to be ill  	baŋ21  	ban42  	bæ43  	(su42)  	(sõ42)  	pan31  	pɚ̃31  	pɛ21  	pɚ̃21  	  	  	  	  	  	  	  	  	   
+1161	pu2  	0	patch (clothing)  	pɯ33  	pu22  	pɯ22  	pɯ22  	pu22  	pu33  	pu33  	tse33  	pǝɯ33  	  	  	  	  	  	  	  	  	   
+1168	da4  	0	step on; tread  	(uen21)  	da21  	ta21(/tsʰuE43)  	ta42  	ta42  	tɑ42  	ta42  	ta42  	tʰa42  	  	  	  	  	  	  	  	  	   
+1169	dzoŋ1  	0	hide  	zoŋ35  	dzoŋ12  	tso21  	tsu21  	tsõ42  	tsõ21  	tsoŋ21  	tsou21  	tsoŋ21  	  	  	  	  	  	  	  	  	   
+1171	bɛ4  	0	to poke; insert  	(tɕʰia42)  	(tsʰa24)  	(tɕʰio43)  	pɛ42  	pe42  	pe42  	(tɕʰiɚ44)  	pe42  	pʰɛ42  	  	  	  	  	  	  	  	  	   
+1172	pʰjen1  	0	transplant (rice seedling); insert  	fɚ55  	pfu55  	fE24  	(xue55)  	(tɕiõ42)  	fv55  	fv55  	fv55  	pʰien55  	  	  	  	  	  	  	  	  	   
+1174	tʰje4  	0	unseam (clothing)  	tʰi42  	tʰua224  	(lo43)  	tʰo55  	ʈʰɚ55  	tʰe44  	tʰe33  	tsʰu33  	tsʰu33  	  	  	  	  	  	  	  	  	   
+1186	t|hr,u2  	0	stir-fry; stir  	tʰv33  	tɕyi22  	tʰiu22  	(ŋõ21)  	(õ21)  	tsʰu33  	tʂʰu  	tsʰu33  	tsʰu33  	  	  	  	  	  	  	  	  	   
+1188	tsʰuen1  	0	weigh (food)  	tɕien55  	tɕʰyen55  	tsʰuE24  	tsʰuɛ55bɛ22  	tsʰuẽ55  	tɕʰyẽ55  	tɕʰyen55  	tɕʰiue55  	tsʰuen55  	  	  	  	  	  	  	  	  	   
+1194	qɯ1  	0	fill (a bowl with rice)  	qɚ55  	qe55  	qɯ24  	qɯ55  	qɯ55  	kɯ55  	kɯ35  	kɯ35  	kǝ55  	  	  	  	  	  	  	  	  	   
+1198	jɯ4  	0	eat  	ju42  	ju42  	jɯ55  	ji44  	ji55  	jɯ44  	jɯ44  	jɯ44  	ji44  	  	  	  	  	  	  	  	  	   
+1212	tro4  	0	put on (the shoes)  	tju42  	tsu24  	tju55  	tɕu44  	ʈo55  	tsou44  	tʂou33  	tsou44  	tso44  	  	  	  	  	  	  	  	  	   
+1218	pʰɯ1  	0	blow (the trumpet)  	pʰɯ55  	pu55  	pʰɯ24  	pʰɯ55  	pʰɯ55  	pʰɯ55  	pʰu55  	pʰǝɯ55  	pʰǝɯ55  	  	  	  	  	  	  	  	  	   
+1225	tsʰo4  	0	twist (hemp fivers)  	tsʰu42  	  	tsʰu55  	tsʰo55  	tsʰo55  	tsʰou44  	tsʰou33  	tsʰo44  	tsʰo44  	  	  	  	  	  	  	  	  	   
+1234	tæŋ4  	0	fight  	tɔ42  	taŋ24  	(sa24tsa55)  	(so55qa21)  	(so55qã42)  	tan44  	tɚ̃44  	tɛ44  	tɚ̃44  	  	  	  	  	  	  	  	  	   
+1240	tu2  	0	to bet  	tv33  	(ta55)tu22  	(sa55bo24)  	(so55pu55)  	(so55pu55)  	(tsʰi55pɔ55)  	tu33  	  	[tɚ55tv21]  	  	  	  	  	  	  	  	  	   
+1248	sky+cry  	0	to thunder  	xen55ma35  	hen55mæ12   	xE24mæ21  	xẽ55ma21  	xẽ55ma21  	xen55man21  	xen55mɚ21  	xe55mɛ21  	xen55mɚ21  	  	  	  	  	  	  	  	  	   
+1252	tjɯ5  	0	wear (a hat)  	tiɯ24  	di24  	tɚ43  	tɯ42  	tẽ42  	tǝ̃42  	tǝn42  	tɯ42  	tɯ42  	  	  	  	  	  	  	  	  	   
+1254	tro4  	0	wear (a bracelet)  	tiu42  	tsu24  	tju55  	tɕu55  	ʈu55  	tsou44  	tʂou33  	  	tso44  	  	  	  	  	  	  	  	  	   
+1256	be2  	0	to block (the wind)  	bi33  	bi22  	(ta22tsuE24)  	dʑyi22  	dʑyẽ22  	(tɑ̃31)  	(tã42)  	(la55)  	pɛ22  	  	  	  	  	  	  	  	  	   
+1263	tɯ4  	0	get; acquire  	tɯ42  	ti24  	tǝ55  	tɯ44  	tɯ55  	tǝ44  	tjɯ44  	tɯ44  	tǝɯ44  	  	  	  	  	  	  	  	  	   
+1264	djɯ2  	0	wait  	tɯ42  	ti24  	tǝ55  	tɯ44  	tɯ55  	tǝ44  	tjɯ44  	tɯ44  	tǝɯ44  	  	  	  	  	  	  	  	  	   
+1265	'earth' + 'wag'  	0	earth quake  	ʑi21ʐu21  	dʑi21ju24  	da43dʑi43ju43  	do42tɕi21ju42  	da42tɕi21u42  	tɕi31ju31  	tɕi21ju31  	  	ti31ju31  	  	  	  	  	  	  	  	  	   
+1269	ʂu1(a)  	0	to burn  	  	ɕy55  	  	  	  	  	ʂu55  	su55  	sv55  	  	  	  	  	  	  	  	  	   
+1269	nji2(b)  	0	to burn  	jen33  	  	(xu24)  	(fi22pɛ22)  	(fv55ji55)  	jĩ33  	  	ɲiɯ33  	  	  	  	  	  	  	  	  	  	   
+1274	dua4  	0	to drop  	(u42?)  	tɕɛ24  	dua21  	tua42  	tua42  	tuɑ42  	(nɚ31)  	tua42  	(dʑiaŋ21)  	  	  	  	  	  	  	  	  	   
+1287	ʁɯ4  	0	read  	ɣɯ42  	ʁe21  	ʁɯ21  	ɣɯ42  	ɣɯ42  	ɣǝ42  	ɣɯ42  	ɣɯ42  	[tʰou42]  	  	  	  	  	  	  	  	  	   
+1298	tɕɯ1  	0	be hungry  	tɕiɯ55qʰɔ42  	tɕi22qʰa55  	tɕiɯ24qʰa55  	tɕʰi55qʰo44  	tɕi55qʰa44  	(ŋõ42)  	tɕi35kʰa44  	(fu44xua55)  	tɕi55kʰa44  	  	  	  	  	  	  	  	  	   
+1318	pje1  	0	fly  	fɚ55  	pfu55  	fE24  	xuɛ55  	fi55  	fv55  	fv35  	fv35  	pi55  	  	  	  	  	  	  	  	  	   
+1319	pjen1  	0	divide; share (things)  	fɚ55  	pfũ55  	fE24  	xuɛ55  	so55fi55  	fṽ55  	fṽ35  	fv35  	pien55  	  	  	  	  	  	  	  	  	   
+1332	tʰa4  	0	pull (a quilt over oneself)  	tʰɔ42  	tʰa24  	tʰua55  	tʰo55  	tʰa55  	tʰɑ44  	tʰa44  	tʰa55  	(pɛ42)  	  	  	  	  	  	  	  	  	   
+1339	sʰræ4  	0	cut (meat)  	ɕa42  	sæ24  	ɕiæ55  	ɕa44  	ɕa55qa21  	sa44  	ʂʰɚ44  	sɛ44  	sɚ44  	  	  	  	  	  	  	  	  	   
+1343	qæ4  	0	be on the other side of (a river)  	qa42  	qæ24  	qæ55  	qa42  	qa55  	ka44  	kɚ44  	kɛ55  	kɚ44  	  	  	  	  	  	  	  	  	   
+1345	zɯ3  	0	give  	zi21  	zi42  	tsɿ43  	zi42  	zi42  	si31  	zi21  	zɯ42  	zǝɯ21  	  	  	  	  	  	  	  	  	   
+1347	tso4  	0	plough; till  	tsu42  	tsu24  	tsu55  	  	tso55  	tsou44  	tsou33  	  	tso44  	  	  	  	  	  	  	  	  	   
+1348	qɯ1  	0	to hook  	qɚ55  	  	qɯ24  	qɯ55  	qɯ55  	kɯ55  	kɯ35  	[kɯ55]  	kʰv55  	  	  	  	  	  	  	  	  	   
+1357	noŋ5  	0	to pen in (sheep)  	noŋ21  	noŋ42  	no43  	nõ42  	noŋ42  	nṽ42  	u33  	no42  	[kǝɯ21]  	  	  	  	  	  	  	  	  	   
+1360	groŋ3  	0	kneel  	ʐɚ̃21  	tʂi42  	dzɿ43  	(tsɛ44kʰo44tsu21ko55)  	tɕĩ21  	kv31  	ko21  	kv31  	tɕu21  	  	  	  	  	  	  	  	  	   
+1370	ɣɯ2/ɯ̃2  	0	drink  	ɯ̃33  	(oŋ22)  	ɯ22  	ɯ̃22  	ɯ̃22  	ǝ̃33  	ǝ̃33  	ɯ33  	oŋ33  	  	  	  	  	  	  	  	  	   
+1383	mɯ2  	0	to change  	mɯ33  	sa55mu22  	mɯ22  	mɯ22  	mɯ22  	xuan44  	  	mɯ33  	mǝɯ33  	  	  	  	  	  	  	  	  	   
+1384	sreŋ1  	0	wave; wield  	ʂɚ̃55  	ʂi55  	sɿ24  	sɛ55  	ʂɚ55  	san55  	ju33  	  	  	  	  	  	  	  	  	  	  	   
+1385	ja4  	0	return  	jɔ42  	ja55  	ja55  	jo44  	ja55  	jɑ44  	ja44  	(jo31)  	(xɚ31tiã55)  	  	  	  	  	  	  	  	  	   
+1405	tsuɛ4  	0	squeeze (for milk)  	tsue42  	tsuɛ24  	tsuE55  	(nɛ55)  	(le55)  	tsui44  	[tɕi44]  	tsue44  	[tɕi31]  	  	  	  	  	  	  	  	  	   
+1412	qʰoŋ1  	0	pick up (food with chopstick)  	kʰo55  	qʰao55  	kʰo24  	(tɕʰi55)  	|trʰɯ55)  	kʰõ55  	kʰoŋ55  	(tsʰɯ55)  	kʰo55  	  	  	  	  	  	  	  	  	   
+1413	ɢæ4  	0	pick up (food with chopstick)  	ʁa42  	|Gæ21  	qæ21  	qa42  	qa55  	ka42  	kɚ42  	kɛ42  	kʰɚ42  	  	  	  	  	  	  	  	  	   
+1414	dzri4  	0	pick up  	ʐɚ42  	dʐi21  	tsɿ21  	tsɛ42  	tʂɚ42  	tsa42  	t|sri42  	tsi42  	tsʰi42  	  	  	  	  	  	  	  	  	   
+1416	ɢæ4  	0	scissor  	ʁa42  	ɢæ21  	qæ21  	qa42  	qa55  	ka42  	kɚ42  	kɛ42  	tsʰɛ42  	  	  	  	  	  	  	  	  	   
+1419	mɯ2  	0	exchange  	mɯ44  	mu22  	mɯ22  	  	  	  	mɯ33  	  	  	  	  	  	  	  	  	  	  	   
+1422	ɔ4  	0	to water/sprinkle/irrigate  	o42  	(læ24)  	u55  	o55(/xuɛ55)  	u55  	ou44  	ou44  	ou44  	o44  	  	  	  	  	  	  	  	  	   
+1425	qaŋ1  	0	teach  	qɔŋ55  	qaŋ55  	qa24  	qo55  	qã55  	kɑ̃55  	kã35  	ka35  	kaŋ55  	  	  	  	  	  	  	  	  	   
+1438	bræ4  	0	to bark  	ʐo42  	dʑua21  	pia21  	tɕya21  	tɕua53  	pio42  	pia42  	pia42  	pʰia42  	  	  	  	  	  	  	  	  	   
+1438	la1a  	0	lift (the lid)  	lɔ55  	lao12  	lo24  	lo55  	lo55  	lɑ55  	-  	la35  	(kʰǝ55)  	  	  	  	  	  	  	  	  	   
+1442	tʰɯ̃4  	0	to borrow (money)  	tʰɯ42  	tʰæ24  	tʰɯ55  	[tɕia44]  	tʰɯ̃55  	[tɕia44]  	[tɕiɚ44]  	[tɕiɛ55]  	tʰɯ44  	  	  	  	  	  	  	  	  	   
+1443	tɕæ1  	0	to borrow (tools)  	(tʰɯ42)  	tsæ24  	tɕæ55  	tɕia44  	tɕia44  	tɕia44  	tɕiɚ44  	tɕiɛ55  	tɕɚ44  	  	  	  	  	  	  	  	  	   
+1444	dzi1  	0	soak; steep  	zi35  	dzi12  	tsi21  	(ɲya55)  	(ɲiua55)  	(pʰɑ44)  	tsi21  	tsi21  	(ɣɚ44)  	  	  	  	  	  	  	  	  	   
+1452	ko5  	0	live; reside  	ky21  	kao42  	ku43  	kv42  	kv42  	kv42  	ko42  	kv42  	kv42  	  	  	  	  	  	  	  	  	   
+1454	pjo5  	0	to saw  	fv21  	  	  	(ɕa44)fv42  	(ɕa44)fv42  	  	(ʂʰɚ44)  	fv42  	fv42  	  	  	  	  	  	  	  	  	   
+1461	qʰɯ̃1  	0	open  	qʰɚ̃55  	qʰe55  	qʰɯ24  	qʰɯ55  	qʰɯ̃55  	kʰɯ55  	kʰɯ55  	kʰɯ55  	kʰǝ55  	  	  	  	  	  	  	  	  	   
+1462	hua4  	0	(water) be boiling  	huɔ42  	xua24  	χua55  	xua44  	xua55  	xuɑ44  	  	xua44  	xua44  	  	  	  	  	  	  	  	  	   
+1474	goŋ3  	0	roast in fire  	gv21  	  	go43  	  	  	kõ31  	koŋ42  	kʰou31  	kõ21  	  	  	  	  	  	  	  	  	   
+1477	qʰɔ1  	0	to cough  	qʰɔ55  	qʰao55  	qʰo24  	(pa21kv42)  	(pa21kv42)  	kʰou55  	kʰou55  	kʰo55  	kʰǝ55  	  	  	  	  	  	  	  	  	   
+1478	qʰa4  	0	be thirsty  	qʰɔ42  	qʰa24  	qʰa55  	qʰo44  	qʰa55  	kʰɑ44  	kʰa44  	kʰa44  	kʰɐ44 (is ɐ a regular phoneme of  mzl or is this a mistake?)  	  	  	  	  	  	  	  	  	   
+1485	qʰɔ4  	0	cry (verb or noun?, should be made clear later on)  	qʰo42  	qʰu224  	qʰu55  	qʰu44  	qʰo55  	kʰou44  	mɚ31  	kʰɑ44  	kʰo44  	  	  	  	  	  	  	  	  	   
+1487	dʑi2  	0	pull; tug  	ʑi33  	dʑi22  	dʑi22  	(kʰɛ22/tɕʰio55)  	  	tɕi33  	tɕi33  	tɕi33  	(kʰen55)  	  	  	  	  	  	  	  	  	   
+1489	tsʰjen1  	0	peppery  	tɕʰien55  	  	  	tsʰɛ55  	tsẽ55  	tɕʰien55  	tɕʰien55  	tɕʰi55  	tɕʰĩ55  	  	  	  	  	  	  	  	  	   
+1493	ku2  	0	old  	kv33  	ku22  	ku22  	kv22  	kv22  	ku33  	ku33  	ku33  	kv33  	  	  	  	  	  	  	  	  	   
+1502	gɯ1  	0	(water flow)  	gɯ35  	gɯ12  	kɯ21  	kɯ21  	kɯ21  	kɯ21  	kɯ21  	kɯ21  	kɯ21  	  	  	  	  	  	  	  	  	   
+1506	ɣɯ3  	0	to leak  	ɣɯ21  	ɣɯ42  	ɯ43  	ɯ21  	ɣɯ21  	ɣǝ31  	ɣɯ31  	ɣɯ31  	ɣɯ21  	  	  	  	  	  	  	  	  	   
+1513	bri2  	0	be numb  	(de33)  	(dʑyen12)ʂi22  	(qui21)  	tɕyi21  	tɕyẽ21  	piǝ21  	pi21  	pi21  	pi21  	  	  	  	  	  	  	  	  	   
+1516	mæ5  	0	buy  	ma21  	mæ42  	mæ43  	ma42  	ma42  	ma42  	mɚ42  	mɛ42  	mɚ21  	  	  	  	  	  	  	  	  	   
+1517	ɢɯ1  	0	sell  	ʁɚ35  	ɢe12  	qɯ21  	qɯ21  	qɯ21  	kɯ21  	kɯ21  	kɯ21  	kǝɯ21  	  	  	  	  	  	  	  	  	   
+1521	mæ1b  	0	(birds)cry/chirp  	ma35  	mæ12  	mæ21  	  	  	man21  	mɚ21  	  	mɚ̃21  	  	  	  	  	  	  	  	  	   
+1523	me1a  	0	close (the mouth) lightly  	mi55  	mi55  	mi24  	  	  	me55  	me35  	  	mi55  	  	  	  	  	  	  	  	  	   
+1525	mɔ4  	0	stroke; touch  	mɔ42  	moŋ24  	mɯ55  	mu55  	mo55  	mõ44  	mõ44  	mou55  	mo44  	  	  	  	  	  	  	  	  	   
+1526	mɔ1b  	0	whet (a knife)  	mɔ35  	ma12  	mo21  	mu21  	mo21  	mõ21  	mau21  	mo21  	mo21  	  	  	  	  	  	  	  	  	   
+1527	tʰre4  	0	grind (flour)  	tʰi42  	tʰi24  	(uE43uE43)  	(ji42)  	(ji42)  	tsʰe44  	tʂʰe44  	(ue42)  	(ɣǝɯ21)  	  	  	  	  	  	  	  	  	   
+1533	tsuɛ4  	0	twist (a tower)  	(ji42)  	(ji21)  	tsuE55(/ji21)  	(ji42)  	(ji42)  	tsui44  	(ji31)  	tsue44  	tsuɛ44  	  	  	  	  	  	  	  	  	   
+1535	kʰuɛ2  	0	vomit/throw up  	kʰuɛ33  	qʰuɛ22  	qʰuE22  	(tɕʰa44)  	(tɕʰa44)  	(tɕʰia44)  	(tã42)  	kʰui44  	kʰui33  	  	  	  	  	  	  	  	  	   
+1536	mæ4  	0	(people) crawl  	ma42  	mæ24  	mæ55  	ma44  	ma55  	ma44  	mɚ44  	mɛ44  	mɚ44  	  	  	  	  	  	  	  	  	   
+1546	bæ1  	0	compensate  	ba35  	bæ12  	pæ21  	  	  	pa21  	pɚ21  	pʰǝ42  	(tã42)  	  	  	  	  	  	  	  	  	   
+1552	pʰɔ3  	0	chop (firewood)  	pʰɔ21  	pʰa42  	pʰo43  	pʰo42  	pʰo42  	pʰou31  	pʰou31  	pʰo42  	(tʰu55)  	  	  	  	  	  	  	  	  	   
+1553	bɯ1  	0	float  	bɯ35  	bu12  	bɯ21  	pɯ21  	pɯ21  	pɯ21  	pu21  	pɯ21  	pǝɯ21  	  	  	  	  	  	  	  	  	   
+1561	pʰæ4  	0	cut/rip open  	pʰa42  	pʰæ24  	pʰæ44  	tɕyi21tʰo55  	ɕa455pʰo42  	pʰa44  	pʰou33  	pʰɛ33  	pʰɚ44  	  	  	  	  	  	  	  	  	   
+1562	kʰuŋ1  	0	pave; lay  	pʰɯ55  	kʰoŋ55  	kʰo24  	kʰu55  	  	kʰõ55  	pʰu33  	kʰou55  	kʰoŋ55  	  	  	  	  	  	  	  	  	   
+1566	gɯ1  	0	ride  	gɯ35  	gɯ12  	kɯ21  	kɯ21  	kɯ22  	kɯ21  	kɯ21  	kɯ21  	(ua21)  	  	  	  	  	  	  	  	  	   
+1568	qʰen1  	0	pull/lead (a cow) along  	qʰan55  	qʰ55  	qʰE24  	qʰɛ55  	qʰe55  	kʰẽ55  	kʰen55  	kʰe55  	kʰen55  	  	  	  	  	  	  	  	  	   
+1569	bjɛ2  	0	to owe (monez)  	vɚ33  	bvu22  	vE22  	vɛ22  	(tɕĩ21)  	v33  	võ33  	(ɕiou33)  	pi33  	  	  	  	  	  	  	  	  	   
+1574	tsʰuaŋ2  	0	cut up (vegetable)  	tsʰoŋ33  	tsʰuaŋ22  	tcʰyE22  	(ɕa44)  	(ɕu44)  	tsʰuɑ̃33  	tsʰuã33  	tsʰua33  	tsʰuen33  	  	  	  	  	  	  	  	  	   
+1580	χɯ̃2  	0	fully recover (from an illness)  	xẽ33  	χen22  	χɯ22  	  	  	xǝ̃33  	xu33(xa55)  	xɯ33  	xǝ33  	  	  	  	  	  	  	  	  	   
+1587	ʔuen1  	0	heat up (cold rice)  	uen55  	uen22  	ʔuE24  	ʔuɛ̃55  	uẽ55  	ʔuen55  	wen35  	uɛ35  	ŋuɛ55  	  	  	  	  	  	  	  	  	   
+1596	srɯ2  	0	piss; pee  	ʂi55  	ʂi22  	ɕɯ22  	sɛ22  	ʂɚ22  	  	  	si33  	ɕɚ̃55  	  	  	  	  	  	  	  	  	   
+1597	sa4  	0	scatter (seeds)  	sɔ42  	sa24  	sa55  	so42  	sa55  	sɑ44  	sa44  	(tɕɛ42)  	sɐ21  	  	  	  	  	  	  	  	  	   
+1601	tʰro4  	0	seep  	tʰiu42  	tsʰu24  	tʰiu55  	tɕʰio44  	ʈʰo55  	tsʰou44  	tʂʰou44  	[so33]  	[sǝɯ33]  	  	  	  	  	  	  	  	  	   
+1613	tsʰren2  	0	stretch out (the arm)  	tʂʰɚ̃33  	tʂʰɚ̃22  	tsʰɿ22  	tsʰɛ22  	tɕʰɚ̃22  	  	  	tʰa55  	tsʰen33  	  	  	  	  	  	  	  	  	   
+1634	sro5  	0	to comb  	ʂv21  	  	  	ɕiu42  	ɕiu42  	sṽ31  	ʂo42  	sv31  	[su31]  	  	  	  	  	  	  	  	  	   
+1635	tsʰreŋ1  	0	lose (a game)  	tʂʰɚ̃55[//ʂv55]  	tʂi22  	tsʰɿ24  	(a42ɣo21)  	tʂɚ55  	tsʰi55  	[ʂo35]  	tsʰi55  	[ɕy55]  	  	  	  	  	  	  	  	  	   
+1638	dzro4  	0	(fruit) be ripe  	ʐy42  	dzao21  	tɕio21  	tɕiu21  	tɕio21  	(tsṽ42tʰǝ31)  	(tʰiɯ42xa55)  	  	tsʰu42  	  	  	  	  	  	  	  	  	   
+1643	sreŋ1  	0	fling; toss  	ʂɚ̃55  	ʂi55  	sɿ24  	sɛ55  	ʂɚ̃55  	san55  	(ju33)  	  	[suɛ42]  	  	  	  	  	  	  	  	  	   
+1645	bjo4  	0	tie (a cow) to  	vɚ42  	bvw21  	fo21  	u21  	u21  	  	  	pɛ21  	pʰɯ42  	  	  	  	  	  	  	  	  	   
+0	tsji4  	0	suck  	tɕi42  	tɕi12  	tsi55  	  	  	tɕi44  	tɕi44  	tɕi55  	tɕi44  	  	  	  	  	  	  	  	  	   
+1649	sua4  	0	say  	sua42  	  	  	(tso42)  	  	suɑ44  	  	sua44  	sua44  	  	  	  	  	  	  	  	  	   
+1650	pʰe1  	0	tear up, rip  	(tʰi42pʰo55)  	(tɕien55)  	pʰi24  	tɕʰyi55  	tɕʰyi55  	  	pʰe55  	pʰe55  	pʰɛ55  	  	  	  	  	  	  	  	  	   
+1651	sji2  	0	die  	ɕi33  	ɕi22  	si22  	si22  	ɕi22  	ɕi33  	ɕi33  	ɕi33  	ɕi33  	  	  	  	  	  	  	  	  	   
+1656	sɔ2  	0	lock (the door)  	sɔ33  	su22  	so22  	so22  	so22  	tsou42  	su33  	so33  	tsʰo55  	  	  	  	  	  	  	  	  	   
+1663	mɯ1b  	0	escape; run away  	mɯ35  	m|oŋ12  	mɯ21  	mɯ21  	mɯ21  	mõ21  	mǝ̃21  	mo21  	(liɐ55lɛ55)  	  	  	  	  	  	  	  	  	   
+1666	suŋ3  	0	(head) ache  	svŋ21  	saŋ42  	(tsa55)  	(tso55)  	(tsa55)  	svŋ31  	soŋ31  	(si31)  	soŋ21  	  	  	  	  	  	  	  	  	   
+1668	dʑæn3  	0	shave (the head)  	ʐaŋ21  	dzan42  	dzE43  	(ɕia44)  	(ɕiu44)  	tɕian31  	tɕiɚ̃21  	tɕiɛ31  	tɕiɚ̃21  	  	  	  	  	  	  	  	  	   
+1674	dzri2  	0	lick, lap  	ʐi33  	dʐi22  	dzɿ22  	tsɛ22  	ʐɚ̃22  	tsi33  	tʂi33  	tsi33  	dzi33  	  	  	  	  	  	  	  	  	   
+1681	tɕʰ|aen,1  	0	listen  	tɕʰiaŋ55  	tɕʰian55  	tɕʰiæ24  	tɕʰia55  	tɕʰiã55  	tɕʰian55  	tɕʰiɚ|en,55  	tɕʰiɛ55  	tɕʰɚ̃55  	  	  	  	  	  	  	  	  	   
+1688	tsʰri1  	0	spit (noun or verb?)  	tɕʰi42(/fɚ55tʰɔ21)  	(pfu12tʰua42)  	(fE24tʰo43)  	(fɛ55tʰo42)  	(fe55)  	tsʰi55(tsʰi55tʰou31)  	tʂʰi55  	tsi55  	tɕʰi55  	  	  	  	  	  	  	  	  	   
+1707	tʰru1  	0	to smell  	tʰv55  	tʂʰy55  	tʰiu24  	xã55  	ʈʰu55  	tsʰu55  	tʂʰu55  	tʂv55  	tsʰu55  	  	  	  	  	  	  	  	  	   
+1708	præ4  	0	ask; question  	tʂua42  	tɕuɛ24  	piæ55  	tɕya44  	tɕua55  	pia44  	piɚ44  	piɛ44  	piɚ44  	  	  	  	  	  	  	  	  	   
+1715	tæ1  	0	be blind  	ta55  	ten55  	tæ24  	ta55  	tã55  	tan55  	[ɕa13]  	tɛ35  	tɚ55  	  	  	  	  	  	  	  	  	   
+1718	sen5  	0	lay (eggs)  	sen21  	sen42  	sE43  	sɛ42  	sɚ̃42  	sen42  	ɕien42  	se42  	sen42  	  	  	  	  	  	  	  	  	   
+1719	ɣu4  	0	(rain) fall  	(ʐi33)luo42  	(ʐi22(w21  	u21  	u42  	u42  	ɣou42  	ɣou42  	ou42(vu33ɕi44)  	ɣo42  	  	  	  	  	  	  	  	  	   
+1726	mi2  	0	think  	mi33  	  	  	mi22(/suɛ42)  	mi22  	mi33  	mi33  	mi33  	[ɕaŋ21]  	  	  	  	  	  	  	  	  	   
+1733	ɕo4  	0	pare/peel with a knife  	ɕu42  	(bi12)  	ɕo55  	ɕu44  	(la55)  	ɕou44)  	ɕʰou44  	(pe21)  	[ɕo55]  	  	  	  	  	  	  	  	  	   
+1735	sʰɔ3  	0	laugh  	sɔ21  	su42  	su43  	sy42  	su42  	sou31  	(ɕʰi31)  	so31  	sǝɯ21  	  	  	  	  	  	  	  	  	   
+1745	ja4  	0	press, push down  	jɔ42  	ja24  	ja55  	a44  	a55  	jɑ44  	ja44  	ja44  	ja44  	  	  	  	  	  	  	  	  	   
+1746	mj|aen1  	0	(???, Chinese character has to be checked)  	juaŋ55 (Wang 2006 has juang55, probably a spelling error)  	ɲyɛ55  	mia24  	ɲia44  	ɲio55  	mian55  	"mier35 (this is strange: should it be ""miɚ35""?)  "	  	  	  	  	  	  	  	  	  	  	   
+1749	njoŋ2  	0	to itch/tickle  	jvŋ33  	joŋ22  	ɲio22  	ɲiõ22  	ɲiõ22  	jõ33  	joŋ33  	jou44  	joŋ33  	  	  	  	  	  	  	  	  	   
+1754	qɯ1  	0	scoop up (water); ladle out  	qɚ55  	qe55  	qɯ24  	qɯ55  	  	lɯ55  	kɯ35  	kɯ35  	kǝ55  	  	  	  	  	  	  	  	  	   
+1755	ŋioŋ4  	0	want; need  	jvŋ42  	(tsao21)  	(tsa21)  	(tso42)  	ɲu42  	jõ44  	jŋ44  	ɲiou44  	ɲioŋ55  	  	  	  	  	  	  	  	  	   
+1764	dʑɯ2  	0	have (you) (you probably refers to 有)  	jɯ33  	dzi22  	dʑɯ22  	dʑi22  	dʑi22  	tsi33  	tsɯ33  	tsɯ33  	dzǝɯ33  	  	  	  	  	  	  	  	  	   
+1793	tʰro4  	0	(wasps) sting  	tʰiu42  	ŋaŋ24  	tʰiu55  	tɕʰio44  	ʈʰo55  	tsʰou44  	tʂʰou44  	ŋa44  	tsʰo44  	  	  	  	  	  	  	  	  	   
+1797	drɯ̃1  	0	steam  	dĩ55  	dzẽ12  	diɯ24  	tɕi55  	ʈɯ̃55  	tsǝ̃55  	tʂẽ35  	tsɯ35  	[tsen55]  	  	  	  	  	  	  	  	  	   
+1799	trɯ4  	0	weave; knit  	tjɯ42  	tʂi24  	tiɯ55  	tɕi44  	ʈɯ55  	tsi55  	tʂʰɚ̃55  	tsʰi55  	tsʰen55  	  	  	  	  	  	  	  	  	   
+1802	tsʰreŋ1  	0	swell  	tʂʰ|er̃55  	|sr.ʰɚ̃55  	tsʰɿ24  	tsʰɛ55  	tʂʰɚ55  	tsʰan55  	tʂʰɚ̃55  	tsʰi55  	tsʰen55  	  	  	  	  	  	  	  	  	   
+1803	trɯ2  	0	usse or lean on (a walking stick)  	tiɯ33  	nɛ12  	tiɯ22  	pa21  	ʈɯ22  	tsɯ33  	  	tsɯ33  	tsǝɯ33  	  	  	  	  	  	  	  	  	   
+1804	tsrɔ2  	0	cook; boil  	tʂv33  	tsao22  	tɕu22  	tɕu22  	tɕu22  	tsv55  	tʂo33  	tsv33  	tsv33  	  	  	  	  	  	  	  	  	   
+1806	dʐuen5?  	0	turn around  	ʐyen21  	zyen42  	tɕyE43  	zyɛ42  	zye42  	tsuen42  	tʂuen42  	tsue42  	tsuan42  	  	  	  	  	  	  	  	  	   
+1813	kæ4  	0	catch; capture  	{tɕia42)  	kæ24  	kæ55  	ka44  	ka55  	ka44  	kɚ44  	kɛ44  	kɚ44  	  	  	  	  	  	  	  	  	   
+1819	ko5  	0	sit  	kv21  	kao42  	ku43  	kv42  	kv42  	kv42  	ko42  	kv42  	kv42  	  	  	  	  	  	  	  	  	   
+1823	ʔo4  	0	(meaning has to be checked)  	-  	ao24  	|'.o55  	(ŋu55tsi22)  	  	ʔv44  	o55  	v55  	(tɕa21oŋ55)  	  	  	  	  	  	  	  	  	   
+1829	qʰuæ3/qʰɔ4 (Wang 2006 has qʰuæ3qʰɔ4, probably a mistake, since no bisyllabic form is reflected in the dialects)  	0	leg  	qʰua21  	qʰuæ42  	qʰuæ43  	qʰua42  	ko44['foot']  	kou44  	kou44  	ko44  	kʰuɚ21/ko44  	  	  	  	  	  	  	  	  	   
+1852	tree + skin  	0	bark  	djɯ21bi35  	dʐi12bi21  	tree + skin  	tree + skin  	tree + skin  	tsɯ31pe21  	tʂɯ21pe21  	tsɯpe21  	ɕen55pe21  	  	  	  	  	  	  	  	  	   
+1858	ŋuen1b  	0	jar  	  	uen12  	ŋui21  	|nguɛ21  	uẽ21  	  	  	ue21  	a55ji21ven21  	  	  	  	  	  	  	  	  	   
+1863	qæ5  	0	price  	qa21  	qæ42  	qæ43  	qa423  	qa42  	ka42  	kɚ42  	kɛ42  	kɚ42  	  	  	  	  	  	  	  	  	   
+2073	pe1  	0	(meanign has to be checked)  	  	(ŋɯ21ɕi24)  	pi24  	(ŋɯ21ɕi44)  	(ɯ̃21ɕi44)  	  	  	pe35  	pɛ55  	  	  	  	  	  	  	  	  	   
+2075	pʰa1  	0	(meaning has to be checked)  	  	pʰa24  	pʰa55  	pʰa44  	(tsõ22qʰo22)  	  	  	pe35  	pɛ55  	  	  	  	  	  	  	  	  	   
+2086	mi1b  	0	bamboo piece  	  	mi12  	mi21  	ɲyi21  	(tɕiu44pʰe42)  	  	  	mi21  	(tsu44xo55)  	  	  	  	  	  	  	  	  	   
+2105	tsʰji4  	0	paint  	  	tɕʰi24  	tsʰi55  	tsʰi55  	tɕʰi55  	  	  	tɕʰi55  	tɕʰi44  	  	  	  	  	  	  	  	  	   
+2109	tsʰu3  	0	stomach  	  	tsʰu42  	tsʰu43  	tsʰu42  	tsʰu42  	  	  	(v42)  	tsʰu21  	  	  	  	  	  	  	  	  	   
+2118	kua4  	0	(meaning has to be checked)  	  	kua12  	kua55  	(kui55;i45qɯ22)  	kua55  	  	  	kua55  	kua44  	  	  	  	  	  	  	  	  	   
+2121	qʰu1  	0	(meaning has to be checked)  	  	qʰu55  	qʰu24  	qʰu24  	qʰu55  	  	  	kʰu55  	kʰo55  	  	  	  	  	  	  	  	  	   
+2124	ŋo3  	0	(xx language) (is this intended?)  	  	ŋo42  	ŋo43  	  	  	  	  	  	oŋ21  	  	  	  	  	  	  	  	  	 

@@ -1,6 +1,7 @@
 from pycddb.dataset import Dataset
 from lingpy import *
 import re
+from sinopy import sinopy
 
 def _clean_html(line):
     return re.sub('<.*?>', '', line).strip()
@@ -24,12 +25,15 @@ def check(dataset):
                 tmp = re.split(r'\s*', stack)
                 try:
                     py, ch, _qy, qy, _cc, cc = tmp
-                    if qy:
-                        D += [[str(idx), ch, py, 'Middle_Chinese', qy, str(page+1)]]
-                        idx += 1
-                    if cc:
-                        D += [[str(idx), ch, py, 'Common_Chinese', cc, str(page+1)]]
-                        idx += 1
+                    if sinopy.is_chinese(ch):
+                        if qy:
+                            D += [[str(idx), ch, py, 'Middle_Chinese', qy, str(page+1)]]
+                            idx += 1
+                        if cc:
+                            D += [[str(idx), ch, py, 'Common_Chinese', cc, str(page+1)]]
+                            idx += 1
+                    else:
+                        raise ValueError
                 except ValueError:
                     print(errors, page+1, len(tmp), stack)
                     errors += 1

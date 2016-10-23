@@ -79,7 +79,9 @@ class Dataset(object):
         return None
 
     @cached_property()
-    def structure(self):
+    def structures(self):
         if os.path.exists(self.get_path('structures.tsv')):
             return Wordlist(self.get_path('structures.tsv'), row='structure')
         return None
+
+    

@@ -1,0 +1,474 @@
+ID	DOCULECT	CONTEXT	VALUE	OCCURRENCES	CROSSREF
+1	Beijing	final	n	6	255:0 13:0 35:0 211:0 2:0 46:0
+1	Beijing	final	r	1	321:0
+1	Beijing	final	ŋ	5	167:0 189:0 156:0 277:0 101:0
+1	Beijing	initial	k	1	35:0
+1	Beijing	initial	l	2	79:0 68:0
+1	Beijing	initial	n	1	90:0
+1	Beijing	initial	p	3	255:0 398:0 277:0
+1	Beijing	initial	pʰ	2	57:0 233:0
+1	Beijing	initial	s	2	244:0 13:0
+1	Beijing	initial	t	1	156:0
+1	Beijing	initial	ts	3	288:0 145:0 200:0
+1	Beijing	initial	tɕ	4	376:0 299:0 24:0 211:0
+1	Beijing	initial	tɕʰ	2	222:0 343:0
+1	Beijing	initial	tʂ	2	189:0 354:0
+1	Beijing	initial	tʂʰ	2	365:0 101:0
+1	Beijing	initial	tʰ	1	2:0
+1	Beijing	initial	x	1	123:0
+1	Beijing	initial	ɕ	4	431:0 178:0 266:0 332:0
+1	Beijing	initial	ʂ	7	167:0 409:0 420:0 310:0 134:0 112:0 46:0
+1	Beijing	medial	i	8	376:0 79:0 299:0 178:0 266:0 332:0 90:0 2:0
+1	Beijing	medial	u	4	123:0 200:0 233:0 112:0
+1	Beijing	nucleus	a	7	376:0 167:0 255:0 13:0 178:0 35:0 101:0
+1	Beijing	nucleus	ai	2	398:0 68:0
+1	Beijing	nucleus	au	2	145:0 266:0
+1	Beijing	nucleus	i	7	431:0 343:0 277:0 57:0 24:0 211:0 112:0
+1	Beijing	nucleus	o	3	123:0 200:0 233:0
+1	Beijing	nucleus	ou	1	134:0
+1	Beijing	nucleus	u	7	79:0 189:0 299:0 365:0 310:0 90:0 354:0
+1	Beijing	nucleus	y	1	222:0
+1	Beijing	nucleus	yε	1	387:0
+1	Beijing	nucleus	ə	3	156:0 46:0 321:0
+1	Beijing	nucleus	ɿ	2	288:0 244:0
+1	Beijing	nucleus	ʅ	2	409:0 420:0
+1	Beijing	nucleus	ε	2	332:0 2:0
+1	Beijing	tone	²	10	79:0 431:0 409:0 420:0 398:0 57:0 68:0 101:0 90:0 354:0
+1	Beijing	tone	³	8	376:0 189:0 123:0 145:0 156:0 134:0 332:0 112:0
+1	Beijing	tone	¹	6	365:0 13:0 35:0 24:0 2:0 46:0
+1	Beijing	tone	⁴	2	167:0 178:0
+1	Beijing	tone	⁵	14	288:0 255:0 222:0 299:0 244:0 343:0 310:0 277:0 387:0 211:0 266:0 200:0 233:0 321:0
+1	Common_Chinese	final	k	4	430:0 419:0 397:0 353:0
+1	Common_Chinese	final	m	2	12:0 45:0
+1	Common_Chinese	final	n	4	254:0 34:0 210:0 1:0
+1	Common_Chinese	final	nh	1	320:0
+1	Common_Chinese	final	p	2	375:0 408:0
+1	Common_Chinese	final	t	4	342:0 364:0 386:0 331:0
+1	Common_Chinese	final	ŋ	5	166:0 188:0 155:0 276:0 100:0
+1	Common_Chinese	initial	*	29	375:0 287:0 78:0 254:0 221:0 188:0 298:0 122:0 144:0 342:0 397:0 364:0 177:0 155:0 34:0 276:0 56:0 67:0 386:0 23:0 210:0 199:0 100:0 232:0 331:0 89:0 1:0 320:0 353:0
+1	Common_Chinese	initial	*s	6	243:0 12:0 133:0 265:0 111:0 45:0
+1	Common_Chinese	initial	*z	5	166:0 430:0 408:0 419:0 309:0
+1	Common_Chinese	medial	b	2	397:0 56:0
+1	Common_Chinese	medial	bi	1	276:0
+1	Common_Chinese	medial	chi	1	364:0
+1	Common_Chinese	medial	ci	1	353:0
+1	Common_Chinese	medial	dz	1	287:0
+1	Common_Chinese	medial	dzu	1	199:0
+1	Common_Chinese	medial	g	1	210:0
+1	Common_Chinese	medial	gi	1	298:0
+1	Common_Chinese	medial	h	3	408:0 309:0 45:0
+1	Common_Chinese	medial	hh	1	177:0
+1	Common_Chinese	medial	hi	4	166:0 419:0 133:0 331:0
+1	Common_Chinese	medial	hu	1	122:0
+1	Common_Chinese	medial	hy	1	111:0
+1	Common_Chinese	medial	i	2	430:0 265:0
+1	Common_Chinese	medial	ji	2	188:0 100:0
+1	Common_Chinese	medial	k	2	375:0 34:0
+1	Common_Chinese	medial	khi	1	221:0
+1	Common_Chinese	medial	ki	1	23:0
+1	Common_Chinese	medial	l	1	67:0
+1	Common_Chinese	medial	li	1	78:0
+1	Common_Chinese	medial	p	1	254:0
+1	Common_Chinese	medial	ph	1	232:0
+1	Common_Chinese	medial	t	1	155:0
+1	Common_Chinese	medial	thi	1	1:0
+1	Common_Chinese	medial	ts	1	144:0
+1	Common_Chinese	medial	tsh	1	342:0
+1	Common_Chinese	medial	ŋi	2	386:0 89:0
+1	Common_Chinese	nucleus	a	8	375:0 430:0 419:0 397:0 12:0 177:0 276:0 1:0
+1	Common_Chinese	nucleus	ai	1	23:0
+1	Common_Chinese	nucleus	au	1	265:0
+1	Common_Chinese	nucleus	e	2	221:0 155:0
+1	Common_Chinese	nucleus	i	9	287:0 243:0 408:0 342:0 56:0 210:0 111:0 45:0 320:0
+1	Common_Chinese	nucleus	o	9	166:0 254:0 122:0 34:0 386:0 199:0 100:0 232:0 331:0
+1	Common_Chinese	nucleus	oi	1	67:0
+1	Common_Chinese	nucleus	ou	5	78:0 298:0 144:0 133:0 89:0
+1	Common_Chinese	nucleus	u	3	188:0 364:0 353:0
+1	Common_Chinese	nucleus	y	1	309:0
+1	Common_Chinese	tone	²	5	78:0 56:0 67:0 100:0 89:0
+1	Common_Chinese	tone	³	5	122:0 144:0 155:0 133:0 111:0
+1	Common_Chinese	tone	¹	5	12:0 34:0 23:0 1:0 45:0
+1	Common_Chinese	tone	⁴	5	166:0 188:0 177:0 210:0 199:0
+1	Common_Chinese	tone	⁵	4	254:0 221:0 243:0 232:0
+1	Common_Chinese	tone	⁶	5	287:0 298:0 309:0 276:0 320:0
+1	Common_Chinese	tone	⁷	5	375:0 342:0 364:0 331:0 353:0
+1	Common_Chinese	tone	⁸	6	430:0 408:0 419:0 397:0 386:0 265:0
+1	Guangzhou	final	k	4	435:0 424:0 402:0 358:0
+1	Guangzhou	final	m	2	17:0 50:0
+1	Guangzhou	final	n	4	259:0 39:0 215:0 6:0
+1	Guangzhou	final	p	2	380:0 413:0
+1	Guangzhou	final	t	4	347:0 369:0 391:0 336:0
+1	Guangzhou	final	ŋ	5	171:0 193:0 160:0 281:0 105:0
+1	Guangzhou	initial	f	1	127:0
+1	Guangzhou	initial	h	3	226:0 182:0 336:0
+1	Guangzhou	initial	k	4	380:0 303:0 39:0 28:0
+1	Guangzhou	initial	kʰ	1	215:0
+1	Guangzhou	initial	l	2	83:0 72:0
+1	Guangzhou	initial	p	3	259:0 402:0 281:0
+1	Guangzhou	initial	pʰ	2	61:0 237:0
+1	Guangzhou	initial	s	10	171:0 248:0 413:0 424:0 17:0 314:0 138:0 270:0 116:0 50:0
+1	Guangzhou	initial	t	1	160:0
+1	Guangzhou	initial	ts	4	292:0 435:0 149:0 358:0
+1	Guangzhou	initial	tsʰ	5	193:0 347:0 369:0 204:0 105:0
+1	Guangzhou	initial	tʰ	1	6:0
+1	Guangzhou	initial	ŋ	1	94:0
+1	Guangzhou	medial	i	1	270:0
+1	Guangzhou	medial	j	2	391:0 325:0
+1	Guangzhou	nucleus	a	4	380:0 402:0 17:0 182:0
+1	Guangzhou	nucleus	ei	2	248:0 61:0
+1	Guangzhou	nucleus	i	3	292:0 6:0 325:0
+1	Guangzhou	nucleus	o	4	127:0 39:0 204:0 237:0
+1	Guangzhou	nucleus	ou	1	149:0
+1	Guangzhou	nucleus	u	4	259:0 193:0 270:0 358:0
+1	Guangzhou	nucleus	y	3	314:0 391:0 336:0
+1	Guangzhou	nucleus	œ	2	171:0 105:0
+1	Guangzhou	nucleus	œy	2	226:0 116:0
+1	Guangzhou	nucleus	ɐ	5	413:0 347:0 160:0 215:0 50:0
+1	Guangzhou	nucleus	ɐi	2	72:0 28:0
+1	Guangzhou	nucleus	ɐu	4	83:0 303:0 138:0 94:0
+1	Guangzhou	nucleus	ɔ	1	369:0
+1	Guangzhou	nucleus	ε	3	435:0 424:0 281:0
+1	Guangzhou	tone	²	5	83:0 61:0 72:0 105:0 94:0
+1	Guangzhou	tone	³	5	127:0 149:0 160:0 138:0 116:0
+1	Guangzhou	tone	¹	5	17:0 39:0 28:0 6:0 50:0
+1	Guangzhou	tone	⁴	5	171:0 193:0 182:0 215:0 204:0
+1	Guangzhou	tone	⁵	5	259:0 226:0 248:0 270:0 237:0
+1	Guangzhou	tone	⁶	5	292:0 303:0 314:0 281:0 325:0
+1	Guangzhou	tone	⁷	5	380:0 347:0 369:0 336:0 358:0
+1	Guangzhou	tone	⁸	5	435:0 413:0 424:0 402:0 391:0
+1	Heping	final	m	3	382:0 19:0 52:0
+1	Heping	final	mʔ	1	415:0
+1	Heping	final	n	4	261:0 162:0 41:0 8:0
+1	Heping	final	nʔ	1	217:0
+1	Heping	final	ŋ	1	107:0
+1	Heping	final	ŋʔ	1	173:0
+1	Heping	final	ʔ	8	195:0 437:0 151:0 426:0 404:0 184:0 393:0 206:0
+1	Heping	initial	f	1	338:0
+1	Heping	initial	h	5	195:0 184:0 41:0 107:0 8:0
+1	Heping	initial	k	2	382:0 30:0
+1	Heping	initial	kʰ	5	228:0 305:0 129:0 283:0 217:0
+1	Heping	initial	l	2	85:0 74:0
+1	Heping	initial	n	2	96:0 327:0
+1	Heping	initial	p	1	261:0
+1	Heping	initial	pʰ	3	404:0 63:0 239:0
+1	Heping	initial	s	4	250:0 19:0 272:0 118:0
+1	Heping	initial	t	2	162:0 360:0
+1	Heping	initial	tsʰ	1	371:0
+1	Heping	initial	tɕʰ	2	316:0 52:0
+1	Heping	initial	tʰ	5	294:0 437:0 151:0 349:0 206:0
+1	Heping	initial	v	1	393:0
+1	Heping	initial	ɕ	3	173:0 415:0 426:0
+1	Heping	medial	i	5	173:0 85:0 437:0 426:0 272:0
+1	Heping	medial	u	6	129:0 371:0 283:0 63:0 217:0 118:0
+1	Heping	nucleus	a	6	382:0 437:0 404:0 19:0 184:0 217:0
+1	Heping	nucleus	ai	1	239:0
+1	Heping	nucleus	e	2	294:0 162:0
+1	Heping	nucleus	ei	2	129:0 30:0
+1	Heping	nucleus	eu	1	272:0
+1	Heping	nucleus	i	9	250:0 415:0 349:0 371:0 63:0 74:0 118:0 52:0 327:0
+1	Heping	nucleus	iɕu	1	140:0
+1	Heping	nucleus	n̍	1	195:0
+1	Heping	nucleus	o	7	173:0 261:0 228:0 151:0 426:0 41:0 107:0
+1	Heping	nucleus	oi	1	206:0
+1	Heping	nucleus	u	1	85:0
+1	Heping	nucleus	y	4	305:0 316:0 96:0 360:0
+1	Heping	nucleus	æ	4	283:0 393:0 338:0 8:0
+1	Heping	tone	²	5	85:0 63:0 74:0 107:0 96:0
+1	Heping	tone	³	4	129:0 162:0 140:0 118:0
+1	Heping	tone	¹	5	19:0 41:0 30:0 8:0 52:0
+1	Heping	tone	⁴	11	173:0 195:0 437:0 151:0 415:0 426:0 404:0 184:0 393:0 217:0 206:0
+1	Heping	tone	⁵	7	261:0 228:0 250:0 316:0 283:0 272:0 239:0
+1	Heping	tone	⁶	3	294:0 305:0 327:0
+1	Heping	tone	⁷	5	382:0 349:0 371:0 338:0 360:0
+1	Jianchuan	final	∼	8	175:0 21:0 43:0 285:0 219:0 109:0 10:0 54:0
+1	Jianchuan	initial	k	6	384:0 87:0 307:0 43:0 32:0 362:0
+1	Jianchuan	initial	kv	1	208:0
+1	Jianchuan	initial	n	1	329:0
+1	Jianchuan	initial	p	4	263:0 406:0 285:0 65:0
+1	Jianchuan	initial	pʰ	2	439:0 241:0
+1	Jianchuan	initial	s	5	21:0 142:0 274:0 340:0 54:0
+1	Jianchuan	initial	t	1	164:0
+1	Jianchuan	initial	ts	7	296:0 175:0 153:0 417:0 428:0 318:0 109:0
+1	Jianchuan	initial	tsṽ	1	197:0
+1	Jianchuan	initial	tɕ	1	219:0
+1	Jianchuan	initial	tɕʰ	2	351:0 373:0
+1	Jianchuan	initial	tʰ	1	186:0
+1	Jianchuan	initial	x	2	131:0 10:0
+1	Jianchuan	initial	ŋ	3	230:0 395:0 98:0
+1	Jianchuan	initial	ɕ	2	252:0 120:0
+1	Jianchuan	initial	ɣ	1	76:0
+1	Jianchuan	medial	u	4	131:0 395:0 340:0 120:0
+1	Jianchuan	nucleus	a	2	395:0 340:0
+1	Jianchuan	nucleus	e	3	65:0 32:0 329:0
+1	Jianchuan	nucleus	i	5	252:0 131:0 351:0 373:0 120:0
+1	Jianchuan	nucleus	ĩ	1	219:0
+1	Jianchuan	nucleus	o	4	263:0 428:0 274:0 241:0
+1	Jianchuan	nucleus	u	2	439:0 153:0
+1	Jianchuan	nucleus	ã	2	21:0 43:0
+1	Jianchuan	nucleus	õ	2	175:0 109:0
+1	Jianchuan	nucleus	ɛ̃	3	285:0 10:0 54:0
+1	Jianchuan	nucleus	ɯ	9	296:0 87:0 307:0 186:0 318:0 164:0 76:0 142:0 98:0
+1	Jianchuan	nucleus	ε	5	384:0 230:0 417:0 406:0 362:0
+1	Jianchuan	tone	²	4	21:0 186:0 43:0 10:0
+1	Jianchuan	tone	³	7	296:0 307:0 439:0 318:0 285:0 274:0 241:0
+1	Jianchuan	tone	¹	10	175:0 197:0 131:0 153:0 164:0 142:0 32:0 219:0 120:0 54:0
+1	Jianchuan	tone	⁴	4	384:0 373:0 76:0 362:0
+1	Jianchuan	tone	⁵	5	252:0 351:0 395:0 340:0 329:0
+1	Jianchuan	tone	⁷	4	417:0 428:0 406:0 208:0
+1	Jianchuan	tone	⁸	6	87:0 263:0 230:0 65:0 109:0 98:0
+1	Jiangshan	final	n	3	264:0 11:0 55:0
+1	Jiangshan	final	ŋ	5	176:0 198:0 22:0 44:0 286:0
+1	Jiangshan	final	ʔ	10	385:0 440:0 418:0 429:0 352:0 407:0 374:0 396:0 341:0 363:0
+1	Jiangshan	final	∼	3	165:0 220:0 110:0
+1	Jiangshan	initial	b	2	407:0 286:0
+1	Jiangshan	initial	dz	2	297:0 319:0
+1	Jiangshan	initial	dʑ	2	176:0 198:0
+1	Jiangshan	initial	g	2	308:0 220:0
+1	Jiangshan	initial	k	2	385:0 44:0
+1	Jiangshan	initial	kʰ	1	231:0
+1	Jiangshan	initial	l	2	88:0 77:0
+1	Jiangshan	initial	n	1	330:0
+1	Jiangshan	initial	p	1	264:0
+1	Jiangshan	initial	pʰ	2	66:0 242:0
+1	Jiangshan	initial	s	6	440:0 253:0 418:0 429:0 22:0 209:0
+1	Jiangshan	initial	t	2	165:0 363:0
+1	Jiangshan	initial	ts	1	154:0
+1	Jiangshan	initial	tsʰ	1	55:0
+1	Jiangshan	initial	tɕʰ	4	352:0 374:0 143:0 275:0
+1	Jiangshan	initial	tʰ	2	110:0 11:0
+1	Jiangshan	initial	x	2	132:0 341:0
+1	Jiangshan	initial	ŋ	2	396:0 99:0
+1	Jiangshan	medial	i	8	176:0 264:0 198:0 440:0 154:0 429:0 275:0 11:0
+1	Jiangshan	medial	u	2	132:0 396:0
+1	Jiangshan	medial	y	3	374:0 143:0 341:0
+1	Jiangshan	nucleus	a	6	385:0 176:0 407:0 22:0 286:0 363:0
+1	Jiangshan	nucleus	ai	1	242:0
+1	Jiangshan	nucleus	au	2	154:0 275:0
+1	Jiangshan	nucleus	e	1	143:0
+1	Jiangshan	nucleus	ei	2	132:0 66:0
+1	Jiangshan	nucleus	i	4	253:0 77:0 209:0 330:0
+1	Jiangshan	nucleus	iε	1	33:0
+1	Jiangshan	nucleus	o	1	396:0
+1	Jiangshan	nucleus	u	2	88:0 198:0
+1	Jiangshan	nucleus	yi	1	121:0
+1	Jiangshan	nucleus	ø	2	418:0 55:0
+1	Jiangshan	nucleus	œ̃	3	165:0 220:0 110:0
+1	Jiangshan	nucleus	ɔ	2	187:0 44:0
+1	Jiangshan	nucleus	ə	1	352:0
+1	Jiangshan	nucleus	ɯ	1	308:0
+1	Jiangshan	nucleus	ɯə	4	297:0 231:0 319:0 99:0
+1	Jiangshan	nucleus	ε	6	264:0 440:0 429:0 374:0 341:0 11:0
+1	Jiangshan	tone	²	5	88:0 66:0 77:0 110:0 99:0
+1	Jiangshan	tone	³	5	132:0 154:0 165:0 143:0 121:0
+1	Jiangshan	tone	¹	5	22:0 44:0 33:0 11:0 55:0
+1	Jiangshan	tone	⁴	5	176:0 198:0 187:0 220:0 209:0
+1	Jiangshan	tone	⁵	5	264:0 231:0 253:0 275:0 242:0
+1	Jiangshan	tone	⁶	5	297:0 308:0 319:0 286:0 330:0
+1	Jiangshan	tone	⁷	5	385:0 352:0 374:0 341:0 363:0
+1	Jiangshan	tone	⁸	5	440:0 418:0 429:0 407:0 396:0
+1	Jiangyong	final	ŋ	8	172:0 260:0 194:0 18:0 40:0 282:0 106:0 7:0
+1	Jiangyong	initial	f	2	128:0 183:0
+1	Jiangyong	initial	h	1	227:0
+1	Jiangyong	initial	k	2	381:0 40:0
+1	Jiangyong	initial	l	4	84:0 161:0 73:0 359:0
+1	Jiangyong	initial	n	1	326:0
+1	Jiangyong	initial	p	4	260:0 403:0 282:0 62:0
+1	Jiangyong	initial	pʰ	1	238:0
+1	Jiangyong	initial	s	4	249:0 414:0 18:0 271:0
+1	Jiangyong	initial	ts	3	436:0 150:0 205:0
+1	Jiangyong	initial	tsɯə	1	293:0
+1	Jiangyong	initial	tsʰ	1	348:0
+1	Jiangyong	initial	tɕ	5	194:0 304:0 29:0 216:0 106:0
+1	Jiangyong	initial	tʰ	1	7:0
+1	Jiangyong	initial	ŋ	1	95:0
+1	Jiangyong	initial	ɕ	7	172:0 425:0 370:0 315:0 139:0 337:0 117:0
+1	Jiangyong	initial	ɲ	1	392:0
+1	Jiangyong	medial	i	11	172:0 84:0 194:0 304:0 436:0 282:0 139:0 216:0 271:0 106:0 359:0
+1	Jiangyong	medial	u	1	381:0
+1	Jiangyong	medial	y	4	425:0 370:0 315:0 117:0
+1	Jiangyong	nucleus	a	10	172:0 260:0 194:0 249:0 348:0 370:0 40:0 106:0 117:0 326:0
+1	Jiangyong	nucleus	ai	1	161:0
+1	Jiangyong	nucleus	au	1	150:0
+1	Jiangyong	nucleus	e	2	436:0 216:0
+1	Jiangyong	nucleus	i	1	29:0
+1	Jiangyong	nucleus	ie	1	51:0
+1	Jiangyong	nucleus	o	2	18:0 282:0
+1	Jiangyong	nucleus	ou	5	84:0 304:0 139:0 95:0 359:0
+1	Jiangyong	nucleus	u	5	227:0 128:0 315:0 271:0 238:0
+1	Jiangyong	nucleus	y	2	392:0 337:0
+1	Jiangyong	nucleus	ø	2	62:0 73:0
+1	Jiangyong	nucleus	ə	3	381:0 425:0 7:0
+1	Jiangyong	nucleus	əɯ	1	205:0
+1	Jiangyong	nucleus	ɯə	3	414:0 403:0 183:0
+1	Jiangyong	tone	²	5	84:0 62:0 73:0 106:0 95:0
+1	Jiangyong	tone	³	5	128:0 150:0 161:0 139:0 117:0
+1	Jiangyong	tone	¹	5	18:0 40:0 29:0 7:0 51:0
+1	Jiangyong	tone	⁴	5	172:0 194:0 183:0 216:0 205:0
+1	Jiangyong	tone	⁵	5	260:0 227:0 249:0 271:0 238:0
+1	Jiangyong	tone	⁶	10	293:0 304:0 436:0 414:0 425:0 403:0 315:0 282:0 392:0 326:0
+1	Jiangyong	tone	⁷	5	381:0 348:0 370:0 337:0 359:0
+1	Meixian	final	k	3	423:0 401:0 357:0
+1	Meixian	final	m	2	16:0 49:0
+1	Meixian	final	n	5	258:0 159:0 38:0 214:0 5:0
+1	Meixian	final	p	2	379:0 412:0
+1	Meixian	final	t	5	434:0 346:0 368:0 390:0 335:0
+1	Meixian	final	ŋ	4	170:0 192:0 280:0 104:0
+1	Meixian	initial	f	1	126:0
+1	Meixian	initial	h	3	225:0 181:0 335:0
+1	Meixian	initial	k	3	379:0 38:0 27:0
+1	Meixian	initial	kʰ	2	302:0 214:0
+1	Meixian	initial	l	2	82:0 71:0
+1	Meixian	initial	n	2	93:0 324:0
+1	Meixian	initial	p	1	258:0
+1	Meixian	initial	pʰ	4	401:0 280:0 60:0 236:0
+1	Meixian	initial	s	11	291:0 170:0 434:0 247:0 412:0 423:0 16:0 313:0 137:0 269:0 115:0
+1	Meixian	initial	t	1	159:0
+1	Meixian	initial	ts	2	148:0 357:0
+1	Meixian	initial	tsʰ	6	192:0 346:0 368:0 203:0 104:0 49:0
+1	Meixian	initial	tʰ	1	5:0
+1	Meixian	initial	ɲ	1	390:0
+1	Meixian	medial	i	8	82:0 302:0 280:0 214:0 269:0 335:0 93:0 5:0
+1	Meixian	medial	u	1	115:0
+1	Meixian	medial	y	1	390:0
+1	Meixian	nucleus	a	9	379:0 258:0 423:0 401:0 16:0 181:0 280:0 390:0 335:0
+1	Meixian	nucleus	au	2	148:0 269:0
+1	Meixian	nucleus	i	7	225:0 434:0 247:0 346:0 60:0 115:0 324:0
+1	Meixian	nucleus	o	6	170:0 126:0 38:0 203:0 104:0 236:0
+1	Meixian	nucleus	oi	1	71:0
+1	Meixian	nucleus	u	9	82:0 192:0 302:0 368:0 313:0 137:0 214:0 93:0 357:0
+1	Meixian	nucleus	ə	2	412:0 49:0
+1	Meixian	nucleus	ɿ	1	291:0
+1	Meixian	nucleus	ε	3	159:0 27:0 5:0
+1	Meixian	tone	²	5	82:0 60:0 71:0 104:0 93:0
+1	Meixian	tone	³	5	126:0 148:0 159:0 137:0 115:0
+1	Meixian	tone	¹	10	170:0 192:0 16:0 181:0 38:0 27:0 214:0 203:0 5:0 49:0
+1	Meixian	tone	⁴	1	258:0
+1	Meixian	tone	⁵	9	291:0 225:0 302:0 247:0 313:0 280:0 269:0 236:0 324:0
+1	Meixian	tone	⁷	5	379:0 346:0 368:0 335:0 357:0
+1	Meixian	tone	⁸	5	434:0 412:0 423:0 401:0 390:0
+1	Nanchang	final	k	4	433:0 422:0 400:0 356:0
+1	Nanchang	final	n	6	257:0 15:0 37:0 213:0 4:0 48:0
+1	Nanchang	final	t	5	378:0 411:0 367:0 389:0 334:0
+1	Nanchang	final	tʔ	1	345:0
+1	Nanchang	final	ŋ	4	169:0 191:0 279:0 103:0
+1	Nanchang	initial	f	1	125:0
+1	Nanchang	initial	h	1	180:0
+1	Nanchang	initial	k	2	378:0 37:0
+1	Nanchang	initial	l	2	81:0 70:0
+1	Nanchang	initial	niu	1	92:0
+1	Nanchang	initial	p	1	257:0
+1	Nanchang	initial	pʰ	4	400:0 279:0 59:0 235:0
+1	Nanchang	initial	s	8	169:0 246:0 411:0 422:0 15:0 136:0 114:0 48:0
+1	Nanchang	initial	ts	2	147:0 356:0
+1	Nanchang	initial	tsʰ	5	290:0 191:0 367:0 202:0 103:0
+1	Nanchang	initial	tɕ	1	26:0
+1	Nanchang	initial	tɕʰ	5	224:0 301:0 433:0 345:0 213:0
+1	Nanchang	initial	tʰ	1	4:0
+1	Nanchang	initial	tεn	1	158:0
+1	Nanchang	initial	ɕ	3	312:0 268:0 334:0
+1	Nanchang	initial	ɲ	1	389:0
+1	Nanchang	medial	i	7	81:0 224:0 301:0 433:0 279:0 268:0 4:0
+1	Nanchang	medial	u	1	114:0
+1	Nanchang	medial	y	2	389:0 334:0
+1	Nanchang	nucleus	a	7	378:0 433:0 422:0 400:0 15:0 180:0 279:0
+1	Nanchang	nucleus	ai	1	70:0
+1	Nanchang	nucleus	au	1	147:0
+1	Nanchang	nucleus	i	5	345:0 59:0 26:0 213:0 114:0
+1	Nanchang	nucleus	o	9	169:0 257:0 125:0 37:0 389:0 202:0 103:0 235:0 334:0
+1	Nanchang	nucleus	u	4	81:0 191:0 301:0 356:0
+1	Nanchang	nucleus	y	1	312:0
+1	Nanchang	nucleus	ə	4	411:0 367:0 48:0 323:0
+1	Nanchang	nucleus	əu	1	136:0
+1	Nanchang	nucleus	ɿ	2	290:0 246:0
+1	Nanchang	nucleus	ε	2	224:0 4:0
+1	Nanchang	nucleus	εu	1	268:0
+1	Nanchang	tone	²	5	81:0 59:0 70:0 103:0 92:0
+1	Nanchang	tone	³	5	125:0 147:0 158:0 136:0 114:0
+1	Nanchang	tone	¹	5	15:0 37:0 26:0 4:0 48:0
+1	Nanchang	tone	⁵	5	257:0 224:0 246:0 268:0 235:0
+1	Nanchang	tone	⁶	10	290:0 169:0 191:0 301:0 180:0 312:0 279:0 213:0 202:0 323:0
+1	Nanchang	tone	⁷	5	378:0 345:0 367:0 334:0 356:0
+1	Nanchang	tone	⁸	5	433:0 411:0 422:0 400:0 389:0
+1	Suzhou	final	n	3	157:0 212:0 47:0
+1	Suzhou	final	ŋ	4	168:0 190:0 278:0 102:0
+1	Suzhou	final	ʔ	10	377:0 432:0 410:0 421:0 344:0 399:0 366:0 388:0 333:0 355:0
+1	Suzhou	final	∼	1	36:0
+1	Suzhou	initial	b	3	399:0 278:0 58:0
+1	Suzhou	initial	dʑ	2	300:0 212:0
+1	Suzhou	initial	h	1	124:0
+1	Suzhou	initial	k	2	377:0 36:0
+1	Suzhou	initial	l	2	80:0 69:0
+1	Suzhou	initial	n	2	91:0 322:0
+1	Suzhou	initial	p	1	256:0
+1	Suzhou	initial	pʰ	1	234:0
+1	Suzhou	initial	s	5	245:0 14:0 135:0 267:0 47:0
+1	Suzhou	initial	sɥ	1	113:0
+1	Suzhou	initial	t	1	157:0
+1	Suzhou	initial	ts	2	146:0 355:0
+1	Suzhou	initial	tsʰ	1	366:0
+1	Suzhou	initial	tɕ	1	25:0
+1	Suzhou	initial	tɕʰ	2	223:0 344:0
+1	Suzhou	initial	tʰ	1	3:0
+1	Suzhou	initial	z	8	289:0 168:0 190:0 432:0 410:0 421:0 201:0 102:0
+1	Suzhou	initial	zɥ	1	311:0
+1	Suzhou	initial	ŋ	1	388:0
+1	Suzhou	initial	ɕ	1	333:0
+1	Suzhou	initial	ɦ	1	179:0
+1	Suzhou	medial	i	5	300:0 432:0 344:0 267:0 3:0
+1	Suzhou	medial	y	1	333:0
+1	Suzhou	nucleus	a	2	377:0 102:0
+1	Suzhou	nucleus	e	3	14:0 278:0 69:0
+1	Suzhou	nucleus	i	5	223:0 58:0 25:0 212:0 322:0
+1	Suzhou	nucleus	o	3	190:0 179:0 355:0
+1	Suzhou	nucleus	u	1	234:0
+1	Suzhou	nucleus	æ	2	146:0 267:0
+1	Suzhou	nucleus	ø	1	256:0
+1	Suzhou	nucleus	ø̃	1	36:0
+1	Suzhou	nucleus	ɐ	3	168:0 421:0 399:0
+1	Suzhou	nucleus	ə	2	157:0 47:0
+1	Suzhou	nucleus	əu	2	124:0 201:0
+1	Suzhou	nucleus	ɤ	4	410:0 366:0 388:0 333:0
+1	Suzhou	nucleus	ɪ	3	432:0 344:0 3:0
+1	Suzhou	nucleus	ɿ	2	289:0 245:0
+1	Suzhou	nucleus	ʏ	4	80:0 300:0 135:0 91:0
+1	Suzhou	tone	²	5	80:0 58:0 69:0 102:0 91:0
+1	Suzhou	tone	³	5	124:0 146:0 157:0 135:0 113:0
+1	Suzhou	tone	¹	5	14:0 36:0 25:0 3:0 47:0
+1	Suzhou	tone	⁵	6	289:0 256:0 223:0 245:0 267:0 234:0
+1	Suzhou	tone	⁶	9	168:0 190:0 300:0 179:0 311:0 278:0 212:0 201:0 322:0
+1	Suzhou	tone	⁷	5	377:0 344:0 366:0 333:0 355:0
+1	Suzhou	tone	⁸	5	432:0 410:0 421:0 399:0 388:0
+1	Zhenqian	final	ŋ	11	174:0 262:0 196:0 20:0 163:0 42:0 284:0 218:0 108:0 9:0 53:0
+1	Zhenqian	initial	h	4	130:0 185:0 42:0 339:0
+1	Zhenqian	initial	k	4	383:0 306:0 31:0 218:0
+1	Zhenqian	initial	kʰ	1	229:0
+1	Zhenqian	initial	l	2	86:0 75:0
+1	Zhenqian	initial	n	2	97:0 328:0
+1	Zhenqian	initial	p	3	262:0 405:0 284:0
+1	Zhenqian	initial	pʰ	2	64:0 240:0
+1	Zhenqian	initial	s	6	438:0 251:0 20:0 141:0 273:0 119:0
+1	Zhenqian	initial	t	4	196:0 163:0 108:0 361:0
+1	Zhenqian	initial	ts	5	295:0 152:0 416:0 427:0 207:0
+1	Zhenqian	initial	tsʰ	4	350:0 372:0 317:0 53:0
+1	Zhenqian	initial	tʰ	1	9:0
+1	Zhenqian	initial	ŋ	1	394:0
+1	Zhenqian	medial	i	7	306:0 438:0 427:0 317:0 141:0 273:0 97:0
+1	Zhenqian	medial	u	9	262:0 130:0 372:0 42:0 64:0 207:0 240:0 339:0 119:0
+1	Zhenqian	medial	y	2	394:0 218:0
+1	Zhenqian	nucleus	a	6	383:0 405:0 20:0 185:0 284:0 240:0
+1	Zhenqian	nucleus	ai	5	262:0 42:0 31:0 207:0 339:0
+1	Zhenqian	nucleus	au	1	108:0
+1	Zhenqian	nucleus	e	6	130:0 372:0 64:0 394:0 218:0 53:0
+1	Zhenqian	nucleus	eu	1	163:0
+1	Zhenqian	nucleus	i	7	295:0 251:0 416:0 350:0 119:0 9:0 328:0
+1	Zhenqian	nucleus	io	1	174:0
+1	Zhenqian	nucleus	o	7	86:0 229:0 196:0 438:0 152:0 427:0 273:0
+1	Zhenqian	nucleus	u	4	306:0 317:0 141:0 97:0
+1	Zhenqian	nucleus	y	1	361:0
+1	Zhenqian	nucleus	œ	1	75:0
+1	Zhenqian	tone	²	4	86:0 64:0 75:0 97:0
+1	Zhenqian	tone	³	10	383:0 130:0 152:0 350:0 372:0 163:0 141:0 339:0 119:0 361:0
+1	Zhenqian	tone	¹	5	20:0 42:0 31:0 9:0 53:0
+1	Zhenqian	tone	⁵	10	174:0 262:0 229:0 251:0 185:0 394:0 218:0 273:0 207:0 240:0
+1	Zhenqian	tone	⁶	9	196:0 306:0 438:0 416:0 427:0 405:0 317:0 284:0 328:0
+1	Zhenqian	tone	⁹	2	295:0 108:0

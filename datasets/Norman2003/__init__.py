@@ -1,4 +1,5 @@
 from pycddb.dataset import Dataset
+from pycddb.util import get_inventories
 from pyconcepticon.api import Concepticon
 from clldutils.dsv import UnicodeReader
 from lingpy._plugins.chinese import sinopy
@@ -21,13 +22,21 @@ def prepare(dataset):
         for lidx, entry in zip(header[2:], line[2:]):
             lang = id2lang[lidx]
             source = dataset.languages[lang][dataset.id+'_source']
-            D[idx] = [lang, lidx, concept, sinopy.gbk2big5(char), cid, entry, source]
+            D[idx] = [lang, lidx, concept, sinopy.gbk2big5(char), cid, entry,
+                    ipa2tokens(entry, expand_nasals=True,
+                        merge_vowels=False, semi_diacritics='szɕʑʂʐ'),
+                    source]
             idx += 1
     D[0] = ['doculect', 'doculect_in_source', 'concept', 'concept_chinese',
-        'concepticon_id', 'value', 'source']
+        'concepticon_id', 'value', 'segments', 'source']
     wl = Wordlist(D)
     wl.output('tsv', filename=dataset.get_path('words'), ignore='all',
             prettify=False)
+
+    inventories = get_inventories(wl, segments='segments')
+    with open(dataset.get_path('inventories.tsv'), 'w') as f:
+        for line in inventories:
+            f.write('\t'.join([str(x) for x in line])+'\n')
     
     idx = 1
     with open(dataset.get_path('characters.tsv'), 'w') as f:

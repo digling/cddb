@@ -1,4 +1,5 @@
 import re
+from sinopy import sinopy
 
 def prepare(dataset):
     with open(dataset.get_path('raw', '__private__schuessler.txt')) as f:
@@ -10,7 +11,7 @@ def prepare(dataset):
     idx = 1
     for line in data:
         if line.startswith('ENTRY'):
-            if idf:
+            if idf and sinopy.is_chinese(char.strip()):
                 if mch:
                     D += [(idx, char, pinyin, 'Middle_Chinese', '', gloss, mch, 
                         'Schuessler2007')]

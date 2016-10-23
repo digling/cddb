@@ -41,12 +41,15 @@ def prepare(dataset):
                     pinyin = sinopy.pinyin(char)
                     if '?' in pinyin or sinopy.is_chinese(pinyin):
                         pinyin = ''
-                D += [(str(idx),
-                    charid, char.strip(), 'Middle_Chinese', pinyin, ipa,
-                    fanqie.strip(),
-                    rhyme_id.strip(), rhyme.strip(), volume, note.strip(),
-                    'Zhou1938')]
-                idx += 1
+                if sinopy.is_chinese(char.strip()):
+                    D += [(str(idx),
+                        charid, char.strip(), 'Middle_Chinese', pinyin, ipa,
+                        fanqie.strip(),
+                        rhyme_id.strip(), rhyme.strip(), volume, note.strip(),
+                        'Zhou1938')]
+                    idx += 1
+                else:
+                    print('[ERROR]', char, sinopy.is_chinese(char), ipa, fanqie)
                 text = ''
             
             if text:

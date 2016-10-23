@@ -1,19 +1,27 @@
 from functools import partial
 from clldutils.dsv import UnicodeReader
 import os
+from glob import glob
 from clldutils.misc import slug
 from pyconcepticon.api import Concepticon
-from collections import OrderedDict
+from collections import OrderedDict, defaultdict
 from sinopy import sinopy
 import geojson
 import json
 import lingpy as lp
+from lingpy.compare.partial import _get_slices
 
 # modify lingpy settings
 lp.settings.rcParams['morpheme_separator'] = '+'
 
 def cddb_path(*comps):
     return os.path.join(os.path.dirname(__file__), os.pardir, *comps)
+
+
+def get_sources(src_type):
+    return sorted([os.path.split(os.path.split(s)[0])[1] for s in glob(
+                cddb_path('datasets', '*', src_type))])
+
 
 def load_languages(delimiter='\t', return_type='dict'):
 
@@ -98,4 +106,34 @@ def write_map(varieties, outfile):
     with open(outfile, 'w') as f:
         f.write(json.dumps(geojson.FeatureCollection(points)))
 
+def get_inventories(wordlist, segments='tokens'):
+    assert segments in wordlist.header
+    D = {t : defaultdict(list) for t in wordlist.taxa}
+    for taxon in wordlist.taxa:
+        for idx in wordlist.get_list(taxon=taxon, flat=True):
+            tokens = wordlist[idx, segments]
+            print(' '.join(tokens))
+            slices = _get_slices(tokens)
+            for jdx, (sA, sB) in enumerate(slices):
+                i, m, n, f, t = sinopy.parse_chinese_morphemes(tokens[sA:sB])
+                pos = '{0}:{1}'.format(idx, jdx)
+                if i != '-':
+                    D[taxon]['initial', i] += [pos]
+                if m != '-':
+                    D[taxon]['medial', m] += [pos]
+                if n != '-':
+                    D[taxon]['nucleus', n] += [pos]
+                if f != '-':
+                    D[taxon]['final', f] += [pos]
+                if t != '-': 
+                    D[taxon]['tone', t] += [pos]
+    I = [('ID', 'DOCULECT', 'CONTEXT', 'VALUE', 'OCCURRENCES', 'CROSSREF')]
+    idx = 1
+    for t in wordlist.taxa:
+        for (s, v), occ in sorted(D[t].items(), key=lambda x: (x[0][0], x[0][1],
+            len(x[1]))):
+            I += [(str(idx), t, s, v, len(occ), ' '.join(occ))]
+    return I
+
+                    
 
