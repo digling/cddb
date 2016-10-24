@@ -83,5 +83,14 @@ class Dataset(object):
         if os.path.exists(self.get_path('structures.tsv')):
             return Wordlist(self.get_path('structures.tsv'), row='structure')
         return None
+    
+    def write_characters(self, data):
+        with open(self.get_path('characters.tsv'), 'w') as f:
+            for line in data:
+                f.write('\t'.join([str(x) for x in line])+'\n')
 
+
+    def write_wordlist(self, wordlist, *path):
+        wordlist.output('tsv', filename=self.get_path(*path), ignore='all',
+                prettify=False)
     

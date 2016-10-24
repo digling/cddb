@@ -13,7 +13,7 @@ Changsha		Chángshā	长沙	28.85032	112.943344		xian1251	hsn	Sinitic	Xiang	湘	
 Shuangfeng		Shuāngfēng	双峰	27.4569781	111.916486		xian1251	hsn	Sinitic	Xiang	湘	Xiāng		Shuangfeng is a part of the city Loudi (a xian) in Hunan. 
 Nanchang		Nánchāng	南昌	28.706609	115.857468		ganc1239	gan	Sinitic	Gan	赣	Gàn	Gan	
 Meixian		Méixiàn	梅县	24.3522958	115.8903375		hak1236	hak	Sinitic	Hakka	客家	Kèjiā	Hakka	
-Guangzhou		Guǎngzhōu	广州	23.1253503	112.9476548		yuec1235	yue	Sinitic	Yue	粤	Yuè	Yue	
+Guangzhou		Guǎngzhōu	广州	23.1253503	112.9476548		yuec1235	yue	Sinitic	Yue	粤	Yuè	Yue, Guangfu	
 Yangjiang		Yángjiāng	阳江	21.7895612	111.966667		yuec1235	yue	Sinitic	Yue	粤	Yuè		
 Xiamen		Xiàmén	厦门	24.49421	118.08918		minn1241	nan	Sinitic	Min	闽	Mǐn	Min, Southern	
 Chaozhou		Cháozhōu	潮州	23.666667	116.633333		min1241	nan	Sinitic	Min	闽	Mǐn		
@@ -64,13 +64,16 @@ Jiangyong		Jiāngyǒng					xian1251	hsn	Sinitic	Xiang	湘	Xiāng
 Old_Chinese		Shànggǔ Hànyǔ	上古汉语						Sinitic	Old_Chinese				
 Middle_Chinese		Zhōnggǔ Hànyǔ	中古汉语						Sinitic	Middle_Chinese				
 Common_Chinese									Sinitic	Middle_Chinese				
-Jianchuan		Jiànchuān	剑川	26.538056	99.910000				Bai	Central				
-Eryuan		Ěryuán	洱源	26.0991374	99.9416161				Bai	Central				
-Heqing		Hèqìng	鹤庆	26.5536208	100.1396921				Bai	Central				
-Lanping		Lánpíng	兰坪	26.5158555	99.2581092				Bai	Central				
-Zhoucheng		Zhōuchéng	周城	25.8958633	100.0987848				Bai	Southern				
-Qiliqiao		Qīlǐqiáo	七里桥	25.6553283	100.1709288				Bai	Southern				
-Yunlong		Yúnlóng	云龙	25.9223745	99.0352884				Bai	Central				
-Xiangyun		Xiángyún	祥云	25.5313657	100.4478932				Bai	Southern				
-Luobenzhuo		Lùběnzhuó	洛本卓	26.4240223	98.8862088				Bai	Northern				
+Jianchuan	Bai (Jianchuan), Jianchuan Bai	Jiànchuān	剑川	26.538056	99.910000		jian1239	bca	Bai	Central				
+Eryuan		Ěryuán	洱源	26.0991374	99.9416161		eryu1239	bca	Bai	Central				
+Heqing		Hèqìng	鹤庆	26.5536208	100.1396921		heqi1238	bca	Bai	Central				
+Lanping		Lánpíng	兰坪	26.5158555	99.2581092		lanp1242	bca	Bai	Central				
+Zhoucheng		Zhōuchéng	周城	25.8958633	100.0987848			bfs	Bai	Southern				
+Qiliqiao		Qīlǐqiáo	七里桥	25.6553283	100.1709288			bfs	Bai	Southern				
+Yunlong		Yúnlóng	云龙	25.9223745	99.0352884		yunl1238	bca	Bai	Central				
+Xiangyun		Xiángyún	祥云	25.5313657	100.4478932		xian1250	bfs	Bai	Southern				
+Luobenzhuo		Lùběnzhuó	洛本卓	26.4240223	98.8862088			bfc	Bai	Northern				
 Late_Han_Chinese									Sinitic	Old_Chinese				
+Dancun		Dàncūn	淡村	22.2750324	112.7199202		yuec1235	yue	Sinitic	Yue	粤	Yuè	Yue, Siyi	Yue-Hashimoto on Dancun: «Dancun is a small village lying in the central northern part of Taishan county and situated about thirty li west of Taicheng, while Baishui is within ten li west of it.»
+Bijiang	Bai (Bijiang), Bijiang Bai							bfc	Bai	Northern				
+Dali	Bai (Dali), Dali Bai							bfs	Bai	Southern				

@@ -1,0 +1,1005 @@
+ID	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS
+1	sky	1732	SKY
+2	sun	1343	SUN
+3	moon	1313	MOON
+4	star	1430	STAR
+5	thunder	1150	THUNDER
+6	cloud	1489	CLOUD
+7	wind	960	WIND
+8	rain	658	RAIN (PRECIPITATION)
+9	snow	784	SNOW
+10	water	948	WATER
+11	ice	617	ICE
+12	fog	249	FOG
+13	frost	2034	FROST
+14	dew	1977	DEW
+15	hail	609	HAIL
+16	rainbow	1733	RAINBOW
+17	earth	1228	EARTH (SOIL)
+18	river	666	RIVER
+19	sea	1474	SEA
+20	lake	624	LAKE
+21	pond	2035	POND
+22	well	954	WELL
+23	spring (water)	849	SPRING (OF WATER)
+24	ditch	2002	DITCH
+25	mountain	639	MOUNTAIN
+26	cliff	992	CLIFF
+27	field	212	FIELD
+28	ground	2159	GROUND
+29	plain	652	PLAIN
+30	slope		
+31	earth	2158	EARTH (WET SUBSTANCE)
+32	mud	640	MUD
+33	cave	1155	CAVE
+34	hole	1667	HOLE
+35	gold	1369	GOLD
+36	silver	759	SILVER
+37	copper	1825	COPPER
+38	iron	621	IRON
+39	rust		
+40	steel	2343	STEEL
+41	tin	893	TIN (METAL)
+42	stone / rock	857	STONE
+43	sand	671	SAND
+44	coal		
+45	fire	221	FIRE
+46	smoke	778	SMOKE (EXHAUST)
+47	east	1877	EAST
+48	west	1817	WEST
+49	south	1595	SOUTH
+50	north	1598	NORTH
+51	front	2194	FRONT (PART)
+52	back (direction)	1291	BACK
+53	left	244	LEFT
+54	right	1019	RIGHT
+55	side	682	SIDE
+56	middle	1093	MIDDLE
+57	top	1753	TOP
+58	underneath		
+59	inside	1606	INSIDE
+60	outside	762	OUTSIDE
+61	edge	863	EDGE
+62	time	892	TIME
+63	year	1226	YEAR
+64	year / age	1789	AGE
+65	year, this	1214	THIS
+66	year, last	1186	LAST (ENDURE)
+67	year, next	1354	NEXT
+68	year before last	1882	BEFORE
+69	year after next	1685	AFTER
+70	spring	2144	SPRING OR WELL
+71	summer	1342	SUMMER
+72	autumn	1276	AUTUMN
+73	winter	1471	WINTER
+74	month	1370	MONTH
+75	month (intercalary)	2463	MOON OR MONTH
+76	January	2036	JANUARY
+77	February	2037	FEBRUARY
+78	March		
+79	April		
+80	May		
+81	June		
+82	July		
+83	August		
+84	September		
+85	October		
+86	November		
+87	December		
+88	day (24 hours)	1225	DAY (NOT NIGHT)
+89	today	1283	TODAY
+90	yesterday	1174	YESTERDAY
+91	day before yesterday	1180	DAY BEFORE YESTERDAY
+92	tomorrow	1329	TOMORROW
+93	day after tomorrow	1179	DAY AFTER TOMORROW
+94	day, first of month	1260	DAY (24 HOURS)
+95	day, third of month		
+96	day, fifth of month		
+97	day, eleventh of month		
+98	day, fifteenth of month		
+99	day, sixteenth of month		
+100	day, twentieth of month		
+101	day, thirtieth of month		
+102	day(time)		
+103	morning	1339	MORNING
+104	noon	2490	NOON
+105	night	1233	NIGHT
+106	now	1376	NOW
+107	past, in the		
+108	from now on	693	FROM
+109	bovine		
+110	water buffalo	2516	WATER BUFFALO
+111	cattle (common)	1153	CATTLE
+112	mule	890	MULE
+113	horse	615	HORSE
+114	donkey	1862	DONKEY
+115	pig	1337	PIG
+116	goat / sheep (generic)	1502	GOAT
+117	goat	2475	MALE GOAT
+118	sheep	1331	SHEEP
+119	dog	2009	DOG
+120	cat	1208	CAT
+121	rabbit	1136	RABBIT
+122	dragon	2038	DRAGON
+123	elephant	1290	ELEPHANT
+124	tiger	846	TIGER
+125	bear	1820	BEAR
+126	leopard	1139	LEOPARD
+127	boar	1348	BOAR
+128	monkey	1350	MONKEY
+129	deer	1936	DEER
+130	wolf	522	WOLF
+131	roebuck		
+132	fox	1312	FOX
+133	otter	15	OTTER
+134	rat / mouse	1490	RAT
+135	chicken	1318	CHICKEN
+136	rooster	1511	ROOSTER
+137	hen	1514	HEN
+138	duck	1360	DUCK
+139	goose	1187	GOOSE
+140	pigeon		
+141	pheasant		
+142	bird	937	BIRD
+143	eagle	1905	EAGLE
+144	wild goose		
+145	crow	913	CROW
+146	magpie	2039	MAGPIE
+147	swallow	897	SWALLOW
+148	sparrow	1854	SPARROW
+149	bat	1793	BAT
+150	frog	503	FROG
+151	fish	227	FISH
+152	snake	730	SNAKE
+153	honeybee		
+154	butterfly	1791	BUTTERFLY
+155	dragonfly	2352	DRAGONFLY
+156	grasshopper	607	GRASSHOPPER
+157	ant	587	ANT
+158	centipede	1974	CENTIPEDE
+159	spider	843	SPIDER
+160	bedbug	1949	BEDBUG
+161	flea	232	FLEA
+162	louse	1392	LOUSE
+163	nit	267	NIT
+164	fly	1441	FLY (MOVE THROUGH AIR)
+165	mosquito	1509	MOSQUITO
+166	earthworm	2350	EARTHWORM
+167	leech	2273	LEECH
+168	maggot		
+169	insect / worm	620	INSECT
+170	egg	744	EGG
+171	wing	1257	WING
+172	hair / fur	1040	HAIR
+173	feather	1201	FEATHER
+174	claw	72	CLAW
+175	hoof	152	HOOF
+176	horn	939	HORN (INSTRUMENT)
+177	tail	1220	TAIL
+178	tree	906	TREE
+179	pine	1740	PINE
+180	oak	644	OAK
+181	fir	1915	FIR
+182	willow	818	WILLOW
+183	bamboo	1927	BAMBOO
+184	bamboo shoot	2494	BAMBOO SHOOT
+185	crops		
+186	rice (plant)	926	RICE
+187	barley	932	BARLEY
+188	wheat	1077	WHEAT
+189	barley (Tibetan)		
+190	buckwheat (sweet)	2040	BUCKWHEAT
+191	buckwheat (bitter)		
+192	sorghum	347	SORGHUM
+193	maize	506	MAIZE
+194	sweet potato	159	SWEET POTATO
+195	potato	593	POTATO
+196	taro	351	TARO
+197	sugarcane		
+198	peanut	2364	PEANUT
+199	cotton	1850	COTTON
+200	ramie		
+201	beans		
+202	melon	507	MELON
+203	pumpkin	864	PUMPKIN
+204	cucumber	496	CUCUMBER
+205	eggplant		
+206	vegetable		
+207	cabbage (Chinese)	774	CABBAGE
+208	turnip		
+209	onion (green)	2366	ONION
+210	garlic	2368	GARLIC
+211	ginger	2500	GINGER
+212	pepper, hot / chili	1385	PEPPER
+213	fruit	1507	FRUIT
+214	peach	2043	PEACH
+215	persimmon	2044	PERSIMMON
+216	grape	920	GRAPE
+217	tobacco	974	TOBACCO
+218	grass	606	GRASS
+219	mushroom	641	MUSHROOM
+220	seed	714	SEED
+221	seedling		
+222	root	670	ROOT
+223	stem / stalk		
+224	leaf	628	LEAF
+225	branch	826	BRANCH (BIFURCATION)
+226	bud	1684	BUD
+227	stone / pit	1762	STONE (OF FRUIT)
+228	flower	239	FLOWER
+229	ear (of grain-producing plant)	1247	EAR
+230	thorn	124	THORN
+231	body	1480	BODY
+232	head	1256	HEAD
+233	forehead	123	FOREHEAD
+234	hair of head	523	BACK OF HEAD
+235	plait	333	PLAIT
+236	face	1560	FACE
+237	eyebrow	1173	EYEBROW
+238	eye	1248	EYE
+239	tear	1651	TEAR (OF EYE)
+240	nose	1221	NOSE
+241	ear		
+242	mouth	674	MOUTH
+243	lip	478	LIP
+244	tooth	1380	TOOTH
+245	tongue	1205	TONGUE
+246	beard	678	BEARD
+247	chin	1510	CHIN
+248	neck	1333	NECK
+249	throat	1346	THROAT
+250	shoulder	1482	SHOULDER
+251	hand	1277	HAND
+252	fist	1473	FIST
+253	arm	1673	ARM
+254	elbow	981	ELBOW
+255	finger	1303	FINGER
+256	fingernail	1258	FINGERNAIL
+257	chest	1592	CHEST
+258	back (of body)	2323	BACK (PART)
+259	breast	1402	BREAST
+260	belly	1251	BELLY
+261	waist	1681	WAIST
+262	buttocks	834	BUTTOCKS
+263	foot	1301	FOOT
+264	leg	1297	LEG
+265	armpit	1886	ARMPIT
+266	skin	763	SKIN
+267	sinew		
+268	blood	946	BLOOD
+269	stomach	819	STOMACH
+270	kidney	489	KIDNEY
+271	intestines	1991	INTESTINES
+272	heart	1223	HEART
+273	liver	1224	LIVER
+274	lung	688	LUNG
+275	gall		
+276	bladder	1746	BLADDER
+277	sweat	125	SWEAT (SUBSTANCE)
+278	snot		
+279	phlegm		
+280	saliva / spittle	1503	SALIVA
+281	milk	635	MILK
+282	excrement		
+283	urine	1142	URINE
+284	fart	1159	FART
+285	boil	792	BOIL (OF LIQUID)
+286	pus	1808	PUS
+287	smallpox	1054	SMALLPOX
+288	malaria		
+289	person	516	PERSON (CLASSIFIER)
+290	man (male person)	1554	MAN
+291	woman	962	WOMAN
+292	old person	725	OLD PERSON
+293	young man	76	YOUNG MAN
+294	young woman	77	YOUNG WOMAN
+295	child	1304	CHILD (YOUNG HUMAN)
+296	friend	1325	FRIEND
+297	enemy	1358	ENEMY
+298	host	1545	HOST
+299	guest	1782	GUEST
+300	blind person	457	BLIND PERSON
+301	deaf person	458	DEAF PERSON
+302	mute	1666	MUTE
+303	mad person	2321	MAD PERSON
+304	lame person	2322	LAME PERSON
+305	carpenter	1042	CARPENTER
+306	official		
+307	soldier	1941	SOLDIER
+308	army	1561	ARMY
+309	worker		
+310	farmer	979	FARMER
+311	doctor	512	SEE A DOCTOR
+312	teacher	1038	TEACHER
+313	student	753	PUPIL, STUDENT
+314	nationality		
+315	Chinese	2356	CHINESE PLUM
+316	autonym		
+317	grandfather	1383	GRANDFATHER
+318	grandmother	1496	GRANDMOTHER
+319	father	1217	FATHER
+320	mother	1216	MOTHER
+321	uncle (paternal, elder)	1327	UNCLE
+322	aunt (paternal, elder)	1272	AUNT
+323	uncle (paternal, younger)	1761	YOUNGER SISTER
+324	aunt (wife of younger paternal		
+325	uncle (paternal aunt's husband		
+326	aunt (paternal)		
+327	uncle (maternal)		
+328	aunt (wife of maternal uncle)		
+329	uncle (maternal aunt's husband		
+330	aunt (maternal)		
+331	father-in-law	1055	FATHER-IN-LAW
+332	mother-in-law	1050	MOTHER-IN-LAW
+333	brother (elder)	559	BROTHER (OF MAN)
+334	sister (elder)	561	SISTER (OF MAN)
+335	brother (younger)	560	BROTHER (OF WOMAN)
+336	sister (younger)	562	SISTER (OF WOMAN)
+337	husband	1200	HUSBAND
+338	wife	1199	WIFE
+339	son	1620	SON
+340	daughter	1357	DAUGHTER
+341	daughter-in-law	1057	DAUGHTER-IN-LAW
+342	son-in-law	1056	SON-IN-LAW
+343	nephew	1063	NEPHEW
+344	niece	1642	NIECE
+345	grandson	1618	GRANDSON
+346	granddaughter	1619	GRANDDAUGHTER
+347	relative		
+348	house	1252	HOUSE
+349	home	2406	HOME
+350	wall	933	WALL
+351	pole	282	POLE
+352	beam	1132	BEAM
+353	door	1567	DOOR
+354	window	1375	WINDOW
+355	fireplace	185	FIREPLACE
+356	lime	982	LIME (FRUIT)
+357	brick	1006	BRICK
+358	tile		
+359	board / plank	1227	BOARD
+360	nail (tool)	502	NAIL (TOOL)
+361	city	2547	CITY
+362	village	930	VILLAGE
+363	temple	911	TEMPLE
+364	grave	1773	GRAVE
+365	granary		
+366	vegetable garden		
+367	enclosure		
+368	nest	539	NEST
+369	scarf for the head / turban		
+370	hat	771	HAT
+371	hat (bamboo)		
+372	earring	770	EARRING
+373	bracelet	1754	BRACELET
+374	wristwatch		
+375	ring	1374	RING
+376	clothes	1895	CLOTHES
+377	sleeve		
+378	raincoat (of leaves, hemp fibe		
+379	pants / trousers	809	TROUSERS
+380	skirt	1600	SKIRT
+381	legging		
+382	shoe	1381	SHOE
+383	socks		
+384	mosquito net		
+385	quilt	2048	QUILT
+386	mat	195	MAT
+387	pillow	1044	PILLOW
+388	cloth	1616	CLOTH
+389	silk (cloth)	1641	SILK
+390	rice (uncooked)		
+391	flour	1594	FLOUR
+392	rice (cooked)		
+393	breakfast	1322	BREAKFAST
+394	lunch	768	LUNCH
+395	dinner	1833	DINNER (SUPPER)
+396	gruel	1167	GRUEL
+397	oil	1484	OIL (ORGANIC SUBSTANCE)
+398	salt	1274	SALT
+399	meat / flesh	634	MEAT
+400	dish	481	DISH
+401	soup	1547	SOUP
+402	liquor	842	LIQUOR
+403	noodles		
+404	sugar	862	SUGAR
+405	bran	2362	BRAN
+406	husk	2501	RICE HUSK
+407	feed	739	FEED
+408	ax		
+409	knife	1352	KNIFE
+410	sickle	341	SICKLE
+411	flail		
+412	hoe	284	HOE
+413	wedge		
+414	plough	1921	PLOUGH
+415	rake	338	RAKE
+416	yoke	14	YOKE
+417	loom	1787	LOOM
+418	spade	1176	SPADE
+419	saw	1948	SAW
+420	needle	1382	NEEDLE (FOR SEWING)
+421	thread	1161	THREAD
+422	rope	1218	ROPE
+423	gun	1566	GUN
+424	cannon		
+425	bullet	1114	BULLET
+426	gunpowder	1798	GUNPOWDER
+427	bow (weapon)	994	BOW
+428	arrow	977	ARROW
+429	stick	1295	STICK
+430	whip	2630	WHIP
+431	saddle		
+432	dustpan / winnowing sieve	2051	DUSTPAN
+433	sieve	86	SIEVE
+434	mill	636	MILL
+435	pestle	225	PESTLE
+436	mortar		
+437	basket (bamboo, large)	1539	BASKET
+438	lock	1596	LOCK
+439	key	1472	KEY
+440	broom	245	BROOM
+441	pot / wok	1462	POT
+442	lid	2319	LID (COVER, CAP)
+443	barrel / pail / bucket	2548	BARREL
+444	hoop		
+445	washbasin		
+446	chopper		
+447	bowl	1530	BOWL
+448	chopsticks	1987	CHOPSTICKS
+449	plate	480	PLATE
+450	cup	476	CUP
+451	bottle	1321	BOTTLE
+452	table	1775	TABLE
+453	chair	1476	CHAIR
+454	stool	2058	STOOL
+455	bed	1663	BED
+456	ladder	1464	LADDER
+457	trunk / box	1465	BOX
+458	mirror	1171	MIRROR
+459	comb	1475	COMB
+460	scissors	1328	SCISSORS
+461	brush	1821	BRUSH
+462	soap	788	SOAP
+463	lamp	625	LAMP
+464	candle	1273	CANDLE
+465	match	1133	MATCH
+466	steelyard		
+467	metal weight on steelyard		
+468	firewood	10	FIREWOOD
+469	wood	1803	WOOD
+470	fertilizer		
+471	dung / manure	2057	DUNG (ANIMAL FAECES)
+472	ashes		
+473	garbage	909	GARBAGE
+474	road / way	667	ROAD
+475	railroad		
+476	highway		
+477	bridge	1011	BRIDGE
+478	vehicle	2167	VEHICLE (CLASSIFIER)
+479	train	900	TRAIN
+480	car	1111	CAR
+481	boat	1844	BOAT
+482	airplane	1597	AIRPLANE
+483	marketplace		
+484	shop	746	SHOP
+485	money	1559	MONEY
+486	price	657	PRICE
+487	bank	1284	BANK
+488	interest	2062	INTEREST
+489	wages	1122	WAGES
+490	paper	648	PAPER
+491	pen	794	PEN
+492	pencil	2578	PENCIL
+493	ink cake	2408	CAKE
+494	ink	2643	INK
+495	word / character	1599	WORD
+496	book	963	BOOK
+497	letter	1612	LETTER
+498	song	1096	SONG
+499	folksong		
+500	story / tale	2060	STORY
+501	ball	1845	BALL
+502	flag	2623	FLAG
+503	flute-like instrument (Turkic)	2136	BRASS INSTRUMENT (HORN OR TRUMPET)
+504	gong	2502	GONG
+505	drum	908	DRUM
+506	flute	777	FLUTE
+507	mouth organ		
+508	bell	2246	BELL
+509	medicine	1372	MEDICINE
+510	poison	655	POISON
+511	language	1307	LANGUAGE
+512	voice	1363	VOICE
+513	strength	202	STRENGTH
+514	courage		
+515	thing / matter / event	738	THING
+516	surname		
+517	name	1405	NAME
+518	thing		
+519	dream	1920	DREAM (SOMETHING)
+520	shadow	2275	SHADOW
+521	god / deity	1944	GOD
+522	mark		
+523	ghost / demon	1175	GHOST
+524	soul / spirit	811	SOUL
+525	country / nation	1300	COUNTRY
+526	means / method		
+527	school	673	SCHOOL
+528	look	1819	LOOK
+529	see	1409	SEE
+530	close (eye)	2063	CLOSE (EYES)
+531	open (eye)	1156	OPEN
+532	listen	1608	LISTEN
+533	eat	1336	EAT
+534	drink	731	DRINK (FLUID)
+535	bite	1403	BITE
+536	chew	321	CHEW
+537	lick	319	LICK
+538	hold in mouth	1701	RIVER MOUTH
+539	gnaw		
+540	swallow		
+541	swallow		
+542	spit	1440	SPIT
+543	vomit	1278	VOMIT
+544	blow with mouth		
+545	say / speak	1458	SAY
+546	read	724	READ
+547	cry out / yell	1107	GO OUT
+548	smell	1586	SMELL (PERCEIVE)
+549	take	1749	TAKE
+550	strike with open palm	2133	STRIKE OR BEAT
+551	grip / hold	1448	HOLD
+552	twist together	2482	TOGETHER
+553	tear	1735	TEAR (SHRED)
+554	wring (e.g. wet cloth)		
+555	scratch	1436	SCRATCH
+556	pick up	371	PICK UP
+557	catch	702	CATCH
+558	throw	1456	THROW
+559	scatter / broadcast	2064	SCATTER (SEEDS)
+560	cast	211	CAST
+561	reach out(hand)		
+562	pull	1455	PULL
+563	push	1452	PUSH
+564	hold (baby) in arms		
+565	kick	1135	KICK
+566	kneel	66	KNEEL
+567	tread	575	TREAD
+568	jump	1829	JUMP
+569	stand	1442	STAND
+570	step / pass over (ditch)	1158	STEP
+571	ride	367	RIDE
+572	walk	1443	WALK
+573	run	1519	RUN
+574	sit	1416	SIT
+575	carry on back	465	CARRY ON BACK
+576	go through (a hole)	97	THROUGH
+577	fall (down)	1280	FALL
+578	crawl	96	CRAWL
+579	lean		
+580	dwell / live	363	DWELL (LIVE, RESIDE)
+581	rest	168	REST
+582	sleep	1585	SLEEP
+583	wake up	1602	WAKE UP
+584	do	813	DO
+585	work / labor	984	WORK (LABOUR)
+586	repair	2243	REPAIR
+587	connect		
+588	refine		
+589	strike (iron)	353	STRIKE
+590	lay (bricks)	2071	LAY (VERB)
+591	move something to a new place		
+592	carry on a pole (two people)	412	CARRY IN HAND
+593	carry on shoulder	413	CARRY ON SHOULDER
+594	pry		
+595	plough	2154	PLOUGH (INSTRUMENT)
+596	rake		
+597	dig	1418	DIG
+598	plant	653	PLANT (VEGETATION)
+599	water		
+600	pour (liquid) into		
+601	cut	1432	CUT
+602	chop (tree)	155	CHOP
+603	skin / flay	2373	SKIN (OF FRUIT)
+604	cut (firewood)	2155	CUT (WITH SCISSORS)
+605	sieve		
+606	pull (out)	291	PULL OFF (SKIN)
+607	graze		
+608	feed		
+609	choke	129	CHOKE
+610	castrate	2563	CASTRATE
+611	milk	93	DRAW MILK
+612	lead (animal)	43	LEAD (GUIDE)
+613	weave	133	WEAVE
+614	spin (yarn)	121	SPIN
+615	measure	1506	MEASURE
+616	buy	1869	BUY
+617	sell	1571	SELL
+618	count	1420	COUNT
+619	calculate		
+620	weigh	1098	WEIGH
+621	teach	709	TEACH
+622	learn	504	LEARN
+623	write	1672	WRITE
+624	wipe	1454	WIPE
+625	correct / change	1725	CORRECT (RIGHT)
+626	paste / glue / stick	1069	GLUE
+627	cook / boil (rice)	1100	COOK (SOMETHING)
+628	deep-fry		
+629	stir-fry		
+630	knead (dough)	274	KNEAD
+631	dry (clothes) near fire		
+632	warm (oneself) near fire		
+633	kill	1417	KILL
+634	cut (vegetable)	2156	CUT (WITH KNIFE)
+635	mince (meat) with knife	2082	KNIFE (CLASSIFIER)
+636	cut open (fish)		
+637	prick		
+638	stir / churn	696	STIR
+639	insert / stick into	2085	STICK (CLASSIFIER)
+640	sharpen	251	SHARPEN (SOMETHING)
+641	grind	1033	GRIND
+642	winnow		
+643	rub (to soften animal skin)	1449	RUB
+644	scoop		
+645	strain (tea)	940	STRAIN
+646	put on / wear	158	PUT ON
+647	take off (clothing)	2104	HOLD OR TAKE
+648	wash (hand)	1453	WASH
+649	wash (clothes)		
+650	bathe	138	BATHE
+651	shave (hair of head)	231	SHAVE
+652	dye	157	DYE
+653	patch		
+654	comb	2070	COMB (VERB)
+655	braid	1043	BRAID
+656	make bed	734	MAKE
+657	sweep	230	SWEEP
+658	open (door)		
+659	open (lid)		
+660	put / place	998	PUT
+661	hang (object)	357	HANG UP
+662	untie	352	UNTIE
+663	wrap	1113	WRAP
+664	tie (e.g. firewood)into a bund		
+665	load	1679	LOAD
+666	stuff (hole) up		
+667	bury (something)	1719	BURY
+668	hide	602	HIDE (CONCEAL)
+669	pick / select	2148	PICK
+670	pile up (e.g. earth)	1576	PILE UP
+671	press	1913	PRESS
+672	hammer (nail in)	1481	HAMMER
+673	light (candle)	250	LIGHT (COLOR)
+674	want	1784	WANT
+675	get	694	GET
+676	take back / put away	85	GIVE BACK
+677	lose / misplace	1660	LOSE
+678	search		
+679	use	2072	USE (VERB)
+680	play	1413	PLAY
+681	win	866	WIN
+682	lose (a game)		
+683	sing	1261	SING
+684	dance	1879	DANCE
+685	celebrate new year		
+686	hunt	1435	HUNT
+687	surround		
+688	shoot	1172	SHOOT
+689	hit (target)	1433	HIT
+690	ask / inquire	1309	ASK (INQUIRE)
+691	answer	1275	ANSWER
+692	borrow / lend	1823	BORROW
+693	return	142	RETURN HOME
+694	give / send / deliver	1447	GIVE
+695	exchange	2509	EXCHANGE
+696	marry (a man)	203	MARRY
+697	marry (a woman)	2163	MARRY (AS WOMAN)
+698	tell	1711	TELL
+699	help	1897	HELP
+700	save / rescue	2008	RESCUE
+701	treat / cure	499	CURE
+702	give out / distribute		
+703	divide	1119	DIVIDE
+704	owe	369	OWE
+705	pay indemnity to		
+706	wait	1590	WAIT (FOR)
+707	encounter / meet	1831	MEET
+708	scold	299	SCOLD
+709	fight	1423	FIGHT
+710	hit / beat	1665	BEAT
+711	escape	1615	ESCAPE
+712	chase / run after	2330	YEAR AFTER NEXT YEAR
+713	drive away	741	DRIVE
+714	rob	2073	ROB (VERB)
+715	steal	713	STEAL
+716	cheat / swindle		
+717	laugh	1355	LAUGH
+718	weep		
+719	love	923	LOVE
+720	like	1117	LIKE
+721	believe	1890	BELIEVE
+722	know	1410	KNOW (SOMETHING)
+723	understand	1536	UNDERSTAND
+724	guess	1932	GUESS
+725	remember	707	REMEMBER
+726	forget	1523	FORGET
+727	think	1415	THINK (REFLECT)
+728	angry	1826	ANGRY
+729	hate	1607	HATE
+730	fear	781	FEAR (FRIGHT)
+731	dare	1779	DARE
+732	know (a language) / can / be abl	2248	KNOW (SOMEBODY)
+733	be / copula	1579	BE
+734	NEG+copula		
+735	have	773	HAVE
+736	NEG+have		
+737	come	1446	COME
+738	go	695	GO
+739	return / go back	581	COME BACK
+740	arrive	1387	ARRIVE
+741	cross (river)	1367	CROSS
+742	pass by	558	PASS BY
+743	ascend		
+744	descend		
+745	exit		
+746	enter	749	ENTER
+747	retreat	421	RETREAT
+748	exist / be present		
+749	dry in the sun	2140	DAY OR SUN
+750	rain	1253	RAIN (RAINING)
+751	rise (of the sun)	568	RISE (MOVE UPWARDS)
+752	set (of the sun)	160	SET (HEAVENLY BODIES)
+753	blow (of wind)	175	BLOW (OF WIND)
+754	flash (of lightning)	2377	FLASH (VERB)
+755	thunder	2378	THUNDER (VERB)
+756	flow	2003	FLOW
+757	overflow		
+758	float	1574	FLOAT
+759	crack		
+760	collapse		
+761	chipped		
+762	roll (e.g. rock)	827	ROLL
+763	rotate / spin		
+764	drop / fall	750	DROP
+765	break (v.i. of rope, etc.)	460	BREAK (OF ROPE)
+766	break	680	BREAK (DESTROY OR GET DESTROYED)
+767	soak / immerse(e.g. seed)	2069	SOAK (VERB)
+768	ladle / dredge		
+769	leak		
+770	drip	808	DRIP (FALL IN GLOBULES)
+771	boil	793	BOIL (OF SKIN)
+772	melt	2334	MELT
+773	change / transform	1264	CHANGE
+774	birth, give	1195	GIVE BIRTH
+775	grow	479	GROW
+776	ill / sick	1847	SICK
+777	tremble		
+778	swollen		
+779	drunk	1463	DRUNK
+780	die	1494	DIE
+781	alive	1422	BE ALIVE
+782	fly	1504	FLY (INSECT)
+783	bark	1204	BARK
+784	crow	2074	CROW (VERB)
+785	lay (egg)		
+786	hatch		
+787	sting	571	STING
+788	bud		
+789	bloom		
+790	bear fruit		
+791	wither		
+792	rot / spoil	92	SPOIL (SOMEBODY OR SOMETHING)
+793	begin	1806	BEGIN
+794	manage		
+795	hold a meeting	335	MEETING HOUSE
+796	protect		
+797	win / triumph		
+798	lose		
+799	oppose		
+800	big	1202	BIG
+801	small	1246	SMALL
+802	high / tall	1265	HIGH
+803	low	721	LOW
+804	deep	1593	DEEP
+805	shallow	193	SHALLOW
+806	pointed	372	POINTED
+807	round	1395	ROUND
+808	square	850	SQUARE
+809	long	1203	LONG
+810	short	1645	SHORT
+811	thick	1244	THICK
+812	thin (slender)	1400	THIN (SLIM)
+813	thick		
+814	thin	2249	THIN (OF SHAPE OF OBJECT)
+815	wide	1243	WIDE
+816	narrow	1267	NARROW
+817	far	1406	FAR
+818	near	1942	NEAR
+819	many / much	428	BE MANY
+820	little / few	1242	FEW
+821	straight	1404	STRAIGHT
+822	crooked	297	CROOKED
+823	horizontal	2376	HORIZONTAL
+824	upright		
+825	flat / level(land)	1633	FLAT
+826	steep		
+827	right, just, upright	84	JUST
+828	slanting, not upright		
+829	light	630	LIGHT (RADIATION)
+830	heavy	1210	HEAVY
+831	hard	1884	HARD
+832	soft	1856	SOFT
+833	bright	679	BRIGHT
+834	dark	706	DARK
+835	sunny	2340	SUNNY
+836	cloudy	2341	CLOUDY
+837	red	156	RED
+838	yellow	1424	YELLOW
+839	blue	837	BLUE
+840	white	1335	WHITE
+841	black	163	BLACK
+842	green	1425	GREEN
+843	multicolored		
+844	thick		
+845	thin (watery)	2305	THIN (OF HAIR AND THREAD)
+846	full	1429	FULL
+847	beautiful	1427	BEAUTIFUL
+848	ugly	1548	UGLY
+849	fat (of people)	323	FAT (ORGANIC SUBSTANCE)
+850	fat (meat)	1279	FAT (OBESE)
+851	lean (meat)		
+852	thin (of people)	2306	THIN (OF LEAF AND CLOTH)
+853	clean	704	CLEAN
+854	dirty	1230	DIRTY
+855	clear (water)	989	CLEAR
+856	turbid / muddy	537	TURBID
+857	old (of people)	565	OLD (OF MAN)
+858	young	563	YOUNG (OF WOMAN)
+859	tender		
+860	good	1035	GOOD
+861	bad	1292	BAD
+862	fast	1631	FAST
+863	slow	701	SLOW
+864	dry	1398	DRY
+865	wet	1726	WET
+866	new	1231	NEW
+867	old (things)	566	OLD (OF WOMAN)
+868	raw	1959	RAW
+869	cooked	269	COOKED
+870	sharp	1396	SHARP
+871	blunt	379	BLUNT
+872	early	672	EARLY
+873	late	425	BE LATE
+874	true	1657	TRUE
+875	false		
+876	expensive	1426	EXPENSIVE
+877	cheap	1887	CHEAP
+878	easy	686	EASY
+879	difficult	584	DIFFICULT
+880	loose / lax	2506	LOOSE
+881	tight		
+882	smooth	1234	SMOOTH
+883	hot	1286	HOT
+884	cold	1287	COLD
+885	warm	1232	WARM
+886	cool		
+887	sour	1906	SOUR
+888	sweet	717	SWEET
+889	bitter	887	BITTER
+890	hot (spicy)		
+891	salty	1091	SALTY
+892	fragrant	376	FRAGRANT
+893	delicious		
+894	stinky		
+895	fishy		
+896	full / satiated	106	SATIATED
+897	hungry	1533	BE HUNGRY
+898	thirsty	847	THIRSTY
+899	tired	1757	TIRED
+900	itch	148	ITCH
+901	pain / ache	1783	PAIN
+902	right / correct	2231	CORRECT (SOMETHING OR SOMEBODY)
+903	wrong / mistaken	1390	WRONG
+904	intelligent		
+905	stupid	1518	STUPID
+906	diligent	2077	DILIGENT
+907	lazy	1564	LAZY
+908	glad		
+909	poor	1674	POOR
+910	rich	712	RICH
+911	one	1493	ONE
+912	two	1498	TWO
+913	three	492	THREE
+914	four	1500	FOUR
+915	five	493	FIVE
+916	six	1703	SIX
+917	seven	1704	SEVEN
+918	eight	1705	EIGHT
+919	nine	1483	NINE
+920	ten	1515	TEN
+921	eleven	1706	ELEVEN
+922	twelve	1707	TWELVE
+923	thirteen	1708	THIRTEEN
+924	fourteen		
+925	fifteen	1709	FIFTEEN
+926	sixteen	2454	SIXTEEN
+927	seventeen	2453	SEVENTEEN
+928	eighteen	1713	EIGHTEEN
+929	nineteen	1714	NINETEEN
+930	twenty	1710	TWENTY
+931	twenty-one		
+932	thirty	1715	THIRTY
+933	forty	1716	FORTY
+934	fifty	1717	FIFTY
+935	sixty	1718	SIXTY
+936	seventy	1721	SEVENTY
+937	eighty	1722	EIGHTY
+938	ninety	1724	NINETY
+939	hundred	1634	HUNDRED
+940	thousand	1843	THOUSAND
+941	ten thousand	2078	TEN THOUSAND
+942	hundred million		
+943	zero	1294	ZERO
+944	first	728	FIRST
+945	fifth		
+946	eighth		
+947	half	816	HALF
+948	classifier for people		
+949	classifier for e.g. bowls		
+950	classifier for trees		
+951	classifier for animals		
+952	classifier for objects with ha		
+953	classifier for long objects		
+954	classifier for long, thin obje		
+955	classifier for grains		
+956	drop	2087	DROP (CLASSIFIER)
+957	classifier for clothes		
+958	pair	1888	PAIR
+959	fathom=6 feet		
+960	handspan		
+961	inch		
+962	foot (measure)	2098	FOOT OR LEG
+963	acre		
+964	dry measure / pint		
+965	dry measure / peck / =10 shēng		
+966	tael		
+967	catty=500 grams		
+968	monetary unit / dollar		
+969	I	1209	I
+970	we two	2634	WE TWO
+971	we	1130	WE (EXCLUSIVE)
+972	we (inclusive)	1131	WE (INCLUSIVE)
+973	you (sg.)	1213	YOU
+974	you two	2111	YOU TWO
+975	you (pl.)	2312	YOU (OBLIQUE CASE OF YOU)
+976	he / she	1211	HE
+977	they two	2635	THEY TWO
+978	they	817	THEY
+979	self	1993	SELF
+980	others		
+981	this		
+982	here	136	HERE
+983	that	78	THAT
+984	there	1937	THERE
+985	who	1235	WHO
+986	what	1236	WHAT
+987	which	727	WHICH
+988	where	1237	WHERE
+989	how many / much	822	HOW MANY
+990	just now		
+991	first		
+992	later (in time)		
+993	immediately / right away	1963	IMMEDIATELY
+994	often	1852	OFTEN
+995	slowly	2165	SLOWLY
+996	fast (adv.)		
+997	very	1311	VERY
+998	most (superlative degree)		
+999	all / even	98	ALL
+1000	also		
+1001	again	204	AGAIN
+1002	certainly		
+1003	NEG		
+1004	don't		

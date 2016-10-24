@@ -1,0 +1,1005 @@
+ID	ENGLISH
+1	sky
+2	sun
+3	moon
+4	star
+5	thunder
+6	cloud
+7	wind
+8	rain
+9	snow
+10	water
+11	ice
+12	fog
+13	frost
+14	dew
+15	hail
+16	rainbow
+17	earth
+18	river
+19	sea
+20	lake
+21	pond
+22	well
+23	spring (water)
+24	ditch
+25	mountain
+26	cliff
+27	field
+28	ground
+29	plain
+30	slope
+31	earth
+32	mud
+33	cave
+34	hole
+35	gold
+36	silver
+37	copper
+38	iron
+39	rust
+40	steel
+41	tin
+42	stone / rock
+43	sand
+44	coal
+45	fire
+46	smoke
+47	east
+48	west
+49	south
+50	north
+51	front
+52	back (direction)
+53	left
+54	right
+55	side
+56	middle
+57	top
+58	underneath
+59	inside
+60	outside
+61	edge
+62	time
+63	year
+64	year / age
+65	year, this
+66	year, last
+67	year, next
+68	year before last
+69	year after next
+70	spring
+71	summer
+72	autumn
+73	winter
+74	month
+75	month (intercalary)
+76	January
+77	February
+78	March
+79	April
+80	May
+81	June
+82	July
+83	August
+84	September
+85	October
+86	November
+87	December
+88	day (24 hours)
+89	today
+90	yesterday
+91	day before yesterday
+92	tomorrow
+93	day after tomorrow
+94	day, first of month
+95	day, third of month
+96	day, fifth of month
+97	day, eleventh of month
+98	day, fifteenth of month
+99	day, sixteenth of month
+100	day, twentieth of month
+101	day, thirtieth of month
+102	day(time)
+103	morning
+104	noon
+105	night
+106	now
+107	past, in the
+108	from now on
+109	bovine
+110	water buffalo
+111	cattle (common)
+112	mule
+113	horse
+114	donkey
+115	pig
+116	goat / sheep (generic)
+117	goat
+118	sheep
+119	dog
+120	cat
+121	rabbit
+122	dragon
+123	elephant
+124	tiger
+125	bear
+126	leopard
+127	boar
+128	monkey
+129	deer
+130	wolf
+131	roebuck
+132	fox
+133	otter
+134	rat / mouse
+135	chicken
+136	rooster
+137	hen
+138	duck
+139	goose
+140	pigeon
+141	pheasant
+142	bird
+143	eagle
+144	wild goose
+145	crow
+146	magpie
+147	swallow
+148	sparrow
+149	bat
+150	frog
+151	fish
+152	snake
+153	honeybee
+154	butterfly
+155	dragonfly
+156	grasshopper
+157	ant
+158	centipede
+159	spider
+160	bedbug
+161	flea
+162	louse
+163	nit
+164	fly
+165	mosquito
+166	earthworm
+167	leech
+168	maggot
+169	insect / worm
+170	egg
+171	wing
+172	hair / fur
+173	feather
+174	claw
+175	hoof
+176	horn
+177	tail
+178	tree
+179	pine
+180	oak
+181	fir
+182	willow
+183	bamboo
+184	bamboo shoot
+185	crops
+186	rice (plant)
+187	barley
+188	wheat
+189	barley (Tibetan)
+190	buckwheat (sweet)
+191	buckwheat (bitter)
+192	sorghum
+193	maize
+194	sweet potato
+195	potato
+196	taro
+197	sugarcane
+198	peanut
+199	cotton
+200	ramie
+201	beans
+202	melon
+203	pumpkin
+204	cucumber
+205	eggplant
+206	vegetable
+207	cabbage (Chinese)
+208	turnip
+209	onion (green)
+210	garlic
+211	ginger
+212	pepper, hot / chili
+213	fruit
+214	peach
+215	persimmon
+216	grape
+217	tobacco
+218	grass
+219	mushroom
+220	seed
+221	seedling
+222	root
+223	stem / stalk
+224	leaf
+225	branch
+226	bud
+227	stone / pit
+228	flower
+229	ear (of grain-producing plant)
+230	thorn
+231	body
+232	head
+233	forehead
+234	hair of head
+235	plait
+236	face
+237	eyebrow
+238	eye
+239	tear
+240	nose
+241	ear
+242	mouth
+243	lip
+244	tooth
+245	tongue
+246	beard
+247	chin
+248	neck
+249	throat
+250	shoulder
+251	hand
+252	fist
+253	arm
+254	elbow
+255	finger
+256	fingernail
+257	chest
+258	back (of body)
+259	breast
+260	belly
+261	waist
+262	buttocks
+263	foot
+264	leg
+265	armpit
+266	skin
+267	sinew
+268	blood
+269	stomach
+270	kidney
+271	intestines
+272	heart
+273	liver
+274	lung
+275	gall
+276	bladder
+277	sweat
+278	snot
+279	phlegm
+280	saliva / spittle
+281	milk
+282	excrement
+283	urine
+284	fart
+285	boil
+286	pus
+287	smallpox
+288	malaria
+289	person
+290	man (male person)
+291	woman
+292	old person
+293	young man
+294	young woman
+295	child
+296	friend
+297	enemy
+298	host
+299	guest
+300	blind person
+301	deaf person
+302	mute
+303	mad person
+304	lame person
+305	carpenter
+306	official
+307	soldier
+308	army
+309	worker
+310	farmer
+311	doctor
+312	teacher
+313	student
+314	nationality
+315	Chinese
+316	autonym
+317	grandfather
+318	grandmother
+319	father
+320	mother
+321	uncle (paternal, elder)
+322	aunt (paternal, elder)
+323	uncle (paternal, younger)
+324	aunt (wife of younger paternal
+325	uncle (paternal aunt's husband
+326	aunt (paternal)
+327	uncle (maternal)
+328	aunt (wife of maternal uncle)
+329	uncle (maternal aunt's husband
+330	aunt (maternal)
+331	father-in-law
+332	mother-in-law
+333	brother (elder)
+334	sister (elder)
+335	brother (younger)
+336	sister (younger)
+337	husband
+338	wife
+339	son
+340	daughter
+341	daughter-in-law
+342	son-in-law
+343	nephew
+344	niece
+345	grandson
+346	granddaughter
+347	relative
+348	house
+349	home
+350	wall
+351	pole
+352	beam
+353	door
+354	window
+355	fireplace
+356	lime
+357	brick
+358	tile
+359	board / plank
+360	nail (tool)
+361	city
+362	village
+363	temple
+364	grave
+365	granary
+366	vegetable garden
+367	enclosure
+368	nest
+369	scarf for the head / turban
+370	hat
+371	hat (bamboo)
+372	earring
+373	bracelet
+374	wristwatch
+375	ring
+376	clothes
+377	sleeve
+378	raincoat (of leaves, hemp fibe
+379	pants / trousers
+380	skirt
+381	legging
+382	shoe
+383	socks
+384	mosquito net
+385	quilt
+386	mat
+387	pillow
+388	cloth
+389	silk (cloth)
+390	rice (uncooked)
+391	flour
+392	rice (cooked)
+393	breakfast
+394	lunch
+395	dinner
+396	gruel
+397	oil
+398	salt
+399	meat / flesh
+400	dish
+401	soup
+402	liquor
+403	noodles
+404	sugar
+405	bran
+406	husk
+407	feed
+408	ax
+409	knife
+410	sickle
+411	flail
+412	hoe
+413	wedge
+414	plough
+415	rake
+416	yoke
+417	loom
+418	spade
+419	saw
+420	needle
+421	thread
+422	rope
+423	gun
+424	cannon
+425	bullet
+426	gunpowder
+427	bow (weapon)
+428	arrow
+429	stick
+430	whip
+431	saddle
+432	dustpan / winnowing sieve
+433	sieve
+434	mill
+435	pestle
+436	mortar
+437	basket (bamboo, large)
+438	lock
+439	key
+440	broom
+441	pot / wok
+442	lid
+443	barrel / pail / bucket
+444	hoop
+445	washbasin
+446	chopper
+447	bowl
+448	chopsticks
+449	plate
+450	cup
+451	bottle
+452	table
+453	chair
+454	stool
+455	bed
+456	ladder
+457	trunk / box
+458	mirror
+459	comb
+460	scissors
+461	brush
+462	soap
+463	lamp
+464	candle
+465	match
+466	steelyard
+467	metal weight on steelyard
+468	firewood
+469	wood
+470	fertilizer
+471	dung / manure
+472	ashes
+473	garbage
+474	road / way
+475	railroad
+476	highway
+477	bridge
+478	vehicle
+479	train
+480	car
+481	boat
+482	airplane
+483	marketplace
+484	shop
+485	money
+486	price
+487	bank
+488	interest
+489	wages
+490	paper
+491	pen
+492	pencil
+493	ink cake
+494	ink
+495	word / character
+496	book
+497	letter
+498	song
+499	folksong
+500	story / tale
+501	ball
+502	flag
+503	flute-like instrument (Turkic)
+504	gong
+505	drum
+506	flute
+507	mouth organ
+508	bell
+509	medicine
+510	poison
+511	language
+512	voice
+513	strength
+514	courage
+515	thing / matter / event
+516	surname
+517	name
+518	thing
+519	dream
+520	shadow
+521	god / deity
+522	mark
+523	ghost / demon
+524	soul / spirit
+525	country / nation
+526	means / method
+527	school
+528	look
+529	see
+530	close (eye)
+531	open (eye)
+532	listen
+533	eat
+534	drink
+535	bite
+536	chew
+537	lick
+538	hold in mouth
+539	gnaw
+540	swallow
+541	swallow
+542	spit
+543	vomit
+544	blow with mouth
+545	say / speak
+546	read
+547	cry out / yell
+548	smell
+549	take
+550	strike with open palm
+551	grip / hold
+552	twist together
+553	tear
+554	wring (e.g. wet cloth)
+555	scratch
+556	pick up
+557	catch
+558	throw
+559	scatter / broadcast
+560	cast
+561	reach out(hand)
+562	pull
+563	push
+564	hold (baby) in arms
+565	kick
+566	kneel
+567	tread
+568	jump
+569	stand
+570	step / pass over (ditch)
+571	ride
+572	walk
+573	run
+574	sit
+575	carry on back
+576	go through (a hole)
+577	fall (down)
+578	crawl
+579	lean
+580	dwell / live
+581	rest
+582	sleep
+583	wake up
+584	do
+585	work / labor
+586	repair
+587	connect
+588	refine
+589	strike (iron)
+590	lay (bricks)
+591	move something to a new place
+592	carry on a pole (two people)
+593	carry on shoulder
+594	pry
+595	plough
+596	rake
+597	dig
+598	plant
+599	water
+600	pour (liquid) into
+601	cut
+602	chop (tree)
+603	skin / flay
+604	cut (firewood)
+605	sieve
+606	pull (out)
+607	graze
+608	feed
+609	choke
+610	castrate
+611	milk
+612	lead (animal)
+613	weave
+614	spin (yarn)
+615	measure
+616	buy
+617	sell
+618	count
+619	calculate
+620	weigh
+621	teach
+622	learn
+623	write
+624	wipe
+625	correct / change
+626	paste / glue / stick
+627	cook / boil (rice)
+628	deep-fry
+629	stir-fry
+630	knead (dough)
+631	dry (clothes) near fire
+632	warm (oneself) near fire
+633	kill
+634	cut (vegetable)
+635	mince (meat) with knife
+636	cut open (fish)
+637	prick
+638	stir / churn
+639	insert / stick into
+640	sharpen
+641	grind
+642	winnow
+643	rub (to soften animal skin)
+644	scoop
+645	strain (tea)
+646	put on / wear
+647	take off (clothing)
+648	wash (hand)
+649	wash (clothes)
+650	bathe
+651	shave (hair of head)
+652	dye
+653	patch
+654	comb
+655	braid
+656	make bed
+657	sweep
+658	open (door)
+659	open (lid)
+660	put / place
+661	hang (object)
+662	untie
+663	wrap
+664	tie (e.g. firewood)into a bund
+665	load
+666	stuff (hole) up
+667	bury (something)
+668	hide
+669	pick / select
+670	pile up (e.g. earth)
+671	press
+672	hammer (nail in)
+673	light (candle)
+674	want
+675	get
+676	take back / put away
+677	lose / misplace
+678	search
+679	use
+680	play
+681	win
+682	lose (a game)
+683	sing
+684	dance
+685	celebrate new year
+686	hunt
+687	surround
+688	shoot
+689	hit (target)
+690	ask / inquire
+691	answer
+692	borrow / lend
+693	return
+694	give / send / deliver
+695	exchange
+696	marry (a man)
+697	marry (a woman)
+698	tell
+699	help
+700	save / rescue
+701	treat / cure
+702	give out / distribute
+703	divide
+704	owe
+705	pay indemnity to
+706	wait
+707	encounter / meet
+708	scold
+709	fight
+710	hit / beat
+711	escape
+712	chase / run after
+713	drive away
+714	rob
+715	steal
+716	cheat / swindle
+717	laugh
+718	weep
+719	love
+720	like
+721	believe
+722	know
+723	understand
+724	guess
+725	remember
+726	forget
+727	think
+728	angry
+729	hate
+730	fear
+731	dare
+732	know (a language) / can / be abl
+733	be / copula
+734	NEG+copula
+735	have
+736	NEG+have
+737	come
+738	go
+739	return / go back
+740	arrive
+741	cross (river)
+742	pass by
+743	ascend
+744	descend
+745	exit
+746	enter
+747	retreat
+748	exist / be present
+749	dry in the sun
+750	rain
+751	rise (of the sun)
+752	set (of the sun)
+753	blow (of wind)
+754	flash (of lightning)
+755	thunder
+756	flow
+757	overflow
+758	float
+759	crack
+760	collapse
+761	chipped
+762	roll (e.g. rock)
+763	rotate / spin
+764	drop / fall
+765	break (v.i. of rope, etc.)
+766	break
+767	soak / immerse(e.g. seed)
+768	ladle / dredge
+769	leak
+770	drip
+771	boil
+772	melt
+773	change / transform
+774	birth, give
+775	grow
+776	ill / sick
+777	tremble
+778	swollen
+779	drunk
+780	die
+781	alive
+782	fly
+783	bark
+784	crow
+785	lay (egg)
+786	hatch
+787	sting
+788	bud
+789	bloom
+790	bear fruit
+791	wither
+792	rot / spoil
+793	begin
+794	manage
+795	hold a meeting
+796	protect
+797	win / triumph
+798	lose
+799	oppose
+800	big
+801	small
+802	high / tall
+803	low
+804	deep
+805	shallow
+806	pointed
+807	round
+808	square
+809	long
+810	short
+811	thick
+812	thin (slender)
+813	thick
+814	thin
+815	wide
+816	narrow
+817	far
+818	near
+819	many / much
+820	little / few
+821	straight
+822	crooked
+823	horizontal
+824	upright
+825	flat / level(land)
+826	steep
+827	right, just, upright
+828	slanting, not upright
+829	light
+830	heavy
+831	hard
+832	soft
+833	bright
+834	dark
+835	sunny
+836	cloudy
+837	red
+838	yellow
+839	blue
+840	white
+841	black
+842	green
+843	multicolored
+844	thick
+845	thin (watery)
+846	full
+847	beautiful
+848	ugly
+849	fat (of people)
+850	fat (meat)
+851	lean (meat)
+852	thin (of people)
+853	clean
+854	dirty
+855	clear (water)
+856	turbid / muddy
+857	old (of people)
+858	young
+859	tender
+860	good
+861	bad
+862	fast
+863	slow
+864	dry
+865	wet
+866	new
+867	old (things)
+868	raw
+869	cooked
+870	sharp
+871	blunt
+872	early
+873	late
+874	true
+875	false
+876	expensive
+877	cheap
+878	easy
+879	difficult
+880	loose / lax
+881	tight
+882	smooth
+883	hot
+884	cold
+885	warm
+886	cool
+887	sour
+888	sweet
+889	bitter
+890	hot (spicy)
+891	salty
+892	fragrant
+893	delicious
+894	stinky
+895	fishy
+896	full / satiated
+897	hungry
+898	thirsty
+899	tired
+900	itch
+901	pain / ache
+902	right / correct
+903	wrong / mistaken
+904	intelligent
+905	stupid
+906	diligent
+907	lazy
+908	glad
+909	poor
+910	rich
+911	one
+912	two
+913	three
+914	four
+915	five
+916	six
+917	seven
+918	eight
+919	nine
+920	ten
+921	eleven
+922	twelve
+923	thirteen
+924	fourteen
+925	fifteen
+926	sixteen
+927	seventeen
+928	eighteen
+929	nineteen
+930	twenty
+931	twenty-one
+932	thirty
+933	forty
+934	fifty
+935	sixty
+936	seventy
+937	eighty
+938	ninety
+939	hundred
+940	thousand
+941	ten thousand
+942	hundred million
+943	zero
+944	first
+945	fifth
+946	eighth
+947	half
+948	classifier for people
+949	classifier for e.g. bowls
+950	classifier for trees
+951	classifier for animals
+952	classifier for objects with ha
+953	classifier for long objects
+954	classifier for long, thin obje
+955	classifier for grains
+956	drop
+957	classifier for clothes
+958	pair
+959	fathom=6 feet
+960	handspan
+961	inch
+962	foot (measure)
+963	acre
+964	dry measure / pint
+965	dry measure / peck / =10 shēng
+966	tael
+967	catty=500 grams
+968	monetary unit / dollar
+969	I
+970	we two
+971	we
+972	we (inclusive)
+973	you (sg.)
+974	you two
+975	you (pl.)
+976	he / she
+977	they two
+978	they
+979	self
+980	others
+981	this
+982	here
+983	that
+984	there
+985	who
+986	what
+987	which
+988	where
+989	how many / much
+990	just now
+991	first
+992	later (in time)
+993	immediately / right away
+994	often
+995	slowly
+996	fast (adv.)
+997	very
+998	most (superlative degree)
+999	all / even
+1000	also
+1001	again
+1002	certainly
+1003	NEG
+1004	don't

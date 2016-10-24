@@ -22,6 +22,9 @@ def get_sources(src_type):
     return sorted([os.path.split(os.path.split(s)[0])[1] for s in glob(
                 cddb_path('datasets', '*', src_type))])
 
+def load_characters():
+    return lp.Wordlist(cddb_path('datasets', 'characters.tsv'),
+            row='character')
 
 def load_languages(delimiter='\t', return_type='dict'):
 

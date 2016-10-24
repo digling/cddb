@@ -91,3 +91,6 @@ def main():
             from pycddb.commands import character_list
             character_list()
     
+    if 'download' in argv:
+        dset = Dataset(argv[argv.index('download')+1])
+        dset._run_command('download')

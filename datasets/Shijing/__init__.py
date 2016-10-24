@@ -6,7 +6,7 @@ def prepare(dataset):
         data = list(reader)
     header = [h.lower() for h in data[0]]
     C = [('ID', 'CHARACTER', 'PINYIN', 'DOCULECT', 'SHIJING_NAME',
-        'SHJING_NUMBER', 'STANZA', 'VERSE', 'RHYMEID', 'POSITION', 'TEXT',
+        'SHJING_NUMBER', 'STANZA', 'VERSE', 'RHYME_CLASS', 'POSITION', 'TEXT',
         'ORDER', 'SOURCE'
         )]
     for line in data[1:]:

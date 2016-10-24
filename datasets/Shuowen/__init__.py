@@ -54,12 +54,12 @@ def prepare(dataset):
                     wordheads[wid]['rhyme'] = bu[0]
 
     with open(dataset.get_path('characters.tsv'), 'w') as f:
-        f.write('ID\tCHARACTER_ID\tGROUP\tCHARACTER\tPINYIN\tDOCULECT\tRADICAL\tPHONETIC\tFANQIE\tRHYME\tCHAPTER\tIMAGE\n')
+        f.write('ID\tCHARACTER_ID\tGROUP\tCHARACTER\tPINYIN\tDOCULECT\tSEMANTIC_CLASS\tPHONETIC_CLASS\tFANQIE\tRHYME_CLASS\tCHAPTER\tIMAGE\tTEXT\tCOMMENT\n')
         idx = 1
         for k, vals in sorted(wordheads.items(), key=lambda x: x[0]):
             addons = []
             for key in ['block', 'char', 'pinyin', 'doculect', 'radical', 'phonetic', 'fanqie', 
-                    'rhyme', 'chapter', 'img']:
+                    'rhyme', 'chapter', 'img', 'explanation', 'notes']:
                 val = vals.get(key, '')
                 if isinstance(val, list):
                     val = ' / '.join(val)

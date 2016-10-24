@@ -5,29 +5,40 @@ def prepare(dataset):
     with open(dataset.get_path('raw', '__private__schuessler.txt')) as f:
         data = f.readlines()
 
-    D = [('ID', 'CHARACTER', 'PINYIN', 'DOCULECT', 'WORD_FAMILY',
-        'GLOSS', 'READING', 'SOURCE')]
+    D = [('ID', 'CHARACTER', 'PINYIN', 'DOCULECT', 'WORDFAMILY_CLASS',
+        'GLOSS', 'READING', 'VARIANT_CLASS', 'SOURCE')]
     idf = ''
     idx = 1
     for line in data:
         if line.startswith('ENTRY'):
             if idf and sinopy.is_chinese(char.strip()):
-                if mch:
-                    D += [(idx, char, pinyin, 'Middle_Chinese', '', gloss, mch, 
-                        'Schuessler2007')]
-                    idx += 1
-                if ocb:
-                    D += [(idx, char, pinyin, 'Old_Chinese', '', gloss, ocb, 
-                        'Baxter1992')]
-                    idx += 1
-                if ocm:
-                    D += [(idx, char, pinyin, 'Old_Chinese', anc, gloss, ocm, 
-                        'Schuessler2007')]
-                    idx += 1
-                if lhc:
-                    D += [(idx, char, pinyin, 'Late_Han_Chinese', '', gloss, lhc, 
-                        'Schuessler2007')]
-                    idx += 1
+                if len(char) > 1 and not '-' in pinyin:
+                    variant = char[0]
+                    chars = list(char)
+                else:
+                    chars = [char]
+                    variant = ''
+                for char in chars:
+                    if mch:
+                        D += [(idx, char, pinyin, 'Middle_Chinese', '', gloss,
+                            mch, variant, 
+                            'Schuessler2007')]
+                        idx += 1
+                    if ocb:
+                        D += [(idx, char, pinyin, 'Old_Chinese', '', gloss,
+                            ocb, variant,
+                            'Baxter1992')]
+                        idx += 1
+                    if ocm:
+                        D += [(idx, char, pinyin, 'Old_Chinese', anc, gloss,
+                            ocm, variant,
+                            'Schuessler2007')]
+                        idx += 1
+                    if lhc:
+                        D += [(idx, char, pinyin, 'Late_Han_Chinese', '', gloss, lhc, 
+                            variant,
+                            'Schuessler2007')]
+                        idx += 1
 
 
             idf = line[6:].strip()

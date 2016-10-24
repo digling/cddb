@@ -1,0 +1,980 @@
+__NOTOC__
+
+This book intends to serve as an up-to-date character list and index to Schuessler's ''Minimal Old Chinese and Later Han Chinese: A Companion to Grammata Serica Recensa'' by providing a list of characters in their CGSR number together with Middle Chinese readings in the system of Baxter 1992. There is also a wiki book that lists character according to [[Character_List_for_Karlgren%27s_GSR|Karlgren's GSR]]. 
+=01=
+==01-01==
+* 01-01/0049a [[wikt:古|古]] kuX
+* 01-01/0049f [[wikt:固|固]] kuH
+* 01-01/0049i [[wikt:故|故]] kuH
+* 01-01/0049m [[wikt:罟|罟]] kuX
+* 01-01/0049u [[wikt:苦|苦]] khuX
+* 01-01/0049y [[wikt:祜|祜]] huX
+* 01-01/0049a' [[wikt:胡|胡]] hu
+* 01-01/0049c' [[wikt:居|居]] kjo, kjoH
+* 01-01/0049e' [[wikt:錮|錮]] kuH
+* 01-01/0049f' [[wikt:個|個]] kaH
+* 01-01/0049k' [[wikt:葫|葫]] hu
+* 01-01/0049l' [[wikt:餬|餬]] hu
+* 01-01/0049n' [[wikt:倨|倨]] kjoH
+* 01-01/0049s' [[wikt:鋸|鋸]] kjoH
+* 01-01/0049- [[wikt:菇|菇]] ku
+* 01-01/0049- [[wikt:糊|糊]] hu
+
+==01-02==
+* 01-02/0050a [[wikt:鼓|鼓]] kuX
+* 01-02/0050b [[wikt:鼔|鼔]] kuX
+* 01-02/0050g [[wikt:瞽|瞽]] kuX
+
+==01-03==
+* 01-03/0051a [[wikt:股|股]] kuX
+* 01-03/0051b [[wikt:羖|羖]] kuX
+==01-04==
+* 01-04/0052a [[wikt:蠱|蠱]] kuX
+==01-05==
+* 01-05/0056a [[wikt:壺|壺]] hu
+==01-06==
+* 01-06/0053a [[wikt:戶|戶]] huX
+* 01-06/0053c [[wikt:扈|扈]] huX
+* 01-06/0053d [[wikt:雇|雇]] kuH
+* 01-06/0053e [[wikt:鳸|鳸]] huX
+* 01-06/0053g [[wikt:顧|顧]] kuH
+==01-07==
+* 01-07/0054a [[wikt:互|互]] huH
+* 01-07/0054b [[wikt:枑|枑]] huH
+* 01-07/0054c [[wikt:沍|沍]] huH
+==01-08==
+* 01-08/0642a [[wikt:去|去]] khjoH, khjoX
+* 01-08/0642c [[wikt:呿|呿]] khjo, khjoH
+* 01-08/0642d [[wikt:祛|祛]] khjo
+* 01-08/0642e [[wikt:袪|袪]] khjo
+* 01-08/0642f [[wikt:麮|麮]] khjoH, khjoX
+* 01-08/0642g [[wikt:胠|胠]] khjo
+==01-09==
+* 01-09/0803a [[wikt:豦|豦]] gjo, gjoH
+* 01-09/0803c [[wikt:遽|遽]] gjoH
+* 01-09/0803e [[wikt:醵|醵]] gjak, gjo, gjoH
+* 01-09/0803f [[wikt:據|據]] kjoH
+* 01-09/0803g [[wikt:鐻|鐻]] kjoH
+* 01-09/0803h [[wikt:臄|臄]] gjak
+* 01-09/0803i [[wikt:劇|劇]] gjaek
+* 01-09/0803j [[wikt:籧|籧]] gjo, kjoX
+* 01-09/0803k [[wikt:蘧|蘧]] gjo
+==01-10==
+* 01-10/0074a [[wikt:車|車]] tsyhae, kjo
+* 01-10/0074e [[wikt:庫|庫]] khuH
+==01-11==
+* 01-11/0032a [[wikt:家|家]] kae
+* 01-11/0032e [[wikt:嫁|嫁]] kaeH
+* 01-11/0032f [[wikt:稼|稼]] kaeH
+==01-12==
+* 01-12/0033a [[wikt:叚|叚]] kaeX
+* 01-12/0033c [[wikt:假|假]] kaeX, kaeX
+* 01-12/0033f [[wikt:豭|豭]] kae
+* 01-12/0033g [[wikt:暇|暇]] haeH
+* 01-12/0033h [[wikt:瑕|瑕]] hae
+* 01-12/0033i [[wikt:蝦|蝦]] hae
+* 01-12/0033j [[wikt:遐|遐]] hae
+* 01-12/0033l [[wikt:騢|騢]] hae
+
+==01-13==
+* 01-13/0034a [[wikt:斝|斝]] kaeX
+==01-14==
+* 01-14/0035a [[wikt:下|下]] haeH, haeX
+* 01-14/0035d [[wikt:芐|芐]] haeH
+==01-15==
+* 01-15/0036a [[wikt:夏|夏]] haeH, haeX
+* 01-15/0036c [[wikt:廈|廈]] haeX
+* 01-15/0036d [[wikt:厦|厦]] haeX
+* 01-15/1236c [[wikt:嗄|嗄]] 'eajH, sraeH
+==01-16==
+* 01-16/0038a [[wikt:襾|襾]] xaeX
+* 01-16/0038b [[wikt:賈|賈]] kaeH, kuX
+* 01-16/0038c [[wikt:價|價]] kaeH
+* 01-16/0038d [[wikt:檟|檟]] kaeX
+==01-17==
+A uvular series
+* 01-17/0055a [[wikt:乎|乎]] hu
+* 01-17/0055e [[wikt:虖|虖]] hu
+* 01-17/0055h [[wikt:呼|呼]] xu, xuH
+* 01-17/0055i [[wikt:嘑|嘑]] xu
+==01-18==
+A uvular series.
+* 01-18/0057a [[wikt:虍|虍]] xu
+* 01-18/0057b [[wikt:虎|虎]] xuX
+* 01-18/0078a [[wikt:虛|虛]] xjo
+* 01-18/0078b [[wikt:墟|墟]] khjo
+* 01-18/0085a [[wikt:處|處]] tsyhoX, tsyhoH
+==01-19==
+* 01-19/0095a [[wikt:巨|巨]] gjoX, kjuX
+* 01-19/0095c [[wikt:矩|矩]] kjuX
+* 01-19/0095e [[wikt:榘|榘]] kjuX
+* 01-19/0095f [[wikt:柜|柜]] kjuX
+* 01-19/0095g [[wikt:渠|渠]] gjo
+* 01-19/0095h [[wikt:蚷|蚷]] gjo
+* 01-19/0095i [[wikt:拒|拒]] gjoX, kjuX
+* 01-19/0095j [[wikt:秬|秬]] gjoX
+* 01-19/0095k [[wikt:𩰤|𩰤]] gjuX
+* 01-19/0095n [[wikt:粔|粔]] gjoX
+* 01-19/0095o [[wikt:耟|耟]] gjoX
+* 01-19/0095p [[wikt:詎|詎]] gjoH, gjoX
+* 01-19/0095q [[wikt:距|距]] gjoX
+* 01-19/0095r [[wikt:鉅|鉅]] gjoX
+
+==01-20==
+* 01-20/0096c [[wikt:瞿|瞿]] gju
+* 01-20/0096d [[wikt:衢|衢]] gju
+* 01-20/0096e [[wikt:躣|躣]] gju
+* 01-20/0096g [[wikt:鸜|鸜]] gju
+
+==01-21==
+* 01-21/0041a [[wikt:瓜|瓜]] kwae
+* 01-21/0041b [[wikt:呱|呱]] ku
+* 01-21/0041c [[wikt:孤|孤]] ku
+* 01-21/0041d [[wikt:罛|罛]] ku
+* 01-21/0041e [[wikt:苽|苽]] ku
+* 01-21/0041f [[wikt:觚|觚]] ku
+* 01-21/0041g [[wikt:軱|軱]] ku
+* 01-21/0041h [[wikt:弧|弧]] hu
+* 01-21/0041i [[wikt:狐|狐]] hu
+
+==01-22==
+* 01-22/0042a [[wikt:寡|寡]] kwaeX
+
+==01-23==
+A uvular series.
+* 01-23/0097a [[wikt:于|于]] hju
+* 01-23/0097h [[wikt:宇|宇]] hjuX
+* 01-23/0097k [[wikt:盂|盂]] hju
+* 01-23/0097n [[wikt:竽|竽]] hju
+* 01-23/0097o [[wikt:芋|芋]] hjuH
+* 01-23/0097p [[wikt:迂|迂]] 'ju, hju
+* 01-23/0097q [[wikt:雩|雩]] hju
+* 01-23/0097t [[wikt:吁|吁]] xju
+* 01-23/0097v [[wikt:訏|訏]] xju
+* 01-23/0097y [[wikt:紆|紆]] 'ju
+* 01-23/0097z [[wikt:圩|圩]] 'u
+* 01-23/0097b' [[wikt:汙|汙]] 'wae
+* 01-23/0097c' [[wikt:污|污]] 'wae
+* 01-23/0043a [[wikt:夸|夸]] khwae
+* 01-23/0043b [[wikt:誇|誇]] khwae
+* 01-23/0043d [[wikt:跨|跨]] khuH, khwaeH
+* 01-23/0043e [[wikt:荂|荂]] xju
+* 01-23/0043f [[wikt:刳|刳]] khuH	
+* 01-23/0043k [[wikt:洿|洿]] 'u
+==01-24==
+A uvular series
+* 01-24/0098a [[wikt:羽|羽]] hjuX
+* 01-24/0098c [[wikt:栩|栩]] xjuX
+* 01-24/0098d [[wikt:詡|詡]] xjuX
+==01-25==
+A uvular series
+* 01-25/0099a [[wikt:禹|禹]] hjuX	
+* 01-25/0099d [[wikt:偊|偊]] hjuX
+* 01-25/0099e [[wikt:楀|楀]] kjuX
+* 01-25/0099f [[wikt:萭|萭]] kjuX
+* 01-25/0099g [[wikt:踽|踽]] kjuX
+
+==01-26==
+A uvular series
+* 01-26/0100a [[wikt:雨|雨]] hjuX, hjuH
+
+==01-27==
+A uvular series
+* 01-27/0044a [[wikt:華|華]] xwae, hwae, hwaeH
+* 01-27/0044c [[wikt:驊|驊]] hwae
+* 01-27/0044d [[wikt:譁|譁]] xwae
+* 01-27/0044- [[wikt:樺|樺]] hwaeH
+* 01-27/0044- [[wikt:花|花]] xwae
+
+==01-28==
+* 01-28/0061a [[wikt:烏|烏]] 'u
+* 01-28/0061d [[wikt:嗚|嗚]] 'u
+* 01-28/0061e [[wikt:於|於]] 'jo, 'joH, 'u
+* 01-28/0061g [[wikt:棜|棜]] 'joH
+* 01-28/0061h [[wikt:瘀|瘀]] 'joH
+* 01-28/0061i [[wikt:菸|菸]] 'jo
+* 01-28/0270a [[wikt:閼|閼]] 'at
+
+==01-29==
+* 01-29/0058a [[wikt:五|五]] nguX
+* 01-29/0058f [[wikt:吾|吾]] ngu
+* 01-29/0058j [[wikt:悟|悟]] nguH
+* 01-29/0058l [[wikt:晤|晤]] nguH
+* 01-29/0058n [[wikt:寤|寤]] nguH
+* 01-29/0058t [[wikt:語|語]] ngjoX, ngjoH
+* 01-29/0058v [[wikt:鋙|鋙]] ngjo, ngjoX
+==01-30==
+Baxter & Sagart (2014: 129) combine [[#01-30|01-30]] and [[#01-41|01-41]].
+* 01-30/0060a [[wikt:午|午]] nguX
+* 01-30/0060f [[wikt:仵|仵]] nguH, nguX
+* 01-30/0060g [[wikt:忤|忤]] nguH
+* 01-30/0060h [[wikt:迕|迕]] nguH
+* 01-30/0060i [[wikt:許|許]] xjoX, xuX
+* 01-30/0060k [[wikt:滸|滸]] xuX
+* 01-30/0060l [[wikt:御|御]] ngjoH
+* 01-30/0060p [[wikt:禦|禦]] ngjoX
+
+==01-31==
+* 01-31/0079a [[wikt:魚|魚]] ngjo
+* 01-31/0079g [[wikt:漁|漁]] ngjo
+* 01-31/0079m [[wikt:䱷|䱷]] ngjo
+* 01-31/0067a [[wikt:穌|穌]] su
+* 01-31/0067c [[wikt:蘇|蘇]] su
+==01-32==
+* 01-32/0081a [[wikt:圉|圉]] ngjoH, ngjoX
+==01-33==
+* 01-33/0080a [[wikt:馭|馭]] ngjoH
+==01-34==
+A uvular series.
+* 01-34/0037a [[wikt:牙|牙]] ngae
+* 01-34/0037c [[wikt:庌|庌]] ngaeX
+* 01-34/0037d [[wikt:芽|芽]] ngae
+* 01-34/0037f [[wikt:迓|迓]] ngaeH
+* 01-34/0037g [[wikt:雅|雅]] ngaeX
+* 01-34/0037h [[wikt:鴉|鴉]] 'ae
+==01-35==
+* 01-35/0059a [[wikt:吳|吳]] ngu
+* 01-35/0059d [[wikt:誤|誤]] nguH
+* 01-35/0059e [[wikt:悞|悞]] nguH
+* 01-35/0059f [[wikt:俁|俁]] ngjuX
+* 01-35/0059g [[wikt:娛|娛]] ngju
+* 01-35/0059h [[wikt:虞|虞]] ngju
+* 01-35/0059j [[wikt:麌|麌]] ngjuX
+* 01-35/0059k [[wikt:噳|噳]] ngjuX
+==01-36==
+* 01-36/0062a [[wikt:土|土]] duX, thuX
+* 01-36/0062d [[wikt:吐|吐]] thuH, thuX
+* 01-36/0062e [[wikt:徒|徒]] du
+* 01-36/0062g [[wikt:杜|杜]] duX
+* 01-36/0062j [[wikt:社|社]] dzyaeX
+* 01-36/0062- [[wikt:肚|肚]] tuX, duX
+==01-37==
+* 01-37/0064a [[wikt:圖|圖]] du
+==01-38==
+* 01-38/0045a [[wikt:者|者]] tsyaeX
+* 01-38/0045g [[wikt:褚|褚]] trjoX
+* 01-38/0045h [[wikt:豬|豬]] trjo
+* 01-38/0045j [[wikt:箸|箸]] drjoH
+* 01-38/0045k [[wikt:渚|渚]] tsyoX
+* 01-38/0045l [[wikt:煑|煑]] tsyoX
+* 01-38/0045m [[wikt:煮|煮]] tsyoX
+* 01-38/0045n [[wikt:䰞|䰞]] tsyoX
+* 01-38/0045p [[wikt:諸|諸]] tsyo
+* 01-38/0045q [[wikt:陼|陼]] tsyoX
+* 01-38/0045r [[wikt:署|署]] dzyoH
+* 01-38/0045s [[wikt:緒|緒]] zjoX
+* 01-38/0045t [[wikt:書|書]] syo
+* 01-38/0045x [[wikt:暑|暑]] syoX
+* 01-38/0045c' [[wikt:睹|睹]] tuX
+* 01-38/0045e' [[wikt:都|都]] tu
+* 01-38/0045i' [[wikt:屠|屠]] du
+* 01-38/0045j' [[wikt:瘏|瘏]] du
+* 01-38/0045n' [[wikt:著|著]] trjoH
+* 01-38/0045o' [[wikt:躇|躇]] trhjak
+==01-39==
+* 01-39/0084a [[wikt:宁|宁]] drjo, drjoX
+* 01-39/0084c [[wikt:佇|佇]] drjoX
+* 01-39/0084d [[wikt:竚|竚]] drjoX
+* 01-39/0084e [[wikt:紵|紵]] drjoX
+* 01-39/0084f [[wikt:羜|羜]] drjoX
+* 01-39/0084g [[wikt:貯|貯]] trjoX
+==01-40==
+*01-40/1242b [[wikt:樗|樗]] trhjo
+
+==01-41==
+Baxter & Sagart (2014: 129) combine [[#01-30|01-30]] and [[#01-41|01-41]].
+* 01-41/0086a [[wikt:杵|杵]] tsyhoX
+==01-42==
+* 01-42/0082a [[wikt:余|余]] yo
+* 01-42/0082f [[wikt:畬|畬]] yo
+* 01-42/0082g [[wikt:悆|悆]] yoH
+* 01-42/0082i [[wikt:艅|艅]] yo
+* 01-42/0082l [[wikt:餘|餘]] yo
+* 01-42/0082m [[wikt:除|除]] drjo, drjoH
+* 01-42/0082o [[wikt:敘|敘]] zjoX
+* 01-42/0082q [[wikt:䣄|䣄]] zjo
+* 01-42/0082s [[wikt:賖|賖]] syae
+* 01-42/0082t [[wikt:賒|賒]] syae
+* 01-42/0082u [[wikt:涂|涂]] du
+* 01-42/0082v [[wikt:途|途]] du
+* 01-42/0082x [[wikt:荼|荼]] drae, du, syo
+* 01-42/0082y [[wikt:梌|梌]] du
+* 01-42/0082a' [[wikt:㻌|㻌]] thu
+* 01-42/0082b' [[wikt:稌|稌]] duX, thu, thuX
+* 01-42/0082c' [[wikt:篨|篨]] drjo
+* 01-42/0082d' [[wikt:塗|塗]] du
+==01-43==
+* 01-43/0083a [[wikt:予|予]] yo, yoX
+* 01-43/0083c [[wikt:𨑦|𨑦]]
+* 01-43/0083e [[wikt:豫|豫]] yoH
+* 01-43/0083f [[wikt:杼|杼]] drjoX, zyoH, zyoX
+* 01-43/0083g [[wikt:抒|抒]] zyoX
+* 01-43/0083h [[wikt:序|序]] zjoX
+* 01-43/0083i [[wikt:芧|芧]] zjoX
+* 01-43/0083j [[wikt:紓|紓]] syo, zyoX
+* 01-43/0083k [[wikt:舒|舒]] syo
+* 01-43/0083l [[wikt:野|野]] yaeX
+* 01-43/0083m [[wikt:𡐨|𡐨]] yaeX
+==01-44==
+* 01-44/0083n [[wikt:埜|埜]] yaeX
+==01-45==
+* 01-45/0089a [[wikt:舁|舁]] yoX
+* 01-45/0089b [[wikt:與|與]] yo, yoH, yoX
+* 01-45/0089e [[wikt:歟|歟]] yo
+* 01-45/0089f [[wikt:璵|璵]] yo
+* 01-45/0089g [[wikt:䑂|䑂]] yoX
+* 01-45/0089i [[wikt:譽|譽]] yo, yoH
+* 01-45/0089j [[wikt:輿|輿]] yo
+* 01-45/0089k [[wikt:鸒|鸒]] yoH
+* 01-45/0089l [[wikt:旟|旟]] yo
+* 01-45/0089n [[wikt:藇|藇]] yoX, zjoX
+* 01-45/0089o [[wikt:鱮|鱮]] zjoX
+* 01-45/0075a [[wikt:舉|舉]] kjoX
+==01-46==
+* 01-46/0063a [[wikt:兔|兔]] thuH
+* 01-46/0063c [[wikt:菟|菟]] du
+==01-47==
+* 01-47/0047a [[wikt:邪|邪]] zjae, yae, zjo
+* 01-47/0047b [[wikt:耶|耶]] yae
+* 01-47/0047c [[wikt:衺|衺]] zjae
+==01-48==
+* 01-48/0048a [[wikt:舍|舍]] syaeH, syaeX
+* 01-48/0048c [[wikt:捨|捨]] syaeX
+==01-49==
+* 01-49/0092a [[wikt:鼠|鼠]] syoX
+* 01-49/0092b [[wikt:癙|癙]] syoX
+==01-50==
+* 01-50/0093a [[wikt:黍|黍]] syoX
+==01-51==
+* 01-51/0069a [[wikt:𧆨|𧆨]] lu
+* 01-51/0069d [[wikt:盧|盧]] lu
+* 01-51/0069e [[wikt:虜|虜]] luX
+* 01-51/0069f [[wikt:慮|慮]] ljoH
+* 01-51/0069g [[wikt:膚|膚]] pju
+* 01-51/0069j [[wikt:壚|壚]] lu
+* 01-51/0069k [[wikt:櫨|櫨]] lu
+* 01-51/0069l [[wikt:爐|爐]] lu
+* 01-51/0069m [[wikt:鑪|鑪]] lu
+* 01-51/0069n [[wikt:籚|籚]] lu
+* 01-51/0069o [[wikt:纑|纑]] lu
+* 01-51/0069p [[wikt:顱|顱]] lu
+* 01-51/0069q [[wikt:廬|廬]] ljo
+* 01-51/0069r [[wikt:臚|臚]] ljo
+* 01-51/0069t [[wikt:儢|儢]] ljoX
+* 01-51/0069u [[wikt:藘|藘]] ljo
+* 01-51/0069v [[wikt:鑢|鑢]] ljoH
+* 01-51/0069x [[wikt:攄|攄]] trhjo
+==01-52==
+* 01-52/0070a [[wikt:魯|魯]] luX
+* 01-52/0070e [[wikt:櫓|櫓]] luX
+==01-53==
+* 01-53/0071a [[wikt:鹵|鹵]] luX
+==01-54==
+* 01-54/0076a [[wikt:呂|呂]] ljoX
+* 01-54/0076d [[wikt:侶|侶]] ljoX
+* 01-54/0076e [[wikt:梠|梠]] ljoX
+* 01-54/0076g [[wikt:閭|閭]] ljo
+* 01-54/0076h [[wikt:郘|郘]] ljoX
+* 01-54/0076j [[wikt:筥|筥]] kjoX
+* 01-54/0076l [[wikt:莒|莒]] kjoX
+==01-55==
+* 01-55/0077a [[wikt:旅|旅]] ljoX
+* 01-55/0077e [[wikt:膂|膂]] ljoX
+* 01-55/0077f [[wikt:玈|玈]] lu
+==01-56==
+* 01-56/0094a [[wikt:女|女]] nrjoX, nrjoH
+* 01-56/0094f [[wikt:籹|籹]] nrjoX
+* 01-56/0094g [[wikt:如|如]] nyo
+* 01-56/0094j [[wikt:汝|汝]] nyoX
+* 01-56/0094l [[wikt:奴|奴]] nu
+* 01-56/0094o [[wikt:帤|帤]] nrjo
+* 01-56/0094p [[wikt:袽|袽]] nrjo
+* 01-56/0094q [[wikt:洳|洳]] nyo, nyoH
+* 01-56/0094r [[wikt:茹|茹]] nyo, nyoH, nyoX
+* 01-56/0094s [[wikt:鴽|鴽]] nyo
+* 01-56/0094t [[wikt:恕|恕]] syoH
+* 01-56/0094u [[wikt:絮|絮]] sjoH, trhjoH
+* 01-56/0094v [[wikt:孥|孥]] nu
+* 01-56/0094y [[wikt:帑|帑]] nu
+* 01-56/0094z [[wikt:弩|弩]] nuX
+* 01-56/0094a' [[wikt:怒|怒]] nuH, nuX
+* 01-56/0094b' [[wikt:拏|拏]] nrae
+* 01-56/0094c' [[wikt:挐|挐]] nrae
+* 01-56/0094d' [[wikt:砮|砮]] nu, nuX
+* 01-56/0094e' [[wikt:笯|笯]] nrae, nu, nuH
+* 01-56/0094f' [[wikt:駑|駑]] nu
+==01-57==
+* 01-57/0046a [[wikt:且|且]] tshjaeX, tshjo, tsjo
+* 01-57/0046h [[wikt:罝|罝]] tsjae
+* 01-57/0046i [[wikt:柤|柤]] tsrae
+* 01-57/0046j [[wikt:抯|抯]] dzjaeX, tsjaeX, tsrae
+* 01-57/0046k [[wikt:沮|沮]] dzjoX, tsjoH
+* 01-57/0046m [[wikt:蛆|蛆]] tsjo
+* 01-57/0046n [[wikt:岨|岨]] tshjo
+* 01-57/0046o [[wikt:狙|狙]] tshjo
+* 01-57/0046p [[wikt:疽|疽]] tshjo
+* 01-57/0046q [[wikt:砠|砠]] tshjo
+* 01-57/0046r [[wikt:雎|雎]] tshjo
+* 01-57/0046s [[wikt:鴡|鴡]] tshjo
+* 01-57/0046t [[wikt:苴|苴]] tshjo, tsjo, tsraeX
+* 01-57/0046u [[wikt:咀|咀]] dzjoX
+* 01-57/0046v [[wikt:俎|俎]] tsrjoX
+* 01-57/0046x [[wikt:詛|詛]] tsrjoH
+* 01-57/0046y [[wikt:阻|阻]] tsrjoX
+* 01-57/0046z [[wikt:助|助]] dzrjoH
+* 01-57/0046a' [[wikt:鉏|鉏]] dzrjoX
+* 01-57/0046b' [[wikt:祖|祖]] tsuX
+* 01-57/0046d' [[wikt:租|租]] tsu
+* 01-57/0046e' [[wikt:組|組]] tsuX
+* 01-57/0046h' [[wikt:粗|粗]] tshu, dzuX
+* 01-57/0046i' [[wikt:徂|徂]] dzu
+* 01-57/0046j' [[wikt:殂|殂]] dzu
+* 01-57/0046k' [[wikt:虘|虘]] dzu
+* 01-57/0046m' [[wikt:駔|駔]] dzuX, tsangX
+* 01-57/0046n' [[wikt:菹|菹]] tsrjo
+* 01-57/0046o' [[wikt:耡|耡]] dzrjo, dzrjoH
+* 01-57/0046p' [[wikt:鋤|鋤]] dzrjo
+* 01-57/0046q' [[wikt:蒩|蒩]] tsu
+* 01-57/0046r' [[wikt:𪓐|𪓐]] tsrhjoX
+* 01-57/0046s' [[wikt:樝|樝]] tsrae
+* 01-57/0046u' [[wikt:楂|楂]] tsrae
+* 01-57/0046v' [[wikt:𠭯|𠭯]] tsrae
+==01-58==
+* 01-58/0065a [[wikt:觕|觕]] tshu
+==01-59==
+* 01-59/0066a [[wikt:麤|麤]] tshu
+==01-60==
+* 01-60/0087a [[wikt:初|初]] tsrhjo
+==01-61==
+* 01-61/0068a [[wikt:素|素]] suH
+==01-62==
+* 01-62/0090a [[wikt:疋|疋]] srjo
+* 01-62/0090b [[wikt:疏|疏]] srjo
+* 01-62/0090c [[wikt:疎|疎]] srjo
+* 01-62/0090d [[wikt:蔬|蔬]] srjo
+* 01-62/0090e [[wikt:胥|胥]] sjo
+* 01-62/0090f [[wikt:湑|湑]] sjoX
+* 01-62/0090g [[wikt:稰|稰]] sjoX
+* 01-62/0090h [[wikt:糈|糈]] srjoX
+* 01-62/0090i [[wikt:壻|壻]] sejH
+* 01-62/0088a [[wikt:楚|楚]] tsrhjoX
+==01-63==
+* 01-63/0091a [[wikt:所|所]] srjoX
+==01-64==
+* 01-64/0072a [[wikt:普|普]] phuX
+==01-65==
+* 01-65/0073a [[wikt:步|步]] buH
+==01-66==
+* 01-66/0101a [[wikt:夫|夫]] pju, bju
+* 01-66/0101e [[wikt:鈇|鈇]] pju, pjuX
+* 01-66/0101f [[wikt:扶|扶]] bju, phu, pju
+* 01-66/0101g [[wikt:枎|枎]] bju
+* 01-66/0101h [[wikt:芙|芙]] bju
+==01-67==
+* 01-67/0102a [[wikt:父|父]] bjuX, pjuX
+* 01-67/0102f [[wikt:釜|釜]] bjuX
+* 01-67/0102h [[wikt:斧|斧]] pjuX
+* 01-67/0102j [[wikt:布|布]] puH
+* 01-67/0102m [[wikt:怖|怖]] phuH
+* 01-67/0102n [[wikt:甫|甫]] pjuX
+* 01-67/0102r [[wikt:脯|脯]] pjuX
+* 01-67/0102s [[wikt:莆|莆]] pjuX
+* 01-67/0102t [[wikt:黼|黼]] pjuX
+* 01-67/0102u [[wikt:簠|簠]] pju, pjuH, pjuX
+* 01-67/0102v [[wikt:輔|輔]] bjuX
+* 01-67/0102y [[wikt:鬴|鬴]] bjuX
+* 01-67/0102z [[wikt:圃|圃]] puH, puX
+* 01-67/0102c' [[wikt:補|補]] puX
+* 01-67/0102d' [[wikt:逋|逋]] pu
+* 01-67/0102e' [[wikt:餔|餔]] pu
+* 01-67/0102f' [[wikt:浦|浦]] phuX
+* 01-67/0102g' [[wikt:痡|痡]] phju, phu
+* 01-67/0102h' [[wikt:鋪|鋪]] phju, phu
+* 01-67/0102i' [[wikt:哺|哺]] buH
+* 01-67/0102j' [[wikt:捕|捕]] buH
+* 01-67/0102k' [[wikt:酺|酺]] bu, buH
+* 01-67/0102l' [[wikt:匍|匍]] bu
+* 01-67/0102n' [[wikt:蒲|蒲]] bu
+* 01-67/0102o' [[wikt:蒱|蒱]] bu
+* 01-67/0102p' [[wikt:尃|尃]] phju
+* 01-67/0102t' [[wikt:敷|敷]] phju
+* 01-67/0102u' [[wikt:傅|傅]] bjuH, pjuH
+* 01-67/0102q' [[wikt:旉|旉]] phju
+* 01-67/0102v' [[wikt:榑|榑]] bju
+* 01-67/0102x' [[wikt:賻|賻]] bjuH
+* 01-67/0102- [[wikt:䋠|䋠]] puX (?)
+* 01-67/0771a [[wikt:博|博]] pak	
+* 01-67/0771d [[wikt:搏|搏]] pak, pjuH
+* 01-67/0771f [[wikt:溥|溥]] pak, phuX
+* 01-67/0771g [[wikt:鎛|鎛]] pak
+* 01-67/0771j [[wikt:𩌏|𩌏]] pak
+* 01-67/0771l [[wikt:膊|膊]] phak
+* 01-67/0771m [[wikt:縛|縛]] bjak
+* 01-67/0771n [[wikt:簙|簙]] pak
+* 01-67/0771o [[wikt:簿|簿]] buX
+* 01-67/0771p [[wikt:薄|薄]] bak, phak
+* 01-67/0771q [[wikt:礴|礴]] bak
+==01-68==
+* 01-68/0039a [[wikt:巴|巴]] pae
+* 01-68/0039b [[wikt:把|把]] paeX
+* 01-68/0039c [[wikt:芭|芭]] pae
+* 01-68/0039d [[wikt:豝|豝]] pae
+* 01-68/0039e [[wikt:杷|杷]] bae
+* 01-68/0039- [[wikt:笆|笆]] bae
+* 01-68/0039- [[wikt:葩|葩]]
+==01-69==
+* 01-69/0103a [[wikt:無|無]] mju
+* 01-69/0103g [[wikt:舞|舞]] mjuX
+* 01-69/0103h [[wikt:儛|儛]] mjuX
+* 01-69/0103i [[wikt:廡|廡]] mjuX
+* 01-69/0103j [[wikt:憮|憮]] mjuX, xu
+* 01-69/0103k [[wikt:甒|甒]] mjuX
+* 01-69/0103l [[wikt:蕪|蕪]] mju
+* 01-69/0103m [[wikt:譕|譕]] mju
+* 01-69/0103n [[wikt:幠|幠]] xu
+* 01-69/0103o [[wikt:膴|膴]] mju, xjuX, xu
+* 01-69/0103p [[wikt:撫|撫]] phjuX
+* 01-69/0103q [[wikt:鄦|鄦]] xjoX
+==01-70==
+* 01-70/0106a [[wikt:无|无]] mju
+==01-72==
+* 01-72/0105a [[wikt:巫|巫]] mju
+* 01-72/0105b [[wikt:誣|誣]] mju
+
+=02=
+==02-01==
+* 02-01/0766a [[wikt:各|各]] kak
+* 02-01/0766d [[wikt:胳|胳]] kaek, kak
+* 02-01/0766e [[wikt:袼|袼]] kaek, kak
+* 02-01/0766f [[wikt:閣|閣]] kak
+* 02-01/0766g [[wikt:恪|恪]] khak	
+* 02-01/0766h [[wikt:貉|貉]] hak maeH, maek
+* 02-01/0766j [[wikt:狢|狢]] maek
+* 02-01/0766k [[wikt:洛|洛]] lak
+* 02-01/0766n [[wikt:烙|烙]] lak
+* 02-01/0766o [[wikt:絡|絡]] lak
+* 02-01/0766p [[wikt:酪|酪]] lak
+* 02-01/0766q [[wikt:雒|雒]] lak
+* 02-01/0766r [[wikt:𩊚|𩊚]] lak
+* 02-01/0766s [[wikt:駱|駱]] lak
+* 02-01/0766t [[wikt:鴼|鴼]] lak
+* 02-01/0766u [[wikt:珞|珞]] lak, lek
+* 02-01/0766v [[wikt:略|略]] ljak
+* 02-01/0766x [[wikt:𢓜|𢓜]] kaek
+* 02-01/0766z [[wikt:格|格]] haek, kaek
+* 02-01/0766b' [[wikt:觡|觡]] kaek
+* 02-01/0766c' [[wikt:骼|骼]] kaek, kak, khaeH	
+* 02-01/0766d' [[wikt:客|客]] khaek	
+* 02-01/0766g' [[wikt:垎|垎]] haek	
+* 02-01/0766k' [[wikt:賂|賂]] luH
+* 02-01/0766l' [[wikt:路|路]] luH
+* 02-01/0766h' [[wikt:詻|詻]] ngaek	
+* 02-01/0766j' [[wikt:頟|頟]] ngaek
+* 02-01/0766k' [[wikt:賂|賂]] luH
+* 02-01/0766l' [[wikt:路|路]] luH
+* 02-01/0766n' [[wikt:輅|輅]] haek, luH, ngaeH
+* 02-01/0766o' [[wikt:喀|喀]] khaek
+* 02-01/0766p' [[wikt:愙|愙]] khak
+* 02-01/0766q' [[wikt:落|落]] lak
+* 02-01/0766r' [[wikt:璐|璐]] luH	
+* 02-01/0766s' [[wikt:簬|簬]] luH
+* 02-01/0766t' [[wikt:露|露]] luH
+* 02-01/0766u' [[wikt:潞|潞]] luH
+* 02-01/0766v' [[wikt:鷺|鷺]] luH
+* 02-01/0766x' [[wikt:簵|簵]] luH
+==02-02==
+*02-02/0776a [[wikt:𧮫|𧮫]] gjak	
+*02-02/0776b [[wikt:卻|卻]] khjak
+*02-02/0776c [[wikt:却|却]] khjak
+*02-02/0776d [[wikt:綌|綌]] khjaek
+*02-02/0776e [[wikt:郤|郤]] khjaek
+*02-02/0776f [[wikt:郄|郄]] khjaek
+*02-02/0776g [[wikt:腳|腳]] kjak
+*02-02/0776h [[wikt:脚|脚]] kjak
+==02-03==
+* 02-03/0785a [[wikt:𢧢|𢧢]] kjaek
+* 02-03/0785b [[wikt:戟|戟]] kjaek
+==02-04==
+*02-04/0786a [[wikt:丮|丮]] kjaek
+
+==02-05==
+A uvular series?
+* 02-05/0787a [[wikt:𡭴|𡭴]] khjaek
+* 02-05/0787b [[wikt:𡭽|𡭽]] khjaek
+* 02-05/0787c [[wikt:隙|隙]] khjaek
+* 02-05/0787d [[wikt:虩|虩]] xjaek
+==02-06==
+* 02-06/0774a [[wikt:郭|郭]] kwak
+* 02-06/0774e [[wikt:椁|椁]] kwak
+* 02-06/0774f [[wikt:槨|槨]] kwak
+* 02-06/0774g [[wikt:廓|廓]] khwak
+* 02-06/0774h [[wikt:鞟|鞟]] khwak
+* 02-06/0774i [[wikt:鞹|鞹]] khwak
+* 02-06/0774- [[wikt:𠅷|𠅷]]
+* 02-06/0774- [[wikt:𨟍|𨟍]]
+==02-07==
+* 02-07/0096a [[wikt:䀠|䀠]] kjuH
+* 02-07/0096c [[wikt:瞿|瞿]] kjuH
+* 01-20/0096c [[wikt:瞿|瞿]] gju
+* 01-20/0096d [[wikt:衢|衢]] gju
+* 01-20/0096e [[wikt:躣|躣]] gju
+* 01-20/0096g [[wikt:鸜|鸜]] gju
+* 02-07/0096h [[wikt:臞|臞]] gju, gjuH
+* 02-07/0096i [[wikt:懼|懼]] gjuH
+==02-08==
+A uvular series.
+* 02-08/0784a [[wikt:蒦|蒦]] hweak
+* 02-08/0784d [[wikt:獲|獲]] hweak
+* 02-08/0784e [[wikt:韄|韄]] hweak
+* 02-08/0784f [[wikt:彠|彠]] 'jwak
+* 02-08/0784h [[wikt:穫|穫]] hwak
+* 02-08/0784i [[wikt:鑊|鑊]] hwak
+* 02-08/0784j [[wikt:濩|濩]] huH, hwak
+* 02-08/0784k [[wikt:護|護]] huH
+* 02-08/0784l [[wikt:擭|擭]] 'waek
+* 02-08/0784m [[wikt:雘|雘]] 'wak
+* 02-08/0784n [[wikt:蠖|蠖]] 'wak
+==02-09==
+* 02-09/0767a [[wikt:壑|壑]] xak
+==02-10==
+* 02-10/0779a [[wikt:赫|赫]] xaek
+* 02-10/0779b [[wikt:嚇|嚇]] xaeH, xaek
+==02-10A==
+* 02-10A/1259a [[wikt:謋|謋]] xaek
+==02-11==
+* 02-11/0789a [[wikt:覤|覤]] xjaek
+==02-12==
+* 02-12/0775a [[wikt:霍|霍]] xwak	
+* 02-12/0775b [[wikt:靃|靃]] xwak	
+* 02-12/0775e [[wikt:藿|藿]] xwak	
+* 02-12/0775f [[wikt:臛|臛]] xowk
+==02-13==
+* 02-13/0805a [[wikt:亞|亞]] 'aeH
+* 02-13/0805f [[wikt:啞|啞]] 'aek, 'aeX
+* 02-13/0805g [[wikt:堊|堊]] 'ak
+* 02-13/0805h [[wikt:惡|惡]] 'ak, 'u, 'uH
+==02-14==
+Schuessler (2009: 68) "this series prob. belongs to 02-34" i.e. GSR [[#0769|02-34]]. Baxter & Sagart appear to concur.
+* 02-14/0788a [[wikt:屰|屰]] ngjaek
+* 02-14/0788c [[wikt:逆|逆]] ngjaek
+* 02-14/0788g [[wikt:咢|咢]] ngak
+* 02-14/0788h [[wikt:愕|愕]] ngak
+* 02-14/0788i [[wikt:遌|遌]] ngak
+* 02-14/0788j [[wikt:遻|遻]] nguH
+* 02-14/0788k [[wikt:諤|諤]] ngak
+==02-15==
+* 02-15/0768a [[wikt:噩|噩]] ngak
+* 02-15/0768d [[wikt:蘁|蘁]] ngak, nguH
+==02-16==
+* 02-16/0801a [[wikt:度|度]] dak, duH
+* 02-16/0801b [[wikt:渡|渡]] duH
+* 02-16/0801c [[wikt:剫|剫]] dak
+==02-17==
+* 02-17/0795a [[wikt:石|石]] dzyek	
+* 02-17/0795d [[wikt:祏|祏]] dzyek
+* 02-17/0795e [[wikt:碩|碩]] dzyek
+* 02-17/0795h [[wikt:鼫|鼫]] dzyek
+* 02-17/0795i [[wikt:跖|跖]] tsyek
+* 02-17/0795j [[wikt:磔|磔]] traek
+* 02-17/0795k [[wikt:斫|斫]] tsyak
+* 02-17/0795l [[wikt:柘|柘]] tsyaeH
+* 02-17/0795m [[wikt:拓|拓]] thak
+* 02-17/0795n [[wikt:妬|妬]] tuH
+* 02-17/0795o [[wikt:妒|妒]] tuH
+* 02-17/0795p [[wikt:橐|橐]] thak
+* 02-17/0795r [[wikt:蠹|蠹]] tuH
+==02-18==
+* 02-18/0804a [[wikt:庶|庶]] syoH, tsyoH
+* 02-18/0804d [[wikt:遮|遮]] tsyae
+* 02-18/0804e [[wikt:摭|摭]] tsyek
+* 02-18/0804f [[wikt:蹠|蹠]] tsyek
+==02-19==
+* 02-19/0791a [[wikt:炙|炙]] tsyaeH, tsyek
+==02-20==
+* 02-20/0794a [[wikt:尺|尺]] tsyhek
+==02-21==
+* 02-21/1258b [[wikt:辵|辵]] trhjaek
+==02-22==
+* 02-22/0780a [[wikt:乇|乇]] traek
+* 02-22/0780b [[wikt:宅|宅]] draek
+* 02-22/0780e [[wikt:託|託]] thak
+* 02-22/0780f [[wikt:秅|秅]] drae, tuH
+* 02-22/0780g [[wikt:咤|咤]] traeH
+* 02-22/0780h [[wikt:詫|詫]] trhaeH
+* 02-22/0780i [[wikt:侘|侘]] trhaeH
+* 02-22/0780j [[wikt:㓃|㓃]] tuH
+==02-23==
+A uvular series (?)
+* 02-23/0792a [[wikt:㡿|㡿]] tsyhek
+* 02-23/0792b [[wikt:斥|斥]] tsyhek
+* 02-23/0792c [[wikt:厈|厈]] tsyhek
+* 02-23/0792d [[wikt:坼|坼]] trhaek
+* 02-23/0792h [[wikt:㴑|㴑]] suH
+* 02-23/0792i [[wikt:泝|泝]] suH
+* 02-23/0792j [[wikt:訴|訴]] suH
+
+==02-24==
+A uvular series (?)
+* 02-24/0793a [[wikt:赤|赤]] tshjek, tsyhek
+* 02-24/0793d [[wikt:赦|赦]] syaeH
+* 02-24/0793e [[wikt:螫|螫]] syek
+
+==02-25==
+* 02-25/0790a [[wikt:睪|睪]] yek
+* 02-25/0790b [[wikt:圛|圛]] yek
+* 02-25/0790c [[wikt:懌|懌]] yek
+* 02-25/0790d [[wikt:斁|斁]] duH, tuH, yek
+* 02-25/0790e [[wikt:繹|繹]] yek
+* 02-25/0790f [[wikt:譯|譯]] yek
+* 02-25/0790g [[wikt:醳|醳]] yek
+* 02-25/0790h [[wikt:驛|驛]] yek
+* 02-25/0790i [[wikt:𢍰|𢍰]] yek
+* 02-25/0790k [[wikt:𥼶|𥼶]] syek
+* 02-25/0790l [[wikt:釋|釋]] syek
+* 02-25/0790m [[wikt:檡|檡]] syek, draek
+* 02-25/0790n [[wikt:擇|擇]] draek
+* 02-25/0790o [[wikt:澤|澤]] draek, syek, yek
+* 02-25/0790p [[wikt:鐸|鐸]] dak
+* 02-25/0790q [[wikt:殬|殬]] tuH
+* 02-25/0790r [[wikt:蘀|蘀]] thak
+==02-26==
+* 02-26/0807a [[wikt:射|射]] dzyek, zyaeH
+* 02-26/0807b [[wikt:䠶|䠶]] zyaeH, zyek, yek
+* 02-26/0807e [[wikt:榭|榭]] zjaeH
+* 02-26/0807g [[wikt:謝|謝]] zjaeH
+* 02-26/0807- [[wikt:麝|麝]] dzyaeH (?)
+==02-27==
+* 02-27/0800a [[wikt:亦|亦]] yek
+* 02-27/0800d [[wikt:奕|奕]] yek
+* 02-27/0800e [[wikt:帟|帟]] yek
+* 02-27/0800f [[wikt:弈|弈]] yek
+* 02-27/0800g [[wikt:跡|跡]] tsjek
+* 02-27/0800h [[wikt:迹|迹]] tsjek
+* 02-27/0800j [[wikt:夜|夜]] yaeH
+* 02-27/0800l [[wikt:掖|掖]] yek
+* 02-27/0800m [[wikt:腋|腋]] yek
+* 02-27/0800n [[wikt:液|液]] yek
+==02-28==
+* 02-28/0796a [[wikt:夕|夕]] zjek
+* 02-28/0796e [[wikt:穸|穸]] zjek
+==02-29==
+* 02-29/0797a [[wikt:席|席]] zjek
+* 02-29/0797b [[wikt:蓆|蓆]] zjek
+==02-30==
+* 02-30/0777a [[wikt:若|若]] nyak
+* 02-30/0777f [[wikt:諾|諾]] nak
+* 02-30/0777g [[wikt:箬|箬]] nyak
+* 02-30/0777i [[wikt:鄀|鄀]] nyak
+* 02-30/0777k [[wikt:婼|婼]] trhjak	
+* 02-30/0777l [[wikt:匿|匿]] nrik
+* 02-30/0777n [[wikt:暱|暱]] nrik
+* 02-30/0777o [[wikt:慝|慝]] thok
+==02-31==
+* 02-31/0806a [[wikt:乍|乍]] dzraeH
+* 02-31/0806f [[wikt:咋|咋]] dzraeH
+* 02-31/0806g [[wikt:詐|詐]] tsraeH
+* 02-31/0806h [[wikt:祚|祚]] dzuH
+* 02-31/0806i [[wikt:胙|胙]] dzuH
+* 02-31/0806j [[wikt:阼|阼]] dzuH
+* 02-31/0806k [[wikt:笮|笮]] tsraek
+* 02-31/0806l [[wikt:作|作]] tsak
+* 02-31/0806m [[wikt:迮|迮]] tsak
+* 02-31/0806p [[wikt:柞|柞]] dzak, tsak, tsraek
+* 02-31/0806r [[wikt:怍|怍]] dzak
+* 02-31/0806s [[wikt:昨|昨]] dzak
+* 02-31/0806t [[wikt:酢|酢]] dzak
+* 02-31/0806v [[wikt:筰|筰]] dzak
+* 02-31/0806- [[wikt:莋|莋]] dzak
+==02-32==
+* 02-32/0798a [[wikt:昔|昔]] sjek
+* 02-32/0798f [[wikt:惜|惜]] sjek
+* 02-32/0798g [[wikt:腊|腊]] sjek
+* 02-32/0798i [[wikt:耤|耤]] dzjek
+* 02-32/0798k [[wikt:踖|踖]] dzjek, tshjak, tshjek, tsjek
+* 02-32/0798l [[wikt:趞|趞]] tshjak
+* 02-32/0798n [[wikt:鵲|鵲]] tshjak
+* 02-32/0798o [[wikt:斮|斮]] tsrjak
+* 02-32/0798p [[wikt:厝|厝]] tshak
+* 02-32/0798q [[wikt:逪|逪]] tshak
+* 02-32/0798s [[wikt:錯|錯]] tshak
+* 02-32/0798t [[wikt:醋|醋]] dzak
+* 02-32/0798u [[wikt:借|借]] tsjaeH, tsjek
+* 02-32/0798v [[wikt:唶|唶]] tsjaeH
+* 02-32/0798x [[wikt:措|措]] tshuH
+* 02-32/0798y [[wikt:蜡|蜡]] dzraeH, tshjoH
+* 02-32/0798z [[wikt:矠|矠]] dzreak
+* 02-32/0798a' [[wikt:籍|籍]] dzjek
+* 02-32/0798b' [[wikt:藉|藉]] dzjaeH, dzjek
+* 02-32/0798c' [[wikt:簎|簎]] tsrhaek
+==02-33==
+* 02-33/0770a [[wikt:索|索]] sak, sraek
+==02-34==
+Schuessler (2009: 73) "this series prob. belongs to 02-14" i.e. GSR [[#0788|0788]]. Baxter & Sagart appear to concur.
+* 02-34/0769a [[wikt:朔|朔]] sraewk
+* 02-34/0769b [[wikt:愬|愬]] suH
+* 02-34/0769c [[wikt:𧪜|𧪜]] suH
+* 02-34/0769d [[wikt:遡|遡]] suH
+==02-35==
+* 02-35/0799a [[wikt:舄|舄]] sjek
+* 02-35/0799e [[wikt:潟|潟]] sjek
+* 02-35/0799f [[wikt:寫|寫]] sjaeX
+* 02-35/0799h [[wikt:瀉|瀉]] sjaeX
+==02-36==
+* 02-36/0773a [[wikt:亳|亳]] bak
+==02-37==
+* 02-37/0781a [[wikt:百|百]] paek
+* 02-37/0781f [[wikt:貊|貊]] maek
+* 02-37/0781g [[wikt:陌|陌]] maek
+==02-38==
+* 02-38/0782a [[wikt:白|白]] baek
+* 02-38/0782f [[wikt:帛|帛]] baek
+* 02-38/0782i [[wikt:伯|伯]] paek
+* 02-38/0782j [[wikt:柏|柏]] paek
+* 02-38/0782k [[wikt:迫|迫]] paek
+* 02-38/0782l [[wikt:怕|怕]] phaeH, phaek
+* 02-38/0782m [[wikt:拍|拍]] phaek, pak
+* 02-38/0782o [[wikt:魄|魄]] phaek
+* 02-38/0782p [[wikt:粕|粕]] phak
+* 02-38/0782q [[wikt:胉|胉]] phak
+* 02-38/0782r [[wikt:泊|泊]] bak
+* 02-38/0782s [[wikt:碧|碧]] pjaek
+==02-39==
+*02-39/0772a
+*02-39/0772b [[wikt:霸|霸]] paeH, phaek
+==02-40==
+Acc. to Schuessler (2009: 74) the "phonetic is perhaps [[#03-64|03-64]]".
+* 02-40/0802a [[wikt:莫|莫]] maek, mak, muH
+* 02-40/0802d [[wikt:暮|暮]] muH
+* 02-40/0802e [[wikt:募|募]] muH
+* 02-40/0802f [[wikt:墓|墓]] muH
+* 02-40/0802g [[wikt:嫫|嫫]] mu
+* 02-40/0802h [[wikt:慕|慕]] muH
+* 02-40/0802j [[wikt:模|模]] mu
+* 02-40/0802k [[wikt:膜|膜]] mu
+* 02-40/0802l [[wikt:謨|謨]] mu
+* 02-40/0802m [[wikt:蟆|蟆]] mae
+* 02-40/0802n [[wikt:寞|寞]] mak
+* 02-40/0802o [[wikt:幕|幕]] mak
+* 02-40/0802p [[wikt:漠|漠]] mak
+* 02-40/0802q [[wikt:瘼|瘼]] mak
+* 02-40/0802r [[wikt:嗼|嗼]] maek
+* 02-40/0802s [[wikt:冪|冪]] mek
+
+=03=
+==03-01==
+* 03-01/0698a [[wikt:亢|亢]] kang, khangH
+* 03-01/0698b [[wikt:抗|抗]] khangH
+* 03-01/0698c [[wikt:伉|伉]] khangH
+* 03-01/0698d [[wikt:忼|忼]] khangH, khangX
+* 03-01/0698e [[wikt:杭|杭]] hang
+* 03-01/0698f [[wikt:沆|沆]] hangX
+* 03-01/0698g [[wikt:頏|頏]] hang
+* 03-01/0698h [[wikt:坑|坑]] khaeng
+* 03-01/0698i [[wikt:阬|阬]] khaeng
+==03-02==
+* 03-02/0697a [[wikt:岡|岡]] kang
+* 03-02/0697b [[wikt:剛|剛]] kang
+* 03-02/0697e [[wikt:綱|綱]] kang
+* 03-02/0697f [[wikt:犅|犅]] kang
+* 03-02/0697h [[wikt:鋼|鋼]] kang, kangH
+==03-03==
+* 03-03/0710a [[wikt:畺|畺]] kjang
+* 03-03/0710b [[wikt:壃|壃]] kjang
+* 03-03/0710c [[wikt:僵|僵]] gjang, kjang
+* 03-03/0710d [[wikt:薑|薑]] kjang
+* 03-03/0710e [[wikt:彊|彊]] gjang, gjangX, kjang
+* 03-03/0710h [[wikt:疆|疆]] kjang
+==03-04==
+* 03-04/0713a [[wikt:强|强]] gjang, gjangX
+* 03-04/0713b [[wikt:強|強]] gjang, gjangX
+* 03-04/0713c [[wikt:繈|繈]] kjangX
+* 03-04/0713d [[wikt:襁|襁]] kjangX
+==03-05==
+Schuessler (2009: 76) "the element 羊 *jaŋ 'sheep' in the graphs may be phonetic, but could also be semantic (names referring to nomads)".
+* 03-05/0711a [[wikt:姜|姜]] kjang
+==03-06==
+* 03-06/0712a [[wikt:羌|羌]] khjang
+* 03-06/0712e [[wikt:蜣|蜣]] khjang
+==03-07==
+* 03-07/0752a [[wikt:竟|竟]] kjaengH, kjaengX
+* 03-07/0752b [[wikt:境|境]] kjaengX
+* 03-07/0752c [[wikt:鏡|鏡]] kjaengH
+* 03-07/0752d [[wikt:滰|滰]] gjangX
+==03-08==
+* 03-08/0753a [[wikt:慶|慶]] khjaengH
+==03-09==
+* 03-09/0754a [[wikt:競|競]] gjaengH
+==03-10==
+Baxter & Sagart (2014: 28) combine GSR[[#03-10]] and GSR[[#03-21]].
+* 03-10/0755a [[wikt:京|京]] kjaeng
+* 03-10/0755d [[wikt:景|景]] kjaengX
+* 03-10/0755e [[wikt:勍|勍]] gjaeng
+* 03-10/0755f [[wikt:鯨|鯨]] gjaeng
+* 03-10/0755g [[wikt:黥|黥]] gjaeng
+* 03-10/0755h [[wikt:憬|憬]] kjwaengX
+* 03-10/0755i [[wikt:倞|倞]] ljangH
+* 03-10/0755j [[wikt:亮|亮]] ljangH
+* 03-10/0755k [[wikt:掠|掠]] ljak, ljangH
+* 03-10/0755l [[wikt:涼|涼]] ljang
+* 03-10/0755m [[wikt:諒|諒]] ljangH
+==03-11==
+Schuessler (2009: 77) places 0745f [[wikt:綆|綆]] with the reading ''pjiengX'' under [[#23-25|23-25]].
+* 03-11/0745a [[wikt:更|更]] kaeng, kaengH
+* 03-11/0745c [[wikt:哽|哽]] kaengX
+* 03-11/0745d [[wikt:鯁|鯁]] kaengX
+* 03-11/0745e [[wikt:梗|梗]] kaengX
+* 03-11/0745f [[wikt:綆|綆]] kaengX, pjiengX
+==03-12==
+* 03-12/0746a [[wikt:庚|庚]] kaeng
+* 03-12/0746g [[wikt:賡|賡]] kaeng, kaengH
+* 03-12/0746h [[wikt:康|康]] khang
+* 03-12/0746k [[wikt:𡻚|𡻚]] khang
+* 03-12/0746m [[wikt:慷|慷]] khangX
+* 03-12/0746n [[wikt:穅|穅]] khang
+* 03-12/0746o [[wikt:糠|糠]] khang
+* 03-12/0700a [[wikt:唐|唐]] dang
+* 03-12/0700c [[wikt:塘|塘]] dang
+* 03-12/0700d [[wikt:榶|榶]] dang
+* 03-12/0700e [[wikt:螗|螗]] dang
+==03-13==
+* 03-13/0747a [[wikt:羹|羹]] kaeng
+==03-14==
+* 03-14/0748a [[wikt:行|行]] haeng, haengH, hang, hangH
+* 03-14/0748e [[wikt:荇|荇]] haengX
+* 03-14/0748f [[wikt:桁|桁]] haeng, hang
+* 03-14/0748g [[wikt:珩|珩]] haeng
+* 03-14/0748h [[wikt:衡|衡]] haeng
+* 03-14/0748j [[wikt:蘅|蘅]] haeng
+==03-15==
+* 03-15/0749a [[wikt:杏|杏]] haengX
+==03-16==
+A uvular series
+* 03-16/0714a [[wikt:皀|皀]] xjang
+* 03-16/0714c [[wikt:鄉|鄉]] xjang, xjangH, xjangX
+* 03-16/0714i [[wikt:嚮|嚮]] xjangH
+* 03-16/0714j [[wikt:饗|饗]] xjangX
+* 03-16/0714k [[wikt:曏|曏]] syangH, syangX, xjangH, xjangX
+* 03-16/0714l [[wikt:膷|膷]] xjang
+* 03-16/0714m [[wikt:薌|薌]] xjang
+* 03-16/0714n [[wikt:響|響]] xjangX
+* 03-16/0714o [[wikt:卿|卿]] khjaeng
+
+==03-17==
+Baxter & Sagart (2014:157) combine [[#03-17]] and [[#03-60]].
+*03-17/0716a [[wikt:享|享]] xaeng
+*03-17/0716b [[wikt:亨|亨]] phaeng, xaeng, xjangX
+
+==24-44A==
+* 24-44A [[wikt:珊|珊]]
+
+==32-28==
+* 32-28/0388a [[wikt:人|人]] nyin
+* 32-28/0388f [[wikt:仁|仁]] nyin
+* 32-28/0365a [[wikt:千|千]] tshen
+* 32-28/0365e [[wikt:阡|阡]] tshen
+* 32-28/0365f [[wikt:芊|芊]] tshen
+* 32-28/0364a [[wikt:年|年]] nen
+
+{{subjects|Chinese language}}
+{{alphabetical}}
+
