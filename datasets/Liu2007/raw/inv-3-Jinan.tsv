@@ -1,67 +1,67 @@
-tone	214	yinping
-tone	53	yangping
-tone	45	shang
-tone	31	qu
-finals	i_z
-finals	i
-finals	u
-finals	y
-finals	i`
-finals	@r
-finals	a
-finals	ia
-finals	ua
-finals	7
-finals	i@
-finals	u7
-finals	y7
-finals	E
-finals	iE
-finals	uE
-finals	ei
-finals	uei
-finals	O
-finals	iO
-finals	ou
-finals	iou
-finals	{~
-finals	i{~
-finals	u{~
-finals	y{~
-finals	e~
-finals	ie~
-finals	ue~
-finals	ye~
-finals	AN
-finals	iAN
-finals	uAN
-finals	@N
-finals	iN
-finals	uN
-finals	yN
-finals	N=
-initials	p
-initials	p_h
-initials	m
-initials	f
-initials	v
-initials	t
-initials	t_h
-initials	n
-initials	l
-initials	ts
-initials	ts_h
-initials	s
-initials	ts`
-initials	ts_h
-initials	s`
-initials	z`
-initials	tc\
-initials	tc\_h
-initials	n\
-initials	c\
-initials	k
-initials	k_h
-initials	N
-initials	x
-initials	Ø
+3f	tone	214	yinping
+3f	tone	53	yangping
+3f	tone	45	shang
+3f	tone	31	qu
+3f	finals	i_z
+3f	finals	i
+3f	finals	u
+3f	finals	y
+3f	finals	i`
+3f	finals	@r
+3f	finals	a
+3f	finals	ia
+3f	finals	ua
+3f	finals	7
+3f	finals	i@
+3f	finals	u7
+3f	finals	y7
+3f	finals	E
+3f	finals	iE
+3f	finals	uE
+3f	finals	ei
+3f	finals	uei
+3f	finals	O
+3f	finals	iO
+3f	finals	ou
+3f	finals	iou
+3f	finals	{~
+3f	finals	i{~
+3f	finals	u{~
+3f	finals	y{~
+3f	finals	e~
+3f	finals	ie~
+3f	finals	ue~
+3f	finals	ye~
+3f	finals	AN
+3f	finals	iAN
+3f	finals	uAN
+3f	finals	@N
+3f	finals	iN
+3f	finals	uN
+3f	finals	yN
+3f	finals	N=
+3f	initials	p
+3f	initials	p_h
+3f	initials	m
+3f	initials	f
+3f	initials	v
+3f	initials	t
+3f	initials	t_h
+3f	initials	n
+3f	initials	l
+3f	initials	ts
+3f	initials	ts_h
+3f	initials	s
+3f	initials	ts`
+3f	initials	ts_h
+3f	initials	s`
+3f	initials	z`
+3f	initials	tc\
+3f	initials	tc\_h
+3f	initials	n\
+3f	initials	c\
+3f	initials	k
+3f	initials	k_h
+3f	initials	N
+3f	initials	x
+3f	initials	Ø

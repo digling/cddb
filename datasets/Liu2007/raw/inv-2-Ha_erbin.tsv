@@ -1,66 +1,64 @@
-tones	44	yangping
-tones	24	yinping
-tones	213	shang
-tones	53	qu
-finals	i_z
-finals	i
-finals	u
-finals	y
-finals	i`
-finals	@r
-finals	a
-finals	ia
-finals	ua
-finals	7
-finals	uo
-finals	E
-finals	i@
-finals	yE
-finals	ai
-finals	uai
-finals	ei
-finals	uei
-finals	au
-finals	iau
-finals	ou
-finals	iou
-finals	an
-finals	ian
-finals	uan
-finals	yan
-finals	@n
-finals	in
-finals	u@n
-finals	yn
-finals	aN
-finals	iaN
-finals	uaN
-finals	@N
-finals	iN
-finals	u@N
-finals	uN
-finals	yN
-
-initials	p
-initials	p_h
-initials	m
-initials	f
-initials	t
-initials	t_h
-initials	n
-initials	l
-initials	ts
-initials	ts_h
-initials	s
-initials	ts`
-initials	ts`_h
-initials	s`
-initials	z`
-initials	tc\
-initials	tc\_h
-initials	c\
-initials	k
-initials	k_h
-initials	x
-initials	Ø
-
+2f	tones	44	yangping
+2f	tones	24	yinping
+2f	tones	213	shang
+2f	tones	53	qu
+2f	finals	i_z
+2f	finals	i
+2f	finals	u
+2f	finals	y
+2f	finals	i`
+2f	finals	@r
+2f	finals	a
+2f	finals	ia
+2f	finals	ua
+2f	finals	7
+2f	finals	uo
+2f	finals	E
+2f	finals	i@
+2f	finals	yE
+2f	finals	ai
+2f	finals	uai
+2f	finals	ei
+2f	finals	uei
+2f	finals	au
+2f	finals	iau
+2f	finals	ou
+2f	finals	iou
+2f	finals	an
+2f	finals	ian
+2f	finals	uan
+2f	finals	yan
+2f	finals	@n
+2f	finals	in
+2f	finals	u@n
+2f	finals	yn
+2f	finals	aN
+2f	finals	iaN
+2f	finals	uaN
+2f	finals	@N
+2f	finals	iN
+2f	finals	u@N
+2f	finals	uN
+2f	finals	yN
+2f	initials	p
+2f	initials	p_h
+2f	initials	m
+2f	initials	f
+2f	initials	t
+2f	initials	t_h
+2f	initials	n
+2f	initials	l
+2f	initials	ts
+2f	initials	ts_h
+2f	initials	s
+2f	initials	ts`
+2f	initials	ts`_h
+2f	initials	s`
+2f	initials	z`
+2f	initials	tc\
+2f	initials	tc\_h
+2f	initials	c\
+2f	initials	k
+2f	initials	k_h
+2f	initials	x
+2f	initials	Ø

@@ -1,64 +1,64 @@
-finals	7
-finals	@N
-finals	@n
-finals	@r
-finals	AN
-finals	A`
-finals	Au
-finals	ai
-finals	an
-finals	ei
-finals	i
-finals	iAN
-finals	iA`
-finals	iAu
-finals	iE
-finals	iEn
-finals	iN
-finals	i_z
-finals	i`
-finals	in
-finals	iou
-finals	o
-finals	ou
-finals	u
-finals	u@N
-finals	u@n
-finals	uA~
-finals	uN
-finals	uaN
-finals	uai
-finals	uao
-finals	uei
-finals	uo
-finals	y
-finals	yE
-finals	yEn
-finals	yN
-finals	yn
-initials	
-initials	c\
-initials	f
-initials	k
-initials	k_h
-initials	l
-initials	m
-initials	n
-initials	p
-initials	p_h
-initials	s
-initials	s`
-initials	t
-initials	t_h
-initials	tc\
-initials	tc\_h
-initials	ts
-initials	ts_h
-initials	ts`
-initials	ts`_h
-initials	x
-initials	z`
-tones	213	yinping
-tones	35	yangping
-tones	51	shang
-tones	55	qu
+1f	finals	7
+1f	finals	@N
+1f	finals	@n
+1f	finals	@r
+1f	finals	AN
+1f	finals	A`
+1f	finals	Au
+1f	finals	ai
+1f	finals	an
+1f	finals	ei
+1f	finals	i
+1f	finals	iAN
+1f	finals	iA`
+1f	finals	iAu
+1f	finals	iE
+1f	finals	iEn
+1f	finals	iN
+1f	finals	i_z
+1f	finals	i`
+1f	finals	in
+1f	finals	iou
+1f	finals	o
+1f	finals	ou
+1f	finals	u
+1f	finals	u@N
+1f	finals	u@n
+1f	finals	uA~
+1f	finals	uN
+1f	finals	uaN
+1f	finals	uai
+1f	finals	uao
+1f	finals	uei
+1f	finals	uo
+1f	finals	y
+1f	finals	yE
+1f	finals	yEn
+1f	finals	yN
+1f	finals	yn
+1f	initials	
+1f	initials	c\
+1f	initials	f
+1f	initials	k
+1f	initials	k_h
+1f	initials	l
+1f	initials	m
+1f	initials	n
+1f	initials	p
+1f	initials	p_h
+1f	initials	s
+1f	initials	s`
+1f	initials	t
+1f	initials	t_h
+1f	initials	tc\
+1f	initials	tc\_h
+1f	initials	ts
+1f	initials	ts_h
+1f	initials	ts`
+1f	initials	ts`_h
+1f	initials	x
+1f	initials	z`
+1f	tones	213	yinping
+1f	tones	35	yangping
+1f	tones	51	shang
+1f	tones	55	qu
