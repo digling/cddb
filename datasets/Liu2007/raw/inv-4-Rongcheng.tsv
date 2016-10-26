@@ -1,0 +1,70 @@
+tone	52	yinping
+tone	35	yangping
+tone	214	shangsheng
+tone	334	qusheng
+finals	i_z
+finals	i
+finals	u
+finals	y
+finals	i`
+finals	@r
+finals	a
+finals	ia
+finals	ua
+finals	O
+finals	uO
+finals	yO
+finals	E	@
+finals	iE	i@
+finals	uE	u@
+finals	yE	y@
+finals	ai
+finals	iai
+finals	uai
+finals	yai
+finals	ei
+finals	uei
+finals	au
+finals	iau
+finals	ou
+finals	iou
+finals	6n
+finals	i6n
+finals	u6n
+finals	y6n
+finals	@n
+finals	in
+finals	u@n
+finals	yn
+finals	aN
+finals	iaN
+finals	uaN
+finals	@N
+finals	iN
+finals	u@N
+finals	oN
+finals	yoN
+initial	p
+initial	p_h
+initial	m
+initial	f
+initial	t
+initial	t_h
+initial	n
+initial	l
+initial	ts
+initial	ts_h
+initial	s
+initial	c
+initial	c_h
+initial	C
+initial	tS
+initial	tS_h
+initial	S
+initial	ts`
+initial	ts`_h
+initial	s`
+initial	k
+initial	k_h
+initial	x
+initial	Ø

@@ -1,0 +1,64 @@
+finals	7
+finals	@N
+finals	@n
+finals	@r
+finals	AN
+finals	A`
+finals	Au
+finals	ai
+finals	an
+finals	ei
+finals	i
+finals	iAN
+finals	iA`
+finals	iAu
+finals	iE
+finals	iEn
+finals	iN
+finals	i_z
+finals	i`
+finals	in
+finals	iou
+finals	o
+finals	ou
+finals	u
+finals	u@N
+finals	u@n
+finals	uA~
+finals	uN
+finals	uaN
+finals	uai
+finals	uao
+finals	uei
+finals	uo
+finals	y
+finals	yE
+finals	yEn
+finals	yN
+finals	yn
+initials	
+initials	c\
+initials	f
+initials	k
+initials	k_h
+initials	l
+initials	m
+initials	n
+initials	p
+initials	p_h
+initials	s
+initials	s`
+initials	t
+initials	t_h
+initials	tc\
+initials	tc\_h
+initials	ts
+initials	ts_h
+initials	ts`
+initials	ts`_h
+initials	x
+initials	z`
+tones	213	yinping
+tones	35	yangping
+tones	51	shang
+tones	55	qu
