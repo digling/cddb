@@ -1,0 +1,65 @@
+GRAPHEMES	SOURCE	TYPE	STRUCTURE
+a	a	final	n
+aN	a ŋ	final	nc
+ai	a i	final	nc
+an	a n	final	nc
+au	a u	final	nc
+ei	e i	final	nc
+i	i	final	n
+iN	i ŋ	final	nc
+ia	i a	final	mn
+iaN	i a ŋ	final	mnc
+ian	i a n	final	mnc
+iau	i a u	final	mnc
+ie	i e	final	mn
+in	i n	final	nc
+iou	i o u	final	mnc
+o	o	final	n
+ou	o u	final	nc
+u	u	final	n
+uN	u ŋ	final	nc
+ua	u a	final	mn
+uaN	u a ŋ	final	mnc
+uai	u a i	final	mnc
+uan	u a n	final	mnc
+uei	u e i	final	mnc
+uo	u o	final	mn
+u«N	u ə ŋ	final	mnc
+u«n	u ə n	final	mnc
+y	y	final	n
+yN	y ŋ	final	nc
+yan	y a n	final	mnc
+ye	y e	final	mn
+yn	y n	final	nc
+	ɿ	final	n
+	ʅ	final	n
+«N	ə ŋ	final	nc
+«n	ə n	final	nc
+¶	ɤ	final	n
+Ô	ɚ	final	n
+f	f	initial	i
+k	k	initial	i
+kh	kʰ	initial	i
+l	l	initial	i
+m	m	initial	i
+n	n	initial	i
+p	p	initial	i
+ph	pʰ	initial	i
+s	s	initial	i
+t	t	initial	i
+th	tʰ	initial	i
+ts	ts	initial	i
+tsh	tsʰ	initial	i
+tþ	tɕ	initial	i
+tþh	tɕʰ	initial	i
+tƧ	ʈʂ	initial	i
+tƧh	ʈʂʰ	initial	i
+x	x	initial	i
+½	ʐ	initial	i
+þ	ɕ	initial	i
+Ƨ	ʂ	initial	i
+Ʒ	Ø	initial	i
+1	⁵⁵	tone	t
+2	³⁵	tone	t
+3	²¹⁴	tone	t
+4	⁵¹	tone	t
