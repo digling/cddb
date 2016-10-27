@@ -21,6 +21,7 @@ def main():
     family = parse_dash('-f', str, argv, 'sinitic')
     values = parse_dash('-v', lambda x: x.split(','), argv, '')
     idf = parse_dash('--id', str, argv, None)
+    command = parse_dash('-c', str, argv, None)
 
     if 'show' in argv:
         pass
@@ -68,6 +69,9 @@ def main():
                     dset.wordlist.height, len(dset.wordlist)))
         if 'check' in argv:
             dset._run_command('check')
+
+        if command:
+            dset._run_command(command)
 
     if 'list' in argv:
         if 'sources' in argv:

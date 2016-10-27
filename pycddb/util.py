@@ -10,6 +10,8 @@ import geojson
 import json
 import lingpy as lp
 from lingpy.compare.partial import _get_slices
+from segments.tokenizer import Tokenizer
+import unicodedata
 
 # modify lingpy settings
 lp.settings.rcParams['morpheme_separator'] = '+'
@@ -28,7 +30,7 @@ def load_characters():
 
 def load_languages(delimiter='\t', return_type='dict'):
 
-    with UnicodeReader(cddb_path('varieties', 'languages.csv'), delimiter='\t') as reader:
+    with UnicodeReader(cddb_path('varieties', 'languages.tsv'), delimiter='\t') as reader:
         data = list(reader)
         
     if return_type == 'dict':
@@ -138,5 +140,13 @@ def get_inventories(wordlist, segments='tokens'):
             I += [(str(idx), t, s, v, len(occ), ' '.join(occ))]
     return I
 
-                    
+def transform(tokenizer, string, column):
+    
+    return unicodedata.normalize("NFC", tokenizer.transform(r''+string, column))
 
+def get_transformer(profile, exception=None, missing='?'):
+    
+    tokenizer = Tokenizer(cddb_path('profiles', profile))
+    exception = exception or {"#": "+", '???' : missing}
+    return lambda x, y: unicodedata.normalize('NFC', tokenizer.transform(r''+x,
+        y, exception=exception, missing="???"))

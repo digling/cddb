@@ -56,6 +56,7 @@ class Dataset(object):
         self.metadata = json2dict(self.get_path('metadata.json'))
         with with_sys_path(Path(cddb_path('datasets'))) as f:
             self.commands = import_module(name)
+
     
     def _run_command(self, name, *args, **kw):
         if not hasattr(self.commands, name):
@@ -63,20 +64,24 @@ class Dataset(object):
         else:
             getattr(self.commands, name)(self, *args, **kw)
 
+
     def prepare(self, **kw):
         self._run_command('prepare')
+
 
     @cached_property()
     def words(self):
         if os.path.exists(self.get_path('words.tsv')):
             return Wordlist(self.get_path('words.tsv'))
         return None
+
     
     @cached_property()
     def characters(self):
         if os.path.exists(self.get_path('characters.tsv')):
             return Wordlist(self.get_path('characters.tsv'), row='character')
         return None
+
 
     @cached_property()
     def structures(self):

@@ -5,16 +5,50 @@ from glob import glob
 import re
 from collections import defaultdict
 from pyconcepticon.api import Concepticon
+from pyclpa.base import get_clpa
+from pycddb.util import get_transformer
+
+def _prepare_inventories(dataset):
+    clpa = get_clpa()
+    files = glob(dataset.get_path('raw', 'inv-*.tsv'))
+    dialects = []
+
+    t = Tokenizer(dataset.get_path('raw', 'profile.prf'))
+    sounds = defaultdict(lambda : defaultdict(set))
+    transform = lambda x, y: unicodedata.normalize('NFC', t.transform(x, y))
+
+    for f in files:
+        data = csv2list(f)
+        number, dialect = re.findall('inv-([0-9]+)-([a-z_A-Z]+)', 
+                f)[0]
+        for i, line in enumerate(data):
+            print(dialect, number, i+1, ', '.join(line))
+            page, sound, value, *rest = line
+            if not rest: rest = ['']
+            cddb = transform(value, 'cddb').split(' ')
+            src = transform(value, 'source').split(' ')
+            if len(src) != len(cddb):
+                src = src + ['-', '-', '-']
+            struct = t.transform(value, 'structure')
+            for s1, s2, s3 in zip(cddb, struct, src):
+                sounds[s1][s2].add((dialect, s3, rest[0]))
+    table, idx = [('ID', 'SOUND', 'CLPA', 'POSITION', 'DOCULECT', 'SOUND_IN_SOURCE' )], 1
+    for k, v in sorted(sounds.items(), key=lambda x: str(x[1])):
+        c = clpa.segment2clpa(k)
+        for s in sorted(v):
+            for d, sr, r in sorted(v[s]):
+                table += [(str(idx), k, c, s, d, sr)]
+                idx += 1
+    with open(dataset.get_path('inventories.tsv'), 'w') as f:
+        for line in table:
+            f.write('\t'.join(line)+'\n')
 
 def _get_data(dataset):
-
-    files = sorted(glob(dataset.get_path('raw', 'chinese-*.tsv')))
-    tone_converter = dict(zip('012345-', '⁰¹²³⁴⁵¯'))
-    tone_converter['_'] = ''
-    converter = [
-            ('E', 'ɛ'),
-            ]
+    transform = get_transformer('Liu2007.prf')
+    files = sorted(glob(dataset.get_path('raw', 'chinese-master.tsv')))
     concepts = defaultdict(set)
+    tone_converter = dict(zip('012345-', '⁰¹²³⁴⁵⁻'))
+    #tone_converter['_'] = ''
     D = {}
     D[0] = ['doculect', 'concept', 'hanzi_in_source', 'ipa_in_source', 'page']
     blocks = []
@@ -41,25 +75,34 @@ def _get_data(dataset):
                 idx += 1
                 all_morphs = []
                 for sampa in sampas:
+                    #print(f.split('/')[-1], idx, concept, page, sampa)
                     if sampa.startswith('('):
-                        sampa = sampa[sampa.index(' '):]
-    
+                        sampa = sampa[sampa.index(' ')+1:]
+                    #try:
+                    #    _t = transform(sampa, 'cddb').replace(' ⁻ ', '⁻')
+                    #    print('\t', _t)
+                    #except KeyError:
+                    #    print(f.split('/')[-1], idx, concept, page, sampa)
+                    #    input()
+                    #all_morphs += [_t]
                     morphemes = sampa.split(' ')
                     mymorphs = []
                     for morpheme in morphemes:
                         #print(f, concept, page, char, sampa, line)
                         morph = re.sub(r'([012345\-_]+)$', r'<\1>',
                                 morpheme) 
-                        # get all tone combis
+                        #get all tone combis
                         tones = re.findall('<.*?>', morph)
                         for tone in tones:
                             newtone = ''.join([tone_converter.get(x, x) for x in tone])
                             morph = morph.replace(tone, newtone[1:-1])
-                        print(i, f.split('/')[-1], concept, page, sampas, morph)
-                        ipa = sampa2uni(morph)
-                        print('\t',morph, ipa)
+
+                        ipa = transform(r''+morph, 'cddb') 
+                        if '?' in ipa:
+                            print(f.split('/')[-1], page, morph, morpheme, ipa)
+                            input()
                         mymorphs += [ipa]
-                    all_morphs += ['+'.join(mymorphs)]
+                    all_morphs += [' + '.join(mymorphs)]
                 blocks[-1] += [[idx, concept, page, sampas,
                     char.split(','),all_morphs, f]]
                 if idx == 19:

@@ -1,20 +1,20 @@
-ID	SUBGROUP	CDDB	SOURCE
-1	Guanhua	Beijing	Liu2007
-2	Guanhua	Ha_erbin	Liu2007
-3	Guanhua	Jinan	Liu2007
-4	Guanhua	Rongcheng	Liu2007
-5	Jin	Taiyuan	Liu2007
-6	Guanhua	Xi_an	Liu2007
-7	Guanhua	Chengdu	Liu2007
-8	Guanhua	Nanjing	Liu2007
-9	Hui	Jixi	Liu2007
-10	Wu	Suzhou	Liu2007
-11	Wu	Wenzhou	Liu2007
-12	Xiang	Changsha	Liu2007
-13	Xiang	Loudi	Liu2007
-14	Gan	Nanchang	Liu2007
-15	Kejia	Meixian	Liu2007
-16	Pinghua	Guilin	Liu2007
-17	Yue	Guangzhou	Liu2007
-18	Min	Fuzhou	Liu2007
-19	Min	Xiamen	Liu2007
+ID	SUBGROUP	CDDB	SOURCE	INITIALS	FINALS	TONES
+1	Guanhua	Beijing	Liu2007	22	38	4
+2	Guanhua	Ha_erbin	Liu2007	22	38	4
+3	Guanhua	Jinan	Liu2007	25	38	4
+4	Guanhua	Rongcheng	Liu2007	24	42	4
+5	Jin	Taiyuan	Liu2007	23	36	5
+6	Guanhua	Xi_an	Liu2007	27	41	4
+7	Guanhua	Chengdu	Liu2007	21	36	4
+8	Guanhua	Nanjing	Liu2007	21	49	5
+9	Hui	Jixi	Liu2007	20	37	6
+10	Wu	Suzhou	Liu2007	27	49	7
+11	Wu	Wenzhou	Liu2007	29	34	8
+12	Xiang	Changsha	Liu2007	20	41	6
+13	Xiang	Loudi	Liu2007	24	38	5
+14	Gan	Nanchang	Liu2007	19	67	7
+15	Kejia	Meixian	Liu2007	17	73	6
+16	Pinghua	Guilin	Liu2007	18	32	6
+17	Yue	Guangzhou	Liu2007	16	94	9
+18	Min	Fuzhou	Liu2007	15	48	7
+19	Min	Xiamen	Liu2007	17	81	7
