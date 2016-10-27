@@ -2,16 +2,16 @@ squeeze	113	壓	iA`55
 squeeze	113	壓	ia44
 squeeze	113	壓	ia214
 squeeze	113	壓	ia214
-squeeze	113	壓,qi?	1. ia45, 2. tc\i53
+squeeze	113	壓,qi?	(1) ia45, (2) tc\i53
 squeeze	113	壓	n`iA21
-squeeze	113	榨,壓	1. tsa 213, 2. Na45
-squeeze	113	qi?,榨,壓	1. tc\i11, 2. tsA?5, 3. iA?5
+squeeze	113	榨,壓	(1) tsa 213, (2) Na45
+squeeze	113	qi?,榨,壓	(1) tc\i11, (2) tsA?5, (3) iA?5
 squeeze	113	榨	tso35
 squeeze	113	壓	A?4
 squeeze	113	壓	a41
 squeeze	113	壓	ia24
-squeeze	113	壓,囗得	1. ia13, 2. ts_he42 t70
-squeeze	113	壓,qi?	1. Nat5, 2. tc\i213
+squeeze	113	壓,囗得	(1) ia13, (2) ts_he42 t70
+squeeze	113	壓,qi?	(1) Nat5, (2) tc\i213
 squeeze	113	壓	ap1
 squeeze	113	壓	Na55
 squeeze	113	壓	Nat3
@@ -42,7 +42,7 @@ smoke	114	煙	i{~214
 smoke	114	煙	i6n52
 smoke	114	煙	ie21
 smoke	114	煙	i{~21
-smoke	114	煙煙兒,煙子	1. iEn45 i@r55, 2. iEn45 tsi_z53-21
+smoke	114	煙煙兒,煙子	(1) iEn45 i@r55, (2) iEn45 tsi_z53-21
 smoke	114	煙	ien31
 smoke	114	煙	ie~55
 smoke	114	煙	iI44
@@ -75,10 +75,10 @@ salt	114	盐	im21
 salt	114	盐	sieN53
 salt	114	盐	iam24
 eye	115	眼睛	iEn213-21 tc\iN55
-eye	115	眼睛,眼	1. ian213-21 tc\iN0, 2. ian213
+eye	115	眼睛,眼	(1) ian213-21 tc\iN0, (2) ian213
 eye	115	眼睛	i{~45-212 tc\iN0
 eye	115	眼睛	i6n214 tsiN52
-eye	115	眼,眼睛	1. ie53, 2. ie53 tc\iN0
+eye	115	眼,眼睛	(1) ie53, (2) ie53 tc\iN0
 eye	115	眼窝	ni{~53 uo0
 eye	115	眼睛	iEn53-55 tc\in55
 eye	115	眼睛	ien11-22 tc\in0
@@ -116,10 +116,10 @@ leaf	116	叶	iE51
 leaf	116	叶子	iE53 tsi_z0
 leaf	116	叶子	i@31-44 tsi_z0
 leaf	116	叶儿	i@r214
-leaf	116	叶,叶子	1. ie45, 2. ie45 ts@?0
+leaf	116	叶,叶子	(1) ie45, (2) ie45 ts@?0
 leaf	116	叶	iE21
 leaf	116	树子叶叶	su213 tsi_z53 ie21 ie21
-leaf	116	叶子	i2?5 tsi_z0
+leaf	116	叶子	ie?5 tsi_z0
 leaf	116	叶	ia?32_
 leaf	116	叶子	h\i@?23_ tsi_z52-31
 leaf	116	叶	ji21
@@ -129,7 +129,7 @@ leaf	116	叶子	iEt5 tsi_z0
 leaf	116	叶儿	iap5 pe0
 leaf	116	叶子	lie55 te23-33
 leaf	116	叶	ip2
-leaf	116	竹-若,竹-若竹-若	1. lo?5, 2. lo?5-33 lo?5
+leaf	116	竹-若,竹-若竹-若	(1) lo?5, (2) lo?5-33 lo?5
 leaf	116	竹-若	hio?5
 one	116	一	i55
 one	116	一	i44
@@ -139,7 +139,7 @@ one	116	一	i@?2
 one	116	一	i21
 one	116	一	i21
 one	116	一	i?5
-one	116	一	i2?32_
+one	116	一	ie?32_
 one	116	一	i@?4
 one	116	一	iai41
 one	116	一	i24
@@ -148,10 +148,10 @@ one	116	一	it5
 one	116	一	it1
 one	116	一	i55
 one	116	一	i6t5
-one	116	?,一	1. so?5, 2. Ei?24_
+one	116	?,一	(1) so?5, (2) Ei?24_
 one	116	一	tsit5
 because	117	因为	in55 uei0
-because	117	因为,?乎	1. in44 v\ei0, 2. yN44 xu0
+because	117	因为,?乎	(1) in44 v\ei0, (2) yN44 xu0
 because	117	因为	ie~213-24 vei31
 because	117	因为	in52 uei35
 because	117	因为	iN21 vei45
@@ -174,15 +174,15 @@ swim	117	游泳	iou24 yN213
 swim	117	游泳	iou53 yN45
 swim	117	洗澡	si214-35 tsau214
 swim	117	游泳	i@u21 yN53
-swim	117	游水,浮水,游	1. iou24 fei53, 2. fu24 fei53, iou24
-swim	117	游泳,洗澡	1. i@u21-55 yn213, 2. c\i53-55 tsau53
+swim	117	游水,浮水,游	(1) iou24 fei53, (2) fu24 fei53, iou24
+swim	117	游泳,洗澡	(1) i@u21-55 yn213, (2) c\i53-55 tsau53
 swim	117	游泳	i@M13 ioN11
 swim	117	囗水	vo55-45 c\y213
 swim	117	???	ho?4 la~23-22 h\io?23_-4
 swim	117	泅河儿	jieu341-24 vu341-42 N=0
-swim	117	游水,玩水	1. i@u13 c\yei41, 2. uan13 c\yei41
-swim	117	游水,游泳	1. io13-33 c\y42, 2. io13-33 un11
-swim	117	游水,游泳	1. iu45 sui213, 2. iu45 iuN213
+swim	117	游水,玩水	(1) i@u13 c\yei41, (2) uan13 c\yei41
+swim	117	游水,游泳	(1) io13-33 c\y42, (2) io13-33 un11
+swim	117	游水,游泳	(1) iu45 sui213, (2) iu45 iuN213
 swim	117	洗身儿	se31 s@n33-35 ne0
 swim	117	游水	iou22 suei23
 swim	117	游水	i6u21 s2y35

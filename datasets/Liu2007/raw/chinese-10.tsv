@@ -13,7 +13,7 @@ white	32	白	p@24
 white	32	白	p_hO35
 white	32	白	p_ha?5
 white	32	白	p_hak5
-white	32	白	piAA22
+white	32	白	piA`22
 white	32	白	pak2
 white	32	白	pa?5
 white	32	白	pe?5
@@ -54,7 +54,7 @@ nose	33	鼻公	p_hi53 kuN33
 nose	33	鼻孔	pi22 k_h7N23-33
 nose	33	鼻歌	pei22 kO55
 nose	33	鼻	p_hEi212
-nose	33	鼻仔,鼻子	(1) p_hi!22-21 ia~53, (2) p_hi~22
+nose	33	鼻仔,鼻子	(1) p_hi~22-21 ia~53, (2) p_hi~22
 ice	33	冰 	piN55
 ice	33	冰	piN44
 ice	33	冰	piN214
@@ -76,12 +76,12 @@ ice	33	冰	piN55
 ice	33	冰,霜	(1) piN55, (2) sN=55
 neck	34	脖子	po35 tsi_z0
 neck	34	脖子	p724 tsi_z0
-neck	34	脖子	p753-45 tsi_0
+neck	34	脖子	p753-45 tsi_z0
 neck	34	脖子	pO35-3 k@N214 tsi_z0
 neck	34	脖子	pa?54_ ts@?0
 neck	34	脖子	po24 tsi_z0
 neck	34	頸項,頸子	(1) tc\in53-55 xaN53, (2) tc\in 53-45 tsi_z53
-neck	34	脖子	po?5 tsi_z
+neck	34	脖子	po?5 tsi_z0
 neck	34	扣頸	k_hi35-53 tc\iA~213
 neck	34	頭頸	d713-22 tc\in52-31
 neck	34	頭頸	d7u341-42 tc\iaN242-23
@@ -173,7 +173,7 @@ long	36	長 	ts`_hAN35
 long	36	長	ts`_haN24
 long	36	長	ts_hAN53
 long	36	長	ts`_haN35
-long	36	長	ts_h6~21
+long	36	長	ts_hQ~21
 long	36	長	ts`_hAN24
 long	36	長	ts_haN21
 long	36	長	ts_hA~13
@@ -183,7 +183,7 @@ long	36	長	dz\i341
 long	36	長	tsan13
 long	36	長	dz\ON13
 long	36	長	ts_hON24
-long	36	長	ts_oN11
+long	36	長	ts_hoN11
 long	36	長	tsAN22
 long	36	長	ts_h9N21
 long	36	長	tuoN53

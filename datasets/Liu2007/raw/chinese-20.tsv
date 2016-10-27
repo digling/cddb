@@ -2,7 +2,7 @@ guts	37	腸子	ts`_hAN35 tsi_z0
 guts	37	腸子	ts`_haN24 tsi_z0
 guts	37	腸子	ts`_hAN53-45 tsi_z0
 guts	37	腸子	ts`aN35 tsi_z0
-guts	37	腸子	ts_h6~21 ts@?0
+guts	37	腸子	ts_hQ~21 ts@?0
 guts	37	腸,腸子	(1) ts`_hAN24, (2) ts`_hAN24 tsi_z0
 guts	37	腸子	ts_haN21-55 tsi_z53
 guts	37	腸子	ts_hA~13-11 tsi_z0
@@ -21,7 +21,7 @@ sing	37	唱	ts`_hAN51
 sing	37	唱	ts`_haN53
 sing	37	唱	ts`_hAN31
 sing	37	唱	ts`_haN334
-sing	37	唱	ts_h6~45
+sing	37	唱	ts_hQ~45
 sing	37	唱	ts`_hAN44
 sing	37	唱	ts_haN213
 sing	37	唱	ts_hA~44
@@ -74,11 +74,11 @@ eat	38	吃	tc\_hi55
 eat	38	食	sek2
 eat	38	食	sie?5
 eat	38	食	tsia?5
-wing	39	翅膀兒	ts`_hi`51-53 pA~r 214
+wing	39	翅膀兒	ts`_hi`51-53 pA~r214
 wing	39	翅膀	si_z53 paN213
 wing	39	翅子	ts`_hi`21-44 tsi_z0
 wing	39	翅膀	ts`_hi_z334 p@0
-wing	39	翅膀	ts_hi_z45 p6~53
+wing	39	翅膀	ts_hi_z45 pQ~53
 wing	39	翅,翅膀	(1) t_hi_z44, (2) ts_hi_z44 pAN0
 wing	39	翅膀	tsi_z213 paN53
 wing	39	翅膀	ts`_hi`44 pA0
@@ -100,7 +100,7 @@ worm	39	蟲	ts`oN35
 worm	39	蟲	ts_huN21
 worm	39	蟲	pf_h@N24
 worm	39	蟲	ts_hoN21
-worm	39	蟲	ts_oN13
+worm	39	蟲	ts_hoN13
 worm	39	蟲	ts_hA~44
 worm	39	蟲	zoN13
 worm	39	蟲	dz\yoN341
@@ -138,7 +138,7 @@ stab	40	楠	n6n214
 stab	40	刺	ts_hi_z45
 stab	40	刺	ts_hi_z44
 stab	40	居～	tc\y45
-stab	40	戳	ts_o?5
+stab	40	戳	ts_ho?5
 stab	40	戳	ts_ho?32_
 stab	40	刺,戳	(1) ts_hi_z412, (2) ts_ho?4
 stab	40	頓	taN51
