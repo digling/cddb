@@ -1,0 +1,1429 @@
+10	Suzhou	14f	tone	44	yinping
+10	Suzhou	14f	tone	13	yangping
+10	Suzhou	14f	tone	53	shang
+10	Suzhou	14f	tone	412	yinqu	511
+10	Suzhou	14f	tone	231	yangqu	31
+10	Suzhou	14f	tone	4	yinru
+10	Suzhou	14f	tone	23_	yangru
+10	Suzhou	14f	final	i_z
+10	Suzhou	14f	final	i
+10	Suzhou	14f	final	u
+10	Suzhou	14f	final	y
+10	Suzhou	14f	final	H`
+10	Suzhou	14f	final	A
+10	Suzhou	14f	final	iA
+10	Suzhou	14f	final	uA
+10	Suzhou	14f	final	{
+10	Suzhou	14f	final	i{
+10	Suzhou	14f	final	E`
+10	Suzhou	14f	final	uE`
+10	Suzhou	14f	final	o
+10	Suzhou	14f	final	io
+10	Suzhou	14f	final	2
+10	Suzhou	14f	final	i2
+10	Suzhou	14f	final	u2
+10	Suzhou	14f	final	iI
+10	Suzhou	14f	final	Y
+10	Suzhou	14f	final	iY
+10	Suzhou	14f	final	@u
+10	Suzhou	14f	final	@l
+10	Suzhou	14f	final	a~
+10	Suzhou	14f	final	ia~
+10	Suzhou	14f	final	ua~
+10	Suzhou	14f	final	A~
+10	Suzhou	14f	final	iA~
+10	Suzhou	14f	final	ua~
+10	Suzhou	14f	final	En
+10	Suzhou	14f	final	in
+10	Suzhou	14f	final	u@n
+10	Suzhou	14f	final	y@n
+10	Suzhou	14f	final	ON
+10	Suzhou	14f	final	ioN
+10	Suzhou	14f	final	a?
+10	Suzhou	14f	final	ia?
+10	Suzhou	14f	final	ua?
+10	Suzhou	14f	final	ya?
+10	Suzhou	14f	final	A?
+10	Suzhou	14f	final	iA?
+10	Suzhou	14f	final	@?
+10	Suzhou	14f	final	i@?
+10	Suzhou	14f	final	u@?
+10	Suzhou	14f	final	y@?
+10	Suzhou	14f	final	o?
+10	Suzhou	14f	final	io?
+10	Suzhou	14f	final	m=
+10	Suzhou	14f	final	n=
+10	Suzhou	14f	final	N=
+10	Suzhou	14f	initial	p
+10	Suzhou	14f	initial	p_h
+10	Suzhou	14f	initial	b
+10	Suzhou	14f	initial	m
+10	Suzhou	14f	initial	f
+10	Suzhou	14f	initial	v
+10	Suzhou	14f	initial	t
+10	Suzhou	14f	initial	t_h
+10	Suzhou	14f	initial	d
+10	Suzhou	14f	initial	n
+10	Suzhou	14f	initial	l
+10	Suzhou	14f	initial	ts
+10	Suzhou	14f	initial	ts_h
+10	Suzhou	14f	initial	s
+10	Suzhou	14f	initial	z
+10	Suzhou	14f	initial	tc\
+10	Suzhou	14f	initial	tc\_h
+10	Suzhou	14f	initial	dz\
+10	Suzhou	14f	initial	n\
+10	Suzhou	14f	initial	c\
+10	Suzhou	14f	initial	k
+10	Suzhou	14f	initial	k_h
+10	Suzhou	14f	initial	g
+10	Suzhou	14f	initial	N
+10	Suzhou	14f	initial	h
+10	Suzhou	14f	initial	h\
+10	Suzhou	14f	initial	Ø
+11	Wenzhou	15-17	tone	44	yinping	33
+11	Wenzhou	15-17	tone	341	yangping	31
+11	Wenzhou	15-17	tone	242	yinshang	35
+11	Wenzhou	15-17	tone	24	yangshang	24
+11	Wenzhou	15-17	tone	51	yinqu	42
+11	Wenzhou	15-17	tone	22	yangqu	11
+11	Wenzhou	15-17	tone	41	yinru	313
+11	Wenzhou	15-17	tone	21	yangru	212
+11	Wenzhou	15-17	final	i_z
+11	Wenzhou	15-17	final	i
+11	Wenzhou	15-17	final	u
+11	Wenzhou	15-17	final	y
+11	Wenzhou	15-17	final	a
+11	Wenzhou	15-17	final	ia
+11	Wenzhou	15-17	final	ua
+11	Wenzhou	15-17	final	E
+11	Wenzhou	15-17	final	iE
+11	Wenzhou	15-17	final	e
+11	Wenzhou	15-17	final	@
+11	Wenzhou	15-17	final	2
+11	Wenzhou	15-17	final	uO
+11	Wenzhou	15-17	final	yO
+11	Wenzhou	15-17	final	o
+11	Wenzhou	15-17	final	yo
+11	Wenzhou	15-17	final	ai
+11	Wenzhou	15-17	final	iai
+11	Wenzhou	15-17	final	uai
+11	Wenzhou	15-17	final	ei
+11	Wenzhou	15-17	final	au
+11	Wenzhou	15-17	final	iau
+11	Wenzhou	15-17	final	7u
+11	Wenzhou	15-17	final	ieu
+11	Wenzhou	15-17	final	2y
+11	Wenzhou	15-17	final	aN
+11	Wenzhou	15-17	final	iaN
+11	Wenzhou	15-17	final	uaN
+11	Wenzhou	15-17	final	eN
+11	Wenzhou	15-17	final	oN
+11	Wenzhou	15-17	final	yoN
+11	Wenzhou	15-17	final	m=
+11	Wenzhou	15-17	final	n=
+11	Wenzhou	15-17	final	N=
+11	Wenzhou	15-17	initial	p
+11	Wenzhou	15-17	initial	p_h
+11	Wenzhou	15-17	initial	b
+11	Wenzhou	15-17	initial	m
+11	Wenzhou	15-17	initial	f
+11	Wenzhou	15-17	initial	v
+11	Wenzhou	15-17	initial	t
+11	Wenzhou	15-17	initial	t_h
+11	Wenzhou	15-17	initial	d
+11	Wenzhou	15-17	initial	n
+11	Wenzhou	15-17	initial	l
+11	Wenzhou	15-17	initial	ts
+11	Wenzhou	15-17	initial	ts_h
+11	Wenzhou	15-17	initial	dz
+11	Wenzhou	15-17	initial	s
+11	Wenzhou	15-17	initial	z
+11	Wenzhou	15-17	initial	tc\
+11	Wenzhou	15-17	initial	tc\_h
+11	Wenzhou	15-17	initial	dz\
+11	Wenzhou	15-17	initial	n\
+11	Wenzhou	15-17	initial	c\
+11	Wenzhou	15-17	initial	j
+11	Wenzhou	15-17	initial	k
+11	Wenzhou	15-17	initial	k_h
+11	Wenzhou	15-17	initial	g
+11	Wenzhou	15-17	initial	N
+11	Wenzhou	15-17	initial	h
+11	Wenzhou	15-17	initial	h\
+11	Wenzhou	15-17	initial	Ø
+12	Changsha	17f	tone	33	yinping
+12	Changsha	17f	tone	13	yangping
+12	Changsha	17f	tone	41	shang
+12	Changsha	17f	tone	55	yinqu
+12	Changsha	17f	tone	11	yangqu
+12	Changsha	17f	tone	24	ru
+12	Changsha	17f	final	i_z
+12	Changsha	17f	final	i
+12	Changsha	17f	final	u
+12	Changsha	17f	final	y
+12	Changsha	17f	final	i`
+12	Changsha	17f	final	a
+12	Changsha	17f	final	ia
+12	Changsha	17f	final	ua
+12	Changsha	17f	final	ya
+12	Changsha	17f	final	o
+12	Changsha	17f	final	io
+12	Changsha	17f	final	@
+12	Changsha	17f	final	ie
+12	Changsha	17f	final	u@
+12	Changsha	17f	final	ye
+12	Changsha	17f	final	ai
+12	Changsha	17f	final	uai
+12	Changsha	17f	final	yai
+12	Changsha	17f	final	ei
+12	Changsha	17f	final	uei
+12	Changsha	17f	final	yei
+12	Changsha	17f	final	au
+12	Changsha	17f	final	iau
+12	Changsha	17f	final	@u
+12	Changsha	17f	final	i@u
+12	Changsha	17f	final	@n
+12	Changsha	17f	final	in
+12	Changsha	17f	final	u@n
+12	Changsha	17f	final	yn
+12	Changsha	17f	final	an
+12	Changsha	17f	final	ian
+12	Changsha	17f	final	uan
+12	Changsha	17f	final	yan
+12	Changsha	17f	final	oN	@n
+12	Changsha	17f	final	ioN	in
+12	Changsha	17f	final	o~
+12	Changsha	17f	final	@~
+12	Changsha	17f	final	ie~
+12	Changsha	17f	final	ye~
+12	Changsha	17f	final	m=
+12	Changsha	17f	final	n=
+12	Changsha	17f	initial	p
+12	Changsha	17f	initial	p_h
+12	Changsha	17f	initial	m
+12	Changsha	17f	initial	f
+12	Changsha	17f	initial	t
+12	Changsha	17f	initial	t_h
+12	Changsha	17f	initial	l
+12	Changsha	17f	initial	ts	ts`
+12	Changsha	17f	initial	ts_h	ts`_h
+12	Changsha	17f	initial	s	s`
+12	Changsha	17f	initial	z`
+12	Changsha	17f	initial	tc\
+12	Changsha	17f	initial	tc\_h
+12	Changsha	17f	initial	n\
+12	Changsha	17f	initial	c\
+12	Changsha	17f	initial	k
+12	Changsha	17f	initial	k_h
+12	Changsha	17f	initial	N
+12	Changsha	17f	initial	x
+12	Changsha	17f	initial	Ø
+13	Loudi	18f	tone	44	yinping
+13	Loudi	18f	tone	13	yangping
+13	Loudi	18f	tone	42	shang
+13	Loudi	18f	tone	35	yinqu
+13	Loudi	18f	tone	11	yangqu
+13	Loudi	18f	final	i_z
+13	Loudi	18f	final	u
+13	Loudi	18f	final	u
+13	Loudi	18f	final	y
+13	Loudi	18f	final	a
+13	Loudi	18f	final	ia
+13	Loudi	18f	final	ua
+13	Loudi	18f	final	e
+13	Loudi	18f	final	ie
+13	Loudi	18f	final	ue
+13	Loudi	18f	final	o
+13	Loudi	18f	final	io
+13	Loudi	18f	final	O
+13	Loudi	18f	final	iO
+13	Loudi	18f	final	7
+13	Loudi	18f	final	i7
+13	Loudi	18f	final	7u
+13	Loudi	18f	final	ui
+13	Loudi	18f	final	a~
+13	Loudi	18f	final	ua~
+13	Loudi	18f	final	e~
+13	Loudi	18f	final	ue~
+13	Loudi	18f	final	i~
+13	Loudi	18f	final	ui~
+13	Loudi	18f	final	yi~
+13	Loudi	18f	final	in
+13	Loudi	18f	final	un
+13	Loudi	18f	final	yn
+13	Loudi	18f	final	ON
+13	Loudi	18f	final	iON
+13	Loudi	18f	final	uON
+13	Loudi	18f	final	7N
+13	Loudi	18f	final	i7N
+13	Loudi	18f	final	O~
+13	Loudi	18f	final	iO~
+13	Loudi	18f	final	m=
+13	Loudi	18f	final	n=
+13	Loudi	18f	final	N=
+13	Loudi	18f	initial	p
+13	Loudi	18f	initial	p_h
+13	Loudi	18f	initial	b
+13	Loudi	18f	initial	m
+13	Loudi	18f	initial	t
+13	Loudi	18f	initial	t_h
+13	Loudi	18f	initial	d
+13	Loudi	18f	initial	n
+13	Loudi	18f	initial	l
+13	Loudi	18f	initial	ts
+13	Loudi	18f	initial	ts_h
+13	Loudi	18f	initial	dz
+13	Loudi	18f	initial	s
+13	Loudi	18f	initial	tc\
+13	Loudi	18f	initial	tc\_h
+13	Loudi	18f	initial	dz\
+13	Loudi	18f	initial	c\
+13	Loudi	18f	initial	z\
+13	Loudi	18f	initial	k
+13	Loudi	18f	initial	k_h
+13	Loudi	18f	initial	N
+13	Loudi	18f	initial	x
+13	Loudi	18f	initial	7	[sic! G]
+13	Loudi	18f	initial	Ø
+14	Nanchang	21f	tone	42	yinping	445
+14	Nanchang	21f	tone	24	yangping
+14	Nanchang	21f	tone	213	shang
+14	Nanchang	21f	tone	45	yangqu
+14	Nanchang	21f	tone	21	yinqu
+14	Nanchang	21f	tone	5	yinru
+14	Nanchang	21f	tone	21_	yangru
+14	Nanchang	21f	final	i_z
+14	Nanchang	21f	final	i
+14	Nanchang	21f	final	u
+14	Nanchang	21f	final	y
+14	Nanchang	21f	final	8
+14	Nanchang	21f	final	a
+14	Nanchang	21f	final	ia
+14	Nanchang	21f	final	ua
+14	Nanchang	21f	final	o
+14	Nanchang	21f	final	uo
+14	Nanchang	21f	final	e
+14	Nanchang	21f	final	ie
+14	Nanchang	21f	final	ue	ø
+14	Nanchang	21f	final	ye
+14	Nanchang	21f	final	ai
+14	Nanchang	21f	final	uai
+14	Nanchang	21f	final	oi	ø
+14	Nanchang	21f	final	ei
+14	Nanchang	21f	final	1i
+14	Nanchang	21f	final	ui
+14	Nanchang	21f	final	au
+14	Nanchang	21f	final	iEu
+14	Nanchang	21f	final	Eu
+14	Nanchang	21f	final	1u
+14	Nanchang	21f	final	iu
+14	Nanchang	21f	final	an
+14	Nanchang	21f	final	uan
+14	Nanchang	21f	final	on
+14	Nanchang	21f	final	uon
+14	Nanchang	21f	final	yon
+14	Nanchang	21f	final	En
+14	Nanchang	21f	final	iEn
+14	Nanchang	21f	final	1n
+14	Nanchang	21f	final	in
+14	Nanchang	21f	final	uon
+14	Nanchang	21f	final	yn
+14	Nanchang	21f	final	aN
+14	Nanchang	21f	final	iaN
+14	Nanchang	21f	final	uaN
+14	Nanchang	21f	final	ON
+14	Nanchang	21f	final	iON
+14	Nanchang	21f	final	uON
+14	Nanchang	21f	final	iuN
+14	Nanchang	21f	final	uN
+14	Nanchang	21f	final	at
+14	Nanchang	21f	final	uat
+14	Nanchang	21f	final	ot
+14	Nanchang	21f	final	uot
+14	Nanchang	21f	final	yot	yet
+14	Nanchang	21f	final	Et
+14	Nanchang	21f	final	iEt
+14	Nanchang	21f	final	uEt
+14	Nanchang	21f	final	1t
+14	Nanchang	21f	final	it
+14	Nanchang	21f	final	ut
+14	Nanchang	21f	final	yt
+14	Nanchang	21f	final	a?
+14	Nanchang	21f	final	ia?
+14	Nanchang	21f	final	ua?	Ø
+14	Nanchang	21f	final	O?
+14	Nanchang	21f	final	iO?	Ø
+14	Nanchang	21f	final	uo?
+14	Nanchang	21f	final	u?
+14	Nanchang	21f	final	iu?
+14	Nanchang	21f	final	m=	Ø
+14	Nanchang	21f	final	n=
+14	Nanchang	21f	final	N=
+14	Nanchang	21f	initial	p
+14	Nanchang	21f	initial	p_h
+14	Nanchang	21f	initial	m
+14	Nanchang	21f	initial	f
+14	Nanchang	21f	initial	t
+14	Nanchang	21f	initial	t_h
+14	Nanchang	21f	initial	l
+14	Nanchang	21f	initial	ts
+14	Nanchang	21f	initial	ts_h
+14	Nanchang	21f	initial	s
+14	Nanchang	21f	initial	tc\
+14	Nanchang	21f	initial	tc\_h
+14	Nanchang	21f	initial	n\
+14	Nanchang	21f	initial	c\
+14	Nanchang	21f	initial	k
+14	Nanchang	21f	initial	k_h
+14	Nanchang	21f	initial	N
+14	Nanchang	21f	initial	h
+14	Nanchang	21f	initial	Ø
+15	Meixian	23f	tone	33	yinping
+15	Meixian	23f	tone	11	yangping
+15	Meixian	23f	tone	31	shang
+15	Meixian	23f	tone	53	qu
+15	Meixian	23f	tone	1	yinru
+15	Meixian	23f	tone	5	yangru
+15	Meixian	23f	final	i_z
+15	Meixian	23f	final	i
+15	Meixian	23f	final	u
+15	Meixian	23f	final	a
+15	Meixian	23f	final	ia
+15	Meixian	23f	final	ua
+15	Meixian	23f	final	e
+15	Meixian	23f	final	ie
+15	Meixian	23f	final	o
+15	Meixian	23f	final	io
+15	Meixian	23f	final	uo
+15	Meixian	23f	final	ai
+15	Meixian	23f	final	iai
+15	Meixian	23f	final	uai
+15	Meixian	23f	final	oi
+15	Meixian	23f	final	iui
+15	Meixian	23f	final	ui
+15	Meixian	23f	final	au
+15	Meixian	23f	final	iau
+15	Meixian	23f	final	eu
+15	Meixian	23f	final	iu
+15	Meixian	23f	final	@m
+15	Meixian	23f	final	im
+15	Meixian	23f	final	am
+15	Meixian	23f	final	iam
+15	Meixian	23f	final	em
+15	Meixian	23f	final	@n
+15	Meixian	23f	final	in
+15	Meixian	23f	final	an
+15	Meixian	23f	final	ian
+15	Meixian	23f	final	uan
+15	Meixian	23f	final	en
+15	Meixian	23f	final	ien
+15	Meixian	23f	final	uen
+15	Meixian	23f	final	on
+15	Meixian	23f	final	ion
+15	Meixian	23f	final	uon	uOn
+15	Meixian	23f	final	iun
+15	Meixian	23f	final	un
+15	Meixian	23f	final	aN
+15	Meixian	23f	final	iaN
+15	Meixian	23f	final	uaN
+15	Meixian	23f	final	oN	ON
+15	Meixian	23f	final	ioN	iON
+15	Meixian	23f	final	uoN	uON
+15	Meixian	23f	final	iuN
+15	Meixian	23f	final	uN
+15	Meixian	23f	final	@p
+15	Meixian	23f	final	ip
+15	Meixian	23f	final	ap
+15	Meixian	23f	final	iap
+15	Meixian	23f	final	ep
+15	Meixian	23f	final	@t
+15	Meixian	23f	final	it
+15	Meixian	23f	final	at
+15	Meixian	23f	final	iat
+15	Meixian	23f	final	uat
+15	Meixian	23f	final	et
+15	Meixian	23f	final	iet
+15	Meixian	23f	final	uet
+15	Meixian	23f	final	ot	Ot
+15	Meixian	23f	final	iut
+15	Meixian	23f	final	ut
+15	Meixian	23f	final	ak
+15	Meixian	23f	final	iak
+15	Meixian	23f	final	uak
+15	Meixian	23f	final	ok	Ok
+15	Meixian	23f	final	iok	iOk
+15	Meixian	23f	final	uok	uOk
+15	Meixian	23f	final	iuk
+15	Meixian	23f	final	uk
+15	Meixian	23f	final	m=
+15	Meixian	23f	final	n=
+15	Meixian	23f	initial	p
+15	Meixian	23f	initial	p_h
+15	Meixian	23f	initial	m
+15	Meixian	23f	initial	f
+15	Meixian	23f	initial	v	v\
+15	Meixian	23f	initial	t
+15	Meixian	23f	initial	t_h
+15	Meixian	23f	initial	n
+15	Meixian	23f	initial	l
+15	Meixian	23f	initial	ts	tc\/_i
+15	Meixian	23f	initial	ts_h	tc\_h/_i
+15	Meixian	23f	initial	s	c\/_i
+15	Meixian	23f	initial	k	c
+15	Meixian	23f	initial	k_h	c_h
+15	Meixian	23f	initial	N	J
+15	Meixian	23f	initial	h	C
+15	Meixian	23f	initial	Ø
+16	Guilin	24f	tone	42	yinping
+16	Guilin	24f	tone	22	yangping
+16	Guilin	24f	tone	23	shang
+16	Guilin	24f	tone	25	yinqu
+16	Guilin	24f	tone	21	yangqu
+16	Guilin	24f	tone	55	yinru
+16	Guilin	24f	final	i_z
+16	Guilin	24f	final	i
+16	Guilin	24f	final	u
+16	Guilin	24f	final	y
+16	Guilin	24f	final	A`
+16	Guilin	24f	final	iA`
+16	Guilin	24f	final	uA`
+16	Guilin	24f	final	e
+16	Guilin	24f	final	ie
+16	Guilin	24f	final	ye
+16	Guilin	24f	final	7
+16	Guilin	24f	final	uo
+16	Guilin	24f	final	ai
+16	Guilin	24f	final	uai
+16	Guilin	24f	final	ou
+16	Guilin	24f	final	iou
+16	Guilin	24f	final	ei
+16	Guilin	24f	final	uei
+16	Guilin	24f	final	Au
+16	Guilin	24f	final	iAu
+16	Guilin	24f	final	a~
+16	Guilin	24f	final	ia~	iE~
+16	Guilin	24f	final	ua~
+16	Guilin	24f	final	ya~	yE~
+16	Guilin	24f	final	7N
+16	Guilin	24f	final	iN
+16	Guilin	24f	final	u7N
+16	Guilin	24f	final	yN
+16	Guilin	24f	final	AN
+16	Guilin	24f	final	iAN
+16	Guilin	24f	final	uAN
+16	Guilin	24f	final	N=
+16	Guilin	24f	initial	p
+16	Guilin	24f	initial	p_h
+16	Guilin	24f	initial	m
+16	Guilin	24f	initial	f
+16	Guilin	24f	initial	t
+16	Guilin	24f	initial	t_h
+16	Guilin	24f	initial	l	n
+16	Guilin	24f	initial	ts
+16	Guilin	24f	initial	ts_h
+16	Guilin	24f	initial	s
+16	Guilin	24f	initial	tc\
+16	Guilin	24f	initial	tc\_h
+16	Guilin	24f	initial	c\
+16	Guilin	24f	initial	k
+16	Guilin	24f	initial	k_h
+16	Guilin	24f	initial	N
+16	Guilin	24f	initial	x
+16	Guilin	24f	initial	Ø
+17	Guangzhou	25-27	tone	53	yinping	55
+17	Guangzhou	25-27	tone	21	yangping
+17	Guangzhou	25-27	tone	35	yinshang
+17	Guangzhou	25-27	tone	23	yangshang
+17	Guangzhou	25-27	tone	33	yinqu
+17	Guangzhou	25-27	tone	22	yangqu
+17	Guangzhou	25-27	tone	5	shangyinru
+17	Guangzhou	25-27	tone	3	xiayinru
+17	Guangzhou	25-27	tone	2	yangru
+17	Guangzhou	25-27	final	i
+17	Guangzhou	25-27	final	u
+17	Guangzhou	25-27	final	y
+17	Guangzhou	25-27	final	a
+17	Guangzhou	25-27	final	ia	Ø
+17	Guangzhou	25-27	final	ua
+17	Guangzhou	25-27	final	E
+17	Guangzhou	25-27	final	iE
+17	Guangzhou	25-27	final	uE	Ø
+17	Guangzhou	25-27	final	9
+17	Guangzhou	25-27	final	O
+17	Guangzhou	25-27	final	uO
+17	Guangzhou	25-27	final	ai
+17	Guangzhou	25-27	final	iai	Ø
+17	Guangzhou	25-27	final	uai
+17	Guangzhou	25-27	final	Oi
+17	Guangzhou	25-27	final	6i
+17	Guangzhou	25-27	final	i6i
+17	Guangzhou	25-27	final	u6i
+17	Guangzhou	25-27	final	ei
+17	Guangzhou	25-27	final	ui
+17	Guangzhou	25-27	final	au
+17	Guangzhou	25-27	final	iau	Ø
+17	Guangzhou	25-27	final	6u
+17	Guangzhou	25-27	final	i6u
+17	Guangzhou	25-27	final	ou
+17	Guangzhou	25-27	final	iu
+17	Guangzhou	25-27	final	2y
+17	Guangzhou	25-27	final	i2y
+17	Guangzhou	25-27	final	am
+17	Guangzhou	25-27	final	iam	Ø
+17	Guangzhou	25-27	final	6m
+17	Guangzhou	25-27	final	i6m
+17	Guangzhou	25-27	final	im
+17	Guangzhou	25-27	final	an
+17	Guangzhou	25-27	final	uan
+17	Guangzhou	25-27	final	6n
+17	Guangzhou	25-27	final	i6n
+17	Guangzhou	25-27	final	u6n
+17	Guangzhou	25-27	final	2n
+17	Guangzhou	25-27	final	i2n
+17	Guangzhou	25-27	final	On
+17	Guangzhou	25-27	final	in
+17	Guangzhou	25-27	final	un
+17	Guangzhou	25-27	final	yn
+17	Guangzhou	25-27	final	an
+17	Guangzhou	25-27	final	iaN	Ø
+17	Guangzhou	25-27	final	uaN
+17	Guangzhou	25-27	final	6N
+17	Guangzhou	25-27	final	u6N	Ø
+17	Guangzhou	25-27	final	EN
+17	Guangzhou	25-27	final	iEN
+17	Guangzhou	25-27	final	eN
+17	Guangzhou	25-27	final	ieN
+17	Guangzhou	25-27	final	ueN
+17	Guangzhou	25-27	final	9N
+17	Guangzhou	25-27	final	i9N
+17	Guangzhou	25-27	final	ON
+17	Guangzhou	25-27	final	uON
+17	Guangzhou	25-27	final	oN
+17	Guangzhou	25-27	final	ioN
+17	Guangzhou	25-27	final	ap
+17	Guangzhou	25-27	final	iap	Ø
+17	Guangzhou	25-27	final	6p
+17	Guangzhou	25-27	final	iap
+17	Guangzhou	25-27	final	ip
+17	Guangzhou	25-27	final	at
+17	Guangzhou	25-27	final	uat
+17	Guangzhou	25-27	final	6t
+17	Guangzhou	25-27	final	i6t
+17	Guangzhou	25-27	final	u6t
+17	Guangzhou	25-27	final	2t
+17	Guangzhou	25-27	final	i2t	Ø
+17	Guangzhou	25-27	final	Ot
+17	Guangzhou	25-27	final	it
+17	Guangzhou	25-27	final	ut
+17	Guangzhou	25-27	final	yt
+17	Guangzhou	25-27	final	ak
+17	Guangzhou	25-27	final	iak	Ø
+17	Guangzhou	25-27	final	uak
+17	Guangzhou	25-27	final	6k
+17	Guangzhou	25-27	final	Ek
+17	Guangzhou	25-27	final	iEk	Ø
+17	Guangzhou	25-27	final	ek
+17	Guangzhou	25-27	final	iek
+17	Guangzhou	25-27	final	uek	Ø
+17	Guangzhou	25-27	final	9k
+17	Guangzhou	25-27	final	i9k
+17	Guangzhou	25-27	final	Ok
+17	Guangzhou	25-27	final	uOk
+17	Guangzhou	25-27	final	ok
+17	Guangzhou	25-27	final	iok
+17	Guangzhou	25-27	final	m=
+17	Guangzhou	25-27	final	N=
+17	Guangzhou	25-27	initial	p
+17	Guangzhou	25-27	initial	p_h
+17	Guangzhou	25-27	initial	m
+17	Guangzhou	25-27	initial	f
+17	Guangzhou	25-27	initial	t
+17	Guangzhou	25-27	initial	t_h
+17	Guangzhou	25-27	initial	n
+17	Guangzhou	25-27	initial	l
+17	Guangzhou	25-27	initial	ts
+17	Guangzhou	25-27	initial	ts_h
+17	Guangzhou	25-27	initial	s
+17	Guangzhou	25-27	initial	k
+17	Guangzhou	25-27	initial	k_h
+17	Guangzhou	25-27	initial	N
+17	Guangzhou	25-27	initial	h
+17	Guangzhou	25-27	initial	Ø
+18	Fuzhou	27-29	tone	55	yinping
+18	Fuzhou	27-29	tone	53	yangping
+18	Fuzhou	27-29	tone	32	shang
+18	Fuzhou	27-29	tone	212	yinqu
+18	Fuzhou	27-29	tone	242	yangqu
+18	Fuzhou	27-29	tone	24_	yinru
+18	Fuzhou	27-29	tone	5	yangru
+18	Fuzhou	27-29	final	i	Ei
+18	Fuzhou	27-29	final	u	ou
+18	Fuzhou	27-29	final	y	2y
+18	Fuzhou	27-29	final	a	A
+18	Fuzhou	27-29	final	ia	iA
+18	Fuzhou	27-29	final	ua	uA
+18	Fuzhou	27-29	final	E	A
+18	Fuzhou	27-29	final	ie	iE
+18	Fuzhou	27-29	final	o	O
+18	Fuzhou	27-29	final	uo	uO
+18	Fuzhou	27-29	final	yo	yO
+18	Fuzhou	27-29	final	9	O
+18	Fuzhou	27-29	final	ai	Ai
+18	Fuzhou	27-29	final	uai	uAi
+18	Fuzhou	27-29	final	au	Au
+18	Fuzhou	27-29	final	iau
+18	Fuzhou	27-29	final	Eu	eu
+18	Fuzhou	27-29	final	ieu	iEu
+18	Fuzhou	27-29	final	uoi	uOi
+18	Fuzhou	27-29	final	2y	Oy
+18	Fuzhou	27-29	final	aN	AN
+18	Fuzhou	27-29	final	iN	EiN
+18	Fuzhou	27-29	final	uN	ouN
+18	Fuzhou	27-29	final	yN	2yN
+18	Fuzhou	27-29	final	iaN	iAN
+18	Fuzhou	27-29	final	uaN	uAN
+18	Fuzhou	27-29	final	ieN	iEN
+18	Fuzhou	27-29	final	EiN	aiN
+18	Fuzhou	27-29	final	uoN	uON
+18	Fuzhou	27-29	final	yoN	yON
+18	Fuzhou	27-29	final	ouN	OuN
+18	Fuzhou	27-29	final	2yN	OyN
+18	Fuzhou	27-29	final	i?	Ei?
+18	Fuzhou	27-29	final	u?	ou?
+18	Fuzhou	27-29	final	y?	2y?
+18	Fuzhou	27-29	final	a?	A?
+18	Fuzhou	27-29	final	ia?	iA?
+18	Fuzhou	27-29	final	ua?	uA?
+18	Fuzhou	27-29	final	E?	A?
+18	Fuzhou	27-29	final	ie?	iE?
+18	Fuzhou	27-29	final	o?	O?
+18	Fuzhou	27-29	final	uo?	uO?
+18	Fuzhou	27-29	final	yo?	yO?
+18	Fuzhou	27-29	final	9?
+18	Fuzhou	27-29	final	Ei?	ai?
+18	Fuzhou	27-29	final	ou?	Ou?
+18	Fuzhou	27-29	final	2y?	Oy?
+18	Fuzhou	27-29	final	m=	n=/N=
+18	Fuzhou	27-29	initial	p
+18	Fuzhou	27-29	initial	p_h
+18	Fuzhou	27-29	initial	m
+18	Fuzhou	27-29	initial	t
+18	Fuzhou	27-29	initial	t_h
+18	Fuzhou	27-29	initial	n
+18	Fuzhou	27-29	initial	l	n
+18	Fuzhou	27-29	initial	ts
+18	Fuzhou	27-29	initial	ts_h
+18	Fuzhou	27-29	initial	s
+18	Fuzhou	27-29	initial	k
+18	Fuzhou	27-29	initial	k_h
+18	Fuzhou	27-29	initial	N
+18	Fuzhou	27-29	initial	h
+18	Fuzhou	27-29	initial	Ø
+18	Fuzhou	27-29	initial	B	/T#_
+18	Fuzhou	27-29	initial	Z	/T#_
+19	Xiamen	29-31	tone	55	yinping
+19	Xiamen	29-31	tone	24	yangping
+19	Xiamen	29-31	tone	53	yangshang
+19	Xiamen	29-31	tone	21	yinqu
+19	Xiamen	29-31	tone	22	yangqu
+19	Xiamen	29-31	tone	32_	yinru
+19	Xiamen	29-31	tone	5	yangru
+19	Xiamen	29-31	final	i
+19	Xiamen	29-31	final	u
+19	Xiamen	29-31	final	a
+19	Xiamen	29-31	final	ia
+19	Xiamen	29-31	final	ua
+19	Xiamen	29-31	final	o
+19	Xiamen	29-31	final	io
+19	Xiamen	29-31	final	e
+19	Xiamen	29-31	final	ue
+19	Xiamen	29-31	final	O
+19	Xiamen	29-31	final	O~
+19	Xiamen	29-31	final	iu
+19	Xiamen	29-31	final	ui
+19	Xiamen	29-31	final	ai
+19	Xiamen	29-31	final	uai
+19	Xiamen	29-31	final	a~i
+19	Xiamen	29-31	final	ua~i
+19	Xiamen	29-31	final	au
+19	Xiamen	29-31	final	iau
+19	Xiamen	29-31	final	a~u
+19	Xiamen	29-31	final	ia~u
+19	Xiamen	29-31	final	am
+19	Xiamen	29-31	final	iam
+19	Xiamen	29-31	final	an
+19	Xiamen	29-31	final	ian
+19	Xiamen	29-31	final	uan
+19	Xiamen	29-31	final	a~
+19	Xiamen	29-31	final	ia~
+19	Xiamen	29-31	final	ua~
+19	Xiamen	29-31	final	aN
+19	Xiamen	29-31	final	iaN
+19	Xiamen	29-31	final	ON
+19	Xiamen	29-31	final	iON
+19	Xiamen	29-31	final	im
+19	Xiamen	29-31	final	in
+19	Xiamen	29-31	final	un
+19	Xiamen	29-31	final	iN
+19	Xiamen	29-31	final	i~
+19	Xiamen	29-31	final	ui~
+19	Xiamen	29-31	final	e~
+19	Xiamen	29-31	final	iu~
+19	Xiamen	29-31	final	ip
+19	Xiamen	29-31	final	ap
+19	Xiamen	29-31	final	iap
+19	Xiamen	29-31	final	at
+19	Xiamen	29-31	final	iat
+19	Xiamen	29-31	final	uat
+19	Xiamen	29-31	final	ak
+19	Xiamen	29-31	final	iak
+19	Xiamen	29-31	final	Ok
+19	Xiamen	29-31	final	iOk
+19	Xiamen	29-31	final	it
+19	Xiamen	29-31	final	ut
+19	Xiamen	29-31	final	ik
+19	Xiamen	29-31	final	a?
+19	Xiamen	29-31	final	ia?
+19	Xiamen	29-31	final	ua?
+19	Xiamen	29-31	final	O?
+19	Xiamen	29-31	final	o?
+19	Xiamen	29-31	final	io?
+19	Xiamen	29-31	final	e?
+19	Xiamen	29-31	final	ue?
+19	Xiamen	29-31	final	a~?
+19	Xiamen	29-31	final	e~?
+19	Xiamen	29-31	final	ue~?
+19	Xiamen	29-31	final	O?
+19	Xiamen	29-31	final	uai?
+19	Xiamen	29-31	final	ua~i?
+19	Xiamen	29-31	final	a~u?
+19	Xiamen	29-31	final	ia~u?
+19	Xiamen	29-31	final	au?
+19	Xiamen	29-31	final	iau?
+19	Xiamen	29-31	final	m=?
+19	Xiamen	29-31	final	n=?
+19	Xiamen	29-31	final	i?
+19	Xiamen	29-31	final	u?
+19	Xiamen	29-31	final	i~?
+19	Xiamen	29-31	final	ui?
+19	Xiamen	29-31	final	iu?
+19	Xiamen	29-31	final	m=
+19	Xiamen	29-31	final	N=
+19	Xiamen	29-31	initial	p
+19	Xiamen	29-31	initial	p_h
+19	Xiamen	29-31	initial	m
+19	Xiamen	29-31	initial	b
+19	Xiamen	29-31	initial	t
+19	Xiamen	29-31	initial	t_h
+19	Xiamen	29-31	initial	n
+19	Xiamen	29-31	initial	l
+19	Xiamen	29-31	initial	ts
+19	Xiamen	29-31	initial	ts_h
+19	Xiamen	29-31	initial	s
+19	Xiamen	29-31	initial	k
+19	Xiamen	29-31	initial	k_h
+19	Xiamen	29-31	initial	N
+19	Xiamen	29-31	initial	h
+19	Xiamen	29-31	initial	g
+19	Xiamen	29-31	initial	Ø
+1	Beijing	1f	final	i_z
+1	Beijing	1f	final	i
+1	Beijing	1f	final	u
+1	Beijing	1f	final	y
+1	Beijing	1f	final	i`
+1	Beijing	1f	final	@r
+1	Beijing	1f	final	A`
+1	Beijing	1f	final	iA`
+1	Beijing	1f	final	uA`
+1	Beijing	1f	final	o
+1	Beijing	1f	final	uo
+1	Beijing	1f	final	7
+1	Beijing	1f	final	iE
+1	Beijing	1f	final	yE
+1	Beijing	1f	final	ai
+1	Beijing	1f	final	uai
+1	Beijing	1f	final	ei
+1	Beijing	1f	final	uei
+1	Beijing	1f	final	Au
+1	Beijing	1f	final	iAu
+1	Beijing	1f	final	ou
+1	Beijing	1f	final	iou
+1	Beijing	1f	final	an
+1	Beijing	1f	final	iEn
+1	Beijing	1f	final	uan
+1	Beijing	1f	final	yEn
+1	Beijing	1f	final	@n
+1	Beijing	1f	final	in
+1	Beijing	1f	final	u@n
+1	Beijing	1f	final	yn
+1	Beijing	1f	final	AN
+1	Beijing	1f	final	iAN
+1	Beijing	1f	final	uAN
+1	Beijing	1f	final	@N
+1	Beijing	1f	final	iN
+1	Beijing	1f	final	u@N
+1	Beijing	1f	final	uN
+1	Beijing	1f	final	yN
+1	Beijing	1f	initial	p
+1	Beijing	1f	initial	p_h
+1	Beijing	1f	initial	m
+1	Beijing	1f	initial	f
+1	Beijing	1f	initial	t
+1	Beijing	1f	initial	t_h
+1	Beijing	1f	initial	n
+1	Beijing	1f	initial	l
+1	Beijing	1f	initial	ts
+1	Beijing	1f	initial	ts_h
+1	Beijing	1f	initial	s
+1	Beijing	1f	initial	ts`
+1	Beijing	1f	initial	ts`_h
+1	Beijing	1f	initial	s`
+1	Beijing	1f	initial	z`
+1	Beijing	1f	initial	tc\
+1	Beijing	1f	initial	tc\_h
+1	Beijing	1f	initial	c\
+1	Beijing	1f	initial	k
+1	Beijing	1f	initial	k_h
+1	Beijing	1f	initial	x
+1	Beijing	1f	initial	Ø
+1	Beijing	1f	tone	213	yinping
+1	Beijing	1f	tone	35	yangping
+1	Beijing	1f	tone	51	shang
+1	Beijing	1f	tone	55	qu
+2	Ha_erbin	2f	tone	44	yangping
+2	Ha_erbin	2f	tone	24	yinping
+2	Ha_erbin	2f	tone	213	shang
+2	Ha_erbin	2f	tone	53	qu
+2	Ha_erbin	2f	final	i_z
+2	Ha_erbin	2f	final	i
+2	Ha_erbin	2f	final	u
+2	Ha_erbin	2f	final	y
+2	Ha_erbin	2f	final	i`
+2	Ha_erbin	2f	final	@r
+2	Ha_erbin	2f	final	a
+2	Ha_erbin	2f	final	ia
+2	Ha_erbin	2f	final	ua
+2	Ha_erbin	2f	final	7
+2	Ha_erbin	2f	final	uo
+2	Ha_erbin	2f	final	E
+2	Ha_erbin	2f	final	i@
+2	Ha_erbin	2f	final	yE
+2	Ha_erbin	2f	final	ai
+2	Ha_erbin	2f	final	uai
+2	Ha_erbin	2f	final	ei
+2	Ha_erbin	2f	final	uei
+2	Ha_erbin	2f	final	au
+2	Ha_erbin	2f	final	iau
+2	Ha_erbin	2f	final	ou
+2	Ha_erbin	2f	final	iou
+2	Ha_erbin	2f	final	an
+2	Ha_erbin	2f	final	ian
+2	Ha_erbin	2f	final	uan
+2	Ha_erbin	2f	final	yan
+2	Ha_erbin	2f	final	@n
+2	Ha_erbin	2f	final	in
+2	Ha_erbin	2f	final	u@n
+2	Ha_erbin	2f	final	yn
+2	Ha_erbin	2f	final	aN
+2	Ha_erbin	2f	final	iaN
+2	Ha_erbin	2f	final	uaN
+2	Ha_erbin	2f	final	@N
+2	Ha_erbin	2f	final	iN
+2	Ha_erbin	2f	final	u@N
+2	Ha_erbin	2f	final	uN
+2	Ha_erbin	2f	final	yN
+2	Ha_erbin	2f	initial	p
+2	Ha_erbin	2f	initial	p_h
+2	Ha_erbin	2f	initial	m
+2	Ha_erbin	2f	initial	f
+2	Ha_erbin	2f	initial	t
+2	Ha_erbin	2f	initial	t_h
+2	Ha_erbin	2f	initial	n
+2	Ha_erbin	2f	initial	l
+2	Ha_erbin	2f	initial	ts
+2	Ha_erbin	2f	initial	ts_h
+2	Ha_erbin	2f	initial	s
+2	Ha_erbin	2f	initial	ts`
+2	Ha_erbin	2f	initial	ts`_h
+2	Ha_erbin	2f	initial	s`
+2	Ha_erbin	2f	initial	z`
+2	Ha_erbin	2f	initial	tc\
+2	Ha_erbin	2f	initial	tc\_h
+2	Ha_erbin	2f	initial	c\
+2	Ha_erbin	2f	initial	k
+2	Ha_erbin	2f	initial	k_h
+2	Ha_erbin	2f	initial	x
+2	Ha_erbin	2f	initial	Ø
+3	Jinan	3f	tone	214	yinping
+3	Jinan	3f	tone	53	yangping
+3	Jinan	3f	tone	45	shang
+3	Jinan	3f	tone	31	qu
+3	Jinan	3f	final	i_z
+3	Jinan	3f	final	i
+3	Jinan	3f	final	u
+3	Jinan	3f	final	y
+3	Jinan	3f	final	i`
+3	Jinan	3f	final	@r
+3	Jinan	3f	final	a
+3	Jinan	3f	final	ia
+3	Jinan	3f	final	ua
+3	Jinan	3f	final	7
+3	Jinan	3f	final	i@
+3	Jinan	3f	final	u7
+3	Jinan	3f	final	y7
+3	Jinan	3f	final	E
+3	Jinan	3f	final	iE
+3	Jinan	3f	final	uE
+3	Jinan	3f	final	ei
+3	Jinan	3f	final	uei
+3	Jinan	3f	final	O
+3	Jinan	3f	final	iO
+3	Jinan	3f	final	ou
+3	Jinan	3f	final	iou
+3	Jinan	3f	final	{~
+3	Jinan	3f	final	i{~
+3	Jinan	3f	final	u{~
+3	Jinan	3f	final	y{~
+3	Jinan	3f	final	e~
+3	Jinan	3f	final	ie~
+3	Jinan	3f	final	ue~
+3	Jinan	3f	final	ye~
+3	Jinan	3f	final	AN
+3	Jinan	3f	final	iAN
+3	Jinan	3f	final	uAN
+3	Jinan	3f	final	@N
+3	Jinan	3f	final	iN
+3	Jinan	3f	final	uN
+3	Jinan	3f	final	yN
+3	Jinan	3f	final	N=
+3	Jinan	3f	initial	p
+3	Jinan	3f	initial	p_h
+3	Jinan	3f	initial	m
+3	Jinan	3f	initial	f
+3	Jinan	3f	initial	v
+3	Jinan	3f	initial	t
+3	Jinan	3f	initial	t_h
+3	Jinan	3f	initial	n
+3	Jinan	3f	initial	l
+3	Jinan	3f	initial	ts
+3	Jinan	3f	initial	ts_h
+3	Jinan	3f	initial	s
+3	Jinan	3f	initial	ts`
+3	Jinan	3f	initial	ts_h
+3	Jinan	3f	initial	s`
+3	Jinan	3f	initial	z`
+3	Jinan	3f	initial	tc\
+3	Jinan	3f	initial	tc\_h
+3	Jinan	3f	initial	n\
+3	Jinan	3f	initial	c\
+3	Jinan	3f	initial	k
+3	Jinan	3f	initial	k_h
+3	Jinan	3f	initial	N
+3	Jinan	3f	initial	x
+3	Jinan	3f	initial	Ø
+4	Rongcheng	5f	tone	52	yinping
+4	Rongcheng	5f	tone	35	yangping
+4	Rongcheng	5f	tone	214	shangsheng
+4	Rongcheng	5f	tone	334	qusheng
+4	Rongcheng	5f	final	i_z
+4	Rongcheng	5f	final	i
+4	Rongcheng	5f	final	u
+4	Rongcheng	5f	final	y
+4	Rongcheng	5f	final	i`
+4	Rongcheng	5f	final	@r
+4	Rongcheng	5f	final	a
+4	Rongcheng	5f	final	ia
+4	Rongcheng	5f	final	ua
+4	Rongcheng	5f	final	O
+4	Rongcheng	5f	final	uO
+4	Rongcheng	5f	final	yO
+4	Rongcheng	5f	final	E	@
+4	Rongcheng	5f	final	iE	i@
+4	Rongcheng	5f	final	uE	u@
+4	Rongcheng	5f	final	yE	y@
+4	Rongcheng	5f	final	ai
+4	Rongcheng	5f	final	iai
+4	Rongcheng	5f	final	uai
+4	Rongcheng	5f	final	yai
+4	Rongcheng	5f	final	ei
+4	Rongcheng	5f	final	uei
+4	Rongcheng	5f	final	au
+4	Rongcheng	5f	final	iau
+4	Rongcheng	5f	final	ou
+4	Rongcheng	5f	final	iou
+4	Rongcheng	5f	final	6n
+4	Rongcheng	5f	final	i6n
+4	Rongcheng	5f	final	u6n
+4	Rongcheng	5f	final	y6n
+4	Rongcheng	5f	final	@n
+4	Rongcheng	5f	final	in
+4	Rongcheng	5f	final	u@n
+4	Rongcheng	5f	final	yn
+4	Rongcheng	5f	final	aN
+4	Rongcheng	5f	final	iaN
+4	Rongcheng	5f	final	uaN
+4	Rongcheng	5f	final	@N
+4	Rongcheng	5f	final	iN
+4	Rongcheng	5f	final	u@N
+4	Rongcheng	5f	final	oN
+4	Rongcheng	5f	final	yoN
+4	Rongcheng	5f	initial	p
+4	Rongcheng	5f	initial	p_h
+4	Rongcheng	5f	initial	m
+4	Rongcheng	5f	initial	f
+4	Rongcheng	5f	initial	t
+4	Rongcheng	5f	initial	t_h
+4	Rongcheng	5f	initial	n
+4	Rongcheng	5f	initial	l
+4	Rongcheng	5f	initial	ts
+4	Rongcheng	5f	initial	ts_h
+4	Rongcheng	5f	initial	s
+4	Rongcheng	5f	initial	c
+4	Rongcheng	5f	initial	c_h
+4	Rongcheng	5f	initial	C
+4	Rongcheng	5f	initial	tS
+4	Rongcheng	5f	initial	tS_h
+4	Rongcheng	5f	initial	S
+4	Rongcheng	5f	initial	ts`
+4	Rongcheng	5f	initial	ts`_h
+4	Rongcheng	5f	initial	s`
+4	Rongcheng	5f	initial	k
+4	Rongcheng	5f	initial	k_h
+4	Rongcheng	5f	initial	x
+4	Rongcheng	5f	initial	Ø
+5	Taiyuan	6f	tone	21	ping
+5	Taiyuan	6f	tone	53	shang
+5	Taiyuan	6f	tone	45	qu
+5	Taiyuan	6f	tone	2	yinru
+5	Taiyuan	6f	tone	54_	yangru
+5	Taiyuan	6f	final	i_z
+5	Taiyuan	6f	final	i
+5	Taiyuan	6f	final	u
+5	Taiyuan	6f	final	y
+5	Taiyuan	6f	final	@r
+5	Taiyuan	6f	final	a
+5	Taiyuan	6f	final	ia
+5	Taiyuan	6f	final	ua
+5	Taiyuan	6f	final	7
+5	Taiyuan	6f	final	u7
+5	Taiyuan	6f	final	ie
+5	Taiyuan	6f	final	ye
+5	Taiyuan	6f	final	ai
+5	Taiyuan	6f	final	uai
+5	Taiyuan	6f	final	ei
+5	Taiyuan	6f	final	uei
+5	Taiyuan	6f	final	au
+5	Taiyuan	6f	final	iau
+5	Taiyuan	6f	final	@u
+5	Taiyuan	6f	final	i@u
+5	Taiyuan	6f	final	{~	E~
+5	Taiyuan	6f	final	u{~	uE~
+5	Taiyuan	6f	final	Q~
+5	Taiyuan	6f	final	iQ~
+5	Taiyuan	6f	final	uQ~
+5	Taiyuan	6f	final	@N
+5	Taiyuan	6f	final	iN
+5	Taiyuan	6f	final	uN
+5	Taiyuan	6f	final	yN
+5	Taiyuan	6f	final	a?	@?
+5	Taiyuan	6f	final	ia?
+5	Taiyuan	6f	final	ua?	u@?
+5	Taiyuan	6f	final	@?
+5	Taiyuan	6f	final	i@?
+5	Taiyuan	6f	final	u@?
+5	Taiyuan	6f	final	y@?
+5	Taiyuan	6f	initial	p
+5	Taiyuan	6f	initial	p_h
+5	Taiyuan	6f	initial	m
+5	Taiyuan	6f	initial	f
+5	Taiyuan	6f	initial	v
+5	Taiyuan	6f	initial	t
+5	Taiyuan	6f	initial	t_h
+5	Taiyuan	6f	initial	n
+5	Taiyuan	6f	initial	l
+5	Taiyuan	6f	initial	ts
+5	Taiyuan	6f	initial	ts_h
+5	Taiyuan	6f	initial	s
+5	Taiyuan	6f	initial	z
+5	Taiyuan	6f	initial	s`
+5	Taiyuan	6f	initial	tc\
+5	Taiyuan	6f	initial	tc\_h
+5	Taiyuan	6f	initial	n\
+5	Taiyuan	6f	initial	c\
+5	Taiyuan	6f	initial	k
+5	Taiyuan	6f	initial	k_h
+5	Taiyuan	6f	initial	x
+5	Taiyuan	6f	initial	G
+5	Taiyuan	6f	initial	Ø
+6	Xi_an	8f	tone	21	yinping
+6	Xi_an	8f	tone	24	yangping
+6	Xi_an	8f	tone	53	shang
+6	Xi_an	8f	tone	44	qu
+6	Xi_an	8f	final	i_z
+6	Xi_an	8f	final	i
+6	Xi_an	8f	final	u	@u
+6	Xi_an	8f	final	y
+6	Xi_an	8f	final	i`
+6	Xi_an	8f	final	@r
+6	Xi_an	8f	final	A
+6	Xi_an	8f	final	iA
+6	Xi_an	8f	final	uA
+6	Xi_an	8f	final	E
+6	Xi_an	8f	final	iE
+6	Xi_an	8f	final	uE
+6	Xi_an	8f	final	yE
+6	Xi_an	8f	final	M
+6	Xi_an	8f	final	7
+6	Xi_an	8f	final	o
+6	Xi_an	8f	final	uo
+6	Xi_an	8f	final	yo
+6	Xi_an	8f	final	ei
+6	Xi_an	8f	final	uei
+6	Xi_an	8f	final	Au
+6	Xi_an	8f	final	iAu
+6	Xi_an	8f	final	ou
+6	Xi_an	8f	final	iou
+6	Xi_an	8f	final	e~
+6	Xi_an	8f	final	ie~
+6	Xi_an	8f	final	ue~
+6	Xi_an	8f	final	ye~
+6	Xi_an	8f	final	{~
+6	Xi_an	8f	final	i{~
+6	Xi_an	8f	final	u{~
+6	Xi_an	8f	final	y{~
+6	Xi_an	8f	final	in
+6	Xi_an	8f	final	u@n
+6	Xi_an	8f	final	@N
+6	Xi_an	8f	final	iN
+6	Xi_an	8f	final	uN
+6	Xi_an	8f	final	yN
+6	Xi_an	8f	final	AN
+6	Xi_an	8f	final	iAN
+6	Xi_an	8f	final	uAN
+6	Xi_an	8f	initial	p
+6	Xi_an	8f	initial	p_h
+6	Xi_an	8f	initial	m
+6	Xi_an	8f	initial	pf
+6	Xi_an	8f	initial	pf_h
+6	Xi_an	8f	initial	f
+6	Xi_an	8f	initial	v
+6	Xi_an	8f	initial	t
+6	Xi_an	8f	initial	t_h
+6	Xi_an	8f	initial	n
+6	Xi_an	8f	initial	l
+6	Xi_an	8f	initial	ts
+6	Xi_an	8f	initial	ts_h
+6	Xi_an	8f	initial	s
+6	Xi_an	8f	initial	ts`
+6	Xi_an	8f	initial	ts`_h
+6	Xi_an	8f	initial	s`
+6	Xi_an	8f	initial	z`
+6	Xi_an	8f	initial	tc\
+6	Xi_an	8f	initial	tc\_h
+6	Xi_an	8f	initial	n\
+6	Xi_an	8f	initial	c\
+6	Xi_an	8f	initial	k
+6	Xi_an	8f	initial	k_h
+6	Xi_an	8f	initial	N
+6	Xi_an	8f	initial	x
+6	Xi_an	8f	initial	Ø
+7	Chengdu	9f	tone	45	yinping	55
+7	Chengdu	9f	tone	21	yangping
+7	Chengdu	9f	tone	53	shang
+7	Chengdu	9f	tone	213	qu
+7	Chengdu	9f	final	i_z
+7	Chengdu	9f	final	i
+7	Chengdu	9f	final	u
+7	Chengdu	9f	final	y
+7	Chengdu	9f	final	@r
+7	Chengdu	9f	final	a
+7	Chengdu	9f	final	ia
+7	Chengdu	9f	final	ua
+7	Chengdu	9f	final	o
+7	Chengdu	9f	final	yo
+7	Chengdu	9f	final	e
+7	Chengdu	9f	final	ie
+7	Chengdu	9f	final	ue
+7	Chengdu	9f	final	ye
+7	Chengdu	9f	final	iEi
+7	Chengdu	9f	final	ai
+7	Chengdu	9f	final	uai
+7	Chengdu	9f	final	ei
+7	Chengdu	9f	final	uei
+7	Chengdu	9f	final	au
+7	Chengdu	9f	final	iau
+7	Chengdu	9f	final	@u
+7	Chengdu	9f	final	i@u
+7	Chengdu	9f	final	an
+7	Chengdu	9f	final	iEn
+7	Chengdu	9f	final	uan
+7	Chengdu	9f	final	yan
+7	Chengdu	9f	final	@n
+7	Chengdu	9f	final	in
+7	Chengdu	9f	final	u@n
+7	Chengdu	9f	final	yn
+7	Chengdu	9f	final	aN
+7	Chengdu	9f	final	iaN
+7	Chengdu	9f	final	uaN
+7	Chengdu	9f	final	oN
+7	Chengdu	9f	final	yoN
+7	Chengdu	9f	initial	p
+7	Chengdu	9f	initial	p_h
+7	Chengdu	9f	initial	m
+7	Chengdu	9f	initial	f
+7	Chengdu	9f	initial	t
+7	Chengdu	9f	initial	t_h
+7	Chengdu	9f	initial	n
+7	Chengdu	9f	initial	l	n
+7	Chengdu	9f	initial	ts
+7	Chengdu	9f	initial	ts_h
+7	Chengdu	9f	initial	s
+7	Chengdu	9f	initial	z
+7	Chengdu	9f	initial	tc\
+7	Chengdu	9f	initial	tc\_h
+7	Chengdu	9f	initial	n\
+7	Chengdu	9f	initial	c\
+7	Chengdu	9f	initial	k
+7	Chengdu	9f	initial	k_h
+7	Chengdu	9f	initial	N
+7	Chengdu	9f	initial	x
+7	Chengdu	9f	initial	Ø
+8	Nanjing	11f	tone	31	yinping
+8	Nanjing	11f	tone	13	yangping
+8	Nanjing	11f	tone	11	shang
+8	Nanjing	11f	tone	55	qu
+8	Nanjing	11f	tone	5	ru
+8	Nanjing	11f	final	i_z
+8	Nanjing	11f	final	i
+8	Nanjing	11f	final	u
+8	Nanjing	11f	final	y
+8	Nanjing	11f	final	i`
+8	Nanjing	11f	final	@r
+8	Nanjing	11f	final	A
+8	Nanjing	11f	final	iA
+8	Nanjing	11f	final	uA
+8	Nanjing	11f	final	@	e
+8	Nanjing	11f	final	ie
+8	Nanjing	11f	final	ye
+8	Nanjing	11f	final	o
+8	Nanjing	11f	final	E
+8	Nanjing	11f	final	iE
+8	Nanjing	11f	final	uE
+8	Nanjing	11f	final	ei
+8	Nanjing	11f	final	uei
+8	Nanjing	11f	final	O
+8	Nanjing	11f	final	iO
+8	Nanjing	11f	final	@M
+8	Nanjing	11f	final	i@M
+8	Nanjing	11f	final	@n
+8	Nanjing	11f	final	in
+8	Nanjing	11f	final	u@n
+8	Nanjing	11f	final	yn
+8	Nanjing	11f	final	ien
+8	Nanjing	11f	final	yen
+8	Nanjing	11f	final	A~
+8	Nanjing	11f	final	iA~
+8	Nanjing	11f	final	uA~
+8	Nanjing	11f	final	oN
+8	Nanjing	11f	final	ioN
+8	Nanjing	11f	final	i`?
+8	Nanjing	11f	final	i?
+8	Nanjing	11f	final	u?
+8	Nanjing	11f	final	y?
+8	Nanjing	11f	final	A?
+8	Nanjing	11f	final	iA?
+8	Nanjing	11f	final	uA?
+8	Nanjing	11f	final	@?	e?
+8	Nanjing	11f	final	ie?
+8	Nanjing	11f	final	ue?
+8	Nanjing	11f	final	ye?
+8	Nanjing	11f	final	o?
+8	Nanjing	11f	final	io?
+8	Nanjing	11f	final	m=
+8	Nanjing	11f	final	n=
+8	Nanjing	11f	final	N=
+8	Nanjing	11f	initial	p
+8	Nanjing	11f	initial	p_h
+8	Nanjing	11f	initial	m
+8	Nanjing	11f	initial	f
+8	Nanjing	11f	initial	t
+8	Nanjing	11f	initial	t_h
+8	Nanjing	11f	initial	l	n, n\
+8	Nanjing	11f	initial	ts
+8	Nanjing	11f	initial	ts_h
+8	Nanjing	11f	initial	s
+8	Nanjing	11f	initial	ts`
+8	Nanjing	11f	initial	ts`_h
+8	Nanjing	11f	initial	s`
+8	Nanjing	11f	initial	z`
+8	Nanjing	11f	initial	tc\
+8	Nanjing	11f	initial	tc\_h
+8	Nanjing	11f	initial	c\
+8	Nanjing	11f	initial	k
+8	Nanjing	11f	initial	k_h
+8	Nanjing	11f	initial	x
+8	Nanjing	11f	initial	Ø
+9	Jixi	12f	tone	55	yinping
+9	Jixi	12f	tone	44	yangping
+9	Jixi	12f	tone	213	shang
+9	Jixi	12f	tone	35	yinqu
+9	Jixi	12f	tone	31	yangqu
+9	Jixi	12f	tone	32_	ru
+9	Jixi	12f	final	i_z
+9	Jixi	12f	final	i
+9	Jixi	12f	final	u
+9	Jixi	12f	final	y
+9	Jixi	12f	final	a
+9	Jixi	12f	final	ua
+9	Jixi	12f	final	O
+9	Jixi	12f	final	iO
+9	Jixi	12f	final	uO
+9	Jixi	12f	final	7
+9	Jixi	12f	final	ie
+9	Jixi	12f	final	o
+9	Jixi	12f	final	io
+9	Jixi	12f	final	8
+9	Jixi	12f	final	i8
+9	Jixi	12f	final	ui
+9	Jixi	12f	final	A~
+9	Jixi	12f	final	iA~
+9	Jixi	12f	final	uA~
+9	Jixi	12f	final	yA~
+9	Jixi	12f	final	e~
+9	Jixi	12f	final	ie~
+9	Jixi	12f	final	ye~
+9	Jixi	12f	final	o~
+9	Jixi	12f	final	io~
+9	Jixi	12f	final	a?
+9	Jixi	12f	final	ia?
+9	Jixi	12f	final	ua?
+9	Jixi	12f	final	ya?
+9	Jixi	12f	final	7?
+9	Jixi	12f	final	u7?
+9	Jixi	12f	final	ie?
+9	Jixi	12f	final	ye?
+9	Jixi	12f	final	o?
+9	Jixi	12f	final	yo?
+9	Jixi	12f	final	m=
+9	Jixi	12f	final	n=
+9	Jixi	12f	initial	p
+9	Jixi	12f	initial	p_h
+9	Jixi	12f	initial	m
+9	Jixi	12f	initial	f
+9	Jixi	12f	initial	v
+9	Jixi	12f	initial	t
+9	Jixi	12f	initial	t_h
+9	Jixi	12f	initial	n	l
+9	Jixi	12f	initial	ts
+9	Jixi	12f	initial	ts_h
+9	Jixi	12f	initial	s
+9	Jixi	12f	initial	tc\
+9	Jixi	12f	initial	tc\_h
+9	Jixi	12f	initial	n\
+9	Jixi	12f	initial	c\
+9	Jixi	12f	initial	k
+9	Jixi	12f	initial	k_h
+9	Jixi	12f	initial	N
+9	Jixi	12f	initial	x
+9	Jixi	12f	initial	Ø

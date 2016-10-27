@@ -2,48 +2,48 @@
 5f	tone	35	yangping
 5f	tone	214	shangsheng
 5f	tone	334	qusheng
-5f	finals	i_z
-5f	finals	i
-5f	finals	u
-5f	finals	y
-5f	finals	i`
-5f	finals	@r
-5f	finals	a
-5f	finals	ia
-5f	finals	ua
-5f	finals	O
-5f	finals	uO
-5f	finals	yO
-5f	finals	E	@
-5f	finals	iE	i@
-5f	finals	uE	u@
-5f	finals	yE	y@
-5f	finals	ai
-5f	finals	iai
-5f	finals	uai
-5f	finals	yai
-5f	finals	ei
-5f	finals	uei
-5f	finals	au
-5f	finals	iau
-5f	finals	ou
-5f	finals	iou
-5f	finals	6n
-5f	finals	i6n
-5f	finals	u6n
-5f	finals	y6n
-5f	finals	@n
-5f	finals	in
-5f	finals	u@n
-5f	finals	yn
-5f	finals	aN
-5f	finals	iaN
-5f	finals	uaN
-5f	finals	@N
-5f	finals	iN
-5f	finals	u@N
-5f	finals	oN
-5f	finals	yoN
+5f	final	i_z
+5f	final	i
+5f	final	u
+5f	final	y
+5f	final	i`
+5f	final	@r
+5f	final	a
+5f	final	ia
+5f	final	ua
+5f	final	O
+5f	final	uO
+5f	final	yO
+5f	final	E	@
+5f	final	iE	i@
+5f	final	uE	u@
+5f	final	yE	y@
+5f	final	ai
+5f	final	iai
+5f	final	uai
+5f	final	yai
+5f	final	ei
+5f	final	uei
+5f	final	au
+5f	final	iau
+5f	final	ou
+5f	final	iou
+5f	final	6n
+5f	final	i6n
+5f	final	u6n
+5f	final	y6n
+5f	final	@n
+5f	final	in
+5f	final	u@n
+5f	final	yn
+5f	final	aN
+5f	final	iaN
+5f	final	uaN
+5f	final	@N
+5f	final	iN
+5f	final	u@N
+5f	final	oN
+5f	final	yoN
 5f	initial	p
 5f	initial	p_h
 5f	initial	m
