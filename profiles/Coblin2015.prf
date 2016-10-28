@@ -1,0 +1,196 @@
+GRAPHEMES	SOURCE	TYPE	NOTE
+3	³	C	Chongniu 3b
+4	⁴	C	Chongniu 3a
+(i)		E	
+(kâng)		E	
+(khuâ)		E	
+b	b	i	
+d	d	i	
+ḍ	ḍ	i	
+dz	dz	i	
+dź	dź	i	
+dẓ	dẓ	i	
+g	g	i	
+ɣ	ɣ	i	
+k	k	i	
+kh	kh	i	
+l	l	i	
+m	m	i	
+n	n	i	
+ṇ	ṇ	i	
+ng	ng	i	
+ńź	ńź	i	
+p	p	i	
+ph	ph	i	
+s	s	i	
+ś	ś	i	
+ṣ	ṣ	i	
+t	t	i	
+ṭ	ṭ	i	
+th	th	i	
+ṭh	ṭh	i	
+ts	ts	i	
+tś	tś	i	
+tṣ	tṣ	i	
+tsh	tsh	i	
+tśh	tśh	i	
+tṣh	tṣh	i	
+x	x	i	
+z	z	i	
+ź	ź	i	
+ʔ	ʔ	i	
+we	w e 	m c	
+wi	w i	m c	
+ia	i a	m n	
+ie	i e	m n	
+iï	i ï	m n	
+iu	i u	m n	
+iak	i a k	m n c	
+iäm	i ä m	m n c	
+iang	i a ng	m n c	
+iei	i e i	m n c	
+iek	i e k	m n c	
+iem	i e m	m n c	
+ien	i e n	m n c	
+ieng	i e ng	m n c	
+iet	i e t	m n c	
+ieu	i e u	m n c	
+iəm	i ə m	m n c	
+iəu	i ə u	m n c	
+iwäi	iw ä i	m n c	
+iwäk	iw ä k	m n c	
+iwän	iw ä n	m n c	
+iwen	iw e n	m n c	
+iwet	iw e t	m n c	
+iwok	iw o k	m n c	
+iwong	iw o ng	m n c	
+jäi	j ä i	m n c	
+jak	j a k	m n c	
+jäk	j ä k	m n c	
+jäm	j ä m	m n c	
+jän	j ä n	m n c	
+jang	j a ng	m n c	
+jäng	j ä ng	m n c	
+jäp	j ä p	m n c	
+jät	j ä t	m n c	
+jäu	j ä u	m n c	
+jɒk	j ɒ k	m n c	
+jɒm	j ɒ m	m n c	
+jɒn	j ɒ n	m n c	
+jɒng	j ɒ ng	m n c	
+jɒp	j ɒ p	m n c	
+jei	j e i	m n c	
+jen	j e n	m n c	
+jet	j e t	m n c	
+jək	j ə k	m n c	
+jəm	j ə m	m n c	
+jən	j ə n	m n c	
+jəng	j ə ng	m n c	
+jəp	j ə p	m n c	
+jəu	j ə u	m n c	
+jɛm	j ɛ m	m n c	
+jɛt	j ɛ t	m n c	
+jiäi	ji ä i	m n c	
+jiäk	ji ä k	m n c	
+jiän	ji ä n	m n c	
+jiäu	ji ä u	m n c	
+jien	ji e n	m n c	
+jiet	ji e t	m n c	
+jiəp	ji ə p	m n c	
+jiəu	ji ə u	m n c	
+juen	ju e n	m n c	
+juet	ju e t	m n c	
+juən	ju ə n	m n c	
+juət	ju ə t	m n c	
+juk	j u k	m n c	
+jung	j u ng	m n c	
+jwäi	jw ä i	m n c	
+jwän	jw ä n	m n c	
+jwang	jw a ng	m n c	
+jwät	jw ä t	m n c	
+jwɒm	jw ɒ m	m n c	
+jwɒn	jw ɒ n	m n c	
+jwɒng	jw ɒ ng	m n c	
+jwɒp	jw ɒ p	m n c	
+jwɒt	jw ɒ t	m n c	
+jwei	jw e i	m n c	
+jwen	jw e n	m n c	
+jwet	jw e t	m n c	
+jwie	jw i e	m n c	
+jwok	jw o k	m n c	
+jwong	jw o ng	m n c	
+uậi	u ậ i	m n c	
+uân	u â n	m n c	
+uâng	u â ng	m n c	
+uât	u â t	m n c	
+uən	u ə n	m n c	
+uət	u ə t	m n c	
+uok	u o k	m n c	
+uong	u o ng	m n c	
+wai	w a i	m n c	
+waï	w a ï	m n c	
+wâi	w â i	m n c	
+wǎi	w ǎ i	m n c	
+wan	w a n	m n c	
+wǎn	w ǎ n	m n c	
+wän	w ä n	m n c	
+wang	w a ng	m n c	
+wâng	w â ng	m n c	
+wat	w a t	m n c	
+wǎt	w ǎ t	m n c	
+wɒn	w ɒ n	m n c	
+wək	w ə k	m n c	
+a	a	n	
+â	â	n	
+i	i	n	
+ï	ï	n	
+a	a m	n c	
+aï	a ï	n c	
+âi	â i	n c	
+ǎi	ǎ i	n c	
+ậi	ậ i	n c	
+âk	â k	n c	
+åk	å k	n c	
+âm	â m	n c	
+ǎm	ǎ m	n c	
+ậm	ậ m	n c	
+an	a n	n c	
+ân	â n	n c	
+ǎn	ǎ n	n c	
+âng	â ng	n c	
+ång	å ng	n c	
+ap	a p	n c	
+âp	â p	n c	
+ǎp	ǎ p	n c	
+ập	ậ p	n c	
+at	a t	n c	
+ât	â t	n c	
+ǎt	ǎ t	n c	
+au	a u	n c	
+âu	â u	n c	
+ɒk	ɒ k	n c	
+ɒng	ɒ ng	n c	
+ək	ə k	n c	
+ən	ə n	n c	
+əng	ə ng	n c	
+əu	ə u	n c	
+ɛng	ɛ ng	n c	
+-	³	t	qu
+:	²	t	shang
+iwi	iw i	m n	
+j	j	m	
+ja	j a	m n	
+je	j e	m n	
+ji	j i	m n	
+jï	j ï	m n	
+jie	ji e	m n	
+ju	j u	m n	
+jwe	jw e	m n	
+jwi	jw i	m n	
+jwo	jw o	m n	
+u	u	n	
+uâ	u â	m n	
+uk	u k	n c	
+ung	u ng	n c	
+uo	u o	m n	
+wa	w a	m n	
