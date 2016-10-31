@@ -155,7 +155,7 @@ ID	LID	DOCULECT	CONCEPT	CONCEPT_ID	CHINESE	CONCEPTICON_ID	VALUE	CROSSREF	PARTIAL
 3988	Allen2007-3988	Jianchuan	all	499	都	98	tsa³⁵	7865	1546	ts a ³⁵
 3989	Allen2007-3989	Eryuan	all	499	都	98	tɕʰɔ⁵⁵ku⁵⁵	7866	1547 1548	tɕʰ ɔ ⁵⁵ k u ⁵⁵
 3990	Allen2007-3990	Heqing	all	499	都	98	tsa³⁵ɕɯ⁵⁵	7867	1546 1549	ts a ³⁵ ɕ ɯ ⁵⁵
-3991	Allen2007-3991	Lanping	all	499	都	98	tɕʰɛ̃⁵⁵(tɯ³¹ku³³)	7868	1547 1550 1548	tɕʰ ɛ̃ ⁵⁵ ( t ɯ ³¹ k u ³³ )
+3991	Allen2007-3991	Lanping	all	499	都	98	tɕʰɛ̃⁵⁵(tɯ³¹ku³³)	7868	1547 1550 1548	tɕʰ ɛ̃ ⁵⁵ t ɯ ³¹ k u ³³
 3992	Allen2007-3992	Qiliqiao	all	499	都	98	ji³⁵so³¹	7869	1551 1552	j i ³⁵ s o ³¹
 3993	Allen2007-3993	Yunlong	all	499	都	98	tsa⁵⁵tɕʰi³¹	7870	1546 1553	ts a ⁵⁵ tɕʰ i ³¹
 3994	Allen2007-3994	Xiangyun	all	499	都	98	tɕʰuɛ⁵⁵	7871	1554	tɕʰ u ɛ ⁵⁵
@@ -519,7 +519,7 @@ ID	LID	DOCULECT	CONCEPT	CONCEPT_ID	CHINESE	CONCEPTICON_ID	VALUE	CROSSREF	PARTIAL
 838	Allen2007-838	Jianchuan	bracelet	183	手镯	1754	tɕi²¹	6451	944	tɕ i ²¹
 839	Allen2007-839	Eryuan	bracelet	183	手镯	1754	kʲi²¹	6452	944	kʲ i ²¹
 840	Allen2007-840	Heqing	bracelet	183	手镯	1754	tɕĩ²¹	6453	944	tɕ ĩ ²¹
-841	Allen2007-841	Lanping	bracelet	183	手镯	1754	tɕĩ³¹(pʰɔ³³)	6454	944 946	tɕ ĩ ³¹ ( pʰ ɔ ³³ )
+841	Allen2007-841	Lanping	bracelet	183	手镯	1754	tɕĩ³¹(pʰɔ³³)	6454	944 946	tɕ ĩ ³¹ pʰ ɔ ³³
 842	Allen2007-842	Qiliqiao	bracelet	183	手镯	1754	tɕi²¹	6455	944	tɕ i ²¹
 843	Allen2007-843	Yunlong	bracelet	183	手镯	1754	tɕi²¹	6456	944	tɕ i ²¹
 844	Allen2007-844	Xiangyun	bracelet	183	手镯	1754	sou³³tɕi²¹	6457	947 944	s o u ³³ tɕ i ²¹
@@ -609,7 +609,7 @@ ID	LID	DOCULECT	CONCEPT	CONCEPT_ID	CHINESE	CONCEPTICON_ID	VALUE	CROSSREF	PARTIAL
 4231	Allen2007-4231	Jianchuan	butterfly	72	蝴蝶	1791	kou⁵⁵lɛ⁴⁴tsɿ³³	6011	709 710 711	k o u ⁵⁵ l ɛ ⁴⁴ ts ɿ ³³
 4232	Allen2007-4232	Eryuan	butterfly	72	蝴蝶	1791	kɔ⁵⁵lɛ⁴⁴	6012	709 710	k ɔ ⁵⁵ l ɛ ⁴⁴
 4233	Allen2007-4233	Heqing	butterfly	72	蝴蝶	1791	kou³⁵lɛ⁴⁴lɛ⁴⁴tsɿ³³	6013	709 710 710 711	k o u ³⁵ l ɛ ⁴⁴ l ɛ ⁴⁴ ts ɿ ³³
-4234	Allen2007-4234	Lanping	butterfly	72	蝴蝶	1791	ku⁵⁵le³³(tsɿ³³)	6014	709 710 711	k u ⁵⁵ l e ³³ ( ts ɿ ³³ )
+4234	Allen2007-4234	Lanping	butterfly	72	蝴蝶	1791	ku⁵⁵le³³(tsɿ³³)	6014	709 710 711	k u ⁵⁵ l e ³³ ts ɿ ³³
 4235	Allen2007-4235	Qiliqiao	butterfly	72	蝴蝶	1791	kɔ⁵⁵li⁴⁴	6015	709 710	k ɔ ⁵⁵ l i ⁴⁴
 4236	Allen2007-4236	Yunlong	butterfly	72	蝴蝶	1791	kɔ⁵⁵lɛ⁴⁴	6016	709 710	k ɔ ⁵⁵ l ɛ ⁴⁴
 4237	Allen2007-4237	Xiangyun	butterfly	72	蝴蝶	1791	kɔ³⁵li⁴⁴tsɿ³³	6017	709 710 711	k ɔ ³⁵ l i ⁴⁴ ts ɿ ³³
@@ -827,7 +827,7 @@ ID	LID	DOCULECT	CONCEPT	CONCEPT_ID	CHINESE	CONCEPTICON_ID	VALUE	CROSSREF	PARTIAL
 1333	Allen2007-1333	Jianchuan	comb	232	梳子	1475	sɤ⁵⁵	600	88	s ɤ ⁵⁵
 1334	Allen2007-1334	Eryuan	comb	232	梳子	1475	ʂv³⁵pe²¹	601	88 89	ʂ v ³⁵ p e ²¹
 1335	Allen2007-1335	Heqing	comb	232	梳子	1475	su⁵⁵tsɿ³³	602	88 90	s u ⁵⁵ ts ɿ ³³
-1336	Allen2007-1336	Lanping	comb	232	梳子	1475	su⁵⁵(pʰi³¹)	603	88 89	s u ⁵⁵ ( pʰ i ³¹ )
+1336	Allen2007-1336	Lanping	comb	232	梳子	1475	su⁵⁵(pʰi³¹)	603	88 89	s u ⁵⁵ pʰ i ³¹
 1337	Allen2007-1337	Qiliqiao	comb	232	梳子	1475	kʰɔ⁵⁵sɤ³⁵pʰi²¹	604	91 88 89	kʰ ɔ ⁵⁵ s ɤ ³⁵ pʰ i ²¹
 1338	Allen2007-1338	Yunlong	comb	232	梳子	1475	ʃɤ³⁵pe²¹	605	88 89	ʃ ɤ ³⁵ p e ²¹
 1339	Allen2007-1339	Xiangyun	comb	232	梳子	1475	ɕɛ³⁵tsɿ³³	606	88 90	ɕ ɛ ³⁵ ts ɿ ³³
@@ -2497,7 +2497,7 @@ ID	LID	DOCULECT	CONCEPT	CONCEPT_ID	CHINESE	CONCEPTICON_ID	VALUE	CROSSREF	PARTIAL
 4071	Allen2007-4071	Heqing	monkey	56	猴子	1350	u²¹sũã³⁵	1989	272 273	u ²¹ s ũ ã ³⁵
 4072	Allen2007-4072	Lanping	monkey	56	猴子	1350	ɔ̃²¹sũã⁴⁴	1990	272 273	ɔ̃ ²¹ s ũ ã ⁴⁴
 4073	Allen2007-4073	Qiliqiao	monkey	56	猴子	1350	o⁴²ʃua³⁵	1991	272 273	o ⁴² ʃ u a ³⁵
-4074	Allen2007-4074	Yunlong	monkey	56	猴子	1350	wu²¹sua³⁵/sɿ⁵⁵	1992	272 273	w u ²¹ s u a ³⁵ /s ɿ ⁵⁵
+4074	Allen2007-4074	Yunlong	monkey	56	猴子	1350	wu²¹sua³⁵/sɿ⁵⁵	1992	272 273	w u ²¹ s u a ³⁵ s ɿ ⁵⁵
 4075	Allen2007-4075	Xiangyun	monkey	56	猴子	1350	a⁵⁵sũã³⁵	1993	272 273	a ⁵⁵ s ũ ã ³⁵
 4076	Allen2007-4076	Luobenzhuo	monkey	56	猴子	1350	õ³¹sõ⁵⁵	1994	272 273	õ ³¹ s õ ⁵⁵
 4077	Allen2007-4077	Zhoucheng	monkey	56	猴子	1350	ɔ²¹sa³⁵	0	272 273	ɔ ²¹ s a ³⁵
@@ -2839,7 +2839,7 @@ ID	LID	DOCULECT	CONCEPT	CONCEPT_ID	CHINESE	CONCEPTICON_ID	VALUE	CROSSREF	PARTIAL
 1360	Allen2007-1360	Jianchuan	pen	235	笔	794	fɤ⁴⁴	6667	1070	f ɤ ⁴⁴
 1361	Allen2007-1361	Eryuan	pen	235	笔	794	fɤ⁴⁴mɯ⁴⁴kua⁴²	6668	1070 1071 1072	f ɤ ⁴⁴ m ɯ ⁴⁴ k u a ⁴²
 1362	Allen2007-1362	Heqing	pen	235	笔	794	fɤ⁴⁴	6669	1070	f ɤ ⁴⁴
-1363	Allen2007-1363	Lanping	pen	235	笔	794	fɛ⁴⁴(kɔ̃³¹)	6670	1070 1072	f ɛ ⁴⁴ ( k ɔ̃ ³¹ )
+1363	Allen2007-1363	Lanping	pen	235	笔	794	fɛ⁴⁴(kɔ̃³¹)	6670	1070 1072	f ɛ ⁴⁴ k ɔ̃ ³¹
 1364	Allen2007-1364	Qiliqiao	pen	235	笔	794	fɤ⁴⁴	6671	1070	f ɤ ⁴⁴
 1365	Allen2007-1365	Yunlong	pen	235	笔	794	fɤ³³	6672	1070	f ɤ ³³
 1366	Allen2007-1366	Xiangyun	pen	235	笔	794	fɤ⁴⁴	6673	1070	f ɤ ⁴⁴
