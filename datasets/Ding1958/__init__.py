@@ -18,8 +18,10 @@ def prepare(ds):
             bjr = ds.transform(bj, 'source')
             ct = ds.transform(bj, 'context')
             try:
-                mc = ds.sixtuple(st)
-                st = ds.structure(mc)
+                _i = ds.sixtuple(st)
+                print(char, _i)
+                mc, st = ds.mch(_i)
+
                 C[idx] = [char, py, 'Middle_Chinese', mc, st]
                 C[idx+1] = [char, py, 'Beijing', bjr, ct]
                 idx += 2

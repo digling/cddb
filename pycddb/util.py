@@ -1,20 +1,30 @@
 from functools import partial
-from clldutils.dsv import UnicodeReader
 import os
 from glob import glob
-from clldutils.misc import slug
-from pyconcepticon.api import Concepticon
 from collections import OrderedDict, defaultdict
+
+from clldutils.dsv import UnicodeReader
+from clldutils.misc import slug
+import unicodedata
+from pybtex import database
+
+
+from pyclpa.base import get_clpa
+from pyconcepticon.api import Concepticon
+
 from sinopy import sinopy
 import geojson
 import json
+
 import lingpy as lp
 from lingpy.compare.partial import _get_slices
+
 from segments.tokenizer import Tokenizer
-import unicodedata
+
 
 # modify lingpy settings
 lp.settings.rcParams['morpheme_separator'] = '+'
+clpa = get_clpa()
 
 def cddb_path(*comps):
     return os.path.join(os.path.dirname(__file__), os.pardir, *comps)
@@ -52,7 +62,7 @@ def renumber_partial(wordlist, name='cogids', partial_cognates='value'):
         concept = wordlist[k, 'concept']
         cogids = []
         for char in chars:
-            if sinopy.is_chinese(char):
+            if sinopy.iexpands_chinese(char):
                 if char not in pcogs:
                     pcogs[char] = idx
                     idx += 1
@@ -140,13 +150,24 @@ def get_inventories(wordlist, segments='tokens'):
             I += [(str(idx), t, s, v, len(occ), ' '.join(occ))]
     return I
 
-def transform(tokenizer, string, column):
-    
-    return unicodedata.normalize("NFC", tokenizer.transform(r''+string, column))
+def normalize(string):
+    norms = {'ˁ': 'ˤ', 'ɡ': 'g', "ε" : "ɛ"}
+    return ''.join([norms.get(x, x) for x in string])
 
-def get_transformer(profile, exception=None, missing='?'):
+def get_transformer(profile, exception=None):
     
-    tokenizer = Tokenizer(cddb_path('profiles', profile))
-    exception = exception or {"#": "+", '???' : missing}
-    return lambda x, y: unicodedata.normalize('NFC', tokenizer.transform(r''+x,
-        y, exception=exception, missing="???"))
+    profile = lp.csv2list(cddb_path('profiles', profile), strip_lines=False)
+    for i, line in enumerate(profile):
+        profile[i] = [clpa.normalize(x) for x in line]
+    tokenizer = Tokenizer(profile)
+    
+    return lambda x, y: unicodedata.normalize(
+            'NFC',
+            tokenizer.transform(clpa.normalize(x), column=y, separator=' + ', 
+                missing=lambda x: '«{0}»'.format(x)))
+
+def get_bibliography():
+    return database.parse_file(cddb_path('references', 'references.bib'))
+
+
+

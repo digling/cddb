@@ -50,7 +50,7 @@ def _get_data(dataset):
     tone_converter = dict(zip('012345-', '⁰¹²³⁴⁵⁻'))
     #tone_converter['_'] = ''
     D = {}
-    D[0] = ['doculect', 'concept', 'hanzi_in_source', 'ipa_in_source', 'page']
+    D[0] = ['doculect', 'concept', 'benzi', 'ipa_in_source', 'page']
     blocks = []
     cc = ''
     for f in files:
@@ -97,7 +97,7 @@ def _get_data(dataset):
                             newtone = ''.join([tone_converter.get(x, x) for x in tone])
                             morph = morph.replace(tone, newtone[1:-1])
 
-                        ipa = transform(r''+morph, 'cddb') 
+                        ipa = transform(r''+morph, 'cddb').replace(' ⁻ ', '⁻') 
                         if '?' in ipa:
                             print(f.split('/')[-1], page, morph, morpheme, ipa)
                             input()
@@ -111,13 +111,13 @@ def _get_data(dataset):
                     idx = 0
     return blocks
 
-def prepare(dataset):
+def prepare(ds):
     concepts = dict([(x.english, (x.concepticon_id, x.attributes['chinese']))
         for x in Concepticon().conceptlists['Liu-2007-201'].concepts.values()])
-    blocks = _get_data(dataset)
+    blocks = _get_data(ds)
     D, idx = {}, 1
-    id2lang = dict([(dataset.languages[x][dataset.id+'_id'], x) for x in
-        dataset.languages])
+    id2lang = dict([(ds.languages[x][ds.id+'_id'], x) for x in
+        ds.languages])
     errors = set()
     for block in blocks:
         for i, (_idx, concept, page, sampas, chars, words, f) in enumerate(block):
@@ -137,10 +137,9 @@ def prepare(dataset):
                     print(chars, words, f)
                     raise
     D[0] = ['doculect', 'doculect_id', 'concept', 'concept_chinese',
-            'concepticon_id', 'characters', 'value', 'tokens', 'sampa', 'page']
+            'concepticon_id', 'characters', 'value', 'segments', 'sampa', 'page']
     wl = Wordlist(D)
-    wl.output('tsv', filename=dataset.get_path('words'), ignore='all',
-            prettify=False)
+    ds.write_wordlist(Wordlist(D))
     print(errors)
 
 

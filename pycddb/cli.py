@@ -75,18 +75,27 @@ def main():
 
     if 'list' in argv:
         if 'sources' in argv:
+            l, w, c = set(), 0, set()
             sources = sorted(glob(cddb_path('datasets', '*', '__init__.py')))
             for i, s in enumerate(sources):
                 src = os.path.split(os.path.split(s)[0])[1]
                 dset = Dataset(src)
-                words, chars = 0, 0
+                words, concepts, chars = 0, 0, 0
                 if dset.words:
                     words = len(dset.words)
+                    concepts = len(dset.words.concepts)
                 if dset.characters:
                     chars = dset.characters.height
+                    c.update(dset.characters)
                 print('{0:20}: {1:5} languages {2:6} words {3:6} characters'.format(src,
                     len(dset.languages), words, chars)) 
-     
+                l.update(dset.languages)
+                w += words
+            print( '{0:20}: {1:5} --------- {2:6} ----- {3:6} ----------'.format(
+                18 * '-',
+         '', '', ''))
+            print('{0:20}: {1:5} languages {2:6} words {3:6} characters'.format(
+                'TOTAL', len(l), w, len(c)))
     if 'markdown' in argv:
         md_sources()
 

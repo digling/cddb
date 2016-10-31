@@ -1,6 +1,4 @@
 GRAPHEMES	Baxter1992	CLPA	STRUCTURE
-P	NULL	NULL	t
-R	NULL	NULL	t
 '	'	ʔ	i
 b	b	b	i
 d	d	d	i
@@ -41,8 +39,6 @@ zy	zy	ʑ	i
 ʔ	'	ʔ	i
 kw	kw	k w	i m
 jaek	j ae k	j æ k /⁴	m n c t
-'jip	' j i p	ʔ j i p /⁴	i m n c t
-'jim	' j i m	ʔ j i m /¹	i m n c t
 jaem	j ae m	j æ m /¹	m n c t
 jaemH	j ae m H	j æ m /³	m n c t
 jaemX	j ae m X	j æ m /²	m n c t
@@ -158,12 +154,9 @@ jwot	jw o t	ɥ o t /⁴	m n c t
 jwæng	jw ae ng	ɥ æ ŋ /¹	m n c t
 jwængH	jw ae ng H	ɥ æ ŋ /³	m n c t
 jwængX	jw ae ng X	ɥ æ ŋ /²	m n c t
-jwɨj	jw + j	ɥ ɨ j /¹	m n c t
-jwɨjH	jw + j H	ɥ ɨ j /³	m n c t
-jwɨjX	jw + j X	ɥ ɨ j /²	m n c t
-jw+j	jw + j	ɥ ɨ j /¹	m n c t
-jw+jH	jw + j H	ɥ ɨ j /³	m n c t
-jw+jX	jw + j X	ɥ ɨ j /²	m n c t
+jwɨj	jw ɨ j	ɥ ɨ j /¹	m n c t
+jwɨjH	jw ɨ j H	ɥ ɨ j /³	m n c t
+jwɨjX	jw ɨ j X	ɥ ɨ j /²	m n c t
 jæk	j ae k	j æ k /⁴	m n c t
 jæm	j ae m	j æ m /¹	m n c t
 jæmH	j ae m H	j æ m /³	m n c t
@@ -172,20 +165,13 @@ jæng	j ae ng	j æ ŋ /¹	m n c t
 jængH	j ae ng H	j æ ŋ /³	m n c t
 jængX	j ae ng X	j æ ŋ /²	m n c t
 jæp	j ae p	j æ p /⁴	m n c t
-jɨj	j + j	j ɨ j /¹	m n c t
-jɨjH	j + j H	j ɨ j /³	m n c t
-jɨjX	j + j X	j ɨ j /²	m n c t
-jɨn	j + n	j ɨ n /¹	m n c t
-jɨnH	j + n H	j ɨ n /³	m n c t
-jɨnX	j + n X	j ɨ n /²	m n c t
-jɨt	j + t	j ɨ t /⁴	m n c t
-j+j	j + j	j ɨ j /¹	m n c t
-j+jH	j + j H	j ɨ j /³	m n c t
-j+jX	j + j X	j ɨ j /²	m n c t
-j+n	j + n	j ɨ n /¹	m n c t
-j+nH	j + n H	j ɨ n /³	m n c t
-j+nX	j + n X	j ɨ n /²	m n c t
-j+t	j + t	j ɨ t /⁴	m n c t
+jɨj	j ɨ j	j ɨ j /¹	m n c t
+jɨjH	j ɨ j H	j ɨ j /³	m n c t
+jɨjX	j ɨ j X	j ɨ j /²	m n c t
+jɨn	j ɨ n	j ɨ n /¹	m n c t
+jɨnH	j ɨ n H	j ɨ n /³	m n c t
+jɨnX	j ɨ n X	j ɨ n /²	m n c t
+jɨt	j ɨ t	j ɨ t /⁴	m n c t
 waej	w ae j	w æ j /¹	m n c t
 waejH	w ae j H	w æ j /³	m n c t
 waejX	w ae j X	w æ j /²	m n c t
@@ -498,10 +484,3 @@ xwik	x w i k	x w i k /⁴	i m n c t
 ʔjip	' j i p	ʔ j i p /⁴	i m n c t
 ʔjim	' j i m	ʔ j i m /¹	i m n c t
 hwik	h w i k	ɣ w i k /⁴	i m n c t
-gja	g j a	g j a p	i m n c
-kjwak	k jw a k	k ɥ a k	i m n c
-gjwa	g jw a	g ɥ a	i m n
-xjwa	x jw a	x ɥ a	i m n
-jwa	jw a	ɥ a	m n
-we	w e	w e	m n
-iw	i w	i w	n c

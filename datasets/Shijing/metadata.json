@@ -2,5 +2,7 @@
 	"dataset" : "Shijing",
 	"description" : "Rhyme annotations of the [Shijing](:ref:Shijing) by [Baxter 1992](:ref:Baxter1992).",
 	"provider" : "List2015TALKk",
-	"shijingbrowser_url" : "http://digling.org/shijing?stanza={stanza}"
+	"shijingbrowser_url" : "http://digling.org/shijing?stanza={stanza}",
+	"compiler" : "List, Johann-Mattis",
+	"license" : "CCBY"
 }

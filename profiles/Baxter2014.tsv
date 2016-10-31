@@ -1,0 +1,253 @@
+GRAPHEMES	Baxter2014	CLPA	TYPE	STRUCTURE
+ɡ	ɡ	ɡ	i	i
+b	b	b	i	i
+br	br	br	i	i
+bˁ	bˁ	bˁ	i	i
+d	d	d	i	i
+dz	dz	dz	i	i
+dzˁ	dzˁ	dzˁ	i	i
+dˁ	dˁ	dˁ	i	i
+k	k	k	i	i
+kʰ	kʰ	kʰ	i	i
+kʰˁ	kʰˁ	kʰˁ	i	i
+kʷ	kʷ	kʷ	i	i
+kʷʰ	kʷʰ	kʷʰ	i	i
+kʷʰˁ	kʷʰˁ	kʷʰˁ	i	i
+kʷˁ	kʷˁ	kʷˁ	i	i
+kˁ	kˁ	kˁ	i	i
+l	l	l	i	i
+lˁ	lˁ	lˁ	i	i
+l̥	l̥	l̥	i	i
+l̥ˁ	l̥ˁ	l̥ˁ	i	i
+m	m	m	i	i
+mˁ	mˁ	mˁ	i	i
+m̥	m̥	m̥	i	i
+m̥ˁ	m̥ˁ	m̥ˁ	i	i
+n	n	n	i	i
+nˁ	nˁ	nˁ	i	i
+n̥	n̥	n̥	i	i
+n̥ˁ	n̥ˁ	n̥ˁ	i	i
+p	p	p	i	i
+l̥	l̥	l̥	i	i
+r	r	r	i	i
+rˁ	rˁ	rˁ	i	i
+pʰ	pʰ	pʰ	i	i
+pʰˁ	pʰˁ	pʰˁ	i	i
+pˁ	pˁ	pˁ	i	i
+q	q	q	i	i
+qʰ	qʰ	qʰ	i	i
+qʰˁ	qʰˁ	qʰˁ	i	i
+qʷ	qʷ	qʷ	i	i
+qʷʰ	qʷʰ	qʷʰ	i	i
+qʷʰˁ	qʷʰˁ	qʷʰˁ	i	i
+qʷˁ	qʷˁ	qʷˁ	i	i
+qˁ	qˁ	qˁ	i	i
+r	r	r	i	i
+r	r	r	i	i
+rˁ	rˁ	rˁ	i	i
+r̥	r̥	r̥	i	i
+r̥ˁ	r̥ˁ	r̥ˁ	i	i
+s	s	s	i	i
+r	r	r	i	i
+sˁ	sˁ	sˁ	i	i
+t	t	t	i	i
+q	q	q	i	i
+ts	ts	ts	i	i
+tsʰ	tsʰ	tsʰ	i	i
+tsʰˁ	tsʰˁ	tsʰˁ	i	i
+tsˁ	tsˁ	tsˁ	i	i
+tʰ	tʰ	tʰ	i	i
+tʰˁ	tʰˁ	tʰˁ	i	i
+tˁ	tˁ	tˁ	i	i
+ŋ	ŋ	ŋ	i	i
+ŋʷˁ	ŋʷˁ	ŋʷˁ	i	i
+ŋˁ	ŋˁ	ŋˁ	i	i
+ŋ̊	ŋ̊	ŋ̊	i	i
+ŋ̊ˁ	ŋ̊ˁ	ŋ̊ˁ	i	i
+ɡˁ	ɡˁ	ɡˁ	i	i
+ɢ	ɢ	ɢ	i	i
+ɢʷ	ɢʷ	ɢʷ	i	i
+ɢˁ	ɢˁ	ɢˁ	i	i
+ʔ	ʔ	ʔ	i	i
+ʔˁ	ʔˁ	ʔˁ	i	i
+l‹r›	l ‹r›	l r/‹r›	i	i m
+bˁr	bˁr	bˁ r	i	i m
+dr	dr	d r	i	i m
+dzr	dzr	dz r	i	i m
+lˁ‹r›	lˁ ‹r›	lˁ r/‹r›	i	i m
+kr	kr	k r	i	i m
+kʰr	kʰ r	kʰ r	i	i m
+kʰˁr	kʰˁ r	kʰˁ r	i	i m
+kʰˁ‹r›	kʰˁ ‹r›	kʰˁ r/‹r›	i	i m
+kʰ‹r›	kʰ ‹r›	kʰ r/‹r›	i	i m
+kʷr	kʷ r	kʷ r	i	i m
+kʷˁr	kʷˁ r	kʷˁ r	i	i m
+kˁr	kˁ r	kˁ r	i	i m
+kˁ‹r›	kˁ ‹r›	kˁ r/‹r›	i	i m
+k‹r›	k ‹r›	k r/‹r›	i	i m
+lr	l r	l r	i	i m
+lˁr	lˁ r	lˁ r	i	i m
+l̥r	l̥ r	l̥ r	i	i m
+l̥ˁ‹r›	l̥ˁ ‹r›	l̥ˁ r/‹r›	i	i m
+mr	m r	m r	i	i m
+mˁr	mˁ r	mˁ r	i	i m
+mˁ‹r›	mˁ ‹r›	mˁ r/‹r›	i	i m
+m̥r	m̥ r	m̥ r	i	i m
+nr	n r	n r	i	i m
+nˁr	nˁ r	nˁ r	i	i m
+n‹r›	n‹r›	n r/‹r›	i	i m
+pr	p r	p r	i	i m
+pʰr	pʰ r	pʰ r	i	i m
+pʰˁr	pʰˁ r	pʰˁ r	i	i m
+pˁr	pˁ r	pˁ r	i	i m
+pˁ‹r›	pˁ ‹r›	pˁ r/‹r›	i	i m
+p‹r›	p ‹r›	p r/‹r›	i	i m
+qr	q r	q r	i	i m
+qʰr	qʰ r	qʰ r	i	i m
+qʰˁr	qʰˁ r	qʰˁ r	i	i m
+qʰˁ‹r›	qʰˁ ‹r›	qʰˁ r/‹r›	i	i m
+qʰ‹r›	qʰ ‹r›	qʰ r/‹r›	i	i m
+qʷʰˁr	qʷʰˁ r	qʷʰˁ r	i	i m
+qʷʰˁ‹r›	qʷʰˁ ‹r›	qʷʰˁ r/‹r›	i	i m
+qʷˁr	qʷˁ r	qʷˁ r	i	i m
+qʷˁ‹r›	qʷˁ ‹r›	qʷˁ r/‹r›	i	i m
+qˁr	qˁ r	qˁ r	i	i m
+qˁ‹r›	qˁ ‹r›	qˁ r/‹r›	i	i m
+q‹r›	q ‹r›	q r/‹r›	i	i m
+sr	s r	s r	i	i m
+sˁr	sˁ r	sˁ r	i	i m
+sˁ‹r›	sˁ ‹r›	sˁ r/‹r›	i	i m
+s‹r›	s ‹r›	s r/‹r›	i	i m
+tr	t r	t r	i	i m
+tsʰr	tsʰ r	tsʰ r	i	i m
+tsˁr	tsˁ r	tsˁ r	i	i m
+tʰr	tʰ r	tʰ r	i	i m
+tʰˁr	tʰˁ r	tʰˁ r	i	i m
+tʰ‹r›	tʰ ‹r›	tʰ r/‹r›	i	i m
+tˁr	tˁ r	tˁ r	i	i m
+tˁ‹r›	tˁ ‹r›	tˁ r/‹r›	i	i m
+t‹r›	t ‹r›	t r/‹r›	i	i m
+ŋr	ŋ r	ŋ r	i	i m
+ŋˁr	ŋˁ r	ŋˁ r	i	i m
+ɡr	ɡ r	ɡ r	i	i m
+ɡʷˁr	ɡʷˁ r	ɡʷˁ r	i	i m
+ɡˁr	ɡˁ r	ɡˁ r	i	i m
+ɢʷr	ɢʷ r	ɢʷ r	i	i m
+ɢʷˁr	ɢʷˁ r	ɢʷˁ r	i	i m
+ɢˁ‹r›	ɢˁ ‹r›	ɢˁ r/‹r›	i	i m
+ʔr	ʔ r	ʔ r	i	i m
+ʔˁr	ʔˁ r	ʔˁ r	i	i m
+ʔ‹r›	ʔ ‹r›	ʔ r/‹r›	i	i m
+a	a	a	f	n
+e	e	e	f	n
+o	o	o	f	n
+u	u	u	f	n
+ə	ə	ə	f	n
+aj	a j	a j	f	n c
+ak	a k	a k	f	n c
+am	a m	a m	f	n c
+an	a n	a n	f	n c
+ap	a p	a p	f	n c
+ar	a r	a r	f	n c
+at	a t	a t	f	n c
+aw	a w	a w	f	n c
+awk	a wk	a kʷ	f	n c
+aŋ	a ŋ	a ŋ	f	n c
+aʔ	a ʔ	a ʔ	f	n c
+ek	e k	e k	f	n c
+em	e m	e m	f	n c
+en	e n	e n	f	n c
+ep	e p	e p	f	n c
+er	e r	e r	f	n c
+et	e t	e t	f	n c
+ew	e w	e w	f	n c
+ewk	e wk	e kʷ	f	n c
+eŋ	e ŋ	e ŋ	f	n c
+ij	i j	i j	f	n c
+ik	i k	i k	f	n c
+im	i m	i m	f	n c
+ip	i p	i p	f	n c
+it	i t	i t	f	n c
+iw	i w	i w	f	n c
+iwk	i wk	i kʷ	f	n c
+iŋ	i ŋ	i ŋ	f	n c
+ok	o k	o k	f	n c
+om	o m	o m	f	n c
+on	o n	o n	f	n c
+op	o p	o p	f	n c
+or	o r	o r	f	n c
+ot	o t	o t	f	n c
+oŋ	o ŋ	o ŋ	f	n c
+uj	u j	u j	f	n c
+uk	u k	u k	f	n c
+un	u n	u n	f	n c
+ur	u r	u r	f	n c
+ut	u t	u t	f	n c
+uŋ	u ŋ	u ŋ	f	n c
+əj	ə j	ə j	f	n c
+ək	ə k	ə k	f	n c
+əm	ə m	ə m	f	n c
+ən	ə n	ə n	f	n c
+əp	ə p	ə p	f	n c
+ər	ə r	ə r	f	n c
+ət	ə t	ə t	f	n c
+əŋ	ə ŋ	ə ŋ	f	n c
+oj	o j	o j	f	n c
+əjʔ	ə j ʔ	ə j ʔ	f	n c C
+amʔ	a m ʔ	a m ʔ	f	n c C
+ajʔ	a j ʔ	a j ʔ	f	n c C
+amʔ	a m ʔ	a m ʔ	f	n c C
+anʔ	a n ʔ	a n ʔ	f	n c C
+arʔ	a r ʔ	a r ʔ	f	n c C
+awʔ	a w ʔ	a w ʔ	f	n c C
+aŋʔ	a ŋ ʔ	a ŋ ʔ	f	n c C
+emʔ	e m ʔ	e m ʔ	f	n c C
+enʔ	e n ʔ	e n ʔ	f	n c C
+erʔ	e r ʔ	e r ʔ	f	n c C
+ewʔ	e w ʔ	e w ʔ	f	n c C
+eŋʔ	e ŋ ʔ	e ŋ ʔ	f	n c C
+ijʔ	i j ʔ	i j ʔ	f	n c C
+imʔ	i m ʔ	i m ʔ	f	n c C
+iwʔ	i w ʔ	i w ʔ	f	n c C
+ojʔ	o j ʔ	o j ʔ	f	n c C
+omʔ	o m ʔ	o m ʔ	f	n c C
+onʔ	o n ʔ	o n ʔ	f	n c C
+orʔ	o r ʔ	o r ʔ	f	n c C
+oŋʔ	o ŋ ʔ	o ŋ ʔ	f	n c C
+ujʔ	u j ʔ	u j ʔ	f	n c C
+unʔ	u n ʔ	u n ʔ	f	n c C
+urʔ	u r ʔ	u r ʔ	f	n c C
+əmʔ	ə m ʔ	ə m ʔ	f	n c C
+ərʔ	ə r ʔ	ə r ʔ	f	n c C
+əŋʔ	ə ŋ ʔ	ə ŋ ʔ	f	n c C
+eʔ	e ʔ	e ʔ	f	n C
+oʔ	o ʔ	o ʔ	f	n C
+uʔ	u ʔ	u ʔ	f	n C
+əʔ	ə ʔ	ə ʔ	f	n C
+(	(	NULL	symbol	NULL
+)	)	NULL	symbol	NULL
+*	*	NULL	symbol	NULL
+[	[	NULL	symbol	NULL
+]	]	NULL	symbol	NULL
+C-	C-	/C	p	p
+N-	N-	/N	p	p
+S-	S-	/S	p	p
+k-	k-	k	p	p
+m-	m-	m	p	p
+s-	s-	s	p	p
+N-kə.	N-kə.	/N k ə	p	p P N
+C.	C.	/C	p	P
+N.	N.	/N	p	P
+S.	S.	/S	p	P
+k.	k.	k	p	P
+m.	m.	m	p	P
+p.	p.	p	p	P
+s.	s.	s	p	P
+Cə.	Cə.	/C ə	p	P N
+kə.	kə.	k ə	p	P N
+mə.	m ə.	m ə	p	P N
+pə.	p ə.	p ə	p	P N
+sə.	s ə.	s ə	p	P N
+-s	-s	s	s	S
+t-	t-	t ←	p	t ←
+t.	t.	t +	p	t +

@@ -1,0 +1,116 @@
+GRAPHEMES	TYPE	Allen2007	CLPA	STRUCTURE	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhoucheng
+ai	diphtong	ai	a i	n c								(Chinese borrowings only)	
+ao	diphtong	ao	a o	n c				X	X			X	
+ia	diphtong	ia	i a	m n	X	X	X	X		X	X	X	X
+iã	diphtong	iã	i ã	m n		X	X	X			X		
+iɔ	diphtong	iɔ	i ɔ	m n						X	X	X	X
+iɔ̃	diphtong	iɔ̃	i ɔ ̃∼	m n c							X		
+iɛ	diphtong	iɛ	i ɛ	m n	X	X	X	X	X	X	X	X	X
+iɛ̃	diphtong	iɛ̃	i ɛ̃ ∼	m n c		X	X	X	X		X		
+iɯ	diphtong	iɯ	i ɯ	m n			X	X					
+iɯ̃	diphtong	iɯ̃	i ɯ̃ ∼	m n c			X	X					
+ou	diphtong	ou	o u	n c		X	X				X		
+ua	diphtong	ua	u a	m n	X	X	X	X	X	X	X	X	X
+ue	diphtong	ue	u e	m n	X	X	X	X	X	X	X	X	X
+uã	diphtong	uã	u ã ∼	m n c		X	X	X	X		X		
+uɔ	diphtong	uɔ	u ɔ	m n		X		X	X	X	X	X	X
+uɔ̃	diphtong	uɔ̃	u ɔ̃ ∼	m n c		X		X	X		X		
+uɛ	diphtong	uɛ	u ɛ	m n	X	X	X	X	X	X	X	X	X
+uɛ̃	diphtong	uɛ̃	u ɛ̃ ∼	m n c			X	X	X		X		
+uẽ	diphtong	uẽ	u ẽ ∼	m n c		X	X	X	X		X		
+yɛ	diphtong	yɛ	y ɛ	m n								X	
+ão	diphtong	ão	ã o ∼	m n c				X	X				
+õu	diphtong	õu	õ u	n c		X	X				X		
+ɔu	diphtong	ɔu	ɔ u	n c 		X							
+ɔ̃u	diphtong	ɔ̃u	ɔ̃ u	n c 		X							
+b	initial	b	b	i					X				
+c	initial	c	c	i					X				
+cʰ	initial	cʰ	cʰ	i					X				
+d	initial	d	d	i					X			X	
+dz	initial	dz	dz	i								X	
+dʐ	initial	dʐ	dʐ	i					X				
+dʑ	initial	dʑ	dʑ	i					X			X	
+f	initial	f	f	i	X	X	X	X	X	X	X	X	X
+g	initial	g	g	i					X			X	
+j	initial	j	j	i	X	X	X	ʝ/_[i]/X	X	X	X	X	X
+k	initial	k	k	i	kʲ/[i e ɛ]_/X	X	X	X	X	X	kʲ/_[i e ɛ]/X	X	kʲ/_[i]/X
+kʰ	initial	kʰ	kʰ	i	kʲʰ/[i e ɛ]/X	X	X	X	X	X	X	X	X
+kʲ	initial	kʲ	kʲ	i	k/[i e ɛ]_						k/_[i e ɛ]		k/_[i]
+kʲʰ	initial	kʲʰ	kʲʰ	i	kʰ/[i e ɛ]								
+l	initial	l	l	i	X	X	X	X	X	X	X	X	X
+m	initial	m	m	i	X	X	X	X	X	X	X	X	X
+n	initial	n	n	i	X	X	X	X	X	ȵ/_[i]/X	X	X	X
+p	initial	p	p	i	X	X	X	X	X	X	X	X	X
+pʰ	initial	pʰ	pʰ	i	X	X	X	X	X	X	X	X	X
+q	initial	q	q	i					X				
+qʰ	initial	qʰ	qʰ	i					X				
+s	initial	s	s	i	X	X	X	X	X	ʃ/_[u]/X	X	ʃ/_[v̩]/X	X
+sʰ	initial	sʰ	sʰ	i		X							
+t	initial	t	t	i	X	X	X	X	X	X	X	X	X
+ts	initial	ts	ts	i	X	X	X	X	X	tʃ/_[u]/X	X	X	X
+tsʰ	initial	tsʰ	tsʰ	i	X	X	X	X	X	tʃʰ/_[u]/X	X	X	X
+tɕ	initial	tɕ	tɕ	i	X	X	X	X	X	X	X	X	X
+tɕʰ	initial	tɕʰ	tɕʰ	i	X	X		X	X	X	X	X	X
+tʂ	initial	tʂ	tʂ	i	X				tʃ/_[u]/X				
+tʂʰ	initial	tʂʰ	tʂʰ	i	X				tʃ/_[u]/X				
+tʃ	initial	tʃ	tʃ	i					tʂʰ/_[u]	ts/_[u]			
+tʃʰ	initial	tʃʰ	tʃʰ	i						tsʰ/_[u]			
+tʰ	initial	tʰ	tʰ	i	X	X	X	X	X	X	X	X	X
+v	initial	v	v	i	X	X	X	X	X	X		X	X
+w	initial	w	w	i	X	X	X	X	X	X	X	X	X
+x	initial	x	x	i	X	X		X	X	X	X	X	X
+xʰ	initial	xʰ	xʰ	i		X							
+z	initial	z	z	i	X	X			X	X	X	X	X
+ŋ	initial	ŋ	ŋ	i	X	X	X	X	X	X	X	X	X
+ȵ	initial	ȵ	ɲ 	i	X				X	n/_[i]		X	X
+ɕ	initial	ɕ	ɕ	i	X	X	X	X	X	X	X	X	X
+ɕʰ	initial	ɕʰ	ɕʰ	i		X							
+ɖ	initial	ɖ	ɖ	i					X				
+ɣ	initial	ɣ	ɣ	i	X		X	X		X	X	ʁ/_[ɔ]/X	_[ɯ]
+ɥ	initial	ɥ	ɥ	i								X	
+ɴ	initial	ɴ	ɴ	i					X				
+ɴ̥	initial	ɴ̥	ɴ̥	i					X				
+ʁ	initial	ʁ	ʁ	i								ɣ/_[ɔ]	
+ʂ	initial	ʂ	ʂ	i	X				X				
+ʃ	initial	ʃ	ʃ	i						s/_[u]		s/_[v̩]	
+ʈ	initial	ʈ	ʈ	i					X				
+ʈʰ	initial	ʈʰ	ʈʰ	i					X				
+ʐ	initial	ʐ	ʐ	i	X			X	X				
+ʔ	initial	ʔ	ʔ	i					X				
+ʝ	initial	ʝ	ʝ	i				j/_[i]					
+χ	initial	χ	χ	i					X				
+21	tone	21	²¹	t	X	X	X	X	X	X	X	X	X
+31	tone	31	³¹	t	X	X	X	X	X	X	X	X	X
+32	tone	32	³²	t						X			X
+33	tone	33	³³	t	X	X	X	X	X	X	X	X	X
+35	tone	35	³⁵	t	X	X	X	X	X	X	X	X	X
+42	tone	42	⁴²	t	X	X	X	X	X	X	X	X	
+44	tone	44	⁴⁴	t	X	X	X	X	X	X	X	X	X
+52	tone	52	⁵²	t									X
+55	tone	55	⁵⁵	t	X	X	X	X	X	X	X	X	X
+66	tone	66	⁶⁶	t			(only in modern loans)						
+a	vowel	a	a	n	X	X	X	X	X	X	X	X	X
+e	vowel	e	e	n	X	X	X	X	X	X	X	X	X
+i	vowel	i	i	n	ɿ/[s,z,ts,tsʰ]_/X	ɿ/[s sʰ z ts tsʰ]_/X	ɿ/[s ts tsʰ]/X	X	X	ɿ/[s z ts tsʰ]_/X	ɿ/[s z ts tsʰ]_/X	ɿ/[s z dz ts tsʰ]_/X	ɿ/[s sʰ z ts tsʰ]_/X
+o	vowel	o	o	n	X	X	X	X	X	X	X	X	X
+u	vowel	u	u	n	X	v̩/[f v]_/X	X	X	X	X	X	X	X
+v̩	vowel	v̩	v̩	n	X	u/[f v]_	X		X	X	X	X	X
+y	vowel	y	y	n	X	X	X	X	X	X	X	X	[tɕ tɕʰ ȵ j]_
+ã	vowel	ã	ã ∼	n c		X	X	X	X		X		
+æ	vowel	æ	æ	n					X				
+æ̃	vowel	æ̃	æ̃ ∼	n c					X				
+õ	vowel	õ	õ ∼	n c		X	X	X	X		X		
+ĩ	vowel	ĩ	ĩ ∼	n c		X	X	X	X		X		
+ũ	vowel	ũ	ũ ∼	n c		X	X	X	X		(not found in data)		
+ɔ	vowel	ɔ	ɔ	n	X	X		X	X	X	X	X	X
+ɔ̃	vowel	ɔ̃	ɔ̃ ∼	n c		X		X	X		X		
+ɛ	vowel	ɛ	ɛ	n	X	X	X	X	X	X	X	X	X
+ɛ̃	vowel	ɛ̃	ɛ̃ ∼	n c		X	X	X	X		X		
+ɯ	vowel	ɯ	ɯ	n	X	X	X	X	X	X	X	X	X
+ɯ̃	vowel	ɯ̃	ɯ̃ ∼	n c			X	X	X		X		
+ɿ	vowel	ɿ	ɿ	n	i/[s,z,ts,tsʰ]_	i/[s sʰ z ts tsʰ]_	i/[s ts tsʰ]			i/[s z ts tsʰ]_	i/[s z ts tsʰ]_	i/[s z dz ts tsʰ]_	i/[s sʰ z ts tsʰ]_
+ʊ	vowel	ʊ	ʊ	n					X				
+ʊ̃	vowel	ʊ̃	ʊ̃ ∼	n c					X				
+ṽ̩	vowel	ṽ̩	ṽ̩ ∼	n c			X		X		X		
+ẽ	vowel	ẽ	ẽ ∼	n c		X	X	X	X		X		
+ỹ	vowel	ỹ	ỹ ∼	n c		X	X	X	X		X		

@@ -1,42 +1,4 @@
-GRAPHEMES	SOURCE	TYPE	STRUCTURE
-a	a	final	n
-aN	a ŋ	final	nc
-ai	a i	final	nc
-an	a n	final	nc
-au	a u	final	nc
-ei	e i	final	nc
-i	i	final	n
-iN	i ŋ	final	nc
-ia	i a	final	mn
-iaN	i a ŋ	final	mnc
-ian	i a n	final	mnc
-iau	i a u	final	mnc
-ie	i e	final	mn
-in	i n	final	nc
-iou	i o u	final	mnc
-o	o	final	n
-ou	o u	final	nc
-u	u	final	n
-uN	u ŋ	final	nc
-ua	u a	final	mn
-uaN	u a ŋ	final	mnc
-uai	u a i	final	mnc
-uan	u a n	final	mnc
-uei	u e i	final	mnc
-uo	u o	final	mn
-u«N	u ə ŋ	final	mnc
-u«n	u ə n	final	mnc
-y	y	final	n
-yN	y ŋ	final	nc
-yan	y a n	final	mnc
-ye	y e	final	mn
-yn	y n	final	nc
-	ɿ	final	n
-	ʅ	final	n
-«N	ə ŋ	final	nc
-«n	ə n	final	nc
-¶	ɤ	final	n
-Ô	ɚ	final	n
+GRAPHEMES	SOURCE	TYPE	CONTEXT
 f	f	initial	i
 k	k	initial	i
 kh	kʰ	initial	i
@@ -58,7 +20,45 @@ x	x	initial	i
 ½	ʐ	initial	i
 þ	ɕ	initial	i
 Ƨ	ʂ	initial	i
-Ʒ	Ø	initial	i
+ia	i a	final	m n
+ie	i e	final	m n
+ua	u a	final	m n
+uo	u o	final	m n
+ye	y e	final	m n
+iaN	i a ŋ	final	m n c
+ian	i a n	final	m n c
+iau	i a u	final	m n c
+iou	i o u	final	m n c
+uaN	u a ŋ	final	m n c
+uai	u a i	final	m n c
+uan	u a n	final	m n c
+uei	u e i	final	m n c
+u«N	u ə ŋ	final	m n c
+u«n	u ə n	final	m n c
+yan	y a n	final	m n c
+a	a	final	n
+i	i	final	n
+o	o	final	n
+u	u	final	n
+y	y	final	n
+	ɿ	final	n
+	ʅ	final	n
+¶	ɤ	final	n
+Ô	ɚ	final	n
+aN	a ŋ	final	n c
+ai	a i	final	n c
+an	a n	final	n c
+au	a u	final	n c
+ei	e i	final	n c
+iN	i ŋ	final	n c
+in	i n	final	n c
+ou	o u	final	n c
+uN	u ŋ	final	n c
+yN	y ŋ	final	n c
+yn	y n	final	n c
+«N	ə ŋ	final	n c
+«n	ə n	final	n c
+Ʒ	NULL	initial	NULL
 1	⁵⁵	tone	t
 2	³⁵	tone	t
 3	²¹⁴	tone	t

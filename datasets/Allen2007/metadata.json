@@ -1,3 +1,9 @@
 {
-	"dataset" : "Allen2007"
+	"dataset" : "Allen2007",
+	"provider" : "Allen2007",
+	"compiler" : "Allen, Bryan",
+	"license" : "SIL",
+	"concepts" : "Allen-2007-500",
+	"profile" : "Allen2007.prf",
+	"description" : "Data from the *Bai Dialect Survey*, providing Bai dialect transcriptions for 500 concepts across 9 varieties."
 }
