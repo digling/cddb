@@ -1,0 +1,763 @@
+GRAPHEMES	SOURCE	TYPE	CLPA	STRUCTURE	COMMENT	TAXA
+#		f			?	Beijing,Changsha,Chengdu,Fuzhou,Guangzhou,Guiyang,Haerbin,Haikou,Hangzhou,Hefei,Huhehaote,Jian'ou,Jinan,Kunming,Lanzhou,Meixian,Nanchang,Nanjing,Nanning,Pingyao,Qingdao,Shanghai,Shantou,Shexian,Suzhou,Taibei,Taiyuan,Taoyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xiamen,Xianggang,Xiangtan,Xining,Yinchuan,Zhengzhou
+#k	k	f	k		error	Guangzhou,Nanning,Shantou,Xianggang
+#m	m	f	m		error?	Shantou,Taibei,Taoyuan,Xiamen,Yinchuan
+#n	n	f	n		error?	Chengdu,Guiyang,Haikou,Meixian,Nanning,Suzhou,Taibei,Tunxi,Xiamen,Xiangtan,Zhengzhou
+#r	r	f	r	r	?	Beijing,Chengdu,Haerbin,Huhehaote,Jinan,Nanjing,Pingyao,Qingdao,Taiyuan,Tianjin,Xi'an,Yinchuan
+#t	t	f	t		?	Haikou,Meixian,Nanning,Taibei,Xiamen
+#ŋ	ŋ	f	ŋ		error?	Fuzhou,Haikou,Jian'ou,Nanchang,Pingyao,Shanghai,Shantou,Taibei,Taoyuan,Tianjin,Wenzhou,Xi'an,Xiamen,Yinchuan
+#ʔ	ʔ	s	ʔ		?	Hangzhou,Hefei,Huhehaote,Nanchang,Nanjing,Pingyao,Shanghai,Shexian,Suzhou
+.ŋyɔŋ²⁴²	. ŋ y ɔ ŋ ²⁴²	s	ŋ/? y ɔ ŋ ²⁴²	i m n c	Fuzhou-specific weakening	
+a	a	f	a			Beijing,Changsha,Chengdu,Fuzhou,Guangzhou,Guiyang,Haerbin,Haikou,Hefei,Huhehaote,Jian'ou,Jinan,Lanzhou,Meixian,Nanchang,Nanjing,Nanning,Qingdao,Shanghai,Shantou,Shexian,Suzhou,Taibei,Taiyuan,Tunxi,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xiamen,Xianggang,Xiangtan,Xining,Yinchuan,Zhengzhou
+ae	a e	f	a e			Nanjing
+ai	a i	f	a i			Beijing,Changsha,Chengdu,Fuzhou,Guangzhou,Guiyang,Haerbin,Haikou,Jian'ou,Meixian,Nanchang,Nanning,Shantou,Taibei,Taiyuan,Tianjin,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xiamen,Xianggang,Xiangtan,Zhengzhou
+aiŋ	a i ŋ	f	a i ŋ			Jian'ou
+aiʔ	a i ʔ	f	a i ʔ			Fuzhou
+ak	a k	f	a k			Fuzhou,Guangzhou,Haikou,Meixian,Nanning,Shantou,Taibei,Xiamen,Xianggang
+am	a m	f	a m			Guangzhou,Haikou,Meixian,Nanning,Shantou,Taibei,Xiamen,Xianggang,Yinchuan
+an	a n	f	a n			Beijing,Changsha,Chengdu,Guangzhou,Guiyang,Haerbin,Meixian,Nanchang,Nanning,Taibei,Tianjin,Tunxi,Wuhan,Wulumuqi,Xiamen,Xianggang,Xiangtan,Yinchuan,Zhengzhou
+ao	a o	f	a o			Guiyang
+ap	a p	f	a p			Haikou,Meixian,Shantou,Taibei,Xiamen,Xianggang
+ar	a r	f	a r			Beijing,Haerbin,Huhehaote,Jinan,Taiyuan,Tianjin,Xi'an,Zhengzhou
+at	a t	f	a t			Guangzhou,Meixian,Nanning,Taibei,Xiamen,Xianggang
+au	a u	f	a u			Changsha,Chengdu,Fuzhou,Guangzhou,Haerbin,Haikou,Jian'ou,Meixian,Nanning,Shantou,Taibei,Taiyuan,Tunxi,Wenzhou,Wuhan,Xi'an,Xiamen,Xianggang,Zhengzhou
+aur	a u r	f	a u r			Beijing,Haerbin,Xi'an,Zhengzhou
+auʔ	a u ʔ	f	a u ʔ			Taibei,Xiamen
+aŋ	a ŋ	f	a ŋ			Beijing,Chengdu,Fuzhou,Guangzhou,Guiyang,Haerbin,Haikou,Jian'ou,Jinan,Meixian,Nanjing,Nanning,Qingdao,Shantou,Taibei,Wenzhou,Wuhan,Xi'an,Xiamen,Xianggang,Zhengzhou
+aɯ	a ɯ	f	a ɯ			Xiangtan
+aʔ	a ʔ	f	a ʔ			Fuzhou,Huhehaote,Nanchang,Shanghai,Shantou,Shexian,Suzhou,Taibei,Taiyuan,Xiamen
+aʦɿ	a⁰ʦɿ	f	a ⁰ ts ɿ			Wulumuqi
+b	b	i	b	i		Hangzhou,Shanghai,Shantou,Suzhou,Taibei,Wenzhou,Wulumuqi,Xiamen,Xiangtan
+d	d	i	d	i		Hangzhou,Shanghai,Suzhou,Wenzhou,Xiangtan
+d͡ʐ	d͡ʐ	i	d͡ʐ	i		Xiangtan
+e	e	f	e			Changsha,Chengdu,Fuzhou,Haikou,Hefei,Huhehaote,Jian'ou,Meixian,Nanchang,Nanjing,Qingdao,Shanghai,Shantou,Shexian,Taibei,Taiyuan,Taoyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Xiamen,Xiangtan,Yinchuan
+ei	e i	f	e i	n N		Beijing,Changsha,Chengdu,Guangzhou,Guiyang,Haerbin,Hangzhou,Huhehaote,Jinan,Kunming,Lanzhou,Pingyao,Taiyuan,Tianjin,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xianggang,Xiangtan,Yinchuan,Zhengzhou
+eiŋ	e i ŋ	f	e i ŋ	n N c		Jian'ou
+ek	e k	f	e k	n c		Shantou
+en	e n	f	e n	n c		Guiyang,Hangzhou,Meixian,Nanjing,Taibei,Taoyuan,Tunxi
+er	e r	f	e r	n c		Jinan,Qingdao,Tianjin
+et	e t	f	e t	n c		Meixian
+eu	e u	f	e u	n c		Fuzhou,Meixian,Taoyuan
+eŋ	e ŋ	f	e ŋ	n c		Guangzhou,Haikou,Meixian,Nanning,Shantou,Wenzhou,Xianggang,Yinchuan
+eʔ	e ʔ	f	e ʔ	n c		Fuzhou,Nanjing,Shantou,Shexian,Taibei,Xiamen
+f	f	i	f	i		Beijing,Changsha,Chengdu,Guangzhou,Guiyang,Haerbin,Haikou,Hangzhou,Hefei,Huhehaote,Jinan,Kunming,Lanzhou,Meixian,Nanchang,Nanjing,Nanning,Qingdao,Shanghai,Shexian,Suzhou,Taiyuan,Taoyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xianggang,Xining,Yinchuan,Zhengzhou
+fv̩	f v̩	f	f v̩	i n	consider re-writing as vowel	Xining
+g	g	i	g	i		Hangzhou,Shanghai,Shantou,Suzhou,Taibei,Wenzhou,Xiamen,Xiangtan
+h	h	i	h	i		Fuzhou,Guangzhou,Haikou,Hangzhou,Meixian,Nanchang,Nanning,Shanghai,Shantou,Suzhou,Taibei,Taoyuan,Wenzhou,Xiamen,Xianggang,Xiangtan
+hŋ̍	h ŋ̍	f	h ŋ̍ ∼	i n c		Xiamen
+i	i	f	i	n		Beijing,Changsha,Chengdu,Fuzhou,Guangzhou,Guiyang,Haerbin,Haikou,Hangzhou,Hefei,Huhehaote,Jian'ou,Jinan,Kunming,Lanzhou,Meixian,Nanchang,Nanjing,Nanning,Pingyao,Qingdao,Shanghai,Shantou,Shexian,Suzhou,Taibei,Taiyuan,Taoyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xiamen,Xianggang,Xiangtan,Xining,Yinchuan,Zhengzhou
+ia	i a	f	i a	m n		Beijing,Changsha,Chengdu,Guiyang,Haerbin,Haikou,Hefei,Huhehaote,Jian'ou,Jinan,Lanzhou,Qingdao,Shanghai,Shexian,Suzhou,Taibei,Taiyuan,Tunxi,Wuhan,Wulumuqi,Xi'an,Xiamen,Xining,Yinchuan,Zhengzhou
+iak	i a k	f	i a k	m n c		Haikou,Meixian
+iam	i a m	f	i a m	m n c		Haikou,Meixian,Shantou,Taibei,Xiamen
+ian	i a n	f	i a n	m n c		Beijing,Changsha,Chengdu,Guiyang,Haerbin,Meixian,Taibei,Tianjin,Tunxi,Wulumuqi,Xiamen,Xiangtan,Yinchuan,Zhengzhou
+iao	i a o	f	i a o	m n N		Guiyang
+iap	i a p	f	i a p	m n c		Taibei,Xiamen
+iar	i a r	f	i a r	m n r	rhotic	Beijing,Haerbin,Huhehaote,Jinan,Qingdao,Taiyuan,Tianjin,Zhengzhou
+iat	i a t	f	i a t	m n c		Meixian,Xiamen
+iau	i a u	f	i a u	m n N		Changsha,Chengdu,Haerbin,Haikou,Jian'ou,Meixian,Shantou,Taibei,Taiyuan,Tunxi,Wuhan,Xiamen,Zhengzhou
+iaur	i a u r	f	i a u r	m n N r	rhotic	Haerbin,Xi'an,Zhengzhou
+iauʔ	i a u ʔ	f	i a u ʔ	m n N c		Shantou
+iaŋ	i a ŋ	f	i a ŋ	m n c		Beijing,Chengdu,Fuzhou,Guiyang,Haerbin,Haikou,Jian'ou,Jinan,Meixian,Nanjing,Qingdao,Shantou,Taibei,Wenzhou,Wuhan,Xi'an,Xiamen,Yinchuan,Zhengzhou
+iaŋr	i a ŋ r	f	i a ŋ r	m n c r	rhotic	Qingdao
+iaɯ	i a ɯ	f	i a ɯ	m n N		Xiangtan
+iaʔ	i a ʔ	f	i a ʔ	m n c		Haikou,Huhehaote,Shanghai,Shantou,Shexian,Taibei,Taiyuan,Xiamen
+ie	i e	f	i e	m n		Changsha,Chengdu,Fuzhou,Huhehaote,Meixian,Nanchang,Nanjing,Shanghai,Shexian,Taiyuan,Taoyuan,Tianjin,Tunxi,Wuhan,Xiangtan,Yinchuan
+ien	i e n	f	i e n	m n c		Meixian,Nanjing,Taibei,Taoyuan
+ier	i e r	f	i e r	m n r	rhotic	Jinan,Tianjin
+iet	i e t	f	i e t	m n c		Meixian,Taibei,Taoyuan
+ieu	i e u	f	i e u	m n N		Fuzhou
+ieŋ	i e ŋ	f	i e ŋ	m n c		Fuzhou
+ieʔ	i e ʔ	f	i e ʔ	m n c		Fuzhou,Nanjing,Taibei
+ik	i k	f	i k	n c		Shantou,Taibei,Xiamen
+im	i m	f	i m	n c		Guangzhou,Haikou,Meixian,Nanning,Shantou,Taibei,Taoyuan,Xiamen,Xianggang
+in	i n	f	i n	n c		Beijing,Changsha,Chengdu,Guangzhou,Guiyang,Haerbin,Haikou,Hangzhou,Hefei,Meixian,Nanchang,Nanjing,Nanning,Suzhou,Taibei,Taoyuan,Tianjin,Tunxi,Wuhan,Xiamen,Xianggang,Xiangtan,Zhengzhou
+io	i o	f	i o	m n		Changsha,Guiyang,Haikou,Kunming,Meixian,Shantou,Taibei,Tunxi,Wuhan,Xiamen,Xiangtan
+iok	i o k	f	i o k	m n c		Meixian,Taibei,Taoyuan
+ion	i o n	f	i o n	m n c		Tunxi
+iou	i o u	f	i o u	m n N		Beijing,Haerbin,Jinan,Lanzhou,Qingdao,Tianjin,Xi'an,Zhengzhou
+iour	i o u r	f	i o u r	m n N r	rhotic	Qingdao
+ioŋ	i o ŋ	f	i o ŋ	m n c		Hangzhou,Meixian,Shanghai,Suzhou,Taibei,Taoyuan
+ioʔ	i o ʔ	f	i o ʔ	m n c		Shantou,Xiamen
+ip	i p	f	i p	n c		Guangzhou,Haikou,Taibei,Xiamen
+ir	i r	f	i r	n r	rhotic	Chengdu
+it	i t	f	i t	n c		Guangzhou,Haikou,Meixian,Nanning,Taibei,Taoyuan,Xiamen,Xianggang
+iti	i ⁰ t i	f	i ⁰ t i	n t i n	error	Haerbin
+iu	i u	f	i u	m n	ambiguous	Guangzhou,Guiyang,Haikou,Jian'ou,Meixian,Nanchang,Nanning,Shantou,Shexian,Taibei,Taoyuan,Tunxi,Xiamen
+iuk	i u k	f	i u k	m n c		Meixian
+iun	i u n	f	i u n	m n c		Tunxi
+iuŋ	i u ŋ	f	i u ŋ	m n c		Meixian
+iuʔ	i u ʔ	f	i u ʔ	m n c		Nanchang
+iã	i ã	f	i ã ∼	m n c		Jinan,Qingdao,Shanghai,Shantou,Suzhou,Taibei,Xi'an,Xiamen,Xining
+iãr	i ã r	f	i ã ∼ r	m n c r	rhotic	Qingdao,Zhengzhou
+iæ	i æ	f	i æ	m n		Suzhou
+iõ	i õ	f	i õ ∼	m n c		Shantou
+iø	i ø	f	i ø	m n		Hangzhou,Suzhou
+iŋ	i ŋ	f	i ŋ	n c		Beijing,Fuzhou,Haerbin,Jian'ou,Jinan,Lanzhou,Pingyao,Qingdao,Shanghai,Shantou,Taibei,Tianjin,Wulumuqi,Xi'an,Xiamen,Xianggang,Yinchuan,Zhengzhou
+iŋr	i ŋ r	f	i ŋ r	n c r	rhotic	Qingdao
+iũ	i ũ	f	i ũ ∼	m n c		Taibei
+iɐʔ	i ɐ ʔ	f	i ɐ ʔ	m n c		Hefei
+iɑ	i ɑ	f	i ɑ	m n		Fuzhou,Hangzhou,Hefei,Nanchang,Nanjing,Pingyao,Suzhou,Taoyuan,Tianjin
+iɑk	i ɑ k	f	i ɑ k	m n c		Taoyuan
+iɑm	i ɑ m	f	i ɑ m	m n c		Taoyuan
+iɑr	i ɑ r	f	i ɑ r	m n r	rhotic	Tianjin
+iɑu	i ɑ u	f	i ɑ u	m n N		Beijing,Taoyuan,Tianjin
+iɑur	i ɑ u r	f	i ɑ u r	m n N r	rhotic	Beijing,Tianjin
+iɑŋ	i ɑ ŋ	f	i ɑ ŋ	m n c		Beijing,Fuzhou,Hangzhou,Lanzhou,Nanchang,Nanjing,Pingyao,Taoyuan,Tianjin,Wulumuqi,Yinchuan
+iɑʔ	i ɑ ʔ	f	i ɑ ʔ	m n c		Fuzhou,Hangzhou,Nanjing,Pingyao,Suzhou
+iɑ̃	i ɑ̃	f	i ɑ̃ ∼	m n c		Beijing,Hefei,Huhehaote,Lanzhou
+iɒ̃	i ɒ̃	f	i ɒ̃ ∼	m n c		Taiyuan
+iɔ	i ɔ	f	i ɔ	m n		Hangzhou,Hefei,Huhehaote,Jian'ou,Jinan,Kunming,Lanzhou,Pingyao,Qingdao,Shanghai,Shexian,Xining,Yinchuan
+iɔk	i ɔ k	f	i ɔ k	m n c		Taibei,Xiamen
+iɔo	i ɔ o	f	i ɔ o	m n N		Nanjing
+iɔor	i ɔ o r	f	i ɔ o r	m n N r	rhotic	Nanjing
+iɔr	i ɔ r	f	i ɔ r	m n r	rhotic	Jinan,Qingdao,Wulumuqi
+iɔŋ	i ɔ ŋ	f	i ɔ ŋ	m n c		Jian'ou,Nanchang,Taibei,Xiamen
+iɔʔ	i ɔ ʔ	f	i ɔ ʔ	m n c		Nanchang,Shexian
+iɔ̃	i ɔ̃	f	i ɔ̃ ∼	m n c		Xining
+iə	i ə	f	i ə	m n		Jinan,Kunming,Lanzhou,Qingdao
+iər	i ə r	f	i ə r	m n r	retracted	Beijing,Chengdu,Tianjin,Xi'an,Zhengzhou
+iəu	i ə u	f	i ə u	m n N		Changsha,Chengdu,Guiyang,Huhehaote,Kunming,Pingyao,Taiyuan,Wuhan,Yinchuan,Zhengzhou
+iəŋ	i ə ŋ	f	i ə ŋ	m n c		Taiyuan
+iəɯ	i ə ɯ	f	i ə ɯ	m n N		Nanjing,Xiangtan
+iəʔ	i ə ʔ	f	i ə ʔ	m n c		Hangzhou,Hefei,Huhehaote,Suzhou,Taiyuan
+iə̃	i ə̃	f	i ə̃ ∼	m n c		Qingdao,Xining
+iə̃r	i ə̃ r	f	i ə̃ ∼ r	m n c r		Beijing,Zhengzhou
+iɛ	i ɛ	f	i ɛ	m n		Beijing,Fuzhou,Guiyang,Haerbin,Jian'ou,Kunming,Tunxi,Wenzhou,Xi'an,Xining,Zhengzhou
+iɛn	i ɛ n	f	i ɛ n	m n c		Nanchang,Tunxi,Wuhan
+iɛr	i ɛ r	f	i ɛ r	m n r	rhotic	Jinan,Wulumuqi
+iɛu	i ɛ u	f	i ɛ u	m n N		Fuzhou,Nanchang
+iɛŋ	i ɛ ŋ	f	i ɛ ŋ	m n c		Fuzhou
+iɛʔ	i ɛ ʔ	f	i ɛ ʔ	m n c		Fuzhou,Nanchang
+iɛ̃	i ɛ̃	f	i ɛ̃ ∼	m n c		Kunming
+iɛ̃n	i ɛ̃ n	f	i ɛ̃ n	m n c	merging nasal vowel	Lanzhou
+iɤ	i ɤ	f	i ɤ	m n		Shanghai,Wulumuqi
+iɤu	i ɤ u	f	i ɤ u	m n N		Wulumuqi
+iɤ̃r	i ɤ̃ r	f	i ɤ̃ ∼ r	m n c r	rhotic	Wulumuqi
+iɪ	i ɪ	f	i ɪ	m n		Shanghai,Suzhou
+iɪʔ	i ɪ ʔ	f	i ɪ ʔ	m n c		Shanghai
+iɪ̃	i ɪ̃	f	i ɪ̃ ∼	m n c		Hefei
+iɯ	i ɯ	f	i ɯ	m n		Hefei,Xining
+iʌʔ	i ʌ ʔ	f	i ʌ ʔ	m n c		Pingyao
+iʌ̃	i ʌ̃	f	i ʌ̃ ∼	m n c		Shexian
+iʏ	i ʏ	f	i ʏ	m n		Suzhou
+iʐʅ	i ⁰ ʐ ʅ	f	i ⁰ ʐ ʅ	n t i n		Xining
+iʔ	i ʔ	f	i ʔ	n c		Fuzhou,Hefei,Nanchang,Nanjing,Shantou,Shexian,Taibei,Xiamen
+iᴀ	i ᴀ	f	i ᴀ	m n	retracted vowel	Kunming
+iᴀ̃	i ᴀ̃	f	i ᴀ̃ ∼	m n N	retracted vowel	Kunming
+iᴇ	i ᴇ	f	i ᴇ	m n	retracted	Pingyao
+iᴇ̃	i ᴇ̃	f	i ᴇ̃ ∼	m n c	retracted	Hangzhou
+iẽ	i ẽ	f	i ẽ ∼	m n c		Changsha,Jinan,Xi'an,Xiangtan
+j⁴⁴	j ⁴⁴	s	i ⁴⁴	n t	correction	Xining
+ɕj	ɕj	s	ɕ i ⁰	i n t	correction	Xining
+ɕj⁴⁴⁻²¹	ɕ j ⁴⁴⁻²¹	s	ɕ i ⁴⁴/²¹	i n t	correction	Xining
+ʨʰj⁵³	ʨʰj⁵³	s	tɕʰ i ⁵³	i n t	correction	Xining
+ʨʰj²¹³⁻²¹	ʨʰ j ²¹³⁻²¹	s	tɕʰ i ²¹³/²¹	i n t	correction	Xining
+mj²⁴	m j ²⁴	s	m i ²⁴	i n t	correction	Xining
+j	j	i	j	i		Fuzhou,Guangzhou,Nanning,Wenzhou,Xianggang
+jɪʔ	j ɪ ʔ	f	i ɪ ʔ	m n c	correction	Shanghai
+#j̩	j̩	f	i	n	correction	Xining
+k	k	i	k	i		Beijing,Changsha,Chengdu,Fuzhou,Guangzhou,Guiyang,Haerbin,Haikou,Hangzhou,Hefei,Huhehaote,Jian'ou,Jinan,Kunming,Lanzhou,Meixian,Nanchang,Nanjing,Nanning,Pingyao,Qingdao,Shanghai,Shantou,Shexian,Suzhou,Taibei,Taiyuan,Taoyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xiamen,Xianggang,Xiangtan,Xining,Yinchuan,Zhengzhou
+kʰ	kʰ	i	kʰ	i		Beijing,Changsha,Chengdu,Fuzhou,Guangzhou,Guiyang,Haerbin,Hangzhou,Hefei,Huhehaote,Jian'ou,Jinan,Kunming,Lanzhou,Meixian,Nanchang,Nanjing,Nanning,Pingyao,Qingdao,Shanghai,Shantou,Shexian,Suzhou,Taibei,Taiyuan,Taoyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xiamen,Xianggang,Xiangtan,Xining,Yinchuan,Zhengzhou
+kʰ.ŋaŋ⁴⁴⁻⁵³	kʰ . ŋ a ŋ ⁴⁴⁻⁵³	s	ŋ/kʰ a ŋ ⁴⁴/⁵³	i n c t	Fuzhou-specific weakening	Fuzhou
+kʰ.ŋa⁴⁴	kʰ . ŋ a ⁴⁴	s	ŋ/kʰ a ⁴⁴	i n t	Fuzhou-specific weakening	Fuzhou
+kʰʷ	kʰ w	s	kʰ w	i m		Nanning
+kʷ	k w	s	k w	i m		Nanning
+l	l	i	l	i		Beijing,Changsha,Fuzhou,Guangzhou,Guiyang,Haerbin,Haikou,Hangzhou,Hefei,Huhehaote,Jian'ou,Jinan,Kunming,Lanzhou,Meixian,Nanchang,Nanjing,Nanning,Pingyao,Qingdao,Shanghai,Shantou,Shexian,Suzhou,Taibei,Taiyuan,Taoyuan,Tianjin,Tunxi,Wenzhou,Wulumuqi,Xi'an,Xiamen,Xianggang,Xiangtan,Xining,Yinchuan,Zhengzhou
+l̩	l̩	f	l̩ r	n c	rhotic	Xining,Zhengzhou
+m	m	i	m	i		Beijing,Changsha,Chengdu,Fuzhou,Guangzhou,Guiyang,Haerbin,Haikou,Hangzhou,Hefei,Huhehaote,Jian'ou,Jinan,Kunming,Lanzhou,Meixian,Nanchang,Nanjing,Nanning,Pingyao,Qingdao,Shanghai,Shantou,Shexian,Suzhou,Taiyuan,Taoyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xiamen,Xianggang,Xiangtan,Xining,Yinchuan,Zhengzhou
+m̩	m̩	f	m m̩ ∼	i n c		Beijing,Yinchuan
+n	n	i	n	i		Beijing,Chengdu,Fuzhou,Guangzhou,Haerbin,Haikou,Hangzhou,Huhehaote,Jian'ou,Jinan,Kunming,Meixian,Nanning,Pingyao,Qingdao,Shanghai,Shantou,Shexian,Suzhou,Taibei,Taiyuan,Taoyuan,Tianjin,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xiamen,Xianggang,Xiangtan,Xining,Yinchuan,Zhengzhou
+nzʮ⁵³	nz ʮ ⁵³	s	nz ʮ ⁵³	i n t		Pingyao
+n̩	n̩	f	n n̩ ∼	i n c		Tunxi
+o	o	f	o	n		Beijing,Changsha,Chengdu,Fuzhou,Guiyang,Haerbin,Haikou,Hangzhou,Hefei,Jian'ou,Kunming,Meixian,Nanchang,Nanjing,Shanghai,Shantou,Shexian,Suzhou,Taibei,Taoyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Xi'an,Xiamen,Xiangtan,Zhengzhou
+oi	o i	f	o i	n N 		Meixian,Shantou,Taoyuan
+oiʔ	o i ʔ	f	o i ʔ	n N c		Shantou
+ok	o k	f	o k	n c		Guangzhou,Meixian,Taoyuan
+on	o n	f	o n	n c		Meixian,Taoyuan,Tunxi
+or	o r	f	o r	n r	rhotic	Nanjing,Xi'an
+ot	o t	f	o t	n c		Meixian
+ou	o u	f	o u	n N		Beijing,Fuzhou,Guangzhou,Haerbin,Jinan,Lanzhou,Qingdao,Shantou,Tianjin,Xi'an,Xianggang,Zhengzhou
+our	o u r	f	o u r	n N r	rhotic	Beijing,Haerbin,Jinan,Qingdao,Tianjin,Zhengzhou
+ouŋ	o u ŋ	f	o u ŋ	n N c		Fuzhou
+oŋ	o ŋ	f	o ŋ	n c		Changsha,Chengdu,Guangzhou,Guiyang,Haikou,Hangzhou,Kunming,Meixian,Nanjing,Shanghai,Shantou,Suzhou,Taibei,Taoyuan,Wenzhou,Wuhan
+oʔ	o ʔ	f	o ʔ	n c		Fuzhou,Hangzhou,Nanjing,Shanghai,Shantou,Suzhou,Taibei,Xiamen
+p	p	i	p	i		Beijing,Changsha,Chengdu,Fuzhou,Guangzhou,Guiyang,Haerbin,Hangzhou,Hefei,Huhehaote,Jian'ou,Jinan,Kunming,Lanzhou,Meixian,Nanchang,Nanjing,Nanning,Pingyao,Qingdao,Shanghai,Shantou,Shexian,Suzhou,Taibei,Taiyuan,Taoyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xiamen,Xianggang,Xiangtan,Xining,Yinchuan,Zhengzhou
+pʰ	pʰ	i	pʰ	i		Beijing,Changsha,Chengdu,Fuzhou,Guangzhou,Guiyang,Haerbin,Hangzhou,Hefei,Huhehaote,Jian'ou,Jinan,Kunming,Lanzhou,Meixian,Nanchang,Nanjing,Nanning,Pingyao,Qingdao,Shanghai,Shantou,Shexian,Suzhou,Taibei,Taiyuan,Taoyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xiamen,Xianggang,Xiangtan,Xining,Yinchuan,Zhengzhou
+p͡f	p͡f	i	p f	i		Lanzhou,Xi'an
+p͡fʰ	p͡fʰ	i	pfʰ	i		Lanzhou,Xi'an
+r	r	i	r	i		Xi'an
+s	s	i	s	i		Beijing,Changsha,Chengdu,Fuzhou,Guangzhou,Guiyang,Haerbin,Haikou,Hangzhou,Hefei,Huhehaote,Jian'ou,Jinan,Kunming,Lanzhou,Meixian,Nanchang,Nanjing,Nanning,Pingyao,Qingdao,Shanghai,Shantou,Shexian,Suzhou,Taibei,Taiyuan,Taoyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xiamen,Xianggang,Xiangtan,Xining,Yinchuan,Zhengzhou
+t	t	i	t	i		Beijing,Changsha,Chengdu,Fuzhou,Guangzhou,Guiyang,Haerbin,Haikou,Hangzhou,Hefei,Huhehaote,Jian'ou,Jinan,Kunming,Lanzhou,Meixian,Nanchang,Nanjing,Nanning,Pingyao,Qingdao,Shanghai,Shantou,Shexian,Suzhou,Taibei,Taiyuan,Taoyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xiamen,Xianggang,Xiangtan,Xining,Yinchuan,Zhengzhou
+ts̃ʌ³¹	ts ʌ̃ ³¹	s	ts ʌ̃ ∼³¹	i n c t		Shexian
+tŋ̍	t ŋ̍	s	t ŋ̍ ∼	i n c		Xiamen
+tʰ	tʰ	i	tʰ	i		Beijing,Changsha,Chengdu,Fuzhou,Guangzhou,Guiyang,Haerbin,Hangzhou,Hefei,Huhehaote,Jian'ou,Jinan,Kunming,Lanzhou,Meixian,Nanchang,Nanjing,Nanning,Pingyao,Qingdao,Shanghai,Shantou,Shexian,Suzhou,Taibei,Taiyuan,Taoyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xiamen,Xianggang,Xiangtan,Xining,Yinchuan,Zhengzhou
+tʰ.lau⁵³	tʰ . l a u ⁵³	s	l/tʰ a u ⁵³	i n N t	Fuzhou-specific weakening	Fuzhou
+tʰ.løy³²	tʰ . l ø y ³²	s	l/tʰ ø y ³²	i n N t	Fuzhou-specific weakening	Fuzhou
+tʰ.nau⁵³⁻³²	tʰ . n a u ⁵³⁻³²	s	n/tʰ a u ⁵³/³²	i n N t	Fuzhou-specific weakening	Fuzhou
+t̆͡ʂ	t̆͡ʂ	i	ʈʂ	i		Haerbin
+t͡ɕ	t͡ɕ	i	tɕ	i		Haerbin
+t͡ʂ	t͡ʂ	i	ʈʂ	i		Beijing,Changsha,Haerbin,Hefei,Jinan,Kunming,Lanzhou,Nanjing,Pingyao,Qingdao,Tianjin,Wulumuqi,Xi'an,Xiangtan,Xining,Yinchuan,Zhengzhou
+t͡ʂv̩	t͡ʂ v̩	f	ʈʂ v̩	i n		Xining
+t͡ʂʰ	t͡ʂʰ	i	ʈʂʰ	i		Beijing,Changsha,Haerbin,Hefei,Jinan,Kunming,Lanzhou,Nanjing,Pingyao,Qingdao,Tianjin,Wulumuqi,Xi'an,Xiangtan,Xining,Yinchuan,Zhengzhou
+u	u	f	u	n		Beijing,Changsha,Chengdu,Fuzhou,Guangzhou,Guiyang,Haerbin,Haikou,Hangzhou,Hefei,Huhehaote,Jian'ou,Jinan,Kunming,Lanzhou,Meixian,Nanchang,Nanjing,Nanning,Pingyao,Qingdao,Shanghai,Shantou,Shexian,Suzhou,Taibei,Taiyuan,Taoyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xiamen,Xianggang,Xiangtan,Xining,Yinchuan,Zhengzhou
+ua	u a	f	u a	m n		Beijing,Changsha,Chengdu,Fuzhou,Guiyang,Haerbin,Haikou,Hefei,Huhehaote,Jian'ou,Jinan,Lanzhou,Meixian,Qingdao,Shantou,Shexian,Taibei,Taiyuan,Tunxi,Wuhan,Wulumuqi,Xi'an,Xiamen,Xining,Yinchuan,Zhengzhou
+uae	u a e	f	u a e	m n N		Nanjing
+uai	u a i	f	u a i	m n N		Beijing,Changsha,Chengdu,Fuzhou,Guiyang,Haerbin,Meixian,Nanchang,Shantou,Taiyuan,Tianjin,Wuhan,Wulumuqi,Xi'an,Xiangtan
+uaiŋ	u a i ŋ	f	u a i ŋ	m n N c		Jian'ou
+uan	u a n	f	u a n	m n c		Beijing,Chengdu,Guiyang,Haerbin,Tianjin,Tunxi,Wuhan,Wulumuqi,Xiamen,Yinchuan,Zhengzhou
+uar	u a r	f	u a r	m n r	rhotic	Beijing,Huhehaote
+uau	u a u	f	u a u	m n N		Zhengzhou
+uaŋ	u a ŋ	f	u a ŋ	m n c		Beijing,Chengdu,Fuzhou,Guiyang,Haerbin,Haikou,Jinan,Kunming,Nanjing,Qingdao,Shantou,Wuhan,Xi'an,Zhengzhou
+uaʔ	u a ʔ	f	u a ʔ	m n c		Huhehaote,Shanghai,Shantou,Taibei,Taiyuan,Xiamen
+ue	u e	f	u e	m n		Haikou,Hefei,Qingdao,Shanghai,Shantou,Shexian,Taibei,Xiamen
+uei	u e i	f	u e i	m n n		Beijing,Changsha,Chengdu,Guiyang,Haerbin,Huhehaote,Jinan,Kunming,Lanzhou,Pingyao,Taiyuan,Tianjin,Wuhan,Wulumuqi,Xi'an,Yinchuan,Zhengzhou
+uen	u e n	f	u e n	m n c		Guiyang
+uer	u e r	f	u e r	m n r	rhotic	Jinan,Qingdao
+ueʔ	u e ʔ	f	u e ʔ	m n c		Shantou,Xiamen
+ui	u i	f	u i	m n	ambiguous	Guangzhou,Haikou,Hangzhou,Meixian,Nanchang,Nanning,Shantou,Taibei,Taoyuan,Xiamen,Xianggang
+uiŋ	u i ŋ	f	u i ŋ	m n c		Jian'ou
+uk	u k	f	u k	n c		Meixian,Nanning,Taoyuan,Xianggang
+un	u n	f	u n	n c		Beijing,Guangzhou,Haikou,Hangzhou,Meixian,Nanjing,Nanning,Taibei,Taoyuan,Xiamen,Xianggang
+uo	u o	f	u o	m n		Beijing,Fuzhou,Haerbin,Meixian,Nanchang,Qingdao,Tianjin,Wuhan,Xi'an,Zhengzhou
+uoi	u o i	f	u o i	m n N		Fuzhou
+uor	u o r	f	u o r	m n r	rhotic	Beijing,Haerbin,Tianjin,Zhengzhou
+uoŋ	u o ŋ	f	u o ŋ	m n c		Fuzhou,Meixian
+uoʔ	u o ʔ	f	u o ʔ	m n c		Fuzhou,Hangzhou
+ur	u r	f	u r	n r	rhotic	Beijing,Qingdao,Wulumuqi,Zhengzhou
+uã	u ã	f	u ã ∼	m n c		Jinan,Qingdao,Shanghai,Shantou,Suzhou,Taibei,Xi'an,Xiamen,Xining
+uæ	u æ	f	u æ	m n		Pingyao
+uæ̃	u æ̃	f	u æ̃ ∼	m n c		Huhehaote,Taiyuan
+uõ	u õ	f	u õ ∼	m n c		Hangzhou
+uŋ	u ŋ	f	u ŋ	n c		Beijing,Fuzhou,Haerbin,Jinan,Meixian,Nanchang,Nanning,Pingyao,Shantou,Taoyuan,Tianjin,Wulumuqi,Xi'an,Xianggang,Yinchuan,Zhengzhou
+uɐ	u ɐ	f	u ɐ	m n		Hefei
+uɐʔ	u ɐ ʔ	f	u ɐ ʔ	m n c		Hefei
+uɑ	u ɑ	f	u ɑ	m n		Hangzhou,Nanchang,Nanjing,Pingyao,Suzhou,Tianjin
+uɑi	u ɑ i	f	u ɑ i	m n N		Taoyuan
+uɑr	u ɑ r	f	u ɑ r	m n r	rhotic	Tianjin
+uɑŋ	u ɑ ŋ	f	u ɑ ŋ	m n c		Beijing,Hangzhou,Pingyao,Tianjin,Wulumuqi,Yinchuan
+uɑʔ	u ɑ ʔ	f	u ɑ ʔ	m n c		Hangzhou,Nanjing
+uɑ̃	u ɑ̃	f	u ɑ̃ ∼	m n c		Hefei,Huhehaote,Lanzhou,Shanghai
+uɒ	u ɒ	f	u ɒ	m n		Xiangtan
+uɒ̃	u ɒ̃	f	u ɒ̃ ∼	m n c		Taiyuan
+uɔ	u ɔ	f	u ɔ	m n		Fuzhou,Wenzhou
+uɔŋ	u ɔ ŋ	f	u ɔ ŋ	m n c		Nanchang
+uɔʔ	u ɔ ʔ	f	u ɔ ʔ	m n c		Fuzhou
+uɔ̃	u ɔ̃	f	u ɔ̃ ∼	m n c		Xining
+uɕiɤ̃r	u ⁰ ɕ i ɤ̃ r	s	u ⁰ ɕ i ɤ̃ r	m t i m n c r	rhotic	Wulumuqi
+uə	u ə	f	u ə	m n		Beijing,Hefei,Jinan,Kunming,Lanzhou,Pingyao,Qingdao,Suzhou,Yinchuan
+uəi	u ə i	f	u ə i	m n N		Nanjing,Xiangtan
+uən	u ə n	f	u ə n	m n c		Haerbin,Suzhou,Tianjin,Wuhan,Zhengzhou
+uər	u ə r	f	u ə r	m n r	rhotic	Beijing,Chengdu,Haerbin,Jinan,Nanjing,Qingdao,Tianjin,Xi'an,Yinchuan,Zhengzhou
+uəŋ	u ə ŋ	f	u ə ŋ	m n c		Shanghai,Taiyuan
+uəʔ	u ə ʔ	f	u ə ʔ	m n c		Huhehaote,Taiyuan
+uə̃	u ə̃	f	u ə̃ ∼	m n c		Qingdao,Xining
+uɛ	u ɛ	f	u ɛ	m n		Huhehaote,Jian'ou,Jinan,Lanzhou,Qingdao,Shexian,Tunxi,Xining,Yinchuan
+uɛ̃n	u ɛ̃ n	f	u ɛ̃ n	m n c	merging nasal vowel	Lanzhou
+uɤ	u ɤ	f	u ɤ	m n		Huhehaote,Taiyuan,Wulumuqi
+uɤr	u ɤ r	f	u ɤ r	m n r	rhotic	Wulumuqi
+uɨ	u ɨ	f	u ɨ	m n		Xining
+uʌʔ	u ʌ ʔ	f	u ʌ ʔ	m n c		Pingyao
+uʌ̃	u ʌ̃	f	u ʌ̃ ∼	m n c		Shexian
+uʔ	u ʔ	f	u ʔ	n c		Fuzhou,Nanchang,Nanjing,Shexian
+uː	uː	f	uː	n		Tunxi
+uːə	uː ə	f	uː ə	n N		Tunxi
+uᴀ	u ᴀ	f	u ᴀ	m n	retracted	Kunming
+uᴀ̃	u ᴀ̃	f	u ᴀ̃ ∼	m n N	retracted	Kunming
+uᴇ	u ᴇ	f	u ᴇ	m n	retracted	Hangzhou,Hefei,Suzhou
+uẽ	u ẽ	f	u ẽ ∼	m n c		Jinan,Xi'an
+v	v	i	v	i		Haikou,Hangzhou,Huhehaote,Jinan,Lanzhou,Meixian,Qingdao,Shanghai,Suzhou,Taiyuan,Taoyuan,Tianjin,Wenzhou,Wulumuqi,Yinchuan
+v̩	v̩	f	v̩	n		Xining
+w	w	i	w	i		Guangzhou,Nanning,Xianggang
+wa	w a	f	w a	m n		Guangzhou,Xianggang
+wɐi	w ɐ i	f	w ɐ i	m n N		Guangzhou,Xianggang
+wɔ	w ɔ	f	w ɔ	m n		Guangzhou,Xianggang
+wɔŋ	w ɔ ŋ	f	w ɔ ŋ	m n N		Guangzhou,Xianggang
+x	x	i	x	i		Beijing,Changsha,Chengdu,Guiyang,Haerbin,Haikou,Hefei,Huhehaote,Jian'ou,Jinan,Kunming,Lanzhou,Nanjing,Pingyao,Qingdao,Shexian,Taiyuan,Tianjin,Tunxi,Wuhan,Wulumuqi,Xi'an,Xining,Yinchuan,Zhengzhou
+y	y	f	y	n		Beijing,Changsha,Chengdu,Fuzhou,Guangzhou,Haerbin,Huhehaote,Jian'ou,Jinan,Lanzhou,Nanchang,Nanjing,Nanning,Pingyao,Qingdao,Shanghai,Shexian,Suzhou,Taiyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xianggang,Xiangtan,Xining,Yinchuan,Zhengzhou
+ya	y a	f	y a	m n		Shexian
+yan	y a n	f	y a n	m n c		Beijing,Changsha,Chengdu,Haerbin,Tianjin,Tunxi,Yinchuan,Zhengzhou
+yar	y a r	f	y a r	m n r	rhotic	Taiyuan
+yau	y a u	f	y a u	m n N		Zhengzhou
+yaʔ	y a ʔ	f	y a ʔ	m n c		Huhehaote
+ye	y e	f	y e	m n		Chengdu,Hefei,Nanjing,Shexian,Tianjin,Yinchuan
+yen	y e n	f	y e n	m n c		Nanjing
+yeʔ	y e ʔ	f	y e ʔ	m n c		Nanjing,Shexian
+yiŋ	y i ŋ	f	y i ŋ	m n c		Jian'ou
+yn	y n	f	y n	n c		Guangzhou,Nanchang,Nanning,Wuhan,Xianggang
+yo	y o	f	y o	m n		Chengdu
+yoŋ	y o ŋ	f	y o ŋ	m n c		Chengdu,Fuzhou
+yt	y t	f	y t	n c		Guangzhou,Nanning,Xianggang
+yu	y u	f	y u	m n		Xining
+yã	y ã	f	y ã ∼	m n c		Jinan,Xining
+yø	y ø	f	y ø	m n		Shanghai
+yŋ	y ŋ	f	y ŋ	n c		Fuzhou,Jian'ou
+yɐʔ	y ɐ ʔ	f	y ɐ ʔ	m n c		Hefei
+yɒ	y ɒ	f	y ɒ	m n		Xiangtan
+yɔ	y ɔ	f	y ɔ	m n		Wenzhou
+yɔŋ	y ɔ ŋ	f	y ɔ ŋ	m n c		Fuzhou
+yə	y ə	f	y ə	m n		Jinan,Lanzhou,Pingyao,Qingdao
+yər	y ə r	f	y ə r	m n r	rhotic	Chengdu,Jinan,Qingdao
+yəŋ	y ə ŋ	f	y ə ŋ	m n c		Taiyuan
+yəʔ	y ə ʔ	f	y ə ʔ	m n c		Hangzhou,Taiyuan
+yɛ	y ɛ	f	y ɛ	m n		Beijing,Haerbin,Jian'ou,Tunxi,Xi'an,Zhengzhou
+yɤ	y ɤ	f	y ɤ	m n		Wulumuqi
+yɪʔ	y ɪ ʔ	f	y ɪ ʔ	m n c		Shanghai
+yɪ̃	y ɪ̃	f	y ɪ̃ ∼	m n c		Hefei
+yɵn	y ɵ n	f	y ɵ n	m n c		Nanchang
+yɵʔ	y ɵ ʔ	f	y ɵ ʔ	m n c		Nanchang
+yʌʔ	y ʌ ʔ	f	y ʌ ʔ	m n c		Pingyao
+yʌ̃	y ʌ̃	f	y ʌ̃ ∼	m n c		Shexian
+yʔ	y ʔ	f	y ʔ	n c		Fuzhou
+yᴇ	y ᴇ	f	y ᴇ	m n	retracted	Pingyao
+yẽ	y ẽ	f	y ẽ ∼	m n c		Changsha,Xiangtan
+z	z	i	z	i		Chengdu,Guiyang,Haikou,Hangzhou,Hefei,Shanghai,Shantou,Suzhou,Taiyuan,Wenzhou,Zhengzhou
+²	²	t	²	t		Beijing,Guangzhou,Haikou,Hangzhou,Nanchang,Shantou,Suzhou,Taiyuan,Xianggang
+²²	²²	t	²²	t		Guangzhou,Nanning,Shexian,Taoyuan,Wenzhou,Xiamen,Xianggang
+²²⁻	²²⁻	t	²²	t	error in annotation	Xiamen
+²²⁻²²	²²⁻²²	t	²²/²²	t		Wenzhou
+²²⁻²¹	²²⁻²¹	t	²²/²¹	t		Wenzhou,Xiamen
+²²⁻³⁵	²²⁻³⁵	t	²²/³⁵	t		Guangzhou,Nanning,Wenzhou,Xiamen,Xianggang
+²²⁻¹¹	²²⁻¹¹	t	²²/¹¹	t		Nanjing
+²²⁻⁴²	²²⁻⁴²	t	²²/⁴²	t		Wenzhou
+²²⁻⁵⁵	²²⁻⁵⁵	t	²²/⁵⁵	t		Nanning
+²³	²³	t	²³	t		Guangzhou,Haikou,Shanghai
+²³⁻²²	²³⁻²²	t	²³/²²	t		Shanghai
+²³⁻²³⁵	²³⁻²³⁵	t	²³/²³⁵	t		Haikou
+²³⁻²¹	²³⁻²¹	t	²³/²¹	t		Fuzhou
+²³⁻³⁵	²³⁻³⁵	t	²³/³⁵	t		Guangzhou
+²³⁻⁴⁴	²³⁻⁴⁴	t	²³/⁴⁴	t		Shanghai
+²¹	²¹	t	²¹	t		Guangzhou,Guiyang,Hefei,Jian'ou,Jinan,Kunming,Lanzhou,Nanchang,Nanning,Shexian,Tianjin,Wenzhou,Xi'an,Xiamen,Xianggang,Xiangtan
+²¹²	²¹²	t	²¹²	t		Fuzhou,Kunming,Nanjing,Qingdao,Shantou
+²¹²⁻²¹	²¹²⁻²¹	t	²¹²/²¹	t		Fuzhou
+²¹²⁻¹²	²¹²⁻¹²	t	²¹²/¹²	t		Nanjing
+²¹²⁻¹¹	²¹²⁻¹¹	t	²¹²/¹¹	t		Nanjing
+²¹²⁻⁴⁴	²¹²⁻⁴⁴	t	²¹²/⁴⁴	t		Fuzhou,Kunming
+²¹²⁻⁵³	²¹²⁻⁵³	t	²¹²/⁵³	t		Fuzhou,Kunming
+²¹³	²¹³	t	²¹³	t		Fuzhou,Guiyang,Haerbin,Haikou,Hangzhou,Jinan,Nanchang,Qingdao,Shantou,Wenzhou,Wuhan,Wulumuqi,Xining
+²¹³⁻	²¹³⁻	t	²¹³	t	error in annotation	Xining
+²¹³⁻²	²¹³⁻²	t	²¹³/²	t		Xining
+²¹³⁻²²	²¹³⁻²²	t	²¹³/²²	t		Wenzhou
+²¹³⁻²³	²¹³⁻²³	t	²¹³/²³	t		Jinan
+²¹³⁻²¹	²¹³⁻²¹	t	²¹³/²¹	t		Haerbin,Hangzhou,Jinan,Wenzhou,Wuhan,Xining
+²¹³⁻²¹⁵	²¹³⁻²¹⁵	t	²¹³/²¹⁵	t		Haikou
+²¹³⁻²⁴	²¹³⁻²⁴	t	²¹³/²⁴	t		Haerbin,Nanchang
+²¹³⁻³³	²¹³⁻³³	t	²¹³/³³	t		Hangzhou
+²¹³⁻³¹	²¹³⁻³¹	t	²¹³/³¹	t		Hangzhou,Qingdao,Shantou
+²¹³⁻³⁵	²¹³⁻³⁵	t	²¹³/³⁵	t		Wenzhou
+²¹³⁻¹³	²¹³⁻¹³	t	²¹³/¹³	t		Hangzhou,Wenzhou,Wulumuqi
+²¹³⁻⁴²	²¹³⁻⁴²	t	²¹³/⁴²	t		Wenzhou
+²¹³⁻⁴⁴	²¹³⁻⁴⁴	t	²¹³/⁴⁴	t		Xining
+²¹³⁻⁵³	²¹³⁻⁵³	t	²¹³/⁵³	t		Hangzhou,Xining
+²¹³⁻⁵⁵	²¹³⁻⁵⁵	t	²¹³/⁵⁵	t		Shantou
+²¹⁴	²¹⁴	t	²¹⁴	t		Beijing
+²¹⁴⁻²¹	²¹⁴⁻²¹	t	²¹⁴/²¹	t		Beijing
+²¹⁴⁻³⁵	²¹⁴⁻³⁵	t	²¹⁴/³⁵	t		Beijing
+²¹⁵⁵	²¹⁻⁵⁵	t	²¹/⁵⁵	t		Guiyang
+²¹⁻²³	²¹⁻²³	t	²¹/²³	t		Jinan
+²¹⁻²⁴	²¹⁻²⁴	t	²¹/²⁴	t		Hefei,Xi'an
+²¹⁻³⁵	²¹⁻³⁵	t	²¹/³⁵	t		Guangzhou,Nanning,Shexian,Xianggang
+²¹⁻¹³	²¹⁻¹³	t	²¹/¹³	t		Tianjin
+²¹⁻⁵³	²¹⁻⁵³	t	²¹/⁵³	t		Xiamen
+²¹⁻⁵⁴⁴	²¹⁻⁵⁴⁴	t	²¹/⁵⁴⁴	t		Jinan
+²¹⁻⁵⁵	²¹⁻⁵⁵	t	²¹/⁵⁵	t		Guangzhou,Nanning,Xianggang
+²⁴	²⁴	t	²⁴	t		Changsha,Fuzhou,Haerbin,Hefei,Jian'ou,Nanchang,Nanjing,Nanning,Taibei,Taoyuan,Tunxi,Xi'an,Xiangtan,Xining,Zhengzhou
+²⁴²	²⁴²	t	²⁴²	t		Fuzhou
+²⁴²⁻²¹	²⁴²⁻²¹	t	²⁴²/²¹	t		Fuzhou
+²⁴²⁻³²	²⁴²⁻³²	t	²⁴²/³²	t		Fuzhou
+²⁴²⁻⁴⁴	²⁴²⁻⁴⁴	t	²⁴²/⁴⁴	t		Fuzhou
+²⁴²⁻⁵³	²⁴²⁻⁵³	t	²⁴²/⁵³	t		Fuzhou
+²⁴⁻	²⁴⁻	t	²⁴/	t	error in annotation	Xining
+²⁴⁻²²	²⁴⁻²²	t	²⁴/²²	t		Taoyuan
+²⁴⁻²¹	²⁴⁻²¹	t	²⁴/²¹	t		Fuzhou,Nanning,Xining
+²⁴⁻³³	²⁴⁻³³	t	²⁴/³³	t		Taibei,Taoyuan
+²⁴⁻³⁵	²⁴⁻³⁵	t	²⁴/³⁵	t		Fuzhou,Nanning
+²⁴⁻¹¹	²⁴⁻¹¹	t	²⁴/¹¹	t		Nanjing,Taibei,Tunxi
+²⁴⁻⁴²	²⁴⁻⁴²	t	²⁴/⁴²	t		Zhengzhou
+²⁴⁻⁴⁴	²⁴⁻⁴⁴	t	²⁴/⁴⁴	t		Fuzhou,Xining
+²⁴⁻⁵	²⁴⁻⁵	t	²⁴/⁵	t		Tunxi
+²⁴⁻⁵³	²⁴⁻⁵³	t	²⁴/⁵³	t		Fuzhou,Xining
+²⁴⁻⁵⁵	²⁴⁻⁵⁵	t	²⁴/⁵⁵	t		Nanning
+²⁵	²⁵	t	²⁵	t		Wuhan
+²⁻³⁵	²⁻³⁵	t	²/³⁵	t		Guangzhou,Xianggang
+²⁻⁴⁵	²⁻⁴⁵	t	²/⁴⁵	t		Taiyuan
+²⁻⁵	²⁻⁵	t	²/⁵	t		Hangzhou,Shantou,Xiamen
+²⁻⁵⁴	²⁻⁵⁴	t	²/⁵⁴	t		Taiyuan
+³	³	t	³	t		Beijing,Chengdu,Fuzhou,Guangzhou,Haikou,Shanghai,Suzhou,Tianjin,Xianggang
+³²	³²	t	³²	t		Fuzhou,Taibei,Xiamen
+³²¹	³²¹	t	³²¹	t		Guiyang
+³²⁴	³²⁴	t	³²⁴	t		Shexian
+³²⁴⁻³²	³²⁴⁻³²	t	³²⁴/³²	t		Shexian
+³²⁴⁻³⁵	³²⁴⁻³⁵	t	³²⁴/³⁵	t		Shexian
+³²⁻²¹	³²⁻²¹	t	³²/²¹	t		Fuzhou
+³²⁻³⁵	³²⁻³⁵	t	³²/³⁵	t		Fuzhou
+³²⁻⁴⁴	³²⁻⁴⁴	t	³²/⁴⁴	t		Fuzhou,Taibei
+³²⁻⁵	³²⁻⁵	t	³²/⁵	t		Xiamen
+³²⁻⁵³	³²⁻⁵³	t	³²/⁵³	t		Taibei,Xiamen
+³³	³³	t	³³	t		Changsha,Guangzhou,Haikou,Hangzhou,Jian'ou,Nanning,Shantou,Taibei,Taoyuan,Wenzhou,Xianggang,Xiangtan
+³³⁻	³³⁻	t	³³	t	error in annotation	Hangzhou
+³³⁻²²	³³⁻²²	t	³³/²²	t		Wenzhou
+³³⁻²¹	³³⁻²¹	t	³³/²¹	t		Taibei,Wenzhou
+³³⁻³³⁵	³³⁻³³⁵	t	³³/³³⁵	t		Haikou
+³³⁻³¹	³³⁻³¹	t	³³/³¹	t		Hangzhou
+³³⁻³⁵	³³⁻³⁵	t	³³/³⁵	t		Guangzhou,Wenzhou,Xianggang
+³³⁻¹²	³³⁻¹²	t	³³/¹²	t		Wenzhou
+³³⁻¹¹	³³⁻¹¹	t	³³/¹¹	t		Taibei
+³³⁻⁴²	³³⁻⁴²	t	³³/⁴²	t		Wenzhou
+³³⁻⁵³	³³⁻⁵³	t	³³/⁵³	t		Hangzhou
+³¹	³¹	t	³¹	t		Chengdu,Haikou,Huhehaote,Jian'ou,Kunming,Lanzhou,Meixian,Nanjing,Pingyao,Shantou,Shexian,Suzhou,Taoyuan,Tunxi,Wenzhou
+³¹²	³¹²	t	³¹²	t		Zhengzhou
+³¹²⁻²⁴	³¹²⁻²⁴	t	³¹²/²⁴	t		Zhengzhou
+³¹²⁻³¹	³¹²⁻³¹	t	³¹²/³¹	t		Zhengzhou
+³¹⁻	³¹⁻	t	³¹/	t	error in annotation	Chengdu,Wenzhou
+³¹⁻²	³¹⁻²	t	³¹/²	t		Wenzhou
+³¹⁻²²	³¹⁻²²	t	³¹/²²	t		Wenzhou
+³¹⁻²¹	³¹⁻²¹	t	³¹/²¹	t		Suzhou,Wenzhou
+³¹⁻³³	³¹⁻³³	t	³¹/³³	t		Huhehaote,Lanzhou,Nanjing,Suzhou
+³¹⁻³¹⁵	³¹⁻³¹⁵	t	³¹/³¹⁵	t		Haikou
+³¹⁻³⁵	³¹⁻³⁵	t	³¹/³⁵	t		Wenzhou
+³¹⁻¹²	³¹⁻¹²	t	³¹/¹²	t		Wenzhou
+³¹⁻¹³	³¹⁻¹³	t	³¹/¹³	t		Suzhou
+³¹⁻¹¹	³¹⁻¹¹	t	³¹/¹¹	t		Tunxi
+³¹⁻⁴²	³¹⁻⁴²	t	³¹/⁴²	t		Wenzhou
+³¹⁻⁴⁴	³¹⁻⁴⁴	t	³¹/⁴⁴	t		Kunming,Taoyuan
+³¹⁻⁴⁵	³¹⁻⁴⁵	t	³¹/⁴⁵	t		Wenzhou
+³¹⁻⁵	³¹⁻⁵	t	³¹/⁵	t		Tunxi
+³¹⁻⁵³	³¹⁻⁵³	t	³¹/⁵³	t		Chengdu,Huhehaote,Shexian
+³¹⁻⁵⁵	³¹⁻⁵⁵	t	³¹/⁵⁵	t		Chengdu,Huhehaote
+³⁴⁻³³	³⁴⁻³³	t	³⁴/³³	t		Shanghai
+³⁴⁻⁴⁴	³⁴⁻⁴⁴	t	³⁴/⁴⁴	t		Shanghai
+³⁵	³⁵	t	³⁵	t		Beijing,Guangzhou,Haikou,Huhehaote,Nanning,Pingyao,Shanghai,Shantou,Shexian,Wenzhou,Wuhan,Xiamen,Xianggang
+³⁵⁻²	³⁵⁻²	t	³⁵/²	t		Wenzhou
+³⁵⁻²²	³⁵⁻²²	t	³⁵/²²	t		Xiamen
+³⁵⁻²³	³⁵⁻²³	t	³⁵/²³	t		Shanghai
+³⁵⁻²¹	³⁵⁻²¹	t	³⁵/²¹	t		Shanghai,Wenzhou
+³⁵⁻³³	³⁵⁻³³	t	³⁵/³³	t		Shanghai,Wenzhou
+³⁵⁻³¹	³⁵⁻³¹	t	³⁵/³¹	t		Pingyao,Shantou
+³⁵⁻¹³	³⁵⁻¹³	t	³⁵/¹³	t		Pingyao,Zhengzhou
+³⁵⁻⁴²	³⁵⁻⁴²	t	³⁵/⁴²	t		Wenzhou
+³⁵⁻⁴⁴	³⁵⁻⁴⁴	t	³⁵/⁴⁴	t		Shanghai
+³⁵⁻⁴⁵	³⁵⁻⁴⁵	t	³⁵/⁴⁵	t		Wenzhou
+³⁵⁻⁵³	³⁵⁻⁵³	t	³⁵/⁵³	t		Pingyao
+³⁵⁻⁵⁵	³⁵⁻⁵⁵	t	³⁵/⁵⁵	t		Shanghai
+³⁻²	³⁻²	t	³/²	t		Suzhou
+³⁻²¹	³⁻²¹	t	³/²¹	t		Shanghai
+³⁻³³	³⁻³³	t	³/³³	t		Shanghai
+³⁻⁴⁴	³⁻⁴⁴	t	³/⁴⁴	t		Shanghai
+¹	¹	t	¹	t		Beijing,Meixian,Shanghai,Tianjin
+¹²	¹²	t	¹²	t		Wenzhou,Xiangtan
+¹²⁻⁵⁵	¹²⁻⁵⁵	t	¹²/⁵⁵	t		Shanghai
+¹³	¹³	t	¹³	t		Changsha,Chengdu,Hangzhou,Lanzhou,Pingyao,Shanghai,Suzhou,Taoyuan,Tianjin,Xianggang,Xiangtan,Yinchuan,Zhengzhou
+¹³⁻	¹³⁻	t	¹³	t	error in annotation	Hangzhou
+¹³⁻²²	¹³⁻²²	t	¹³/²²	t		Lanzhou,Shanghai
+¹³⁻²³	¹³⁻²³	t	¹³/²³	t		Shanghai
+¹³⁻²¹	¹³⁻²¹	t	¹³/²¹	t		Shanghai,Suzhou
+¹³⁻³³	¹³⁻³³	t	¹³/³³	t		Hangzhou,Shanghai,Suzhou
+¹³⁻³¹	¹³⁻³¹	t	¹³/³¹	t		Hangzhou,Pingyao
+¹³⁻³⁵	¹³⁻³⁵	t	¹³/³⁵	t		Pingyao,Xianggang
+¹³⁻¹³	¹³⁻¹³	t	¹³/¹³	t		Shanghai,Suzhou
+¹³⁻¹¹	¹³⁻¹¹	t	¹³/¹¹	t		Lanzhou,Shanghai,Yinchuan
+¹³⁻¹⁴	¹³⁻¹⁴	t	¹³/¹⁴	t		Shanghai
+¹³⁻⁴⁴	¹³⁻⁴⁴	t	¹³/⁴⁴	t		Shanghai
+¹³⁻⁴⁵	¹³⁻⁴⁵	t	¹³/⁴⁵	t		Tianjin
+¹³⁻⁵	¹³⁻⁵	t	¹³/⁵	t		Shanghai
+¹³⁻⁵³	¹³⁻⁵³	t	¹³/⁵³	t		Hangzhou,Pingyao
+¹³⁻⁵⁵	¹³⁻⁵⁵	t	¹³/⁵⁵	t		Chengdu,Shanghai
+¹¹	¹¹	t	¹¹	t		Changsha,Meixian,Taibei,Taiyuan,Taoyuan,Tunxi
+¹¹⁻²²	¹¹⁻²²	t	¹¹/²²	t		Taoyuan
+¹¹⁻²¹	¹¹⁻²¹	t	¹¹/²¹	t		Tunxi
+¹¹⁻⁴⁵	¹¹⁻⁴⁵	t	¹¹/⁴⁵	t		Taiyuan
+¹¹⁻⁵	¹¹⁻⁵	t	¹¹/⁵	t		Tunxi
+¹¹⁻⁵³	¹¹⁻⁵³	t	¹¹/⁵³	t		Taibei,Taiyuan,Wenzhou
+¹⁻²	¹⁻²	t	¹/²	t		Shanghai
+¹⁻²³	¹⁻²³	t	¹/²³	t		Shanghai
+¹⁻²¹	¹⁻²¹	t	¹/²¹	t		Shanghai
+¹⁻¹	¹⁻¹	t	¹/¹	t		Shanghai
+¹⁻¹¹	¹⁻¹¹	t	¹/¹¹	t		Shanghai
+¹⁻⁴	¹⁻⁴	t	¹/⁴	t		Shanghai
+ã	ã	f	ã			Jinan,Qingdao,Shanghai,Shantou,Shexian,Suzhou,Taibei,Xi'an,Xiamen,Xining
+ãi	ã i	f	ã i			Xiamen
+ãr	ã r	f	ã r			Jinan,Qingdao,Zhengzhou
+æ	æ	f	æ			Kunming,Pingyao,Suzhou,Xiangtan
+æ̃	æ̃	f	æ̃			Hefei,Huhehaote,Taiyuan
+ï	ï	f	ï	n	?	Taoyuan
+ïp	ï p	f	ï p	n c	?	Taoyuan
+ït	ï t	f	ï t	n c	?	Taoyuan
+õ	õ	f	õ ∼	n c		Changsha,Shantou
+õi	õ i	f	õ i	n c	merging nasal vowel	Shantou
+õu	õ u	f	õ u ∼	n N c	nasal diphtong	Shantou
+ø	ø	f	ø	n 		Shanghai,Suzhou,Wenzhou
+øt	ø t	f	ø t	n c		Guangzhou,Xianggang
+øy	ø y	f	ø y	n N c		Fuzhou,Guangzhou,Wenzhou,Xianggang
+øyŋ	ø y ŋ	f	ø y ŋ	n N c		Fuzhou
+øyʔ	ø y ʔ	f	ø y ʔ	n N c		Fuzhou
+ĩ	ĩ	f	ĩ ∼	n c		Kunming,Shantou,Taibei,Xiamen
+ĩn	ĩ n	f	ĩ n	n c	merging nasal vowel	Lanzhou
+ĩŋ	ĩ ŋ	f	ĩ ŋ	n c	merging nasal vowel	Huhehaote
+ĩʔ	ĩ ʔ	f	ĩ ∼ ʔ	n c c	problematic	Shantou,Taibei
+ŋ	ŋ	i	ŋ	i		Changsha,Chengdu,Fuzhou,Guangzhou,Guiyang,Haikou,Hangzhou,Huhehaote,Jian'ou,Jinan,Meixian,Nanchang,Nanning,Pingyao,Shanghai,Shantou,Shexian,Suzhou,Taoyuan,Tunxi,Wenzhou,Wuhan,Xi'an,Xiamen,Xianggang,Xiangtan
+ŋ̍	ŋ̍	f	ŋ ŋ̍ ∼	i n c		Shanghai,Suzhou,Taibei,Wenzhou,Xiamen
+œk	œ k	f	œ k	n c		Guangzhou,Nanning,Xianggang
+œyŋ	œ y ŋ	f	œ y ŋ	n N c		Jian'ou
+œŋ	œ ŋ	f	œ ŋ	n c		Guangzhou,Nanning,Xianggang
+ũ	ũ	f	ũ ∼	n c		Taibei,Xiamen
+ũn	ũ n	f	ũ n	n c		Lanzhou
+ũr	ũ r	f	ũ ∼ r	n c r	rhotic	Zhengzhou
+ũŋ	ũ ŋ	f	ũ ŋ	n c	merging nasal vowel	Huhehaote
+ȵ	ȵ	i	ɲ	i		Changsha,Chengdu,Hangzhou,Jinan,Lanzhou,Nanchang,Pingyao,Shanghai,Suzhou,Tunxi,Wenzhou,Wulumuqi,Xiangtan,Xining
+ɐi	ɐ i	f	ɐ i			Guangzhou,Nanning,Xianggang
+ɐk	ɐ k	f	ɐ k			Guangzhou,Nanning,Xianggang
+ɐm	ɐ m	f	ɐ m			Guangzhou,Nanning,Xianggang
+ɐn	ɐ n	f	ɐ n			Guangzhou,Nanning,Xianggang
+ɐp	ɐ p	f	ɐ p			Guangzhou,Nanning,Xianggang
+ɐt	ɐ t	f	ɐ t			Guangzhou,Nanning,Xianggang
+ɐu	ɐ u	f	ɐ u			Guangzhou,Nanning,Xianggang
+ɐŋ	ɐ ŋ	f	ɐ ŋ			Guangzhou,Nanning,Xianggang
+ɐʔ	ɐ ʔ	f	ɐ ʔ			Hefei
+ɑ	ɑ	f	ɑ			Fuzhou,Hangzhou,Nanchang,Nanjing,Pingyao,Suzhou,Taoyuan,Tianjin
+ɑi	ɑ i	f	ɑ i			Fuzhou,Pingyao,Taoyuan
+ɑiʔ	ɑ i ʔ	f	ɑ i ʔ			Fuzhou
+ɑk	ɑ k	f	ɑ k			Taoyuan
+ɑm	ɑ m	f	ɑ m			Taoyuan
+ɑn	ɑ n	f	ɑ n			Taoyuan,Tianjin
+ɑp	ɑ p	f	ɑ p			Taoyuan
+ɑr	ɑ r	f	ɑ r			Nanjing,Tianjin
+ɑt	ɑ t	f	ɑ t			Taoyuan
+ɑu	ɑ u	f	ɑ u			Beijing,Fuzhou,Nanchang,Taoyuan,Tianjin
+ɑur	ɑ u r	f	ɑ u r			Beijing,Tianjin
+ɑŋ	ɑ ŋ	f	ɑ ŋ			Beijing,Fuzhou,Hangzhou,Nanchang,Nanjing,Pingyao,Taoyuan,Tianjin,Wulumuqi,Yinchuan
+ɑʔ	ɑ ʔ	f	ɑ ʔ			Fuzhou,Hangzhou,Hefei,Nanchang,Nanjing,Suzhou
+ɑ̃	ɑ̃	f	ɑ̃ ∼			Hefei,Huhehaote,Lanzhou,Shanghai,Suzhou
+ɑ̃r	ɑ̃ r	f	ɑ̃ r			Beijing
+ɒ	ɒ	f	ɒ			Xiangtan
+ɒ̃	ɒ̃	f	ɒ̃ ∼			Taiyuan
+ɔ	ɔ	f	ɔ	n		Fuzhou,Guangzhou,Hangzhou,Hefei,Huhehaote,Jian'ou,Jinan,Kunming,Lanzhou,Nanning,Pingyao,Qingdao,Shanghai,Shexian,Taibei,Tunxi,Wulumuqi,Xiamen,Xianggang,Xining,Yinchuan
+ɔi	ɔ i	f	ɔ i	n N		Guangzhou,Haikou,Nanning,Xianggang
+ɔk	ɔ k	f	ɔ k	n c		Guangzhou,Nanning,Xianggang
+ɔn	ɔ n	f	ɔ n	n c		Guangzhou,Nanning,Tunxi,Xianggang,Xiangtan
+ɔo	ɔ o	f	ɔ o	n N		Nanjing
+ɔr	ɔ r	f	ɔ r	n r	rhotic	Jinan,Qingdao,Wulumuqi
+ɔu	ɔ u	f	ɔ u	n N		Haikou
+ɔy	ɔ y	f	ɔ y	n N		Fuzhou
+ɔyŋ	ɔ y ŋ	f	ɔ y ŋ	n N c		Fuzhou
+ɔŋ	ɔ ŋ	f	ɔ ŋ	n c		Fuzhou,Guangzhou,Haikou,Jian'ou,Nanchang,Nanning,Taibei,Xiamen,Xianggang
+ɔʔ	ɔ ʔ	f	ɔ ʔ	n c		Fuzhou,Nanchang,Shexian,Taibei
+ɔ̃	ɔ̃	f	ɔ̃ ∼	n c		Taibei,Xining
+ɕ	ɕ	i	ɕ	i		Beijing,Changsha,Chengdu,Guiyang,Haerbin,Hangzhou,Hefei,Huhehaote,Jinan,Kunming,Lanzhou,Nanchang,Nanjing,Pingyao,Qingdao,Shanghai,Shexian,Suzhou,Taiyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xiangtan,Xining,Yinchuan,Zhengzhou
+ə	ə	f	ə	n		Beijing,Changsha,Haerbin,Hangzhou,Hefei,Huhehaote,Jinan,Kunming,Lanzhou,Qingdao,Suzhou,Tianjin,Tunxi,Wulumuqi,Xining,Yinchuan
+əi	ə i	f	ə i	n N		Nanjing,Xiangtan
+əl	ə l	f	ə l	n r		Hangzhou
+əm	ə m	f	ə m	n c		Beijing
+ən	ə n	f	ə n	n c		Beijing,Changsha,Chengdu,Haerbin,Hefei,Lanzhou,Meixian,Nanjing,Suzhou,Tianjin,Wuhan,Xiangtan,Zhengzhou
+əp	ə p	f	ə p	n c		Meixian
+ər	ə r	f	ə r	n r	rhotic as feature	Beijing,Chengdu,Haerbin,Jinan,Nanjing,Qingdao,Tianjin,Xi'an,Yinchuan,Zhengzhou
+ət	ə t	f	ə t	n c		Meixian
+əu	ə u	f	ə u	n N		Changsha,Chengdu,Guiyang,Huhehaote,Kunming,Pingyao,Suzhou,Taiyuan,Tunxi,Wuhan,Yinchuan
+əŋ	ə ŋ	f	ə ŋ	n c		Beijing,Haerbin,Hefei,Huhehaote,Jinan,Pingyao,Qingdao,Shanghai,Taiyuan,Tianjin,Xi'an,Yinchuan,Zhengzhou
+əŋr	ə ŋ r	f	ə ŋ r	n c r	rhotic	Qingdao
+əɯ	ə ɯ	f	ə ɯ	n N		Nanjing,Xiangtan
+əʔ	ə ʔ	f	ə ʔ	n c		Hangzhou,Hefei,Huhehaote,Nanjing,Shanghai,Suzhou,Taiyuan
+ə̃	ə̃	f	ə̃ ∼	n c		Changsha,Kunming,Qingdao,Xining
+ə̃n	ə̃ n	f	ə̃ n	n c	consider merging nasal vowels with nasal coda	Lanzhou
+ə̃r	ə̃ r	f	ə̃ ∼ r	n c r	rhotic	Beijing,Qingdao
+ə̃ŋ	ə̃ ŋ	f	ə̃ ŋ	n c	consider merging nasal vowels with nasal coda	Huhehaote
+ɚ	ɚ	f	ɚ	n r	rhotic	Wulumuqi
+ɛ	ɛ	f	ɛ	n 		Beijing,Fuzhou,Guangzhou,Guiyang,Haerbin,Haikou,Huhehaote,Jian'ou,Jinan,Kunming,Lanzhou,Nanning,Qingdao,Shexian,Tunxi,Xi'an,Xianggang,Xining,Yinchuan,Zhengzhou
+ɛi	ɛ i	f	ɛ i	n N		Fuzhou
+ɛiŋ	ɛ i ŋ	f	ɛ i ŋ	n N c		Fuzhou
+ɛiʔ	ɛ i ʔ	f	ɛ i ʔ	n N c		Fuzhou
+ɛk	ɛ k	f	ɛ k	n c		Guangzhou,Nanning,Xianggang
+ɛm	ɛ m	f	ɛ m	n c		Nanning
+ɛn	ɛ n	f	ɛ n	n c		Lanzhou,Nanchang,Nanning,Wuhan
+ɛp	ɛ p	f	ɛ p	n c		Nanning
+ɛr	ɛ r	f	ɛ r	n r		Jinan,Qingdao,Wulumuqi
+ɛt	ɛ t	f	ɛ t	n c		Nanning
+ɛu	ɛ u	f	ɛ u	n N		Fuzhou,Nanchang,Nanning
+ɛŋ	ɛ ŋ	f	ɛ ŋ	n c		Guangzhou,Nanning,Xianggang
+ɛʔ	ɛ ʔ	f	ɛ ʔ	n c		Fuzhou,Nanchang,Shexian
+ɛ̃	ɛ̃	f	ɛ̃ ∼	n c		Kunming
+ɛ̃n	ɛ̃ n	f	ɛ̃ n	n c	consider merging nasal	Lanzhou
+ɜ	ɜ	f	ɜ	n		Wenzhou
+ɣ	ɣ	i	ɣ	i		Qingdao,Taiyuan
+ɤ	ɤ	f	ɤ	n		Beijing,Haerbin,Huhehaote,Shanghai,Taiyuan,Tianjin,Wuhan,Wulumuqi,Xi'an,Zhengzhou
+ɤr	ɤ r	f	ɤ r	n r	rhotic	Beijing,Haerbin,Tianjin,Xi'an,Zhengzhou
+ɤu	ɤ u	f	ɤ u	n N		Wenzhou,Wulumuqi
+ɤŋ	ɤ ŋ	f	ɤ ŋ	n c		Wulumuqi
+ɦ	ɦ	i	ɦ	i		Hangzhou,Shanghai,Suzhou,Wenzhou,Xiangtan
+ɨ	ɨ	f	ɨ	n		Xining
+ɨn	ɨ n	f	ɨ n	n c		Nanchang
+ɨu	ɨ u	f	ɨ u	n N	ambiguous	Nanchang
+ɨʔ	ɨ ʔ	f	ɨ ʔ	n c		Nanchang
+ɪ	ɪ	f	ɪ	n		Suzhou
+ɪʔ	ɪ ʔ	f	ɪ ʔ	n c		Shanghai
+ɪ̃	ɪ̃	f	ɪ̃ ∼	n c		Hefei
+ɬ	ɬ	i	ɬ	i		Nanning
+ɭ	ɭ	i	ɭ	i		Qingdao
+ɯ	ɯ	f	ɯ	n		Hefei,Lanzhou,Shantou,Wuhan,Xi'an,Xiangtan,Xining,Yinchuan
+ɯk	ɯ k	f	ɯ k	n c		Shantou
+ɯŋ	ɯ ŋ	f	ɯ ŋ	n c		Shantou
+ɵn	ɵ n	f	ɵ n	n c		Nanchang
+ɸ	ɸ	i	ɸ	i		Xiangtan
+ɿ	ɿ	f	ɿ	n		Beijing,Changsha,Chengdu,Guiyang,Haerbin,Hangzhou,Hefei,Huhehaote,Jinan,Kunming,Lanzhou,Meixian,Nanchang,Nanjing,Nanning,Pingyao,Qingdao,Shanghai,Shexian,Suzhou,Taiyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xiangtan,Xining,Yinchuan,Zhengzhou
+ɿa	ɿ a	f	ɿ ⁰ a	n t n		Hefei
+ɿŋa	ɿ ŋ a	f	ɿ ⁰ ŋ a	n t i n		Wuhan
+ʂ	ʂ	i	ʂ	i		Beijing,Changsha,Haerbin,Hefei,Jinan,Kunming,Lanzhou,Nanjing,Pingyao,Qingdao,Tianjin,Wulumuqi,Xi'an,Xiangtan,Xining,Yinchuan,Zhengzhou
+ʃ	ʃ	i	ʃ	i		Qingdao,Taoyuan
+ʅ	ʅ	f	ʅ	n		Beijing,Changsha,Haerbin,Huhehaote,Jinan,Kunming,Lanzhou,Nanjing,Pingyao,Qingdao,Tianjin,Wulumuqi,Xi'an,Xiangtan,Xining,Yinchuan,Zhengzhou
+ʅmɑʔ	ʅ ⁰ m ɑ ʔ	f	ʅ ⁰ m ɑ ʔ	n t i n c		Nanjing
+ʅr	ʅ r	f	ʅ r	n r	rhotic	Qingdao
+ʅtʰər	ʅ ⁰ tʰ ə r	f	ʅ ⁰ tʰ ə r	n t i n c		Nanjing
+ʅɛ	ʅ ɛ	f	ʅ ɛ	m n		Zhengzhou
+ʅʔ	ʅ ʔ	f	ʅ ʔ	n c		Nanjing
+ʅᴇ	ʅ ᴇ	f	ʅ ᴇ	m n	retracted	Pingyao
+ʊ	ʊ	f	ʊ	n 		Hefei
+ʊ̃	ʊ̃	f	ʊ̃ ∼	n c		Hefei
+ʌʔ	ʌ ʔ	f	ʌ ʔ	n c		Pingyao
+ʌ̃	ʌ̃	f	ʌ̃ ∼	n c		Shexian
+ʏ	ʏ	f	ʏ	n		Suzhou
+ʐ	ʐ	i	ʐ	i		Beijing,Changsha,Haerbin,Hefei,Huhehaote,Jinan,Kunming,Lanzhou,Nanjing,Pingyao,Tianjin,Wulumuqi,Xi'an,Xining,Yinchuan,Zhengzhou
+ʒ	ʒ	i	ʒ	i		Fuzhou,Taoyuan
+ʔ	ʔ	i	ʔ	i		Hangzhou
+ʔba	ʔb a	s	ʔb a	i n		Haikou
+ʔbai	ʔb a i	s	ʔb a i	i n		Haikou
+ʔbai³⁵	ʔb a i	s	ʔb a i	i n c		Haikou
+ʔbau	ʔb a u	s	ʔb a u	i n N		Haikou
+ʔbaŋ	ʔb a ŋ	s	ʔb a ŋ	i n c		Haikou
+ʔbeŋ	ʔb e ŋ	s	ʔb e ŋ	i n c		Haikou
+ʔbi	ʔb i	s	ʔb i	i n		Haikou
+ʔbit	ʔb i t	s	ʔb i t	i n c		Haikou
+ʔbo	ʔb o	s	ʔb o	i n		Haikou
+ʔbue	ʔb u e	s	ʔb u e	i m n		Haikou
+ʔbui	ʔb u i	s	ʔb u i	i m n		Haikou
+ʔbɛ	ʔb ɛ	s	ʔb ɛ	i n		Haikou
+ʔda	ʔd a	s	ʔd a	i n		Haikou
+ʔdau	ʔd a u	s	ʔd a u	i n N		Haikou
+ʔdaŋ	ʔd a ŋ	s	ʔd a ŋ	i n c		Haikou
+ʔde	ʔd e	s	ʔd e	i n		Haikou
+ʔdi	ʔd i	s	ʔd i	i n		Haikou
+ʔdiam	ʔd i a m	s	ʔd i a m	i m n c		Haikou
+ʔdiau	ʔd i a u	s	ʔd i a u	i m n N		Haikou
+ʔdiaŋ	ʔd i a ŋ	s	ʔd i a ŋ	i m n c		Haikou
+ʔdio	ʔd i o	s	ʔd i o	i n N		Haikou
+ʔdo	ʔd o	s	ʔd o	i n		Haikou
+ʔdu	ʔd u	s	ʔd u	i n		Haikou
+ʔdui	ʔd u i	s	ʔd u i	i n N	ambiguous	Haikou
+ʔdɔi	ʔd ɔ i	s	ʔd ɔ i	i n N		Haikou
+ʔdɛ	ʔd ɛ	s	ʔd ɛ	i n		Haikou
+ʔkəʔ	ʔk ə ʔ	s	ʔk ə ʔ	i n c		Suzhou
+ʔtaʔ	ʔt a ʔ	s	ʔt a ʔ	i n c		Suzhou
+ʣ	ʣ	i	ʣ	i		Hangzhou,Wenzhou,Xiangtan
+ʥ	ʥ	i	ʥ	i		Hangzhou,Shanghai,Suzhou,Wenzhou,Xiangtan
+ʦ	ʦ	i	ts	i		Beijing,Changsha,Chengdu,Fuzhou,Guangzhou,Guiyang,Haerbin,Haikou,Hangzhou,Hefei,Huhehaote,Jian'ou,Jinan,Kunming,Lanzhou,Meixian,Nanchang,Nanjing,Nanning,Pingyao,Qingdao,Shanghai,Shantou,Shexian,Suzhou,Taibei,Taiyuan,Taoyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xiamen,Xianggang,Xiangtan,Xining,Yinchuan,Zhengzhou
+ʦʰ	ʦʰ	i	tsʰ	i		Beijing,Changsha,Chengdu,Fuzhou,Guangzhou,Guiyang,Haerbin,Hangzhou,Hefei,Huhehaote,Jian'ou,Jinan,Kunming,Lanzhou,Meixian,Nanchang,Nanjing,Nanning,Pingyao,Qingdao,Shanghai,Shantou,Shexian,Suzhou,Taibei,Taiyuan,Taoyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xiamen,Xianggang,Xiangtan,Xining,Yinchuan,Zhengzhou
+ʦʰ.jieu³²	ʦʰ . j i e u ³²	f	j/ʦʰ i e u ³²	i m n c t	Fuzhou-specific weakening	Fuzhou
+ʦʰ.jy³²	ʦʰ . j y ³²	f	j/ʦʰ y ³²	i n t	Fuzhou-specific weakening	Fuzhou
+ʦʰ.ʒuɔ²¹²	ʦʰ . ʒ u ɔ ²¹²	s	ʒ/ʦʰ u ɔ ²¹²	i m n t	Fuzhou-specific weakening	
+ʧ	ʧ	i	tʃ	i		Qingdao,Taoyuan
+ʧʰ	ʧʰ	i	tʃʰ	i		Qingdao,Taoyuan
+ʨ	ʨ	i	tɕ	i		Beijing,Changsha,Chengdu,Guiyang,Haerbin,Hangzhou,Hefei,Huhehaote,Jinan,Kunming,Lanzhou,Nanchang,Nanjing,Pingyao,Qingdao,Shanghai,Shexian,Suzhou,Taiyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xiangtan,Xining,Yinchuan,Zhengzhou
+ʨj̩	ʨ j̩	s	ʨ i	i n	correction	Xining
+ʨʰ	ʨʰ	i	tɕʰ	i		Beijing,Changsha,Chengdu,Guiyang,Haerbin,Hangzhou,Hefei,Huhehaote,Jinan,Kunming,Lanzhou,Nanchang,Nanjing,Pingyao,Qingdao,Shanghai,Shexian,Suzhou,Taiyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xiangtan,Xining,Yinchuan,Zhengzhou
+ʮ	ʮ	f	ʮ	n		Hangzhou,Hefei,Pingyao,Suzhou
+ʮen	ʮ e n	f	ʮ e n	m n c		Hangzhou
+ʮõ	ʮ õ	f	ʮ õ ∼	m n c		Hangzhou
+ʮɑŋ	ʮ ɑ ŋ	f	ʮ ɑ ŋ	m n c		Hangzhou
+ʮəʔ	ʮ ə ʔ	f	ʮ ə ʔ	m n c		Hangzhou
+β	β	i	β	i		Fuzhou
+ᴀ	ᴀ	f	ᴀ			Kunming
+ᴀ̃	ᴀ̃	f	ᴀ̃			Kunming
+ᴇ	ᴇ	f	ᴇ	n	modify to retracted	Hangzhou,Hefei,Pingyao,Suzhou
+ᴇ̃	ᴇ̃	f	ᴇ̃ ∼	n c	modify to retracted	Hangzhou
+ẽ	ẽ	f	ẽ ∼			Changsha,Jinan,Shantou,Taoyuan,Xi'an,Xiamen,Xiangtan
+⁰	⁰	t	⁰	t		Beijing,Changsha,Haerbin,Hangzhou,Hefei,Huhehaote,Jinan,Kunming,Meixian,Nanjing,Qingdao,Shexian,Suzhou,Taiyuan,Tianjin,Tunxi,Wenzhou,Wuhan,Wulumuqi,Xi'an,Xiamen,Xining,Yinchuan,Zhengzhou
+⁰²	⁰²	t	⁰²	t		Nanchang
+⁰²⁴⁻²¹	⁰²⁴⁻²¹	t	⁰²⁴/²¹	t		Xining
+⁰⁴	⁰⁴	t	⁰⁴	t		Nanchang
+⁴	⁴	t	⁴	t		Beijing,Qingdao,Yinchuan
+⁴²	⁴²	t	⁴²	t		Guiyang,Jian'ou,Jinan,Nanchang,Qingdao,Tunxi,Wenzhou,Wuhan,Xiangtan,Zhengzhou
+⁴²⁻²²	⁴²⁻²²	t	⁴²/²²	t		Wenzhou
+⁴²⁻²¹	⁴²⁻²¹	t	⁴²/²¹	t		Wenzhou
+⁴²⁻³¹	⁴²⁻³¹	t	⁴²/³¹	t		Qingdao,Wenzhou,Zhengzhou
+⁴²⁻³⁵	⁴²⁻³⁵	t	⁴²/³⁵	t		Wenzhou
+⁴²⁻¹²	⁴²⁻¹²	t	⁴²/¹²	t		Wenzhou
+⁴²⁻¹¹	⁴²⁻¹¹	t	⁴²/¹¹	t		Tunxi
+⁴²⁻⁴⁵	⁴²⁻⁴⁵	t	⁴²/⁴⁵	t		Wenzhou
+⁴²⁻⁵³	⁴²⁻⁵³	t	⁴²/⁵³	t		Zhengzhou
+⁴²⁻⁵⁴⁴	⁴²⁻⁵⁴⁴	t	⁴²/⁵⁴⁴	t		Jinan
+⁴²⁻⁵⁵	⁴²⁻⁵⁵	t	⁴²/⁵⁵	t		Jinan,Qingdao
+⁴³	⁴³	t	⁴³	t		Huhehaote
+⁴³⁻²¹	⁴³⁻²¹	t	⁴³/²¹	t		Huhehaote
+⁴¹	⁴¹	t	⁴¹	t		Changsha,Xiangtan
+⁴⁴	⁴⁴	t	⁴⁴	t		Fuzhou,Haerbin,Jian'ou,Kunming,Lanzhou,Meixian,Nanjing,Shexian,Taibei,Tunxi,Wulumuqi,Xi'an,Xining,Yinchuan
+⁴⁴²	⁴⁴²	t	⁴⁴²	t		Lanzhou,Wulumuqi
+⁴⁴²⁻⁵³	⁴⁴²⁻⁵³	t	⁴⁴²/⁵³	t		Lanzhou
+⁴⁴⁵	⁴⁴⁵	t	⁴⁴⁵	t		Hangzhou
+⁴⁴⁵⁻³³	⁴⁴⁵⁻³³	t	⁴⁴⁵/³³	t		Hangzhou
+⁴⁴⁵⁻³¹	⁴⁴⁵⁻³¹	t	⁴⁴⁵/³¹	t		Hangzhou
+⁴⁴⁻	⁴⁴⁻	t	⁴⁴	t	error in annotation	Xining
+⁴⁴⁻²¹	⁴⁴⁻²¹	t	⁴⁴/²¹	t		Fuzhou,Xining
+⁴⁴⁻²⁴	⁴⁴⁻²⁴	t	⁴⁴/²⁴	t		Haerbin,Xining
+⁴⁴⁻³²	⁴⁴⁻³²	t	⁴⁴/³²	t		Taibei
+⁴⁴⁻³³	⁴⁴⁻³³	t	⁴⁴/³³	t		Taibei
+⁴⁴⁻³⁵	⁴⁴⁻³⁵	t	⁴⁴/³⁵	t		Meixian
+⁴⁴⁻⁴²	⁴⁴⁻⁴²	t	⁴⁴/⁴²	t		Nanjing,Tunxi
+⁴⁴⁻⁵³	⁴⁴⁻⁵³	t	⁴⁴/⁵³	t		Fuzhou,Xi'an,Xining
+⁴⁵	⁴⁵	t	⁴⁵	t		Nanchang,Qingdao,Taiyuan,Tianjin
+⁴⁵⁻⁵³	⁴⁵⁻⁵³	t	⁴⁵/⁵³	t		Taiyuan
+⁵	⁵	t	⁵	t		Fuzhou,Guangzhou,Haikou,Hangzhou,Hefei,Meixian,Nanchang,Nanjing,Shanghai,Shantou,Suzhou,Tunxi,Xiamen,Xianggang
+⁵³	⁵³	t	⁵³	t		Chengdu,Fuzhou,Guangzhou,Haerbin,Hangzhou,Hefei,Huhehaote,Kunming,Lanzhou,Meixian,Pingyao,Shanghai,Shantou,Taibei,Taiyuan,Tianjin,Wulumuqi,Xi'an,Xiamen,Xianggang,Xining,Yinchuan,Zhengzhou
+⁵³³	⁵³	t	⁵³	t		Guangzhou
+⁵³⁻	⁵³⁻	t	⁵³	t	error in annotation	Chengdu,Hangzhou,Pingyao
+⁵³⁻²³	⁵³⁻²³	t	⁵³/²³	t		Shanghai
+⁵³⁻²¹	⁵³⁻²¹	t	⁵³/²¹	t		Fuzhou,Shanghai,Tianjin,Xi'an,Xining
+⁵³⁻²¹³	⁵³⁻²¹³	t	⁵³/²¹³	t		Shantou
+⁵³⁻²⁴	⁵³⁻²⁴	t	⁵³/²⁴	t		Shantou,Xining,Zhengzhou
+⁵³⁻³²	⁵³⁻³²	t	⁵³/³²	t		Fuzhou
+⁵³⁻³³	⁵³⁻³³	t	⁵³/³³	t		Hangzhou,Huhehaote,Lanzhou,Shanghai
+⁵³⁻³¹	⁵³⁻³¹	t	⁵³/³¹	t		Chengdu,Hangzhou,Huhehaote,Pingyao
+⁵³⁻³⁵	⁵³⁻³⁵	t	⁵³/³⁵	t		Pingyao,Yinchuan
+⁵³⁻¹³	⁵³⁻¹³	t	⁵³/¹³	t		Pingyao
+⁵³⁻¹¹	⁵³⁻¹¹	t	⁵³/¹¹	t		Lanzhou,Taibei,Taiyuan
+⁵³⁻⁴²	⁵³⁻⁴²	t	⁵³/⁴²	t		Zhengzhou
+⁵³⁻⁴²³	⁵³⁻⁴²³	t	⁵³/⁴²³	t		Pingyao
+⁵³⁻⁴⁴	⁵³⁻⁴⁴	t	⁵³/⁴⁴	t		Fuzhou,Shanghai,Taibei,Xining
+⁵³⁻⁴⁵	⁵³⁻⁴⁵	t	⁵³/⁴⁵	t		Taiyuan,Tianjin
+⁵³⁻⁵	⁵³⁻⁵	t	⁵³/⁵	t		Xiamen
+⁵³⁻⁵⁵	⁵³⁻⁵⁵	t	⁵³/⁵⁵	t		Meixian,Shanghai,Taibei,Taoyuan,Xiamen
+⁵¹	⁵¹	t	⁵¹	t		Beijing,Suzhou,Wulumuqi
+⁵¹³	⁵¹³	t	⁵¹³	t		Suzhou
+⁵¹³⁻²¹	⁵¹³⁻²¹	t	⁵¹³/²¹	t		Suzhou
+⁵¹³⁻³³	⁵¹³⁻³³	t	⁵¹³/³³	t		Suzhou
+⁵¹³⁻⁵¹	⁵¹³⁻⁵¹	t	⁵¹³/⁵¹	t		Suzhou
+⁵¹³⁻⁵⁵	⁵¹³⁻⁵⁵	t	⁵¹³/⁵⁵	t		Suzhou
+⁵¹⁻²¹	⁵¹⁻²¹	t	⁵¹/²¹	t		Suzhou
+⁵¹⁻²¹³	⁵¹⁻²¹³	t	⁵¹/²¹³	t		Wulumuqi
+⁵¹⁻³³	⁵¹⁻³³	t	⁵¹/³³	t		Suzhou
+⁵¹⁻¹³	⁵¹⁻¹³	t	⁵¹/¹³	t		Wulumuqi
+⁵¹⁻⁴⁴	⁵¹⁻⁴⁴	t	⁵¹/⁴⁴	t		Wulumuqi
+⁵¹⁻⁵³	⁵¹⁻⁵³	t	⁵¹/⁵³	t		Wulumuqi
+⁵¹⁻⁵⁵	⁵¹⁻⁵⁵	t	⁵¹/⁵⁵	t		Suzhou
+⁵⁴	⁵⁴	t	⁵⁴	t		Jian'ou,Taiyuan
+⁵⁴⁻²	⁵⁴⁻²	t	⁵⁴/²	t		Taiyuan
+⁵⁵	⁵⁵	t	⁵⁵	t		Beijing,Changsha,Chengdu,Guangzhou,Guiyang,Haikou,Hefei,Huhehaote,Jinan,Meixian,Nanning,Qingdao,Shanghai,Shantou,Suzhou,Taibei,Taoyuan,Wuhan,Xiamen,Xianggang,Xiangtan
+⁵⁵⁻²²	⁵⁵⁻²²	t	⁵⁵/²²	t		Nanning,Xiamen
+⁵⁵⁻²¹	⁵⁵⁻²¹	t	⁵⁵/²¹	t		Suzhou,Xiamen,Xianggang
+⁵⁵⁻²¹³	⁵⁵⁻²¹³	t	⁵⁵/²¹³	t		Jinan
+⁵⁵⁻³³	⁵⁵⁻³³	t	⁵⁵/³³	t		Suzhou
+⁵⁵⁻³¹	⁵⁵⁻³¹	t	⁵⁵/³¹	t		Qingdao,Shantou
+⁵⁵⁻³⁵	⁵⁵⁻³⁵	t	⁵⁵/³⁵	t		Beijing,Xiamen
+⁵⁵⁻¹³	⁵⁵⁻¹³	t	⁵⁵/¹³	t		Suzhou
+⁵⁵⁻⁴²	⁵⁵⁻⁴²	t	⁵⁵/⁴²	t		Jinan
+⁵⁵⁻⁴⁴	⁵⁵⁻⁴⁴	t	⁵⁵/⁴⁴	t		Taoyuan,Wulumuqi
+⁵⁵⁻⁴⁵	⁵⁵⁻⁴⁵	t	⁵⁵/⁴⁵	t		Qingdao
+⁵⁵⁻⁵³	⁵⁵⁻⁵³	t	⁵⁵/⁵³	t		Huhehaote
+⁵⁵⁻⁵¹	⁵⁵⁻⁵¹	t	⁵⁵/⁵¹	t		Beijing
+⁵⁻²	⁵⁻²	t	⁵/²	t		Hefei,Shanghai,Shantou,Suzhou
+⁵⁻²³	⁵⁻²³	t	⁵/²³	t		Shanghai
+⁵⁻²¹	⁵⁻²¹	t	⁵/²¹	t		Fuzhou,Shanghai,Xiamen
+⁵⁻³	⁵⁻³	t	⁵/³	t		Nanjing,Shanghai
+⁵⁻³²	⁵⁻³²	t	⁵/³²	t		Fuzhou
+⁵⁻¹¹	⁵⁻¹¹	t	⁵/¹¹	t		Tunxi
+⁵⁻⁴	⁵⁻⁴	t	⁵/⁴	t		Shanghai
+⁵⁻⁴⁴	⁵⁻⁴⁴	t	⁵/⁴⁴	t		Fuzhou
+⁵⁻⁵	⁵⁻⁵	t	⁵/⁵	t		Shanghai
+⁵⁻⁵³	⁵⁻⁵³	t	⁵/⁵³	t		Fuzhou

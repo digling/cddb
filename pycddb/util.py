@@ -158,7 +158,7 @@ def get_transformer(profile, exception=None):
     
     profile = lp.csv2list(cddb_path('profiles', profile), strip_lines=False)
     for i, line in enumerate(profile):
-        profile[i] = [clpa.normalize(x) for x in line]
+        profile[i] = [unicodedata.normalize('NFD', clpa.normalize(x)) for x in line]
     tokenizer = Tokenizer(profile)
     
     return lambda x, y: unicodedata.normalize(
@@ -169,5 +169,6 @@ def get_transformer(profile, exception=None):
 def get_bibliography():
     return database.parse_file(cddb_path('references', 'references.bib'))
 
-
-
+def slice_word(word):
+    for a, b in _get_slices(word):
+        yield word[a:b]

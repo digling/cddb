@@ -1,7 +1,7 @@
 from pycddb.dataset import Dataset
 from sinopy import sinopy
 from collections import defaultdict
-from lingpy import Wordlist
+from lingpy import Wordlist, iter_rows
 
 rhymebook = sinopy._cd.GY
 rhymebook['yun']['譚'] = 'om'
@@ -46,4 +46,16 @@ def check(dataset):
         print(count, a, b)
         count += 1
 
-        
+def prepare(ds):
+
+    wl = Wordlist(ds.raw('Hou2004-lexemes.csv'))
+    D = {0 : ['doculect', 'concept', 'value', 'segments', 'structure', 'characters', 'cogids']}
+    for k, d, c, i, h in iter_rows(wl, 'doculect', 'concept', 'ipa', 'counterpart'):
+        tokens = ds.transform(i, 'clpa')
+        struc = ds.transform(i, 'structure')
+        D[k] = [d, c, i, tokens, struc, h, '0']
+    ds.write_wordlist(wl, 'words')
+
+def nexus(dataset):
+    pass
+    
