@@ -159,12 +159,12 @@ def get_transformer(profile, exception=None):
     profile = lp.csv2list(cddb_path('profiles', profile), strip_lines=False)
     for i, line in enumerate(profile):
         profile[i] = [unicodedata.normalize('NFD', clpa.normalize(x)) for x in line]
-    tokenizer = Tokenizer(profile)
+    tokenizer = Tokenizer(profile, errors_replace=lambda x: "«{0}»".format(x))
     
     return lambda x, y: unicodedata.normalize(
             'NFC',
-            tokenizer.transform(clpa.normalize(x), column=y, separator=' + ', 
-                missing=lambda x: '«{0}»'.format(x)))
+            tokenizer.transform(clpa.normalize(x), column=y, separator=' + ')
+            )
 
 def get_bibliography():
     return database.parse_file(cddb_path('references', 'references.bib'))
@@ -172,3 +172,19 @@ def get_bibliography():
 def slice_word(word):
     for a, b in _get_slices(word):
         yield word[a:b]
+
+def slice_characters(chars):
+
+    out = []
+    plus = False
+    for char in chars:
+        if plus:
+            plus = False
+            out[-1] += char
+        elif char != '+':
+            out += [char]
+        elif char == '+':
+            plus = True
+
+    return out
+        

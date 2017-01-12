@@ -11,6 +11,7 @@ def prepare(ds):
         tmp = dict(zip(h, line))
         I[tmp['CLPA']] = {k.lower(): v for k, v in tmp.items() if v.strip()}
     wl = Wordlist(ds.raw('bds.tsv'))
+    W = {}
     for k in wl:
         value = wl[k, 'value']
         tokens = wl[k, 'tokens']
@@ -29,4 +30,12 @@ def prepare(ds):
             except:
                 errs += 1
                 print(errs, clpa, struc)
+            if '«' in clpa:
+                errs += 1
+                print(errs, ipa, clpa, struc)
+            W[k] = [doc, wl[k, 'concept'], wl[k, 'concepticon_id'], value,
+                    clpa, struc, wl[k, 'partial_ids']]
+    W[0] = ['doculect', 'concept', 'concepticon_id', 'value', 'segments', 'structure', 'cogids']
+    ds.write_wordlist(Wordlist(W), 'words')
+
 

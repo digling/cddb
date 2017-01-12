@@ -30,7 +30,7 @@ def main():
         
         langs = load_languages()
         info = len(langs[list(langs.keys())[0]])
-        groups = len(set([l['group'] for l in langs.values()]))
+        groups = len(set([l['subgroup'] for l in langs.values()]))
         text = """Dataset contains
 * {0} language varieties (distinct)
 * {1} different values in the columns
@@ -44,6 +44,9 @@ def main():
     if 'prepare' in argv:
         dset = Dataset(argv[argv.index('prepare')+1])
         dset.prepare()
+    if 'nexus' in argv:
+        dset = Dataset(argv[argv.index('nexus')+1])
+        dset._run_command('nexus')
 
     if 'map' in argv:
         write_map(cddb_path('varieties', 'languages.csv'), 

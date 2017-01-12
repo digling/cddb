@@ -1,13 +1,12 @@
-from importlib import import_module
 from clldutils.dsv import UnicodeReader
 from clldutils.misc import cached_property
 from pycddb.util import cddb_path, load_languages, get_transformer
 import json
 from collections import OrderedDict
 import os
-from pylexibank.util import with_sys_path
-from pyconcepticon.api import Concepticon, as_conceptlist
-from clldutils.path import Path
+#from pylexibank.util import with_sys_path
+from pyconcepticon.api import Concepticon, Conceptlist 
+from clldutils.path import Path, import_module
 from lingpy import *
 from sinopy import sinopy
 
@@ -29,6 +28,11 @@ def csv2dict(path, key='id', prefix=''):
             line))
     return d
 
+def csv2list(path):
+    with UnicodeReader(path, delimiter='\t') as reader:
+        data = list(reader)
+    header = [h.lower() for h in data[0]]
+    return [dict(zip(header,line)) for line in data[1:]]
 
 def json2dict(path):
     with open(path) as f:
@@ -40,14 +44,15 @@ def data_path(path):
 
 class Dataset(object):
 
-    def __init__(self, name):
+    def __init__(self, name, data_path=data_path, base='cddb', 
+            _languages=_languages, _path=cddb_path):
         self.id = name
         self.get_path = data_path(name)
         self.path = self.get_path('')
         self._data = {}
 
         # get the languages
-        self.languages = csv2dict(self.get_path('languages.csv'), key='cddb',
+        self.languages = csv2dict(self.get_path('languages.csv'), key=base,
                 prefix=self.id)
         self.lid2lang = dict([(self.languages[x][self.id+'_id'], x) for x in
             self.languages])
@@ -56,13 +61,13 @@ class Dataset(object):
                 self.languages[k][h.lower()] = v
 
         self.metadata = json2dict(self.get_path('metadata.json'))
-        with with_sys_path(Path(cddb_path('datasets'))) as f:
-            self.commands = import_module(name)
-
+        #with with_sys_path(Path(_path('datasets'))) as f:
+        self.commands = import_module(Path(_path('datasets', self.id)))
+        
         # try to get a concept list
         clist = False
         if os.path.isfile(self.get_path('concepts.csv')):
-            clist = as_conceptslist(self.get_path('concepts.csv'))
+            clist = Conceptlist.from_file(self.get_path('concepts.csv'))
         elif 'concepts' in self.metadata:
             clist = Concepticon().conceptlists[self.metadata['concepts']]
         if clist:
@@ -112,8 +117,9 @@ class Dataset(object):
 
 
     def write_wordlist(self, wordlist, *path):
-        wordlist.output('tsv', filename=self.get_path(*path), ignore='all',
+        wordlist.output('tsv', filename=self.get_path(*path, 'words'), ignore='all',
                 prettify=False)
+        print(self.get_path(*path))
    
     def pinyin(self, chars):
         py = []
@@ -158,12 +164,12 @@ class Dataset(object):
     
     @cached_property()
     def mch(self):
-        t = get_transformer(cddb_path('profiles', 'Baxter1992.prf'))
+        t = get_transformer(self._path('profiles', 'Baxter1992.prf'))
         return lambda x: (t(x, 'clpa'), t(x, 'structure'))
     
     @cached_property()
     def och(self):
-        t = get_transformer(cddb_path('profiles', 'Baxter2014.prf'))
+        t = get_transformer(self._path('profiles', 'Baxter2014.prf'))
         return lambda x: (t(x, 'clpa'), 
                 t(x, 'structure'), 
                )
@@ -171,5 +177,35 @@ class Dataset(object):
     def gloss(self, string):
         reps = {'"': '“'}
         return ''.join([reps.get(x, x) for x in string])
+
+    
+    def csv2list(self, path):
+        return csv2list(path)
+
+    def split_initial_final(self, string):
+
+        tokens = ipa2tokens(string, merge_vowels=False)
+        cv = ''.join([x.lower() for x in tokens2class(tokens, 'cv')])
+        vidx = cv.find('v')
+        tidx = cv.find('t')
+        if tidx != -1 and vidx != -1:
+            return (
+                    ''.join(tokens[:vidx]), ''.join(tokens[vidx:tidx]),
+                    ''.join(tokens[tidx:]))
+        if vidx != -1:
+            return (''.join(tokens[:vidx]), ''.join(tokens[vidx:]), '')
+        return (
+                ''.join(tokens), '', '')
+
+    def write_profile(self, path, profile):
+        with open(path, 'w') as f:
+            f.write('GRAPHEMES\tSOURCE\tTYPE\tCLPA'
+                    '\tSTRUCTURE\tDOCULECT\tFREQUENCY\n')
+            for (s, t), vals in sorted(
+                    profile.items(), key=lambda x: (x[0][1], sum(x[1].values())),
+                    reverse=True):
+                f.write('\t'.join([
+                    s.replace(' ', ''), s, t, s, '', ','.join(sorted(vals)),
+                    str(sum(vals.values()))])+'\n')
 
 
