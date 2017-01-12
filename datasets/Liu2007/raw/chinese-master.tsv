@@ -1828,14 +1828,14 @@ rightside	118	右边	iou21 pia~42-22
 rightside	118	右边	i6u22 pin53
 rightside	118	大边,正边	(1) tuai242-55 BEiN55, (2) tsiaN212-55 mEiN55
 rightside	118	右边	iu22-21 pian55
-fish	118	鱼	yu35
-fish	118	鱼	yu24
-fish	118	鱼	yu53
-fish	118	鱼	yu52
-fish	118	鱼	yu21
-fish	118	鱼	yu24
-fish	118	鱼	yu21
-fish	118	鱼	yui13
+fish	118	鱼	y35
+fish	118	鱼	y24
+fish	118	鱼	y53
+fish	118	鱼	y52
+fish	118	鱼	y21
+fish	118	鱼	y24
+fish	118	鱼	y21
+fish	118	鱼	yi13
 fish	118	鱼	n`y44
 fish	118	鱼	N=13
 fish	118	鱼	N2y341
@@ -1844,16 +1844,16 @@ fish	118	鱼	y13
 fish	118	鱼	n`ie45
 fish	118	鱼	n=11
 fish	118	囗囗囗	N=t23 si_z0 te33
-fish	118	鱼	yu21
+fish	118	鱼	y21
 fish	118	鱼	Ny53
 fish	118	鱼	hi24
-feather	119	羽毛	yu213-21 mAu35
-feather	119	羽毛儿	yu213-21 maur24
+feather	119	羽毛	y213-21 mAu35
+feather	119	羽毛儿	y213-21 maur24
 feather	119	羽毛,毛	(1) y45 mO53, (2) mO53
 feather	119	羽毛	y213 mO52
-feather	119	羽毛	yu53 mau21
+feather	119	羽毛	y53 mau21
 feather	119	毛	mAu24
-feather	119	羽毛	yu53-45 mau21
+feather	119	羽毛	y53-45 mau21
 feather	119	羽毛	i11-21 mO13
 feather	119	羽毛,毛	(1) y213-31 m744, (2) m744
 feather	119	羽毛,毛	(1) y44 m{13-21, (2) m{13
@@ -1863,20 +1863,20 @@ feather	119	羽毛	y42 m713-33
 feather	119	羽毛	y213 mau45
 feather	119	羽毛	i33 mau33
 feather	119	毛	mAu22
-feather	119	羽毛	yu23 mou21
+feather	119	羽毛	y23 mou21
 feather	119	羽毛,毛毛	(1) y32 mau53, (2) mau53-33 mau53
 feather	119	翼毛	sit5-32_ mN=24
-rain	119	雨	yu213
-rain	119	雨	yu213
-rain	119	雨	yu45
-rain	119	雨	yu214
-rain	119	雨	yu53
-rain	119	雨	yu53
-rain	119	雨	yu53
+rain	119	雨	y213
+rain	119	雨	y213
+rain	119	雨	y45
+rain	119	雨	y214
+rain	119	雨	y53
+rain	119	雨	y53
+rain	119	雨	y53
 rain	119	雨	y11
 rain	119	雨	y213
 rain	119	雨	h\y231
-rain	119	雨	vu24
+rain	119	雨	v24
 rain	119	雨	y41
 rain	119	雨	y42
 rain	119	雨	y213
@@ -1895,7 +1895,7 @@ round	120	圆	yan21
 round	120	圆	yen13
 round	120	圆	ye~44
 round	120	圆	h\iø13
-round	120	圆	yu341
+round	120	圆	jy341
 round	120	圆	ye~13
 round	120	圆圈	ui~13 t_hue44
 round	120	圆	yon45
@@ -1942,8 +1942,8 @@ moon	121	月亮	lye55 liAN21
 moon	121	月光	yt2 kuON55
 moon	121	月	Nuo?5
 moon	121	月娘	ge?5-21_ niu~24
-cloud	121	云	yun35
-cloud	121	云彩	yun24 ts_hai0
+cloud	121	云	yn35
+cloud	121	云彩	yn24 ts_hai0
 cloud	121	云	ye~53
 cloud	121	云	yn52
 cloud	121	云	yN21
@@ -3451,7 +3451,7 @@ near	65	進	tc\_hin21
 near	65	進	k_hiun53
 near	65	進	tc\iN25
 near	65	進	k6n22
-near	65	進,進兜	(1) k2yuN242, (2) k2yN242-55 nau55
+near	65	進,進兜	(1) k2yN242, (2) k2yN242-55 nau55
 near	65	進	kun22
 cut	65	砍	k_han214
 cut	65	砍	k_han213
