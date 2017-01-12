@@ -7,6 +7,7 @@ from collections import defaultdict
 from pyconcepticon.api import Concepticon
 from pyclpa.base import get_clpa
 from pycddb.util import get_transformer
+from sinopy import sinopy
 
 def _prepare_inventories(dataset):
     clpa = get_clpa()
@@ -74,6 +75,8 @@ def _get_data(dataset):
                 sampas = sampas.split(', ')
                 idx += 1
                 all_morphs = []
+                all_strucs = []
+                all_vals = []
                 for sampa in sampas:
                     #print(f.split('/')[-1], idx, concept, page, sampa)
                     if sampa.startswith('('):
@@ -87,6 +90,8 @@ def _get_data(dataset):
                     #all_morphs += [_t]
                     morphemes = sampa.split(' ')
                     mymorphs = []
+                    mysrcs = []
+                    mystrucs = []
                     for morpheme in morphemes:
                         #print(f, concept, page, char, sampa, line)
                         morph = re.sub(r'([012345\-_]+)$', r'<\1>',
@@ -98,18 +103,34 @@ def _get_data(dataset):
                             morph = morph.replace(tone, newtone[1:-1])
 
                         ipa = transform(r''+morph, 'cddb').replace(' ⁻ ', '⁻') 
+                        src = transform(r''+morph, 'source').replace(' ⁻ ', '⁻') 
+                        struc = transform(r''+morph, 'structure').replace(' ⁻ ', '⁻')
                         if '?' in ipa:
                             print(f.split('/')[-1], page, morph, morpheme, ipa)
                             input()
                         mymorphs += [ipa]
+                        mysrcs += [src]
+                        mystrucs += [struc]
                     all_morphs += [' + '.join(mymorphs)]
+                    all_strucs += [' + '.join(mystrucs)]
+                    all_vals += [' '.join(list([v.replace(' ', '') for v in
+                        mysrcs]))]
                 blocks[-1] += [[idx, concept, page, sampas,
-                    char.split(','),all_morphs, f]]
+                    char.split(','),all_morphs, all_vals, all_strucs, f]]
                 if idx == 19:
                     #print(len(blocks[-1]), blocks[-1])
                     assert len(blocks[-1]) == 19
                     idx = 0
     return blocks
+
+
+def _get_plus(chars):
+    last = ''
+    out = []
+    for i, char in enumerate(chars):
+        if char == '+':
+            out += [(chars[i-1], chars[i+1])]
+    return out
 
 def prepare(ds):
     concepts = dict([(x.english, (x.concepticon_id, x.attributes['chinese']))
@@ -120,7 +141,7 @@ def prepare(ds):
         ds.languages])
     errors = set()
     for block in blocks:
-        for i, (_idx, concept, page, sampas, chars, words, f) in enumerate(block):
+        for i, (_idx, concept, page, sampas, chars, words, vals, strucs, f) in enumerate(block):
             langid = str(i+1)
             lang = id2lang[langid]
             for j, morph in enumerate(words):
@@ -128,20 +149,31 @@ def prepare(ds):
                 if cid == '?':
                     errors.add(concept)
                 try:
-                    D[idx] = [lang, langid, concept, chinese, cid, chars[j], morph,
+                    D[idx] = [lang, langid, concept, chinese, cid, chars[j],
+                            vals[j],
                             ' '.join(ipa2tokens(morph, semi_diacritics='sɕʑʃʂʐz', 
                                 expand_nasals=True, merge_vowels=False)),
+                            ' '.join(
+                                list(strucs[j].replace(' ',''))).replace('t / t',
+                                    'T'),
                             sampas[j], page]
                     idx += 1
                 except:
                     print(chars, words, f)
                     raise
     D[0] = ['doculect', 'doculect_id', 'concept', 'concept_chinese',
-            'concepticon_id', 'characters', 'value', 'segments', 'sampa', 'page']
+            'concepticon_id', 'characters', 'value', 'segments', 'structure', 'sampa', 'page']
     wl = Wordlist(D)
     ds.write_wordlist(Wordlist(D))
     print(errors)
 
+    # get the errors for characters with a plus
+    plussed = []
+    for idx, chars in iter_rows(wl, 'characters'):
+        plussed += _get_plus(chars)
+    for i,(charA, charB) in enumerate(sorted(set(plussed))):
+        #print(i+1, charA, charB, sinopy.character_from_structure('+'+charA+charB))
+        pass
 
     
 
