@@ -26,8 +26,8 @@ def _prepare_inventories(dataset):
             print(dialect, number, i+1, ', '.join(line))
             page, sound, value, *rest = line
             if not rest: rest = ['']
-            cddb = transform(value, 'cddb').split(' ')
-            src = transform(value, 'source').split(' ')
+            cddb = transform(value, 'CDDB').split(' ')
+            src = transform(value, 'SOURCE').split(' ')
             if len(src) != len(cddb):
                 src = src + ['-', '-', '-']
             struct = t.transform(value, 'structure')
@@ -43,6 +43,34 @@ def _prepare_inventories(dataset):
     with open(dataset.get_path('inventories.tsv'), 'w') as f:
         for line in table:
             f.write('\t'.join(line)+'\n')
+
+def _parse_chars(chars):
+    plus = ''
+    bracket = False
+    out, notes, marks = [], [], []
+    for c in chars:
+        if bracket:
+            if c in '>)':
+                bracket = ''
+            else:
+                notes[-1] += c
+        elif c not in '(<[':
+            if c in '+-':
+                plus = c
+            else:
+                if c in '～兒儿':
+                    marks += [c]
+                elif not plus and not bracket:
+                    out += [c]
+                    notes += ['']
+                    marks += ['']
+                elif plus:
+                    out[-1] += c+plus
+                    plus = ''
+        else:
+            bracket = c
+    return list(zip(out, notes, marks))
+
 
 def _get_data(dataset):
     transform = get_transformer('Liu2007.prf')
@@ -81,13 +109,6 @@ def _get_data(dataset):
                     #print(f.split('/')[-1], idx, concept, page, sampa)
                     if sampa.startswith('('):
                         sampa = sampa[sampa.index(' ')+1:]
-                    #try:
-                    #    _t = transform(sampa, 'cddb').replace(' ⁻ ', '⁻')
-                    #    print('\t', _t)
-                    #except KeyError:
-                    #    print(f.split('/')[-1], idx, concept, page, sampa)
-                    #    input()
-                    #all_morphs += [_t]
                     morphemes = sampa.split(' ')
                     mymorphs = []
                     mysrcs = []
@@ -102,9 +123,9 @@ def _get_data(dataset):
                             newtone = ''.join([tone_converter.get(x, x) for x in tone])
                             morph = morph.replace(tone, newtone[1:-1])
 
-                        ipa = transform(r''+morph, 'cddb').replace(' ⁻ ', '⁻') 
-                        src = transform(r''+morph, 'source').replace(' ⁻ ', '⁻') 
-                        struc = transform(r''+morph, 'structure').replace(' ⁻ ', '⁻')
+                        ipa = transform(r''+morph, 'CDDB').replace(' ⁻ ', '⁻') 
+                        src = transform(r''+morph, 'SOURCE').replace(' ⁻ ', '⁻') 
+                        struc = transform(r''+morph, 'STRUCTURE').replace(' ⁻ ', '⁻')
                         if '?' in ipa:
                             print(f.split('/')[-1], page, morph, morpheme, ipa)
                             input()
@@ -128,8 +149,8 @@ def _get_plus(chars):
     last = ''
     out = []
     for i, char in enumerate(chars):
-        if char == '+':
-            out += [(chars[i-1], chars[i+1])]
+        if char in "+-":
+            out += [char+chars[i-1]+chars[i+1]]
     return out
 
 def prepare(ds):
@@ -146,34 +167,124 @@ def prepare(ds):
             lang = id2lang[langid]
             for j, morph in enumerate(words):
                 cid, chinese = concepts.get(concept, ('?', '?'))
-                if cid == '?':
-                    errors.add(concept)
-                try:
-                    D[idx] = [lang, langid, concept, chinese, cid, chars[j],
-                            vals[j],
-                            ' '.join(ipa2tokens(morph, semi_diacritics='sɕʑʃʂʐz', 
-                                expand_nasals=True, merge_vowels=False)),
-                            ' '.join(
-                                list(strucs[j].replace(' ',''))).replace('t / t',
-                                    'T'),
-                            sampas[j], page]
-                    idx += 1
-                except:
-                    print(chars, words, f)
-                    raise
+                if morph != '-':
+                    if cid == '?':
+                        errors.add(concept)
+                    try:
+                        D[idx] = [lang, langid, concept, chinese, cid, chars[j],
+                                vals[j],
+                                ' '.join(ipa2tokens(morph, semi_diacritics='sɕʑʃʂʐz', 
+                                    expand_nasals=True, merge_vowels=False)),
+                                ' '.join(
+                                    list(strucs[j].replace(' ',''))).replace('t / t',
+                                        'T'),
+                                sampas[j], page]
+                        idx += 1
+                    except:
+                        print(chars, words, f)
+                        raise
     D[0] = ['doculect', 'doculect_id', 'concept', 'concept_chinese',
-            'concepticon_id', 'characters', 'value', 'segments', 'structure', 'sampa', 'page']
+            'concepticon_id', 'characters_is', 'value', 'segments', 'structure', 'sampa', 'page']
     wl = Wordlist(D)
-    ds.write_wordlist(Wordlist(D))
-    print(errors)
+
+    # correct characters
+    count = 1
+    problems = {}
+    for k, chars, segments in iter_rows(wl, 'characters_is', 'segments'):
+        charnotes = _parse_chars(chars)
+        morphemes = segments.split(' + ')
+        if len(charnotes) != len(morphemes):
+            print(
+                    [c[0] for c in charnotes],
+                    [c[2] for c in charnotes],
+                    segments, count, k, wl[k, 'doculect'], wl[k, 'concept'])
+            count += 1
+            problems[k] = '1'
+        else:
+            problems[k] = ''
+
 
     # get the errors for characters with a plus
     plussed = []
-    for idx, chars in iter_rows(wl, 'characters'):
+    for idx, chars in iter_rows(wl, 'characters_is'):
         plussed += _get_plus(chars)
-    for i,(charA, charB) in enumerate(sorted(set(plussed))):
-        #print(i+1, charA, charB, sinopy.character_from_structure('+'+charA+charB))
-        pass
+    
+    _t = {}
+    for i,char in enumerate(sorted(set(plussed))):
+        new_char = sinopy.character_from_structure(char)
+        if len(new_char) == 1:
+            _t[char] = new_char
+
+    #for idx, chars in iter_rows(wl, 'characters_is'):
+    #    if '+' in chars or '-' in chars:
+    #        for c in _get_plus(chars):
+    #            charsn = chars.replace(c, _t.get(c, '<?>'))
+    #            print(chars, charsn)
+    #        wl[idx][wl.header['characters_is']] = charsn
+    #        input()
+
+    notes = {}
+    #for k in problems:
+    #    print(wl[k, 'doculect'], wl[k, 'characters'], wl[k, 'segments'])
+    for k, chars in iter_rows(wl, 'characters_is'):
+        charnotes = _parse_chars(chars)
+        notes[k] = [
+                ''.join([x[0] for x in charnotes]),
+                ''.join([x[1] for x in charnotes]),
+                ''.join([x[2] for x in charnotes]),
+                ]
+        if '+' in notes[k][0]:
+            new_chars = []
+            for char in charnotes:
+                if '+' in char[0]:
+                    test = sinopy.character_from_structure(
+                            '+'+char[0][:2])
+                    if test != '?':
+                        new_chars += [test]
+                    else:
+                        new_chars += [char[0][:2]]
+                else:
+                    new_chars += [char[0]]
+
+            notes[k][0] = sinopy.gbk2big5(' '.join(new_chars))
+        else:
+            notes[k][0] = ' '.join(list(notes[k][0]))
+
+            
+
+    wl.add_entries('characters', notes, lambda x: x[0])
+    wl.add_entries('lexeme_note', notes, lambda x: x[1])
+    wl.add_entries('character_note', notes, lambda x: x[2])
+
+    partials = {}
+    converter = {}
+    idx = 1
+    for k, chars, morphs in iter_rows(wl, 'characters', 'segments'):
+        _ms, _cs = morphs.split(' + '), chars.split(' ')
+        print(_cs)
+        pidxs = []
+        for char in _cs:
+            if char in partials:
+                pidx = partials[char]
+            else:
+                pidx = idx
+                idx += 1
+                partials[char] = pidx
+            pidxs += [str(pidx)]
+        if len(pidxs) < len(_ms):
+            pidxs += ['0', '0', '0']
+            pidxs = pidxs[:len(_ms)]
+        
+        converter[k] = ' '.join(pidxs)
+    wl.add_entries('cogids', converter, lambda x: x)
+
+            
+
+
+
+    ds.write_wordlist(wl)
+    print(errors, count)
+        
 
     
 

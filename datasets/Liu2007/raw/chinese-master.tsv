@@ -41,7 +41,7 @@ skin	78	肉皮兒	z`ou53 p_hi@r24
 skin	78	皮膚	p_hi53 fu214
 skin	78	皮膚	p_hi35 fu52
 skin	78	皮膚	p_hi21 fu21
-skin	78	皮膚	p_hi24
+skin	78	皮	p_hi24
 skin	78	皮皮,膚子	(1) p_hi21-55 p_hi21-55, (2) p_hi21-55 tsi_z53
 skin	78	皮膚	p_hi13 fu31
 skin	78	皮	p_hi_z44
@@ -59,9 +59,9 @@ float	78	漂浮	p_hiAu55 fu35
 float	78	漂浮	p_hiau44 fu214
 float	78	漂浮	p_hiO214 fu53
 float	78	漂浮	p_hiau52 fu35
-float	78	漂浮	p_hiAu21
+float	78	漂	p_hiAu21
 float	78	漂,浮	(1) p_hiau21, (2) fu24
-float	78	漂浮	p_hiau45
+float	78	漂	p_hiau45
 float	78	漂浮,浮,漂	(1) p_hiO31 fu13, (2) fu13, (3) piO31
 float	78	浮,漂浮	(1) fu44, (2) p_hie55 fu44
 float	78	氽	t_h@n52
@@ -172,9 +172,9 @@ person	81	人	laN24
 throw	81	仍	z`@N55
 throw	81	仍	z`@N44
 throw	81	仍	l@N214
-throw	81	liau	liau334
+throw	81	撂	liau334
 throw	81	仍	z@N53
-throw	81	liau	liAu44
+throw	81	撂	liAu44
 throw	81	仍,甩	(1) z@n45, (2) suai53
 throw	81	摔	su@31
 throw	81	拋	p_h755
@@ -212,7 +212,7 @@ back	32	背	pei53
 back	32	背	pei31
 back	32	背	pei52
 back	32	背	pei45
-back	32	脊背, 背	(1) tc\i21 pei24, (2) pei24
+back	32	脊背,背	(1) tc\i21 pei24, (2) pei24
 back	32	背	pei213
 back	32	背	pei44
 back	32	背	pa35
@@ -220,7 +220,7 @@ back	32	背	pE`412
 back	32	背骶身	pai42-3 dz\i24-44 saN44-21
 back	32	背	pei55
 back	32	背	pe35
-back	32	背	pei45 tc\ia?0
+back	32	背脊	pei45 tc\ia?0
 back	32	背	poi53
 back	32	背	pei25
 back	32	背	pui33
@@ -230,13 +230,13 @@ nose	33	鼻子	pi35 tsi_z0
 nose	33	鼻子	pi24 tsi_z0
 nose	33	鼻子	pi53-45 tsi_z0
 nose	33	鼻子	pi35 tsi_z0
-nose	33	鼻,鼻子	(1) pi@?54_, (2) pi@?54_ts@?0
+nose	33	鼻,鼻子	(1) pi@?54_, (2) pi@?54_ ts@?0
 nose	33	鼻子	pi24 tsi_z0
 nose	33	鼻子	pi21-55 tsi_z53
 nose	33	鼻子	pi?5 tsi_z0
 nose	33	鼻孔	p_hi_z35-53 k_hA~213
 nose	33	鼻頭	b@?23_ dY13-31
-nose	33	鼻頭	bei21-31d7u341-21
+nose	33	鼻頭	bei21-31 d7u341-21
 nose	33	鼻,鼻子	(1) pi24, (2) pi24 tsi_z0
 nose	33	鼻子	p_hi11 di713-33
 nose	33	鼻子	p_hit21_ tsi_z0
@@ -244,7 +244,7 @@ nose	33	鼻公	p_hi53 kuN33
 nose	33	鼻孔	pi22 k_h7N23-33
 nose	33	鼻歌	pei22 kO55
 nose	33	鼻	p_hEi212
-nose	33	鼻仔,鼻子	(1) p_hi~22-21 ia~53, (2) p_hi~22
+nose	33	鼻仔,鼻	(1) p_hi~22-21 ia~53, (2) p_hi~22
 ice	33	冰 	piN55
 ice	33	冰	piN44
 ice	33	冰	piN214
@@ -267,10 +267,10 @@ ice	33	冰,霜	(1) piN55, (2) sN=55
 neck	34	脖子	po35 tsi_z0
 neck	34	脖子	p724 tsi_z0
 neck	34	脖子	p753-45 tsi_z0
-neck	34	脖子	pO35-3 k@N214 tsi_z0
+neck	34	脖颈子	pO35-3 k@N214 tsi_z0
 neck	34	脖子	pa?54_ ts@?0
 neck	34	脖子	po24 tsi_z0
-neck	34	頸項,頸子	(1) tc\in53-55 xaN53, (2) tc\in 53-45 tsi_z53
+neck	34	頸項,頸子	(1) tc\in53-55 xaN53, (2) tc\in53-45 tsi_z53
 neck	34	脖子	po?5 tsi_z0
 neck	34	扣頸	k_hi35-53 tc\iA~213
 neck	34	頭頸	dY13-22 tc\in52-31
@@ -419,7 +419,7 @@ if	82	若还,若果,如果	(1) yo?5 huaN53, (2) yo?5 kuo32, (3) ny53-33 kuo32
 if	82	若是	na~55-22 si22
 
 breasts	83	乳房,奶子	z`u214-21 fAN35
-breasts	83	奶子,匝二	(1) nai213-21 tsi_z0, (2) tsar44
+breasts	83	奶子,匝儿	(1) nai213-21 tsi_z0, (2) tsar44
 breasts	83	妈妈,奶子	(1) ma213-21 ma0, (2) nE45-214 tsi_z0
 breasts	83	奶子	nai214 tsi_z0
 breasts	83	奶	nai53
@@ -503,7 +503,7 @@ sand	85	沙子	s`a44 tsi_z0
 sand	85	沙子	s`a214-21 tsi_z0
 sand	85	沙	s`a52
 sand	85	沙	sa21
-sand	85	沙	sA21 tsi_z0
+sand	85	沙子	sA21 tsi_z0
 sand	85	沙,沙沙,沙子	(1) sa45, (2) sa45 sa55, (3) sa45 tsi_z0
 sand	85	沙子	sA31 tsi_z0
 sand	85	沙子	so55 tsi_z0
@@ -587,7 +587,7 @@ tongue	87	舌头	s`724 t_hou0
 tongue	87	舌头儿	se21-55 t_h@r21-55
 tongue	87	舌头	se?5 t_h@M13
 tongue	87	口舌	k_hi213-31 tc\_hya?32_
-tongue	87	舌头	z@?23_dY13-31
+tongue	87	舌头	z@?23_ dY13-31
 tongue	87	口舌	k_hau242-45 ji21
 tongue	87	舌头,舌子	(1) s@24 t@u0, (2) s@24 tsi_z0
 tongue	87	舌子	c\ie35 tsi_z0
@@ -599,7 +599,7 @@ tongue	87	嘴舌	ts_huoi212-55 sio?5
 tongue	87	舌仔	tsi?5-21_ ia53
 
 snake	87	蛇	s`y35
-snake	87	蛇,长虫	(1) s`y24, (2) ts`_haN 21 ts`_huN21
+snake	87	蛇,长虫	(1) s`y24, (2) ts`_haN21 ts`_huN21
 snake	87	蛇	s`a53
 snake	87	长虫	ts`_haN35 ts`_hoN0
 snake	87	蛇	s721
@@ -622,7 +622,7 @@ rope	88	繩子	s`@N24 tsi_z0
 rope	88	繩子	s`@N53-45 tsi_z0
 rope	88	繩子	s`@N35 tsi_z0
 rope	88	繩,繩子	(1) s@N21, (2) s@N21 ts@?0
-rope	88	繩子	s`@N24
+rope	88	繩	s`@N24
 rope	88	繩子,繩索兒,索索兒,索子	(1) su@n21-55 tsi_z53, (2) su@n21-55 s@r21, (3) so21-55 s@r21, (2) so21-55 tsi_z21
 rope	88	繩子	s@n13-11 tsi_z0
 rope	88	繩	c\iA~44
@@ -633,8 +633,8 @@ rope	88	繩子	z\in13 tsi_z0
 rope	88	繩子	s1n45 tsi_z0
 rope	88	索	sok1
 rope	88	索子	suo55 tse23-33
-rope	88	繩子	seN21
-rope	88	索子	so?24_
+rope	88	繩	seN21
+rope	88	索	so?24_
 rope	88	索仔	so?32_-5 a53
 louse	88	虱	s`i`55
 louse	88	虱子	s`i`44 tsi_z0
@@ -824,7 +824,7 @@ who	92	哪個	lai213-24 ko21
 who	92	瞞～人	man31 Nin11
 who	92	哪個	lA`23 kuo33
 who	92	誰	s2y21
-who	92	底隹+又,底儂	(1)tie32-53 Zie?24_, (2) tie32 n2yN53
+who	92	底隹+又,底儂	(1) tie32-53 Zie?24_, (2) tie32 n2yN53
 who	92	啥人	sia~53-55 laN24
 water	93	水	s`uei213
 water	93	水	s`uei213
@@ -979,7 +979,6 @@ four	96	四	si_z25
 four	96	四	sei33
 four	96	四	sEi212
 four	96	四	si21
-
 he	97	他	t_hA`55
 he	97	他	t_ha44
 he	97	他	t_ha45
@@ -997,7 +996,7 @@ he	97	渠	tc\ie24
 he	97	佢	ki11
 he	97	他	t_hA`42
 he	97	佢	k_h2y23
-he	97	伊伊,儂	(1) i55, (2) i55 n2yN53
+he	97	伊,伊儂	(1) i55, (2) i55 n2yN53
 he	97	伊	i55
 they	97	他們	t_hA`55 m@n35
 they	97	他們	t_ha44 m@n0
@@ -1083,7 +1082,7 @@ sky	99	天上	t_hie21 sQ~45
 sky	99	天空	t_hi{~21 k_huN21
 sky	99	天上	t_hiEn45 saN213-21
 sky	99	天空	t_hien31-33 k_hoN31
-sky	99	天空	t_he~55 55 k_huA~55
+sky	99	天空	t_he~55 k_huA~55
 sky	99	天,天老爺	(1) t_hiI44, (2) t_hiI41 l{231-44 h`iA13-21
 sky	99	天里	t_hi44 lei44
 sky	99	天空	t_hie~33 k_h@n33
@@ -1157,10 +1156,10 @@ earth	101	土地	t_hu45 ti31
 earth	101	土地	t_hu213-21 ti334
 earth	101	土地,地	(1) t_hu53 ti45, (2) ti45
 earth	101	土地,地	(1) t_hou53 ti44, (2) ti44
-earth	101	土,土地	(1) t_hu53-55 ti213, ti213
+earth	101	土地,土	(1) t_hu53-55 ti213, (2) ti213
 earth	101	地,土地	(1) ti44, (2) t_hu11-21 ti44
-earth	101	地,土地	(1) ts_hi_z31, t_hu213-31 ts_hi_z31
-earth	101	地皮,土地	(1) di231-22 bi13-31, t_h@u52-41 di231-21
+earth	101	地,土地	(1) ts_hi_z31, (2) t_hu213-31 ts_hi_z31
+earth	101	地皮,土地	(1) di231-22 bi13-31, (2) t_h@u52-41 di231-21
 earth	101	土地	t_h2y242-53 dei22-21
 earth	101	土地	t_h@u41 ti11
 earth	101	土地,地	(1) t_h7u42 di11-1, (2) di11
@@ -1197,7 +1196,7 @@ push	102	推	t_huei21
 push	102	推,掀	(1) t_huei21, (2) c\i{~21
 push	102	推	t_huei45
 push	102	推	t_huei31
-push	102	推(另義(被水)鹽)	t_ha55
+push	102	推(另義被水鹽)	t_ha55
 push	102	推	t_hE`44
 push	102	逃～	d@341
 push	102	推,手+宣	(1) t_hei33, (2) c\ye~33
@@ -1300,8 +1299,8 @@ tail	105	尾巴	ui42 pa0
 tail	105	尾巴	ui213 pa0
 tail	105	尾巴	mi33 pa33
 tail	105	尾巴	uei23 pA`42-22
-tail	105	尾巴	mei23
-tail	105	尾巴	muoi32 muoi32
+tail	105	尾	mei23
+tail	105	尾尾	muoi32 muoi32
 tail	105	尾巴,尾	(1) me53-55 pa55, (2) me53
 smell	105	聞	u@n35
 smell	105	聞	u@n24
@@ -1623,7 +1622,7 @@ squeeze	113	壓	ia214
 squeeze	113	壓	ia214
 squeeze	113	壓,挤	(1) ia45, (2) tc\i53
 squeeze	113	壓	n`iA21
-squeeze	113	榨,壓	(1) tsa 213, (2) Na45
+squeeze	113	榨,壓	(1) tsa213, (2) Na45
 squeeze	113	挤,榨,壓	(1) tc\i11, (2) tsA?5, (3) iA?5
 squeeze	113	榨	tso35
 squeeze	113	壓	A?4
@@ -1997,7 +1996,7 @@ dirty	122	脏,腌臢	(1) tsON42, (2) Na42 tsa0
 dirty	122	囗	me53
 dirty	122	邋遢	lA`55 t_hA`21
 dirty	122	汚糟	u55 tsou53
-dirty	122	拉水+查,u?tso?	(1) la55 ts_ha55, (2) ou?5 ts_huO?24_
+dirty	122	拉水+查,歯+屋歯+足	(1) la55 ts_ha55, (2) ou?5 ts_huO?24_
 dirty	122	流疡	lau24-22 siON24
 how	123	怎么	ts@n213-21 m@0
 how	123	怎么,怎,怎的	(1) ts@n213-21 m70, (2) tsa213, (3) tsa213-21 t0
@@ -2057,7 +2056,7 @@ stand	124	站	tsam22
 stand	124	彳+奇	k_hie242
 stand	124	彳+奇	k_hia22
 husband	124	爱人,老公	(1) ai51-53 z`@n35, (2) lAu213-21 kuN55
-husband	124	丈夫,掌木+巨,老爷们	(1) ts`aN53 fu0, (2) ts`aN213-21 kuei53 t70, (3) lau213-21 iE24 m@r0
+husband	124	丈夫,掌木+巨的,老爷们	(1) ts`aN53 fu0, (2) ts`aN213-21 kuei53 t70, (3) lau213-21 iE24 m@r0
 husband	124	丈夫	ts`AN31-44 fu0
 husband	124	汉字	x6n334 tsi0
 husband	124	丈夫,汉字,老汉<中青年多说>	(1) tsQ~45 fu0, (2) x{~45 ts@?0, (3) lau53 x{~45
@@ -2130,7 +2129,7 @@ know	126	晓得	c\iEu213 tEt0
 know	126	知得	ti33-35 tet1
 know	126	晓得	c\iAu23 tiA`55
 know	126	知道	tsi33 tou22
-know	126	人+八传,会晓得,会人+八	(1) pEi?24_-21_ tuoN53, E242-53 hieu32, (3) E242-53 pai?24_
+know	126	人+八传,会晓,会人+八	(1) pEi?24_-21_ tuoN53, (2) E242-53 hieu32, (3) E242-53 pai?24_
 know	126	知影	tsai55-22 ia~53
 grease	126	脂肪	ts`i`213-21 fAN35
 grease	126	脂肪	ts`i`213-21 faN24
@@ -2150,7 +2149,7 @@ grease	126	油	iu11
 grease	126	板油	pa~23 iou22
 grease	126	膏	kou53
 grease	126	油脂	ieu53-55 Zie55
-grease	126	脂肪	-
+grease	126		-
 straight	127	直	ts`i`35
 straight	127	直	ts`i`24
 straight	127	直	ts`i`53
@@ -2205,7 +2204,7 @@ seed	128	种子	t7N42 tsi_z0
 seed	128	种子	tsuN213 tsi_z0
 seed	128	种儿	tsuN31-33 Ne0
 seed	128	种子	tsu7N23 tse23-33
-seed	128	种子	tsoN35-tsi35
+seed	128	种子	tsoN35 tsi35
 seed	128	子子	tsi32 tsi32
 seed	128	种	tsiN53
 
@@ -2246,7 +2245,7 @@ scratch	129	抓	tsua42
 scratch	129	抓,手+足	(1) tsa33, tsok11
 scratch	129	手+足	tsuo55
 scratch	129	抓	tsa53
-scratch	129	扌+虍-且,抓	(1) ma55, (2) tsua55
+scratch	129	扌+虘,抓	(1) ma55, (2) tsua55
 scratch	129	手+京	lia?5
 
 claw	129	爪	ts`uA`213
@@ -2347,7 +2346,7 @@ leftside	131	左边儿	tso31 pien33-35 ne0
 leftside	131	左边	tsu23 pia~42-22
 leftside	131	左边	tsO35 pin53
 leftside	131	小边	sieu32-21 BEiN55
-leftside	131	倒片	to53-piN24
+leftside	131	倒片	to53 piN24
 
 sit	132	坐	tsuo51
 sit	132	坐	tsuo53
@@ -2460,7 +2459,7 @@ wing	39	翅膀,翼胛子	(1) ts_hi_z55 pan13, (2) i55 ka13 tsi_z0
 wing	39	翼胛	ie35 ka35-5
 wing	39	翅膀,翅光,葉光	(1) ts_hi_z213 paN0, (2) ts_hi_z213 kuaN0, (3) iEt21_ kuaN0
 wing	39	翼胛	it5 kap1
-wing	39	囗囗子	tc\25 kua~22 tse 23-33
+wing	39	囗囗子	tc\i25 kua~22 tse23-33
 wing	39	翅	ts_hi33
 wing	39	翅	si?5
 wing	39	翅仔	sit5032_ la53
@@ -2626,7 +2625,7 @@ fall	43	掉,落	(1) tiAu44, (2) luo21
 fall	43	掉,落	(1) tiau213, (2) lo21
 fall	43	掉	tiO44
 fall	43	落,跌	(1) no?32_, (2) tia?32_
-fall	43	特_	d@?23_
+fall	43	特～	d@?23_
 fall	43	遁	dang22
 fall	43	掉	tiau11
 fall	43	刷	sua13
@@ -2661,7 +2660,7 @@ belly	44	肚子	tu31-44 tsi_z0
 belly	44	肚子	tu334 tsi_z0
 belly	44	肚子	tu45 ts@?0
 belly	44	肚子	tou44 tsi_z0
-belly	44	肚子, 肚皮	(1) tu213 tsi_z53, (2) tu213 p_hi21
+belly	44	肚子,肚皮	(1) tu213 tsi_z53, (2) tu213 p_hi21
 belly	44	肚子	tu44 tsi_z0
 belly	44	肚子	t_hu213 tsi_z0
 belly	44	肚皮	d@u231-22 bi13-44
@@ -2748,7 +2747,7 @@ ear	46	耳朵	8213 tO0
 ear	46	耳公	Ni31 kuN33
 ear	46	耳朵	y23 tu23-33
 ear	46	耳仔	i23 ts6i35
-ear	46	耳朵	NEi242
+ear	46	耳	NEi242
 ear	46	耳仔	hi22-21 ia53
 two	47	二,兩	(1) @r51, (2) liAN214
 two	47	二	@r53
@@ -2824,7 +2823,7 @@ sew	48	縫,连	(1) fuN45, (2) liEn45
 sew	48	縫	p_huN11
 sew	48	縫	f7N22
 sew	48	连	lyn21
-sew	48	縫,丝+旦	(1) p_huN53-21 EiN242, (2) t_hieN212
+sew	48	縫纫,丝+旦	(1) p_huN53-21 EiN242, (2) t_hieN212
 sew	48	丝+旦	t_hi~22
 rotten	49	腐爛	fu214-21 lan51
 rotten	49	腐爛	fu213-21 lan53
@@ -2843,25 +2842,25 @@ rotten	49	腐爛	fu24 lan21
 rotten	49	腐爛	fu31 lan53
 rotten	49	腐爛	fu23 la~21
 rotten	49	爛,腐爛	(1) lan22, (2) fu22 lan22
-rotten	49	腐,飲腐,飲	(1) pou242, (2) aN32-55 pou 242, (3) aN32
+rotten	49	腐,飲腐,飲	(1) pou242, (2) aN32-55 pou242, (3) aN32
 rotten	49	爛	nua~22
 father	49	爸爸,父	pAA5153 pAA0, (2) fu51
 father	49	爸,爹	(1) pa53, (2) tiE44
 father	49	父親	fu31-44 tc\_hie~0
 father	49	爹	tiE52
-father	49	父,父親,爸爸,老子	(1) fu45, (2) fu45 tc\_hiN21, (3) pa45 pa0, (4) lau53 ts@?0
-father	49	父,父親(BC),爸爸(MC),老子(BC)	(1) fu44, (2) fu44 tc\_hiN, (3) pA44, (4) tA24
+father	49	父,父親(BC),爸爸(MC),老子(BC)	(1) fu45, (2) fu45 tc\_hiN21, (3) pa45 pa0, (4) lau53 ts@?0
+father	49	父,父親(BC),爸,达～(MC)	(1) fu44, (2) fu44 tc\_hiN, (3) pA44, (4) tA24
 father	49	爸爸	pa213-55 pa213-21
 father	49	爹,父親	(1) tie31, (2) fu44 tc\_hin44
 father	49	爸爸,父親	(1) pa?32_ pa?0, (2) fu31-53 tc\_hiA~55
 father	49	爹爹,爺	(1) tiA44 tiA44-21, (2) h\iA13
 father	49	阿爸	a41-2 pa44
-father	49	爺爺,爺爺,爺老倌(BC),爹爹	(1) ia13 ia0, (2) ia13 lau41 ko~33, (3) tie33 tie0
-father	49	爺爺,爹爹,爺老倌(BC)	(1) iO13, (2) te44 te0, (3) iO13 l742 kue~0
+father	49	爺爺,爺老倌(BC),爹爹	(1) ia13 ia0, (2) ia13 lau41 ko~33, (3) tie33 tie0
+father	49	爺,爹爹,爺老倌(BC)	(1) iO13, (2) te44 te0, (3) iO13 l742 kue~0
 father	49	父,爷	(1) fu21, (2) ia45
 father	49	阿爸	a33 pa33
 father	49	囗	ma~55
-father	49	父親	fu23
+father	49	父	fu23
 father	49	依爸(MC),依爹(MC),依爺(旧时MC),郎罷(MC)	(1) i55 pa55, (2) i55 tie55, (3) i55 ie53, (4) louN53-21 ma242
 father	49	老爸	lau22-21 pe22
 dry	50	干	kan55
@@ -2874,7 +2873,7 @@ dry	50	干	kan45
 dry	50	干	kA~31
 dry	50	干	kO55
 dry	50	干	kø44
-dry	50	操, 干	(1) s@51, (2) ky44
+dry	50	操,干	(1) s@51, (2) ky44
 dry	50	干	kan33
 dry	50	干	ka~44
 dry	50	干	kon42
@@ -2967,7 +2966,7 @@ bone	52	骨頭	ku@?2 t@u0
 bone	52	骨頭,骨都	(1) ku21 t_hou0, (2) ku21 tou0
 bone	52	骨頭	ku21-55 t_h@u21-55
 bone	52	骨頭	ku?5 t_h@M13
-bone	52	骨頭	ku7?32_
+bone	52	骨	ku7?32_
 bone	52	骨頭	ku@?4 dY13-23
 bone	52	骨頭,骨	(1) ky42 d7u341-21, (2) ky41
 bone	52	骨頭	ku24 t@u0
@@ -2976,7 +2975,7 @@ bone	52	骨頭	ku?5 t_h@u0
 bone	52	骨頭	kut1 t_heu11
 bone	52	骨頭	ku55 tai22
 bone	52	骨	ku6t5
-bone	52	骨頭,骨骨	(1) kOu?21_, (2) kOu?24_-21_ kOu?24_
+bone	52	骨,骨骨	(1) kOu?21_, (2) kOu?24_-21_ kOu?24_
 bone	52	骨頭	kut32_-5 t_hau24
 stick	53	棍	ku@n51
 stick	53	棍子	ku@n53 tsi_z0
@@ -3351,7 +3350,7 @@ egg	62	雞子	tsi_z55-45 tsi_z213
 egg	62	雞蛋	tc\i44 dE`231-21
 egg	62	雞蛋	tsi_z-44-53 laN24-21
 egg	62	雞蛋	tc\i33 tan11
-egg	62	雞蛋	tc\i 44 da~11
+egg	62	雞蛋	tc\i44 da~11
 egg	62	雞蛋	tc\_hi42 t_han21
 egg	62	雞蛋	ke33 lon31
 egg	62	雞蛋	tc\i42 ta~21
@@ -3426,8 +3425,8 @@ freeze	64	結冰	tc\ie?5 pin31
 freeze	64	結冰	tc\ia?32_ piA~55
 freeze	64	結冰	tc\i@?4 pin44
 freeze	64	結冰	tc\i41-2 peN44
-freeze	64	結冰,下凜,	(1) tc\ie24 pin33, (2) c\ia11 lin13, (3) k@u55-41 lin13
-freeze	64	扯鉤	tc\_hiO42 k735
+freeze	64	結冰,下凜,构凌	(1) tc\ie24 pin33, (2) c\ia11 lin13, (3) k@u55-41 lin13
+freeze	64	扯构	tc\_hiO42 k735
 freeze	64	結冰	tc\iEt5 pin42
 freeze	64	結冰	ket1 pen33
 freeze	64	結冰	tc\ie55-21 pi42
@@ -3482,7 +3481,7 @@ see	66	看倒	k_han213 tau53
 see	66	看見	k_hA~44-42 tc\ien44
 see	66	看見	k_hO35-53 tc\ie35
 see	66	看見<missing vowel in syllable 1>	k2_h52-44 tc\iI412-21
-see	66	朿+着	ts_hi_z44-42 dz\ia0
+see	66	朿+见着	ts_hi_z44-42 dz\ia0
 see	66	看見	k_han55 tc\ian55
 see	66	看見	k_he~35 tc\i~35-5
 see	66	看見,看到	(1) k_hon213 tc\iEn45, (2) k_hon213 tau42
@@ -3668,7 +3667,7 @@ full	71	滿	m{~45
 full	71	滿	m6n214
 full	71	滿	m{~53
 full	71	滿	m{~53
-full	71	滿, 爆	(1) man53, (2) pau213
+full	71	滿,爆	(1) man53, (2) pau213
 full	71	滿	mA~11
 full	71	滿	mA~213
 full	71	滿	mø231
@@ -3793,7 +3792,7 @@ there	74	彎面	uE`44 miI231-21
 there	74	旁單	buO341-2 ta44
 there	74	那里	la55 li41
 there	74	那里	lo11 li0
-there	74	那兒	la213 li0
+there	74	那里	la213 li0
 there	74	那兒	e53-55 ie0
 there	74	那個地方	lAA23 kuo0 ti24-21 fAN42-22
 there	74	個到	kO33 tou33
@@ -3866,7 +3865,7 @@ bird	76	鳥兒	n`iOr45
 bird	76	雀兒	ts_hyOr35
 bird	76	鳥	niau53
 bird	76	鳥兒	tc\_hiAur53
-bird	76	雀兒,雀雀	(1) tc\_hyo21-55 @r55, (2) tc\_ho21-55
+bird	76	雀兒,雀雀	(1) tc\_hyo21-55 @r55, (2) tc\_ho21-55 tc\_ho21-55
 bird	76	鳥,雀子	(1) liO11, (2) tc\_hio?5 tsi_z0
 bird	76	鳥	n`ie213
 bird	76	鳥	ti{52
