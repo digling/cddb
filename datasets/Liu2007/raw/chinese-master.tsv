@@ -46,7 +46,7 @@ skin	78	皮皮,膚子	(1) p_hi21-55 p_hi21-55, (2) p_hi21-55 tsi_z53
 skin	78	皮膚	p_hi13 fu31
 skin	78	皮	p_hi_z44
 skin	78	皮膚	bi13-22 fu44-31
-skin	78	皮膚	bei314-33 fu44-22
+skin	78	皮膚	bei341-33 fu44-22
 skin	78	皮膚	pi13 fu33
 skin	78	皮	p_hi13
 skin	78	皮膚	p_hi24 fu0
@@ -2093,10 +2093,10 @@ this	125	囗个	i25 kuo55
 this	125	呢	li55
 this	125	只,者	(1) tsi32, tsia32
 this	125	即	tsit32_
-here	125	这里	ts`751053 li213
+here	125	这里	ts`751-53 li213
 here	125	这里,这疙儿,这儿	(1) ts`753 li0, (2) ts`753 kar44, (3) ts`7r53
 here	125	这里	ts`731-41 li0
-here	125	这里	tSE33403 li214
+here	125	这里	tSE334-3 li214
 here	125	这里	ts@?2-45 li53
 here	125	这儿	ts`7r53
 here	125	这儿,这个地方	(1) ts@r213, (2) tse213 k@55 ti213 fa
@@ -2462,7 +2462,7 @@ wing	39	翼胛	it5 kap1
 wing	39	囗囗子	tc\i25 kua~22 tse23-33
 wing	39	翅	ts_hi33
 wing	39	翅	si?5
-wing	39	翅仔	sit5032_ la53
+wing	39	翅仔	sit5-32_ la53
 worm	39	蟲 	ts`_huN35
 worm	39	蟲	ts`uN21
 worm	39	蟲	ts`_huN53
@@ -2916,7 +2916,7 @@ give	51	把	pa41
 give	51	拿賜	nO44 si_z35-5
 give	51	把,給	(1) pa213, (2) kei213
 give	51	給	kip1
-give	51	囗	tiAA55
+give	51	囗	tiA`55
 give	51	給	k_h6p5
 give	51	乞,共	(1) k_h2y?24_, (2) kOyN55
 give	51	互	ho22
@@ -3348,7 +3348,7 @@ egg	62	雞蛋	tc\i45 tan213-21
 egg	62	雞蛋	tc\i31-33 tA~44
 egg	62	雞子	tsi_z55-45 tsi_z213
 egg	62	雞蛋	tc\i44 dE`231-21
-egg	62	雞蛋	tsi_z-44-53 laN24-21
+egg	62	雞蛋	tsi_z44-53 laN24-21
 egg	62	雞蛋	tc\i33 tan11
 egg	62	雞蛋	tc\i44 da~11
 egg	62	雞蛋	tc\_hi42 t_han21
@@ -3384,7 +3384,7 @@ horn	63	角兒	tc\y@?2
 horn	63	角兒	tc\yor21
 horn	63	角角	tc\yo21-55 tc\yo21
 horn	63	角兒	ko?5
-horn	63	角,角兒	(1) ko?32_, (2) tc\yo?32_n=0
+horn	63	角,角兒	(1) ko?32_, (2) tc\yo?32_ n=0
 horn	63	角	ko?4
 horn	63	角	ko41
 horn	63	角	tc\io24

@@ -1,36 +1,36 @@
-GRAPHEMES	SOURCE	CDDB	STRUCTURE	NOTE	OCCURRENCES
--	⁻	⁻	t		
+Grapheme	SOURCE	CDDB	STRUCTURE	NOTE	OCCURRENCES
+-	⁻	/	/		
 0	⁰	⁰	t		
 1	¹	¹	t		Meixian
 11	¹¹	¹¹	t		Changsha,Loudi,Meixian,Nanjing
 13	¹³	¹³	t		Suzhou,Changsha,Loudi,Nanjing
-1i	ɨ i	ɨ i	nc		Nanchang
-1n	ɨ n	ɨ n	nc		Nanchang
-1t	ɨ t	ɨ t	nc		Nanchang
-1u	ɨ u	ɨ u	nc		Nanchang
+1i	ɨ i	ɨ i	n N		Nanchang
+1n	ɨ n	ɨ n	n c		Nanchang
+1t	ɨ t	ɨ t	n c		Nanchang
+1u	ɨ u	ɨ u	n N		Nanchang
 2	²	²	t		Suzhou,Wenzhou,Guangzhou,Taiyuan
 21	²¹	²¹	t		Wenzhou,Nanchang,Guilin,Guangzhou,Xiamen,Taiyuan,Xi_an,Chengdu
 212	²¹²	²¹²	t		Fuzhou
 213	²¹³	²¹³	t		Beijing,Nanchang,Ha_erbin,Chengdu,Jixi
 214	²¹⁴	²¹⁴	t		Jinan,Rongcheng
-21_	²¹*	²¹	t	Sounds with an asterisk are underlined in the source, to mark that the tones are identical with another tone class, but that the values are still different as the tones belong to the rusheng category.	Nanchang
+21_	²¹*	²¹/*	t	Sounds with an asterisk are underlined in the source, to mark that the tones are identical with another tone class, but that the values are still different as the tones belong to the rusheng category.	Nanchang
 22	²²	²²	t		Wenzhou,Guilin,Guangzhou,Xiamen
 23	²³	²³	t		Guilin,Guangzhou
 231	²³¹	²³¹	t		Suzhou
-23_	²³*	²³	t		Suzhou
+23_	²³*	²³/*	t		Suzhou
 24	²⁴	²⁴	t		Wenzhou,Changsha,Nanchang,Xiamen,Ha_erbin,Xi_an
 242	²⁴²	²⁴²	t		Wenzhou,Fuzhou
-24_	²⁴*	²⁴	t		Fuzhou
+24_	²⁴*	²⁴/*	t		Fuzhou
 25	²⁵	²⁵	t		Guilin
-2n	ø n	ø n	nc		Guangzhou
-2t	ø t	ø t	nc		Guangzhou
-2y	ø y	øy	n	Needs to be checked, as we may also interpret this as nc-structure.	Wenzhou,Guangzhou,Fuzhou
-2y?	øy ʔ	øy ʔ	nc		Fuzhou
-2yN	øy ŋ	øy ŋ	nc		Fuzhou
+2n	ø n	ø n	n c		Guangzhou
+2t	ø t	ø t	n c		Guangzhou
+2y	ø y	ø y	n N	Needs to be checked, as we may also interpret this as nc-structure.	Wenzhou,Guangzhou,Fuzhou
+2y?	øy ʔ	ø y ʔ	n N c		Fuzhou
+2yN	øy ŋ	ø y ŋ	n N c		Fuzhou
 3	³	³	t		Guangzhou
 31	³¹	³¹	t		Meixian,Jinan,Nanjing,Jixi
 32	³²	³²	t		Fuzhou
-32_	³²*	³²	t		Xiamen,Jixi
+32_	³²*	³²/*	t		Xiamen,Jixi
 33	³³	³³	t		Changsha,Meixian,Guangzhou
 334	³³⁴	³³⁴	t		Rongcheng
 341	³⁴¹	³⁴¹	t		Wenzhou
@@ -45,63 +45,63 @@ GRAPHEMES	SOURCE	CDDB	STRUCTURE	NOTE	OCCURRENCES
 51	⁵¹	⁵¹	t		Beijing,Wenzhou
 52	⁵²	⁵²	t		Rongcheng
 53	⁵³	⁵³	t		Suzhou,Meixian,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Jinan,Taiyuan,Xi_an,Chengdu
-53_	⁵³*	⁵³	t		
-54_	⁵⁴*	⁵⁴	t		Taiyuan
+53_	⁵³*	⁵³/*	t		
+54_	⁵⁴*	⁵⁴/*	t		Taiyuan
 55	⁵⁵	⁵⁵	t		Beijing,Changsha,Guilin,Fuzhou,Xiamen,Nanjing,Jixi
-6N	ɐ n	ɐ n	nc		Guangzhou
-6i	ɐ i	ɐ i	nc		Guangzhou
-6k	ɐ k	ɐ k	nc		Guangzhou
-6m	ɐ m	ɐ m	nc		Guangzhou
-6n	ɐ n	ɐ n	nc		Guangzhou,Rongcheng
-6p	ɐ p	ɐ p	nc		Guangzhou
-6t	ɐ t	ɐ t	nc		Guangzhou
-6u	ɐ u	ɐ u	nc		Guangzhou
+6N	ɐ n	ɐ n	n c		Guangzhou
+6i	ɐ i	ɐ i	n N		Guangzhou
+6k	ɐ k	ɐ k	n c		Guangzhou
+6m	ɐ m	ɐ m	n c		Guangzhou
+6n	ɐ n	ɐ n	n c		Guangzhou,Rongcheng
+6p	ɐ p	ɐ p	n c		Guangzhou
+6t	ɐ t	ɐ t	n c		Guangzhou
+6u	ɐ u	ɐ u	n N		Guangzhou
 7	ɤ	ɤ	n		Beijing,Loudi,Loudi,Guilin,Ha_erbin,Jinan,Taiyuan,Xi_an,Jixi
-7?	ɤ ʔ	ɤ ʔ	nc		Jixi
-7N	ɤ n	ɤ n	nc		Loudi,Guilin
-7r	ɤ r	ɤ r	nc	ø	
-7u	ɤ u	ɤ u	nc		Wenzhou,Loudi
+7?	ɤ ʔ	ɤ ʔ	n c		Jixi
+7N	ɤ n	ɤ n	n c		Loudi,Guilin
+7r	ɤ r	ɤ/ɤ˞	nr 	ø	
+7u	ɤ u	ɤ u	n N		Wenzhou,Loudi
 8	ɵ	ɵ	n		Nanchang,Jixi
 9	œ	œ	n		Guangzhou,Fuzhou
-9?	œ ʔ	œ ʔ	nc		Fuzhou
-9N	œ ŋ	œ ŋ	nc		Guangzhou
-9k	œ k	œ k	nc		Guangzhou
+9?	œ ʔ	œ ʔ	n c		Fuzhou
+9N	œ ŋ	œ ŋ	n c		Guangzhou
+9k	œ k	œ k	n c		Guangzhou
 @	ə	ə	n		Wenzhou,Changsha,Nanjing
-@?	ə ʔ	ə ʔ	nc		Suzhou,Taiyuan,Nanjing
-@M	ə ɯ	ə ɯ	nc		Nanjing
-@Mr	əɯ r	əɯ r	mnc	ø	
-@N	ə ŋ	ə ŋ	nc		Beijing,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an
-@l	ə l	ə l	nc		Suzhou
-@m	ə m	ə m	nc		Meixian
-@n	ə n	ə n	nc		Beijing,Changsha,Meixian,Ha_erbin,Rongcheng,Chengdu,Nanjing
-@p	ə p	ə p	nc		Meixian
-@r	ə r	ə r	nc		Beijing,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an,Chengdu,Nanjing
-@t	ə t	ə t	nc		Meixian
-@u	ə u	ə u	nc		Suzhou,Changsha,Taiyuan,Chengdu
-@~	ə̃	ə̃ ∼	nc		Changsha
+@?	ə ʔ	ə ʔ	n c		Suzhou,Taiyuan,Nanjing
+@M	ə ɯ	ə ɯ	n c		Nanjing
+@Mr	əɯ r	ə ɯ/ɯ˞	m nr	ø	
+@N	ə ŋ	ə ŋ	n c		Beijing,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an
+@l	ə l	ə l	n c		Suzhou
+@m	ə m	ə m	n c		Meixian
+@n	ə n	ə n	n c		Beijing,Changsha,Meixian,Ha_erbin,Rongcheng,Chengdu,Nanjing
+@p	ə p	ə p	n c		Meixian
+@r	ə r	ə/ə˞	nr		Beijing,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an,Chengdu,Nanjing
+@t	ə t	ə t	n c		Meixian
+@u	ə u	ə u	n N		Suzhou,Changsha,Taiyuan,Chengdu
+@~	ə̃	ə̃ ∼	n c		Changsha
 A	ɑ	ɑ	n		Suzhou,Xi_an,Nanjing
-A?	ɑ ʔ	ɑ ʔ	nc		Suzhou,Nanjing
+A?	ɑ ʔ	ɑ ʔ	n c		Suzhou,Nanjing
 AA	ᴀ	ä	n		Beijing	
-AN	ɑ ŋ	ɑ ŋ	nc		Beijing,Guilin,Jinan,Xi_an
+AN	ɑ ŋ	ɑ ŋ	n c		Beijing,Guilin,Jinan,Xi_an
 A`	ᴀ	ä	n		Beijing,Guilin
-A`r	ᴀ r	ä r	n		Bejing
-Ar	ɑ r	ɑ r	nc	Ø	
-Au	ɑ u	ɑ u	nc		Beijing,Guilin,Xi_an
-A~	ɑ̃	ɑ̃ ∼	nc		Suzhou,Nanjing,Jixi
-A~r	ɑ r	ɑ r	nc	Not in souce.	Beijing
+A`r	ᴀ r	ä/ä˞	nr		Bejing
+Ar	ɑ r	ɑ/ɑ˞	nr	Ø	
+Au	ɑ u	ɑ u	n N		Beijing,Guilin,Xi_an
+A~	ɑ̃	ɑ̃ ∼	n c		Suzhou,Nanjing,Jixi
+A~r	ɑ r	ɑ/a˞	nr	Not in souce.	Beijing
 B	β	β	i	Occurs only between syllables.	Fuzhou
 C	ç	ç	i		Rongcheng
 E	ɛ	ɛ	n		Wenzhou,Guangzhou,Fuzhou,Ha_erbin,Jinan,Rongcheng,Xi_an,Nanjing
-E?	ɛ ʔ	ɛ ʔ	nc		Fuzhou
-EN	ɛ ŋ	ɛ ŋ	nc		Guangzhou
+E?	ɛ ʔ	ɛ ʔ	n c		Fuzhou
+EN	ɛ ŋ	ɛ ŋ	n c		Guangzhou
 E`	ᴇ	e̞	n	Check sound, as it is not normal IPA.	Suzhou
-Ei?	ɛi ʔ	ɛi ʔ	nc		Fuzhou
-EiN	ɛi ŋ	ɛi ŋ	nc		Fuzhou
-Ek	ɛ k 	ɛ k 	nc		Guangzhou
-En	ɛ n	ɛ n	nc		Suzhou,Nanchang
-Er	ɛ r	ɛ r	nc	Ø		
-Et	ɛ t	ɛ t	nc		Nanchang
-Eu	ɛ u	ɛ u	nc		Nanchang,Fuzhou
+Ei?	ɛi ʔ	ɛ i ʔ	n N c		Fuzhou
+EiN	ɛi ŋ	ɛ i ŋ	n N c		Fuzhou
+Ek	ɛ k 	ɛ k 	n c		Guangzhou
+En	ɛ n	ɛ n	n c		Suzhou,Nanchang
+Er	ɛ r	ɛ/ɛ˞	nr	Ø		
+Et	ɛ t	ɛ t	n c		Nanchang
+Eu	ɛ u	ɛ u	n N		Nanchang,Fuzhou
 G	ɣ	ɣ	i		Taiyuan
 HH	ʯ	ʯ	n		
 H`	ʯ	ʯ	n		Suzhou
@@ -109,35 +109,35 @@ M	ɯ	ɯ	n		Xi_an
 N	ŋ	ŋ	i		Suzhou,Wenzhou,Changsha,Loudi,Nanchang,Meixian,Guilin,Guangzhou,Fuzhou,Xiamen,Jinan,Xi_an,Chengdu,Jixi
 N=	ŋ̍	ŋ̍	n		Suzhou,Wenzhou,Loudi,Nanchang,Guilin,Guangzhou,Xiamen,Jinan,Nanjing
 O	ɔ	ɔ	n		Loudi,Guangzhou,Xiamen,Jinan,Rongcheng,Nanjing,Jixi
-O?	ɔ ʔ	ɔ ʔ	nc		Nanchang,Xiamen,Xiamen
-ON	ɔ ŋ	ɔ ŋ	nc		Suzhou,Loudi,Nanchang,Guangzhou,Xiamen
-Oi	ɔ i	ɔ i	nc		Guangzhou
-Ok	ɔ k	ɔ k	nc		Guangzhou,Xiamen
-On	ɔ n	ɔ n	nc		Guangzhou
-Or	ɔ r	ɔ r	n c	Potential Error in Rongcheng, as it is not in the inventories.	
-Ot	ɔ t	ɔ t	nc		Guangzhou
-O~	ɔ̃	ɔ̃ ∼	nc		Loudi,Xiamen
-Q~	ɒ̃	ɒ̃ ∼	nc		Taiyuan
+O?	ɔ ʔ	ɔ ʔ	n c		Nanchang,Xiamen,Xiamen
+ON	ɔ ŋ	ɔ ŋ	n c		Suzhou,Loudi,Nanchang,Guangzhou,Xiamen
+Oi	ɔ i	ɔ i	n N		Guangzhou
+Ok	ɔ k	ɔ k	n c		Guangzhou,Xiamen
+On	ɔ n	ɔ n	n c		Guangzhou
+Or	ɔ r	ɔ/ɔ˞	nr	Potential Error in Rongcheng, as it is not in the inventories.	
+Ot	ɔ t	ɔ t	n c		Guangzhou
+O~	ɔ̃	ɔ̃ ∼	n c		Loudi,Xiamen
+Q~	ɒ̃	ɒ̃ ∼	n c		Taiyuan
 S	ʃ	ʃ	i		Rongcheng
 Y	ʏ	ʏ	n		Suzhou
 Z	ʒ	ʒ	i	Occurs only between syllables.	Fuzhou
 a	a	a	n		Wenzhou,Changsha,Loudi,Nanchang,Meixian,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Jinan,Rongcheng,Taiyuan,Chengdu,Jixi
-a?	a ʔ	a ʔ	nc		Suzhou,Nanchang,Fuzhou,Xiamen,Taiyuan,Jixi
-aN	a ŋ	a ŋ	nc		Wenzhou,Nanchang,Meixian,Fuzhou,Xiamen,Ha_erbin,Rongcheng,Chengdu
-ai	a i	a i	nc		Beijing,Wenzhou,Changsha,Nanchang,Meixian,Guilin,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Rongcheng,Taiyuan,Chengdu
-ak	a k	a k	nc		Meixian,Guangzhou,Xiamen
-am	a m	a m	nc		Meixian,Guangzhou,Xiamen
-an	a n	a n	nc		Beijing,Changsha,Nanchang,Meixian,Guangzhou,Guangzhou,Xiamen,Ha_erbin,Chengdu
-ap	a p	a p	nc		Meixian,Guangzhou,Xiamen
-ar	a r	a r	n		Ha_erbin
-at	a t	a t	nc		Nanchang,Meixian,Guangzhou,Xiamen
-au	a u	a u	nc		Wenzhou,Changsha,Nanchang,Meixian,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Rongcheng,Taiyuan,Chengdu
-au?	a u ʔ	au ʔ	nc		Xiamen
-a~	ã	ã ∼	nc		Suzhou,Loudi,Guilin,Xiamen
-a~?	ã ʔ	ã ʔ	nc		Xiamen
-a~i	ãi	ãĩ ∼	nc		Xiamen
-a~u	ãu	ãũ ∼	nc		Xiamen
-a~u?	ãu ʔ	ãũ ʔ	nc		Xiamen
+a?	a ʔ	a ʔ	n c		Suzhou,Nanchang,Fuzhou,Xiamen,Taiyuan,Jixi
+aN	a ŋ	a ŋ	n c		Wenzhou,Nanchang,Meixian,Fuzhou,Xiamen,Ha_erbin,Rongcheng,Chengdu
+ai	a i	a i	n N		Beijing,Wenzhou,Changsha,Nanchang,Meixian,Guilin,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Rongcheng,Taiyuan,Chengdu
+ak	a k	a k	n c		Meixian,Guangzhou,Xiamen
+am	a m	a m	n c		Meixian,Guangzhou,Xiamen
+an	a n	a n	n c		Beijing,Changsha,Nanchang,Meixian,Guangzhou,Guangzhou,Xiamen,Ha_erbin,Chengdu
+ap	a p	a p	n c		Meixian,Guangzhou,Xiamen
+ar	a r	a/a˞	nr		Ha_erbin
+at	a t	a t	n c		Nanchang,Meixian,Guangzhou,Xiamen
+au	a u	a u	n N		Wenzhou,Changsha,Nanchang,Meixian,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Rongcheng,Taiyuan,Chengdu
+au?	a u ʔ	a u ʔ	n N c		Xiamen
+a~	ã	ã ∼	n c		Suzhou,Loudi,Guilin,Xiamen
+a~?	ã ʔ	ã ʔ	n c		Xiamen
+a~i	ãi	ã i ∼	n N c		Xiamen
+a~u	ãu	ã u ∼	n N c		Xiamen
+a~u?	ãu ʔ	ã u ʔ	n N c		Xiamen
 b	b	b	i		Suzhou,Wenzhou,Loudi,Xiamen
 c	c	c	i		Rongcheng
 c\	ɕ	ɕ	i		Beijing,Suzhou,Wenzhou,Changsha,Loudi,Nanchang,Guilin,Ha_erbin,Jinan,Taiyuan,Xi_an,Chengdu,Nanjing,Jixi
@@ -146,144 +146,144 @@ d	d	d	i		Suzhou,Wenzhou,Loudi
 dz	dz	dz	i		Wenzhou,Loudi
 dz\	dʑ	dʑ	i		Suzhou,Wenzhou,Loudi
 e	e	e	n		Wenzhou,Loudi,Nanchang,Meixian,Guilin,Xiamen,Chengdu
-e?	e ʔ	e ʔ	nc		Xiamen
-eN	e ŋ	e ŋ	nc		Wenzhou,Guangzhou
-ei	e i	e i	nc		Beijing,Wenzhou,Changsha,Nanchang,Guilin,Guangzhou,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an,Chengdu,Nanjing
-ek	e k	e k	nc		Guangzhou
-em	e m	e m	nc		Meixian
-en	e n	e n	nc		Meixian
-ep	e p	e p	nc		Meixian
-et	e t	e t	nc		Meixian
-eu	e u	e u	nc		Meixian
-e~	ẽ	ẽ ∼	nc		Loudi,Xiamen,Jinan,Xi_an,Jixi
-e~?	ẽ ʔ	ẽ ʔ	nc		Xiamen
+e?	e ʔ	e ʔ	n c		Xiamen
+eN	e ŋ	e ŋ	n c		Wenzhou,Guangzhou
+ei	e i	e i	n N		Beijing,Wenzhou,Changsha,Nanchang,Guilin,Guangzhou,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an,Chengdu,Nanjing
+ek	e k	e k	n c		Guangzhou
+em	e m	e m	n c		Meixian
+en	e n	e n	n c		Meixian
+ep	e p	e p	n c		Meixian
+et	e t	e t	n c		Meixian
+eu	e u	e u	n N		Meixian
+e~	ẽ	ẽ ∼	n c		Loudi,Xiamen,Jinan,Xi_an,Jixi
+e~?	ẽ ʔ	ẽ ʔ	n c		Xiamen
 f	f	f	i		Beijing,Suzhou,Wenzhou,Changsha,Nanchang,Meixian,Guilin,Guangzhou,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an,Chengdu,Nanjing,Jixi
 g	g	g	i		Suzhou,Wenzhou,Xiamen
 h	h	h	i		Suzhou,Wenzhou,Nanchang,Meixian,Guangzhou,Fuzhou,Xiamen
 h\	ɦ	ɦ	i		Suzhou,Wenzhou
 h`	ɦ	ɦ	i
 i	i	i	n		Beijing,Suzhou,Wenzhou,Changsha,Nanchang,Meixian,Guilin,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an,Chengdu,Nanjing,Jixi
-i2	i ø	i ø	mn		Suzhou
-i2?	i ø ʔ	i ø ʔ	mnc	Ø	
-i2n	i ø n	i ø n	mnc		Guangzhou
-i2t	i ø t	i ø t	mnc		Guangzhou
-i2y	i ø y	i ø y	mnc		Guangzhou
-i6i	i ɐ i	i ɐ i	mnc		Guangzhou
-i6m	i ɐ m	i ɐ m	mnc		Guangzhou
-i6n	i ɐ n	i ɐ n	mnc		Guangzhou,Rongcheng
-i6t	i ɐ t	i ɐ t	mnc		Guangzhou
-i6u	i ɐ u	i ɐ u	mnc		Guangzhou
-i7	i ɤ	i ɤ	mn		Loudi
-i7N	i ɤ ŋ	i ɤ ŋ	mnc		Loudi
-i8	i ɵ	i ɵ	mn		Jixi
-i9N	i œ ŋ	i œ ŋ	mnc		Guangzhou
-i9k	i œ k	i œ k	mnc		Guangzhou
-i?	i ʔ	i ʔ	nc		Fuzhou,Xiamen,Nanjing
-i@	i ə	i ə	mn		Ha_erbin,Jinan
-i@?	i ə ʔ	i ə ʔ	mnc		Suzhou,Taiyuan
-i@M	i ə ɯ	i ə ɯ	mnc		Nanjing
-i@u	i ə u	i ə u	mnc		Changsha,Taiyuan,Chengdu
-iA	i ɑ	i ɑ	mn		Suzhou,Xi_an,Nanjing
-iA?	i ɑ ʔ	i ɑ ʔ	mnc		Suzhou,Nanjing
-iAN	i ɑ ŋ	i ɑ ŋ	mnc		Beijing,Guilin,Jinan,Xi_an
-iA`	i ᴀ	i ä	mn	Check sound as it is not IPA.	Beijing,Guilin
-iAu	i ɑ u	i ɑ u	mnc		Beijing,Guilin,Xi_an
-iAur	i ɑu r	i ɑu r	mnc	Not given in source.	Beijing
-iA~	i ɑ̃	i ɑ̃ ∼	mnc		Suzhou,Nanjing,Jixi
-iE	i ɛ	i ɛ	mn		Beijing,Wenzhou,Guangzhou,Jinan,Rongcheng,Xi_an,Nanjing
-iEN	i ɛ ŋ	i ɛ ŋ	mnc		Guangzhou
-iEi	i ɛ i	i ɛ i	mnc		Chengdu
-iEk	i ɛ k	i ɛ k	mnc		Guangzhou
-iEn	i ɛ n	i ɛ n	mnc		Beijing,Nanchang,Chengdu
-iEr	i ɛ r	i ɛ r	mnc	Ø	
-iEt	i ɛ t	i ɛ t	mnc		Nanchang
-iEu	i ɛ u	i ɛ u	mnc		Nanchang
-iI	i ɪ	i ɪ	mn	Could also be interpreted as nc	Suzhou
-iN	i ŋ	i ŋ	nc		Beijing,Guilin,Fuzhou,Xiamen,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an
-iO	i ɔ	i ɔ	mn		Loudi,Jinan,Nanjing,Jixi
-iO?	i ɔ ʔ	i ɔ ʔ	mnc		Nanchang
-iON	i ɔ ŋ	i ɔ ŋ	mnc		Loudi,Nanchang,Xiamen
-iOk	i ɔ k	i ɔ k	mnc		Xiamen
-iO~	i ɔ̃	i ɔ̃ ∼	mnc		Loudi
-iQ~	ɪ ɒ̃	ɪ ɒ̃ ∼	mnc		Taiyuan
-iY	i ʏ	i ʏ	mn		Suzhou
+i2	i ø	i ø	m n		Suzhou
+i2?	i ø ʔ	i ø ʔ	m n c	Ø	
+i2n	i ø n	i ø n	m n c		Guangzhou
+i2t	i ø t	i ø t	m n c		Guangzhou
+i2y	i ø y	i ø y	m n N		Guangzhou
+i6i	i ɐ i	i ɐ i	m n N		Guangzhou
+i6m	i ɐ m	i ɐ m	m n c		Guangzhou
+i6n	i ɐ n	i ɐ n	m n c		Guangzhou,Rongcheng
+i6t	i ɐ t	i ɐ t	m n c		Guangzhou
+i6u	i ɐ u	i ɐ u	m n N		Guangzhou
+i7	i ɤ	i ɤ	m n		Loudi
+i7N	i ɤ ŋ	i ɤ ŋ	m n c		Loudi
+i8	i ɵ	i ɵ	m n		Jixi
+i9N	i œ ŋ	i œ ŋ	m n c		Guangzhou
+i9k	i œ k	i œ k	m n c		Guangzhou
+i?	i ʔ	i ʔ	n c		Fuzhou,Xiamen,Nanjing
+i@	i ə	i ə	m n		Ha_erbin,Jinan
+i@?	i ə ʔ	i ə ʔ	m n c		Suzhou,Taiyuan
+i@M	i ə ɯ	i ə ɯ	m n N		Nanjing
+i@u	i ə u	i ə u	m n N		Changsha,Taiyuan,Chengdu
+iA	i ɑ	i ɑ	m n		Suzhou,Xi_an,Nanjing
+iA?	i ɑ ʔ	i ɑ ʔ	m n c		Suzhou,Nanjing
+iAN	i ɑ ŋ	i ɑ ŋ	m n c		Beijing,Guilin,Jinan,Xi_an
+iA`	i ᴀ	i ä	m n	Check sound as it is not IPA.	Beijing,Guilin
+iAu	i ɑ u	i ɑ u	m n N		Beijing,Guilin,Xi_an
+iAur	i ɑu r	i ɑ u r	m n N c	Not given in source.	Beijing
+iA~	i ɑ̃	i ɑ̃ ∼	m n c		Suzhou,Nanjing,Jixi
+iE	i ɛ	i ɛ	m n		Beijing,Wenzhou,Guangzhou,Jinan,Rongcheng,Xi_an,Nanjing
+iEN	i ɛ ŋ	i ɛ ŋ	m n c		Guangzhou
+iEi	i ɛ i	i ɛ i	m n N		Chengdu
+iEk	i ɛ k	i ɛ k	m n c		Guangzhou
+iEn	i ɛ n	i ɛ n	m n c		Beijing,Nanchang,Chengdu
+iEr	i ɛ r	i ɛ/ɛ˞	m nr	Ø	
+iEt	i ɛ t	i ɛ t	m n c		Nanchang
+iEu	i ɛ u	i ɛ u	m n N		Nanchang
+iI	i ɪ	i ɪ	m n	Could also be interpreted as nc	Suzhou
+iN	i ŋ	i ŋ	n c		Beijing,Guilin,Fuzhou,Xiamen,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an
+iO	i ɔ	i ɔ	m n		Loudi,Jinan,Nanjing,Jixi
+iO?	i ɔ ʔ	i ɔ ʔ	m n c		Nanchang
+iON	i ɔ ŋ	i ɔ ŋ	m n c		Loudi,Nanchang,Xiamen
+iOk	i ɔ k	i ɔ k	m n c		Xiamen
+iO~	i ɔ̃	i ɔ̃ ∼	m n c		Loudi
+iQ~	ɪ ɒ̃	ɪ ɒ̃ ∼	m n c		Taiyuan
+iY	i ʏ	i ʏ	m n		Suzhou
 i_z	ɿ	ɿ	n		Beijing,Suzhou,Wenzhou,Changsha,Loudi,Nanchang,Meixian,Guilin,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an,Chengdu,Nanjing,Jixi
 i`	ʅ	ʅ	n		Beijing,Changsha,Ha_erbin,Jinan,Rongcheng,Xi_an,Nanjing
-i`?	ʅ ʔ	ʅ ʔ	nc		Nanjing
-ia	i a	i a	mn		Wenzhou,Changsha,Loudi,Nanchang,Meixian,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Jinan,Rongcheng,Taiyuan,Chengdu
-ia?	i a ʔ	i a ʔ	mnc		Suzhou,Nanchang,Fuzhou,Xiamen,Taiyuan,Jixi
-iaN	i a ŋ	i a ŋ	mnc		Wenzhou,Nanchang,Meixian,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Rongcheng,Chengdu
-iai	i a i	i a i	mnc		Wenzhou,Meixian,Guangzhou,Rongcheng
-iak	i a k	i a k	mnc		Meixian,Guangzhou,Xiamen
-iam	i a m	i a m	mnc		Meixian,Guangzhou,Xiamen
-ian	i a n	i a n	mnc		Changsha,Meixian,Xiamen,Ha_erbin
-iap	i a p	i a p	mnc		Meixian,Guangzhou,Guangzhou,Xiamen
-iat	i a t	i a t	mnc		Meixian,Xiamen
-iau	i a u	i a u	mnc		Wenzhou,Changsha,Meixian,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Rongcheng,Taiyuan,Chengdu
-iau?	i au ʔ	i au ʔ	mnc		Xiamen
-ia~	i ã	i ã ∼	mnc		Suzhou,Guilin,Xiamen
-ia~u	i ãu	i ãũ ∼	mnc		Xiamen
-ia~u?	i ãu ʔ	i ãũ ʔ	mnc		Xiamen
-ie	i e	i e	mn		Changsha,Loudi,Nanchang,Meixian,Guilin,Fuzhou,Taiyuan,Chengdu,Nanjing,Jixi
-ie?	i e ʔ	i e ʔ	mnc		Fuzhou,Nanjing,Jixi
-ieN	i e ŋ	i e ŋ	mnc		Guangzhou,Fuzhou
-iek	i e k	i e k	mnc		Guangzhou
-ien	i e n	i e n	mnc		Meixian,Nanjing
-iet	i e t	i e t	mnc		Meixian
-ieu	i e u	i e u	mnc		Wenzhou,Fuzhou
-ie~	i ẽ	i ẽ ∼	mnc		Changsha,Jinan,Xi_an,Jixi
-ik	i k	i k	nc		Xiamen
-im	i m	i m	nc		Meixian,Guangzhou,Xiamen
-in	i n	i n	nc		Beijing,Suzhou,Changsha,Loudi,Nanchang,Meixian,Guangzhou,Xiamen,Ha_erbin,Rongcheng,Xi_an,Chengdu,Nanjing
-io	i o	i o	nc		Suzhou,Changsha,Loudi,Meixian,Xiamen,Jixi
-io?	i o ʔ	i o ʔ	mnc		Suzhou,Xiamen,Nanjing
-ioN	i o ŋ	i o ŋ	mnc		Suzhou,Changsha,Meixian,Guangzhou,Nanjing
-iok	i o k	i o k	mnc		Meixian,Guangzhou
-ion	i o n	i o n	mnc		Meixian
-iou	i o u	i o u	mnc		Beijing,Guilin,Ha_erbin,Jinan,Rongcheng,Xi_an
-io~	i õ	i õ ∼	mnc		Jixi
-ip	i p	i p	nc		Meixian,Guangzhou,Xiamen
-it	i t	i t	nc		Nanchang,Meixian,Guangzhou,Xiamen
-iu	i u	i u	mn	May be differently interpreted (also as nc).	Nanchang,Meixian,Guangzhou,Xiamen
-iu?	i u ʔ	i u ʔ	mnc		Nanchang,Xiamen
-iuN	i u ŋ	i u ŋ	mnc		Nanchang,Meixian
-iui	i u i	i u i	mnc		Meixian
-iuk	i u k	i u k	mnc		Meixian
-iun	i u n	i u n	mnc		Meixian
-iut	i u t	i u t	mnc		Meixian
-iu~	i ũ	i ũ ∼	mnc		Xiamen
-i{	i æ	i æ	mn		Suzhou
-i{~	i æ̃	i æ̃ ∼	mnc		Jinan,Xi_an
-i~	i æ	i æ	mn		Loudi,Xiamen
-i~?	i æ ʔ	i æ ʔ	mnc		Xiamen
+i`?	ʅ ʔ	ʅ ʔ	n c		Nanjing
+ia	i a	i a	m n		Wenzhou,Changsha,Loudi,Nanchang,Meixian,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Jinan,Rongcheng,Taiyuan,Chengdu
+ia?	i a ʔ	i a ʔ	m n c		Suzhou,Nanchang,Fuzhou,Xiamen,Taiyuan,Jixi
+iaN	i a ŋ	i a ŋ	m n c		Wenzhou,Nanchang,Meixian,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Rongcheng,Chengdu
+iai	i a i	i a i	m n N		Wenzhou,Meixian,Guangzhou,Rongcheng
+iak	i a k	i a k	m n c		Meixian,Guangzhou,Xiamen
+iam	i a m	i a m	m n c		Meixian,Guangzhou,Xiamen
+ian	i a n	i a n	m n c		Changsha,Meixian,Xiamen,Ha_erbin
+iap	i a p	i a p	m n c		Meixian,Guangzhou,Guangzhou,Xiamen
+iat	i a t	i a t	m n c		Meixian,Xiamen
+iau	i a u	i a u	m n N		Wenzhou,Changsha,Meixian,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Rongcheng,Taiyuan,Chengdu
+iau?	i au ʔ	i a u ʔ	m n N c		Xiamen
+ia~	i ã	i ã ∼	m n c		Suzhou,Guilin,Xiamen
+ia~u	i ãu	i ã u ∼	m n N c		Xiamen
+ia~u?	i ãu ʔ	i ã u ʔ	m n N c		Xiamen
+ie	i e	i e	m n 		Changsha,Loudi,Nanchang,Meixian,Guilin,Fuzhou,Taiyuan,Chengdu,Nanjing,Jixi
+ie?	i e ʔ	i e ʔ	m n c		Fuzhou,Nanjing,Jixi
+ieN	i e ŋ	i e ŋ	m n c		Guangzhou,Fuzhou
+iek	i e k	i e k	m n c		Guangzhou
+ien	i e n	i e n	m n c		Meixian,Nanjing
+iet	i e t	i e t	m n c		Meixian
+ieu	i e u	i e u	m n N		Wenzhou,Fuzhou
+ie~	i ẽ	i ẽ ∼	m n c		Changsha,Jinan,Xi_an,Jixi
+ik	i k	i k	n c		Xiamen
+im	i m	i m	n c		Meixian,Guangzhou,Xiamen
+in	i n	i n	n c		Beijing,Suzhou,Changsha,Loudi,Nanchang,Meixian,Guangzhou,Xiamen,Ha_erbin,Rongcheng,Xi_an,Chengdu,Nanjing
+io	i o	i o	n N		Suzhou,Changsha,Loudi,Meixian,Xiamen,Jixi
+io?	i o ʔ	i o ʔ	m n c		Suzhou,Xiamen,Nanjing
+ioN	i o ŋ	i o ŋ	m n c		Suzhou,Changsha,Meixian,Guangzhou,Nanjing
+iok	i o k	i o k	m n c		Meixian,Guangzhou
+ion	i o n	i o n	m n c		Meixian
+iou	i o u	i o u	m n N		Beijing,Guilin,Ha_erbin,Jinan,Rongcheng,Xi_an
+io~	i õ	i õ ∼	m n c		Jixi
+ip	i p	i p	n c		Meixian,Guangzhou,Xiamen
+it	i t	i t	n c		Nanchang,Meixian,Guangzhou,Xiamen
+iu	i u	i u	m n	May be differently interpreted (also as nc).	Nanchang,Meixian,Guangzhou,Xiamen
+iu?	i u ʔ	i u ʔ	m nc 		Nanchang,Xiamen
+iuN	i u ŋ	i u ŋ	m n c		Nanchang,Meixian
+iui	i u i	i u i	m n N		Meixian
+iuk	i u k	i u k	m n c		Meixian
+iun	i u n	i u n	m n c		Meixian
+iut	i u t	i u t	m n c		Meixian
+iu~	i ũ	i ũ ∼	m n c		Xiamen
+i{	i æ	i æ	m n		Suzhou
+i{~	i æ̃	i æ̃ ∼	m n c		Jinan,Xi_an
+i~	i æ	i æ	m n		Loudi,Xiamen
+i~?	i æ ʔ	i æ ʔ	m n c		Xiamen
 j	j	j	i		Wenzhou
 k	k	k	i		Beijing,Suzhou,Wenzhou,Changsha,Loudi,Nanchang,Meixian,Guilin,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an,Chengdu,Nanjing,Jixi
-k2_h	k øʰ	kʰ ø	in	Error in source.	
+k2_h	k øʰ	kʰ ø	i n	Error in source.	
 k_h	kʰ	kʰ	i		Beijing,Suzhou,Wenzhou,Changsha,Loudi,Nanchang,Meixian,Guilin,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an,Chengdu,Nanjing,Jixi
 l	l	l	i		Beijing,Suzhou,Wenzhou,Changsha,Loudi,Nanchang,Meixian,Guilin,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an,Chengdu,Nanjing
 m	m	m	i		Beijing,Suzhou,Wenzhou,Changsha,Loudi,Nanchang,Meixian,Guilin,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an,Chengdu,Nanjing,Jixi
-m=	- m̩ -	m m̩ ∼	inc	A trick for handling those sounds.	Suzhou,Wenzhou,Changsha,Loudi,Nanchang,Meixian,Guangzhou,Fuzhou,Xiamen,Nanjing,Jixi
-m=?	- m̩ ʔ	m m̩ ʔ	inc		Xiamen
+m=	- m̩ -	m m̩ ∼	i n c	A trick for handling those sounds.	Suzhou,Wenzhou,Changsha,Loudi,Nanchang,Meixian,Guangzhou,Fuzhou,Xiamen,Nanjing,Jixi
+m=?	- m̩ ʔ	m m̩ ʔ	i n c		Xiamen
 n	n	n	i		Beijing,Suzhou,Wenzhou,Loudi,Meixian,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an,Chengdu,Jixi
-n=	- n̩ -	n n̩ ∼	inc		Suzhou,Wenzhou,Changsha,Loudi,Nanchang,Meixian,Nanjing,Jixi
-n=?	- n̩ ʔ	n n̩ ʔ	inc		Xiamen
+n=	- n̩ -	n n̩ ∼	i n c		Suzhou,Wenzhou,Changsha,Loudi,Nanchang,Meixian,Nanjing,Jixi
+n=?	- n̩ ʔ	n n̩ ʔ	i n c		Xiamen
 n\	ȵ	ɲ	i	This is most likely palatal nasal in all cases.	Suzhou,Wenzhou,Changsha,Nanchang,Jinan,Taiyuan,Xi_an,Chengdu,Jixi
 n`	ȵ	ɲ	i		
 o	o	o	n		Beijing,Suzhou,Wenzhou,Changsha,Loudi,Nanchang,Meixian,Fuzhou,Xiamen,Xi_an,Chengdu,Nanjing,Jixi
-o?	o ʔ	o ʔ	nc		Suzhou,Fuzhou,Xiamen,Nanjing,Jixi
-oN	o ŋ	o ŋ	nc		Wenzhou,Changsha,Meixian,Guangzhou,Rongcheng,Chengdu,Nanjing
-oi	o i	o i	nc		Nanchang,Meixian
-ok	o k	o k	nc		Meixian,Guangzhou
-on	o n	o n	nc		Nanchang,Meixian
-ot	o t	o t	nc		Nanchang,Meixian
-ou	o u	o u	nc		Beijing,Guilin,Guangzhou,Ha_erbin,Jinan,Rongcheng,Xi_an
-ou?	ou ʔ	ou ʔ	nc		Fuzhou
-ouN	ou ŋ	ou ŋ	nc		Fuzhou
-our	ou r	ou r	nc	Not given in source.	
-o~	õ	õ ∼	nc		Changsha,Jixi
+o?	o ʔ	o ʔ	n c		Suzhou,Fuzhou,Xiamen,Nanjing,Jixi
+oN	o ŋ	o ŋ	n c		Wenzhou,Changsha,Meixian,Guangzhou,Rongcheng,Chengdu,Nanjing
+oi	o i	o i	n N		Nanchang,Meixian
+ok	o k	o k	n c		Meixian,Guangzhou
+on	o n	o n	n c		Nanchang,Meixian
+ot	o t	o t	n c		Nanchang,Meixian
+ou	o u	o u	n N		Beijing,Guilin,Guangzhou,Ha_erbin,Jinan,Rongcheng,Xi_an
+ou?	ou ʔ	o u ʔ	n N c		Fuzhou
+ouN	ou ŋ	o u ŋ	n N c		Fuzhou
+our	ou r	o/o˞ u	nr N	Not given in source.	
+o~	õ	õ ∼	n c		Changsha,Jixi
 p	p	p	i		Beijing,Suzhou,Wenzhou,Changsha,Loudi,Nanchang,Meixian,Guilin,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an,Chengdu,Nanjing,Jixi
 p_h	pʰ	pʰ	i		Beijing,Suzhou,Wenzhou,Changsha,Loudi,Nanchang,Meixian,Guilin,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an,Chengdu,Nanjing,Jixi
-p_hiAu21	pʰ i ɑ u ²¹	pʰ i a u ²¹	imnct	An error in the source, as the sound A is not annotated there.	
+p_hiAu21	pʰ i ɑ u ²¹	pʰ i a u ²¹	i m n c t	An error in the source, as the sound A is not annotated there.	
 pf	pf	pf	i		Xi_an
 pf_h	pfʰ	pfʰ	i		Xi_an
 ph	pʰ	pʰ	i
@@ -303,131 +303,131 @@ ts`	tʂ	ʈʂ	i		Beijing,Ha_erbin,Jinan,Rongcheng,Xi_an,Nanjing
 ts`_h	tʂʰ	ʈʂʰ	i		Beijing,Ha_erbin,Rongcheng,Xi_an,Nanjing
 tss_h	tʂʰ	ʈʂʰ	i		
 u	u	u	n		Beijing,Suzhou,Wenzhou,Changsha,Loudi,Loudi,Nanchang,Meixian,Guilin,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an,Chengdu,Nanjing,Jixi
-u2	u ø	u ø	mn		Suzhou
-u6N	u ɐ n	u ɐ n	mnc		Guangzhou
-u6i	u ɐ i	u ɐ i	mnc		Guangzhou
-u6n	u ɐ n	u ɐ n	mnc		Guangzhou,Rongcheng
-u6r	u ɐ r	u a r	mnc	Potential error in source, not named in source inventory.	Beijing
-u6t	u ɐ t	u ɐ t	mnc		Guangzhou
-u7	u ɤ	u ɤ	mn		Jinan,Taiyuan
-u7?	u ɤ ʔ	u ɤ ʔ	mnc		Jixi
-u7N	u ɤ ŋ	u ɤ ŋ	mnc		Guilin
-u?	u ʔ	u ʔ	nc		Nanchang,Fuzhou,Xiamen,Nanjing
-u@	u ə	u ə	mn		Changsha
-u@?	u ə ʔ	u ə ʔ	mnc		Suzhou,Taiyuan
-u@N	u ə ŋ	u ə ŋ	mnc		Beijing,Ha_erbin,Rongcheng
-u@n	u ə n	u ə n	mnc		Beijing,Suzhou,Changsha,Ha_erbin,Rongcheng,Xi_an,Chengdu,Nanjing
-uA	u ɑ	u ɑ	mn		Suzhou,Xi_an,Nanjing
-uA?	u ɑ ʔ	u ɑ ʔ	mnc		Nanjing
-uAN	u ɑ ŋ	u ɑ ŋ	mnc		Guilin,Jinan,Xi_an
-uA`	u ᴀ	u ä	mn	Check sound since it is not IPA.	Guilin
-uA~	u ɑ̃	u ɑ̃ ∼	mnc		Beijing,Nanjing,Jixi
-uE	u ɛ	u ɛ	mn		Guangzhou,Jinan,Rongcheng,Xi_an,Nanjing
-uE`	u ᴇ	u e̞	mn	Check sound since it is not IPA.	Suzhou
-uEr	u ɛ r	u ɛ r	mnc	ø	
-uEt	u ɛ t	u ɛ t	mnc		Nanchang
-uN	u ŋ	u ŋ	nc		Beijing,Nanchang,Meixian,Fuzhou,Ha_erbin,Jinan,Taiyuan,Xi_an
-uO	u ɔ	u ɔ	mn		Wenzhou,Guangzhou,Rongcheng,Jixi
-uON	u ɔ ŋ	u ɔ ŋ	mnc		Loudi,Nanchang,Guangzhou
-uOk	u ɔ k	u ɔ k	mnc		Guangzhou
-uQ~	u ɒ̃	u ɒ̃ ∼	mnc		Taiyuan
-ua	u a	u a	mn		Wenzhou,Changsha,Loudi,Nanchang,Meixian,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Jinan,Rongcheng,Taiyuan,Chengdu,Jixi
-ua?	u a ʔ	u a ʔ	mnc		Suzhou,Nanchang,Fuzhou,Xiamen,Taiyuan,Jixi
-uaN	u a ŋ	u a ŋ	mnc		Beijing,Wenzhou,Nanchang,Meixian,Guangzhou,Fuzhou,Ha_erbin,Rongcheng,Chengdu
-uai	u a i	u a i	mnc		Beijing,Wenzhou,Changsha,Nanchang,Meixian,Guilin,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Rongcheng,Taiyuan,Chengdu
-uai?	u ai ʔ	u ai ʔ	mnc		Xiamen
-uak	u a k	u a k	mnc		Meixian,Guangzhou
-uan	u a n	u a n	mnc		Changsha,Nanchang,Meixian,Guangzhou,Xiamen,Ha_erbin,Chengdu
-uao	u a o	u a o	mnc		Beijing
-uat	u a t	u a t	mnc		Nanchang,Meixian,Guangzhou,Xiamen
-ua~	u ã	u ã ∼	mnc		Suzhou,Suzhou,Loudi,Guilin,Xiamen
-ua~i	u ãi	u ãĩ ∼	mnc		Xiamen
-ua~i?	u ãi ʔ	u ãĩ ʔ	mnc		Xiamen
-ue	u e	u e	mn		Loudi,Nanchang,Xiamen,Chengdu
-ue?	u e ʔ	u e ʔ	mnc		Xiamen,Nanjing
-ueN	u e ŋ	u e ŋ	mnc		Guangzhou
-uei	u e i	u e i	mnc		Beijing,Changsha,Guilin,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an,Chengdu,Nanjing
-uek	u e k	u e k	mnc		Guangzhou
-uen	u e n	u e n	mnc		Meixian
-uet	u e t	u e t	mnc		Meixian
-ue~	u ẽ	u ẽ ∼	mnc		Loudi,Jinan,Xi_an
-ue~?	u ẽ ʔ	u ẽ ʔ	mnc		Xiamen
-ui	u i	u i	mn	Can also be nc.	Loudi,Nanchang,Meixian,Guangzhou,Xiamen,Jixi
-ui?	u i ʔ	u i ʔ	mnc		Xiamen
-ui~	u ĩ	u ĩ ∼	mnc		Loudi,Xiamen
-uk	u k	u k	nc		Meixian
-un	u n	u n	nc		Loudi,Meixian,Guangzhou,Xiamen
-uo	u o	u o	mn		Beijing,Nanchang,Meixian,Guilin,Fuzhou,Ha_erbin,Xi_an
-uo?	u o ʔ	u o ʔ	mnc		Nanchang,Fuzhou
-uoN	u o ŋ	u o ŋ	mnc		Meixian,Fuzhou
-uoi	u o i	u o i	mnc		Fuzhou
-uok	u o k	u o k	mnc		Meixian
-uon	u o n	u o n	mnc		Nanchang,Nanchang,Meixian
-uor	u o r	u o r	mnc	ø	
-uot	u o t	u o t	mnc		Nanchang
-ur	u r	u r	nc	Not in source.	
-ut	u t	u t	nc		Nanchang,Meixian,Guangzhou,Xiamen
-u{~	u æ̃	u æ̃ ∼	mnc		Jinan,Taiyuan,Xi_an
+u2	u ø	u ø	m n		Suzhou
+u6N	u ɐ n	u ɐ n	m n c		Guangzhou
+u6i	u ɐ i	u ɐ i	m n N		Guangzhou
+u6n	u ɐ n	u ɐ n	m n c		Guangzhou,Rongcheng
+u6r	u ɐ r	u a/a˞	m nr	Potential error in source, not named in source inventory.	Beijing
+u6t	u ɐ t	u ɐ t	m n c		Guangzhou
+u7	u ɤ	u ɤ	m n		Jinan,Taiyuan
+u7?	u ɤ ʔ	u ɤ ʔ	m n c		Jixi
+u7N	u ɤ ŋ	u ɤ ŋ	m n c		Guilin
+u?	u ʔ	u ʔ	n c		Nanchang,Fuzhou,Xiamen,Nanjing
+u@	u ə	u ə	m n		Changsha
+u@?	u ə ʔ	u ə ʔ	m n c		Suzhou,Taiyuan
+u@N	u ə ŋ	u ə ŋ	m n c		Beijing,Ha_erbin,Rongcheng
+u@n	u ə n	u ə n	m n c		Beijing,Suzhou,Changsha,Ha_erbin,Rongcheng,Xi_an,Chengdu,Nanjing
+uA	u ɑ	u ɑ	m n		Suzhou,Xi_an,Nanjing
+uA?	u ɑ ʔ	u ɑ ʔ	m n c		Nanjing
+uAN	u ɑ ŋ	u ɑ ŋ	m n c		Guilin,Jinan,Xi_an
+uA`	u ᴀ	u ä	m n	Check sound since it is not IPA.	Guilin
+uA~	u ɑ̃	u ɑ̃ ∼	m n c		Beijing,Nanjing,Jixi
+uE	u ɛ	u ɛ	m n		Guangzhou,Jinan,Rongcheng,Xi_an,Nanjing
+uE`	u ᴇ	u e̞	m n	Check sound since it is not IPA.	Suzhou
+uEr	u ɛ r	u ɛ/ɛ˞	m n	ø	
+uEt	u ɛ t	u ɛ t	m n c		Nanchang
+uN	u ŋ	u ŋ	n c		Beijing,Nanchang,Meixian,Fuzhou,Ha_erbin,Jinan,Taiyuan,Xi_an
+uO	u ɔ	u ɔ	m n		Wenzhou,Guangzhou,Rongcheng,Jixi
+uON	u ɔ ŋ	u ɔ ŋ	m n c		Loudi,Nanchang,Guangzhou
+uOk	u ɔ k	u ɔ k	m n c		Guangzhou
+uQ~	u ɒ̃	u ɒ̃ ∼	m n c		Taiyuan
+ua	u a	u a	m n		Wenzhou,Changsha,Loudi,Nanchang,Meixian,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Jinan,Rongcheng,Taiyuan,Chengdu,Jixi
+ua?	u a ʔ	u a ʔ	m n c		Suzhou,Nanchang,Fuzhou,Xiamen,Taiyuan,Jixi
+uaN	u a ŋ	u a ŋ	m n c		Beijing,Wenzhou,Nanchang,Meixian,Guangzhou,Fuzhou,Ha_erbin,Rongcheng,Chengdu
+uai	u a i	u a i	m n N		Beijing,Wenzhou,Changsha,Nanchang,Meixian,Guilin,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Rongcheng,Taiyuan,Chengdu
+uai?	u ai ʔ	u a i ʔ	m n N c		Xiamen
+uak	u a k	u a k	m n c		Meixian,Guangzhou
+uan	u a n	u a n	m n c		Changsha,Nanchang,Meixian,Guangzhou,Xiamen,Ha_erbin,Chengdu
+uao	u a o	u a o	m n N		Beijing
+uat	u a t	u a t	m n c		Nanchang,Meixian,Guangzhou,Xiamen
+ua~	u ã	u ã ∼	m n c		Suzhou,Suzhou,Loudi,Guilin,Xiamen
+ua~i	u ãi	u ã i ∼	m n N c		Xiamen
+ua~i?	u ãi ʔ	u ã i ʔ	m n N c		Xiamen
+ue	u e	u e	m n		Loudi,Nanchang,Xiamen,Chengdu
+ue?	u e ʔ	u e ʔ	m n c		Xiamen,Nanjing
+ueN	u e ŋ	u e ŋ	m n c		Guangzhou
+uei	u e i	u e i	m n N		Beijing,Changsha,Guilin,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an,Chengdu,Nanjing
+uek	u e k	u e k	m n c		Guangzhou
+uen	u e n	u e n	m n c		Meixian
+uet	u e t	u e t	m n c		Meixian
+ue~	u ẽ	u ẽ ∼	m n c		Loudi,Jinan,Xi_an
+ue~?	u ẽ ʔ	u ẽ ʔ	m n c		Xiamen
+ui	u i	u i	m n	Can also be nc.	Loudi,Nanchang,Meixian,Guangzhou,Xiamen,Jixi
+ui?	u i ʔ	u i ʔ	m n c		Xiamen
+ui~	u ĩ	u ĩ ∼	m n c		Loudi,Xiamen
+uk	u k	u k	n c		Meixian
+un	u n	u n	n c		Loudi,Meixian,Guangzhou,Xiamen
+uo	u o	u o	m n		Beijing,Nanchang,Meixian,Guilin,Fuzhou,Ha_erbin,Xi_an
+uo?	u o ʔ	u o ʔ	m n c		Nanchang,Fuzhou
+uoN	u o ŋ	u o ŋ	m n c		Meixian,Fuzhou
+uoi	u o i	u o i	m n N		Fuzhou
+uok	u o k	u o k	m n c		Meixian
+uon	u o n	u o n	m n c		Nanchang,Nanchang,Meixian
+uor	u o r	u o/o˞	m nr	ø	
+uot	u o t	u o t	m n c		Nanchang
+ur	u r	u r	n c	Not in source.	
+ut	u t	u t	n c		Nanchang,Meixian,Guangzhou,Xiamen
+u{~	u æ̃	u æ̃ ∼	m n c		Jinan,Taiyuan,Xi_an
 v	v	v	i		Suzhou,Wenzhou,Meixian,Jinan,Taiyuan,Xi_an,Jixi
 v\	ʋ	ʋ	i	Ø
 x	x	x	i		Beijing,Changsha,Loudi,Guilin,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an,Chengdu,Nanjing,Jixi
 y	y	y	n		Beijing,Suzhou,Wenzhou,Changsha,Loudi,Nanchang,Guilin,Guangzhou,Fuzhou,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an,Chengdu,Nanjing,Jixi
-y6n	y ɐ n	y ɐ n	mnc		Rongcheng
-y7	y ɤ	y ɤ	mn		Jinan
-y7r	y ɤ r	y ɤ r	mnc	Ø	
-y?	y ʔ	y ʔ	nc		Fuzhou,Nanjing
-y@?	y ə ʔ	y ə ʔ	mnc		Suzhou,Taiyuan
-y@n	y ə n	y ə n	mnc		Suzhou
-yA~	y ɑ̃	y ɑ̃ ∼	mnc		Jixi
-yE	y ɛ	y ɛ	mn		Beijing,Ha_erbin,Rongcheng,Xi_an
-yEn	y ɛ n	y ɛ n	mnc		Beijing
-yN	y ŋ	y ŋ	nc		Beijing,Guilin,Fuzhou,Ha_erbin,Jinan,Taiyuan,Xi_an
-yO	y ɔ	y ɔ	mn		Wenzhou,Rongcheng
-ya	y a	y a	mn		Changsha
-ya?	y a ʔ	y a ʔ	mnc		Suzhou,Jixi
-yai	y a i	y a i	mnc		Changsha,Rongcheng
-yan	y a n	y a n	mnc		Changsha,Ha_erbin,Chengdu
-ya~	y ã	y ã ∼	mnc		Guilin
-ye	y e	y e	mn		Changsha,Nanchang,Guilin,Taiyuan,Chengdu,Nanjing
-ye?	y e ʔ	y e ʔ	mnc		Nanjing,Jixi
-yei	y e i	y e i	mnc		Changsha
-yen	y e n	y e n	mnc		Nanjing
-ye~	y ẽ	y ẽ ∼	mnc		Changsha,Jinan,Xi_an,Jixi
-yi~	y ĩ	y ĩ ∼	mnc		Loudi
-yn	y n	y n	nc		Beijing,Changsha,Loudi,Nanchang,Guangzhou,Ha_erbin,Rongcheng,Chengdu,Nanjing
-yo	y o	y o	mn		Wenzhou,Fuzhou,Xi_an,Chengdu
-yo?	y o ʔ	y o ʔ	mnc		Fuzhou,Jixi
-yoN	y o ŋ	y o ŋ	mnc		Wenzhou,Fuzhou,Rongcheng,Chengdu
-yon	y o n	y o n	mnc		Nanchang
-yor	y o r	y o r	mnc	Ø	
-yot	y o t	y o t	mnc		Nanchang
-yt	y t	y t	nc		Nanchang,Guangzhou
-y{~	y æ̃	y æ̃ ∼	mnc		Jinan,Xi_an
+y6n	y ɐ n	y ɐ n	m n c		Rongcheng
+y7	y ɤ	y ɤ	m n		Jinan
+y7r	y ɤ r	y ɤ/ɤ˞	m nr	Ø	
+y?	y ʔ	y ʔ	n c		Fuzhou,Nanjing
+y@?	y ə ʔ	y ə ʔ	m n c		Suzhou,Taiyuan
+y@n	y ə n	y ə n	m n c		Suzhou
+yA~	y ɑ̃	y ɑ̃ ∼	m n c		Jixi
+yE	y ɛ	y ɛ	m n		Beijing,Ha_erbin,Rongcheng,Xi_an
+yEn	y ɛ n	y ɛ n	m n c		Beijing
+yN	y ŋ	y ŋ	n c		Beijing,Guilin,Fuzhou,Ha_erbin,Jinan,Taiyuan,Xi_an
+yO	y ɔ	y ɔ	m n		Wenzhou,Rongcheng
+ya	y a	y a	m n		Changsha
+ya?	y a ʔ	y a ʔ	m n c		Suzhou,Jixi
+yai	y a i	y a i	m n N		Changsha,Rongcheng
+yan	y a n	y a n	m n c		Changsha,Ha_erbin,Chengdu
+ya~	y ã	y ã ∼	m n c		Guilin
+ye	y e	y e	m n		Changsha,Nanchang,Guilin,Taiyuan,Chengdu,Nanjing
+ye?	y e ʔ	y e ʔ	m n c		Nanjing,Jixi
+yei	y e i	y e i	m n N		Changsha
+yen	y e n	y e n	m n c		Nanjing
+ye~	y ẽ	y ẽ ∼	m n c		Changsha,Jinan,Xi_an,Jixi
+yi~	y ĩ	y ĩ ∼	m n c		Loudi
+yn	y n	y n	n c		Beijing,Changsha,Loudi,Nanchang,Guangzhou,Ha_erbin,Rongcheng,Chengdu,Nanjing
+yo	y o	y o	m n		Wenzhou,Fuzhou,Xi_an,Chengdu
+yo?	y o ʔ	y o ʔ	m n c		Fuzhou,Jixi
+yoN	y o ŋ	y o ŋ	m n c		Wenzhou,Fuzhou,Rongcheng,Chengdu
+yon	y o n	y o n	m n c		Nanchang
+yor	y o r	y o/o˞	m nr	Ø	
+yot	y o t	y o t	m n c		Nanchang
+yt	y t	y t	n c		Nanchang,Guangzhou
+y{~	y æ̃	y æ̃ ∼	m n c		Jinan,Xi_an
 z	z	z	i		Suzhou,Wenzhou,Taiyuan,Chengdu
 z\	ʑ	ʑ	i		Loudi
 z`	ʐ	ʐ	i		Beijing,Changsha,Ha_erbin,Jinan,Xi_an,Nanjing
 {	æ	æ	n		Suzhou
-{~	æ̃	æ̃ ∼	nc		Jinan,Taiyuan,Xi_an
-{~r	æ̃ r	æ̃ r	nc	Ø
+{~	æ̃	æ̃ ∼	n c		Jinan,Taiyuan,Xi_an
+{~r	æ̃ r	æ̃/æ̃˞ ∼	nr c	Ø
 ²	²	²	t		
 ²²	²²	²²	t		
 ²³	²³	²³	t		
-²³_	²³*	²³	t		
+²³_	²³*	²³/*	t		
 ²³¹	²³¹	²³¹	t		
 ²¹	²¹	²¹	t		
-²¹_	²¹*	²¹	t		
+²¹_	²¹*	²¹/*	t		
 ²¹²	²¹²	²¹²	t		
 ²¹³	²¹³	²¹³	t		
 ²¹³³	²¹³	²¹³	t	Error in source.
 ²¹¹	²¹	²¹	t	Error in source.
 ²¹⁴	²¹⁴	²¹⁴	t		
 ²⁴	²⁴	²⁴	t		
-²⁴_	²⁴*	²⁴	t		
+²⁴_	²⁴*	²⁴/*	t		
 ²⁴²	²⁴²	²⁴²	t		
 ²⁵	²⁵	²⁵	t		
 ³	³	³	t		
 ³²	³²	³²	t		
-³²_	³²*	³²	t		
+³²_	³²*	³²/*	t		
 ³³	³³	³³	t		
 ³³⁴	³³⁴	³³⁴	t		
 ³¹	³¹	³¹	t		
@@ -438,8 +438,8 @@ z`	ʐ	ʐ	i		Beijing,Changsha,Ha_erbin,Jinan,Xi_an,Nanjing
 ¹¹	¹¹	¹¹	t		
 Ø	Ø	Ø	i	Zero initial. Can actually be ignored.	Beijing,Suzhou,Wenzhou,Changsha,Loudi,Nanchang,Meixian,Guilin,Guangzhou,Fuzhou,Xiamen,Ha_erbin,Jinan,Rongcheng,Taiyuan,Xi_an,Chengdu,Nanjing,Jixi
 ø	ø	ø	n	Problem with Sampa ambiguity.	
-ɨn	ɨ n	ɨ n	nc	Ø	
-ɨt	ɨ t	ɨ t	nc		Nanchang
+ɨn	ɨ n	ɨ n	n c	Ø	
+ɨt	ɨ t	ɨ t	n c		Nanchang
 ⁰	⁰	⁰	t		
 ⁴	⁴	⁴	t		
 ⁴²	⁴²	⁴²	t		
@@ -450,9 +450,26 @@ z`	ʐ	ʐ	i		Beijing,Changsha,Ha_erbin,Jinan,Xi_an,Nanjing
 ⁵	⁵	⁵	t		
 ⁵²	⁵²	⁵²	t		
 ⁵³	⁵³	⁵³	t		
-⁵³_	⁵³	⁵³	t		
+⁵³_	⁵³*	⁵³/*	t		
 ⁵¹	⁵¹	⁵¹	t		
 ⁵⁴	⁵⁴	⁵⁴	t	Sandhi in Jinan.	
-⁵⁴_	⁵⁴*	⁵⁴	t		
+⁵⁴_	⁵⁴*	⁵⁴/*	t		
 ⁵⁵	⁵⁵	⁵⁵	t		
-⁻	⁻	⁻	t		
+⁻	⁻	⁻	/
+11-12	¹¹⁻¹²	¹¹/¹²	T		
+24-442	²⁴⁻⁴⁴²	²⁴/⁴⁴²	T		
+334-34	³³⁴⁻³⁴	³³⁴/³⁴	T		
+Ei	ɛi	ɛ i	n N		
+yun	yun	y u n	m n c		
+Oy	ɔy	ɔ y	n N		
+uar	uar	u a/a˞	m nr		
+i@r	iər	i ə/ə˞	m nr		
+i_zi	iɿ	i ɿ	m n
+@i	əi	ə i	n N		
+@ur	əur	ə/ə˞ u	nr N
+OuN	ɔuŋ	ɔ u ŋ	n N c		Fuzhou
+yi	yi	y i	m n		Ha_erbin
+maur	maur	m a/a˞ u	i nr N		
+tc\iaur213	tɕ i a u r ²¹³	tɕ i a/a˞ u ²¹³	i m n N t	
+iaur	i a u r	i a/a˞ u	m nr N
+ui_z	u ɿ	u ɿ	m n		

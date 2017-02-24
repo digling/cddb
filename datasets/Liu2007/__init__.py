@@ -175,8 +175,9 @@ def prepare(ds):
                                 vals[j],
                                 ' '.join(ipa2tokens(morph, semi_diacritics='sɕʑʃʂʐz', 
                                     expand_nasals=True, merge_vowels=False)),
-                                ' '.join(
-                                    list(strucs[j].replace(' ',''))).replace('t / t',
+                                
+                                
+                                strucs[j].replace('t / t',
                                         'T'),
                                 sampas[j], page]
                         idx += 1
@@ -214,14 +215,6 @@ def prepare(ds):
         new_char = sinopy.character_from_structure(char)
         if len(new_char) == 1:
             _t[char] = new_char
-
-    #for idx, chars in iter_rows(wl, 'characters_is'):
-    #    if '+' in chars or '-' in chars:
-    #        for c in _get_plus(chars):
-    #            charsn = chars.replace(c, _t.get(c, '<?>'))
-    #            print(chars, charsn)
-    #        wl[idx][wl.header['characters_is']] = charsn
-    #        input()
 
     notes = {}
     #for k in problems:
@@ -278,7 +271,14 @@ def prepare(ds):
         converter[k] = ' '.join(pidxs)
     wl.add_entries('cogids', converter, lambda x: x)
 
-            
+
+    # retrieve structures
+    strucs = defaultdict(int)
+    for k, s in iter_rows(wl, 'structure'):
+        for s_ in s.split(' + '):
+            strucs[s_] += 1
+    for s in sorted(strucs, key=lambda x: strucs[x]):
+        print('{0:10}'.format(s), strucs[s])
 
 
 
