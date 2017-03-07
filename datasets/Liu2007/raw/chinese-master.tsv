@@ -56,7 +56,7 @@ skin	78	皮膚	p_hei21 fu53
 skin	78	皮膚,皮	(1) p_huoi53-55 u55, (2) p_huoi53
 skin	78	皮	p_he21
 float	78	漂浮	p_hiAu55 fu35
-float	78	漂浮	p_hiau44 fu214
+float	78	漂浮	p_hiau44 fu24
 float	78	漂浮	p_hiO214 fu53
 float	78	漂浮	p_hiau52 fu35
 float	78	漂	p_hiAu21
@@ -319,7 +319,7 @@ not	35	不	p_hɨt5
 not	35	唔	m=11
 not	35	不	pu22
 not	35	不	p6t5
-not	35	伓,伓,無	(1) iN55, (2) N=, (3) mo53
+not	35	伓,伓,無	(1) iN55, (2) N=242, (3) mo53
 not	35	無	bo24
 rub	35	擦 	ts_hA55
 rub	35	擦	ts_ha44
@@ -653,7 +653,7 @@ louse	88	虱	s@t5
 louse	88	虱女+麻	set1 ma11
 louse	88	虱	s755
 louse	88	虱	s6t5
-louse	88	虱母	sEi?24-35 mo32
+louse	88	虱母	sEi?24_-35_ mo32
 louse	88	家叉-蟲	ka55-22 tsau53
 wet	89	湿	s`i`55
 wet	89	湿	s`i`44
@@ -845,7 +845,7 @@ water	93	水	suei23
 water	93	水	s2y35
 water	93	水	tsuoi32
 water	93	水	tsui53
-fruit	93	水果	s`uei213-35 kuo213
+fruit	93	水果	s`uei214-35 kuo213
 fruit	93	水果兒	s`uei213-24 kuor213
 fruit	93	水果	s`uei45-53 ku745
 fruit	93	果兒們	kOr213 m@n0
@@ -858,7 +858,7 @@ fruit	93	水果	sH`52-41 k@u52-23
 fruit	93	水果	si_z24-53 ku242-23
 fruit	93	水果	c\yei41 ko41
 fruit	93	果子	ko42 tsi_z0
-fruit	93	水果	sui213-41 kuo213
+fruit	93	水果	sui213-44 kuo213
 fruit	93	水果	sui31-33 kuo31
 fruit	93	水果	suei23 kuo23-22
 fruit	93	水果	s2y35 kyO35
@@ -1205,7 +1205,7 @@ push	102	推	t_hui42
 push	102	推	t_hui33
 push	102	推	t_hei42
 push	102	推	t_h2y53
-push	102	手+點,手+送,推	(1) t_hiaN32, (2) s2uyN32, (3) t_huoi55
+push	102	手+點,手+送,推	(1) t_hiaN32, (2) s2yN32, (3) t_huoi55
 push	102	推	tu55
 leg	103	腿	t_huei213
 leg	103	腿	t_huei213
@@ -1408,7 +1408,7 @@ knee	108	膝蓋骨,波羅蓋兒,褲膝頭兒	(1) c\i?5 kE44-42 ku?5, (2) po31-22
 knee	108	腳膝頭	tc\yo?32_ c\ie?55 t_hi44
 knee	108	腳饅頭	tc\iA?4 mø13-23 dY13-21
 knee	108	腳月+出頭	tc\ia31-3 k_hø41 d7u341-21
-knee	108	膝,膝蓋,膝頭骨,客+頁膝骨	(1) c\i24, (2) c\i24 kai55, (3) c\i24 t@u13 ku0, (4) k@24 ci24 ku0
+knee	108	膝,膝蓋,膝頭骨,客+頁膝骨	(1) c\i24, (2) c\i24 kai55, (3) c\i24 t@u13 ku0, (4) k@24 c\i24 ku0
 knee	108	膝頭骨	tc\_hi13 di713-33 ku0
 knee	108	膝蓋	tc\_hit5 kai42
 knee	108	膝頭	ts_hit1 t_heu11
@@ -1505,7 +1505,7 @@ heart	110	心	c\in21
 heart	110	心	c\ie~21
 heart	110	心	c\in45
 heart	110	心	c\in31
-heart	110	心	ciA~55
+heart	110	心	c\iA~55
 heart	110	心	sin44
 heart	110	心	saN44
 heart	110	心	c\in33
@@ -1525,7 +1525,7 @@ heart [compound]	110	心臟	c\in21 tsQ~45
 heart [compound]	110	心臟	c\ie~21 tsAN44
 heart [compound]	110	心<identical with "heart">	c\in45
 heart [compound]	110	心臟	c\in31 tsA~44
-heart [compound]	110	心臟	ciA~55-45 ts_hO31
+heart [compound]	110	心臟	c\iA~55-45 ts_hO31
 heart [compound]	110	心臟	sin44 zA~44
 heart [compound]	110	心臟	saN44 zuO22-24
 heart [compound]	110	心臟	c\in33 tsan11
@@ -1696,7 +1696,7 @@ salt	114	盐	sieN53
 salt	114	盐	iam24
 eye	115	眼睛	iEn213-21 tc\iN55
 eye	115	眼睛,眼	(1) ian213-21 tc\iN0, (2) ian213
-eye	115	眼睛	i{~45-212 tc\iN0
+eye	115	眼睛	i{~45-213 tc\iN0
 eye	115	眼睛	i6n214 tsiN52
 eye	115	眼,眼睛	(1) ie53, (2) ie53 tc\iN0
 eye	115	眼窝	ni{~53 uo0
@@ -1772,7 +1772,7 @@ one	116	蜀,一	(1) so?5, (2) Ei?24_
 one	116	一	tsit5
 because	117	因为	in55 uei0
 because	117	因为,庸乎	(1) in44 v\ei0, (2) yN44 xu0
-because	117	因为	ie~213-24 vei31
+because	117	因为	ie~214-24 vei31
 because	117	因为	in52 uei35
 because	117	因为	iN21 vei45
 because	117	因为	ie~21 uei24
@@ -1882,7 +1882,7 @@ rain	119	雨	y213
 rain	119	雨	i31
 rain	119	雨	y23
 rain	119	雨	y23
-rain	119	雨	y23
+rain	119	雨	y32
 rain	119	雨	hO22
 round	120	圆	yEn35
 round	120	圆	yan24
@@ -2271,7 +2271,7 @@ claw	129	五爪龙	gO22-21 nia~u53-55 liN24
 turn	130	转	ts`uan213
 turn	130	转	ts`uan213
 turn	130	转	ts`u{~45
-turn	130	转	ts`u6n45
+turn	130	转	ts`u6n214
 turn	130	转	tsu{~45
 turn	130	转,转	(1) pf{~53, (2) pf{~44
 turn	130	转	tsuan213
@@ -2742,7 +2742,7 @@ ear	46	耳朵	e~213-22 t8213
 ear	46	耳朵	n`231-22 t@u52-44
 ear	46	耳朵	N=24-42 to242
 ear	46	耳,耳朵	(1) @41, (2) @41 to0
-ear	46	耳朵	712 t70
+ear	46	耳朵	742 t70
 ear	46	耳朵	8213 tO0
 ear	46	耳公	Ni31 kuN33
 ear	46	耳朵	y23 tu23-33
@@ -2844,7 +2844,7 @@ rotten	49	腐爛	fu23 la~21
 rotten	49	爛,腐爛	(1) lan22, (2) fu22 lan22
 rotten	49	腐,飲腐,飲	(1) pou242, (2) aN32-55 pou242, (3) aN32
 rotten	49	爛	nua~22
-father	49	爸爸,父	pAA5153 pAA0, (2) fu51
+father	49	爸爸,父	pAA51-53 pAA0, (2) fu51
 father	49	爸,爹	(1) pa53, (2) tiE44
 father	49	父親	fu31-44 tc\_hie~0
 father	49	爹	tiE52
@@ -2997,7 +2997,7 @@ stick	53	棍	ku6n33
 stick	53	棍棍	kuN212-21 kouN212
 stick	53	捶仔	ts_he53-55 ia53
 child	53	孩	xE35
-child	53	小孩兒,小嘎兒	(1) c\iau213-21 xar24, (2) c\iau231-21 kar44
+child	53	小孩兒,小嘎兒	(1) c\iau213-21 xar24, (2) c\iau213-21 kar44
 child	53	孩子,孩兒	(1) xE53-45 tsi_z0, (2) xar53
 child	53	孩子	xai35 tsi_z0
 child	53	孩,孩子,小娃娃,娃娃	(1) xai21, (2) xai21 ts@?0, (3) c\iau53 va21 va21-45, (4) va21 va21-45
@@ -3093,7 +3093,7 @@ and	55	共	kOyN242
 and	55	和	ka?32_
 river	56	河	x735
 river	56	河	x724
-river	56	河	x735
+river	56	河	x753
 river	56	河	xuO35
 river	56	河	x721
 river	56	河	xuo24
@@ -3432,7 +3432,7 @@ freeze	64	結冰	ket1 pen33
 freeze	64	結冰	tc\ie55-21 pi42
 freeze	64	結冰	kit3 eN55
 freeze	64	結冰	kie?5-21 piN55
-freeze	64	結冰	kiat32-5 piN55
+freeze	64	結冰	kiat32_-5 piN55
 near	65	進	tc\in51
 near	65	進	tc\in53
 near	65	進	tc\ie~31
@@ -3785,7 +3785,7 @@ there	74	那兒	nar31
 there	74	乜兒	niEr334
 there	74	那兒	nar45
 there	74	那兒	nAr53
-there	74	那兒,那個地方	(1) nEr213, (2) na213 ko55 ti213 faN55
+there	74	那兒,那個地方	(1) n@r213, (2) na213 ko55 ti213 faN55
 there	74	那塊	le?5 k_huE44
 there	74	那兒	na31 n=0
 there	74	彎面	uE`44 miI231-21
