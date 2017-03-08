@@ -1987,7 +1987,7 @@ dirty	122	脏	tsQ~21
 dirty	122	脏	tsAN21
 dirty	122	脏,邋遢,蒌馊	(1) tsaN45, la21-55 t_ha21, n@u21-55 s@u55
 dirty	122	脏	tsA~31
-dirty	122	活囗	vo?32_23 lo31
+dirty	122	活囗	vo?32_-23 lo31
 dirty	122	龌龊	o?4 ts_ho?4
 dirty	122	鏖糟	@44 ts@44
 dirty	122	脏,邋遢	(1) tsan33, (2) la24 t_ha24
@@ -2140,7 +2140,7 @@ grease	126	脂肪,油	(1) tsi_z21 fAN24, (2) iou24
 grease	126	油	i@u21
 grease	126	油,脂肪	(1) i@M13, (2) ts`i`11-21 fA~13
 grease	126	油,脂肪	(1) i844, tsi_z213-44 xo~44
-grease	126	丬+士肉	tsA~412-44 n`io?23_21_
+grease	126	丬+士肉	tsA~412-44 n`io?23_-21_
 grease	126	脂肪	tsi_z44 huO44
 grease	126	脂肪	tsi_z33 fan13
 grease	126	肥肉子	Gui13-33 nio35-5 tsi_z0
@@ -3199,7 +3199,7 @@ breathe	58	音+支氣	t_hY52-41 tc\_hi412
 breathe	58	音+支氣,呼吸	(1) t_hau242-2 ts_hi_z51, (2) fu44 c\iai41
 breathe	58	呼吸,出氣	(1) fu33 tc\i24, (2) tc\_hy24-44 tc\_hi55
 breathe	58	出氣	tc\_hy13 tc\_hi35
-breathe	58	呼吸,吸氣	(1) fu42 c\it5, (2) c\it5 ttc\_hi24
+breathe	58	呼吸,吸氣	(1) fu42 c\it5, (2) c\it5 tc\_hi24
 breathe	58	透氣	t_heu53-55 Ci53
 breathe	58	喘氣	ts_hua~23-21 tc\_hi25
 breathe	58	呼吸	fu55 k_h6p5

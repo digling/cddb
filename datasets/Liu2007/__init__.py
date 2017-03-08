@@ -71,6 +71,18 @@ def _parse_chars(chars):
             bracket = c
     return list(zip(out, notes, marks))
 
+def _parse_word(word):
+
+    if isinstance(word, (list, tuple)):
+        word = ' '.join(word)
+    
+    word = word.replace(' / ', '/')
+    tokens = word.split(' ')
+    for t in tokens:
+        if '/' in t:
+            toks = t.split('/')
+            yield toks[1]+'/'+toks[0]
+        yield t
 
 def _get_data(dataset):
     transform = get_transformer('Liu2007.prf')
@@ -271,7 +283,6 @@ def prepare(ds):
         converter[k] = ' '.join(pidxs)
     wl.add_entries('cogids', converter, lambda x: x)
 
-
     # retrieve structures
     strucs = defaultdict(int)
     for k, s in iter_rows(wl, 'structure'):
@@ -279,8 +290,20 @@ def prepare(ds):
             strucs[s_] += 1
     for s in sorted(strucs, key=lambda x: strucs[x]):
         print('{0:10}'.format(s), strucs[s])
+    
+    sandhis = defaultdict(int)
+    for idx, s in iter_rows(wl, 'segments'):
+        sg = s.split(' ')
+        if '/' in sg and len(sg) > 1:
+            for i, x in enumerate(sg):
+                if x == '/':
+                    sandhis[sg[i-1]+'-'+sg[i+1]] += 1
 
-
+    for s, n in sorted(sandhis.items(), key=lambda x: x[1]):
+        s1 = s
+        s2 = s.replace('-', '⁻')
+        s3 = s.split('-')[1]+'/'+s.split('-')[0]
+        print(s2+'\t'+s2+'\t'+s3+'\tt')
 
     ds.write_wordlist(wl)
     print(errors, count)
