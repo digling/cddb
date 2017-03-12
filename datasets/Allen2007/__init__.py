@@ -4,12 +4,6 @@ from lingpy.compare.partial import _get_slices
 
 def prepare(ds):
     errs = 0
-    inv = csv2list(ds.raw('Allen2007.prf'), strip_lines=False)
-    h = inv[0]
-    I = {}
-    for line in inv[1:]:
-        tmp = dict(zip(h, line))
-        I[tmp['CLPA']] = {k.lower(): v for k, v in tmp.items() if v.strip()}
     wl = Wordlist(ds.raw('bds.tsv'))
     W = {}
     for k in wl:
@@ -23,8 +17,8 @@ def prepare(ds):
                 morphemes += [ipa]
             ipa = ' '.join(morphemes)
             
-            clpa = ds.transform(ipa, 'clpa')
-            struc = ds.transform(ipa, 'structure')
+            clpa = ds.transform(ipa, 'CLPA')
+            struc = ds.transform(ipa, 'Structure')
             try:
                 assert len(clpa.split(' ')) == len(struc.split(' '))
             except:
@@ -36,6 +30,23 @@ def prepare(ds):
             W[k] = [doc, wl[k, 'concept'], wl[k, 'concepticon_id'], value,
                     clpa, struc, wl[k, 'partial_ids']]
     W[0] = ['doculect', 'concept', 'concepticon_id', 'value', 'segments', 'structure', 'cogids']
-    ds.write_wordlist(Wordlist(W), 'words')
+    ds.write_wordlist(Wordlist(W))
+
+def inventories(ds):
+    data = csv2list(ds.raw('inv.tsv'))
+    header = data[0]
+    invs = {l: [] for l in ds.languages}
+    for i, line in enumerate(data[1:]):
+        stype, sis, ipa, struc = line[1:5]
+        if len(struc.split()) != len(ipa.split()):
+            print(i+2, 'warn', struc, '  |  ', ipa)
+        for l, n in zip(header[5:], line[5:]):
+            if n:
+                note = '' if 'X' else n
+                invs[l] += [[sis, ipa, struc, stype, note]]
+    ds.write_inventories(invs)
+
+
+        
 
 

@@ -4,45 +4,34 @@ from lingpy import *
 from glob import glob
 import re
 from collections import defaultdict
+from segments.tokenizer import Tokenizer
 from pyconcepticon.api import Concepticon
 from pyclpa.base import get_clpa
 from pycddb.util import get_transformer
 from sinopy import sinopy
+import unicodedata
 
-def _prepare_inventories(dataset):
+def inventories(dataset):
     clpa = get_clpa()
-    files = glob(dataset.get_path('raw', 'inv-*.tsv'))
+    files = glob(dataset.get_path('raw', 'inventories.tsv'))
     dialects = []
 
     t = Tokenizer(dataset.get_path('raw', 'profile.prf'))
     sounds = defaultdict(lambda : defaultdict(set))
     transform = lambda x, y: unicodedata.normalize('NFC', t.transform(x, y))
-
+    invs = {l: [] for l in dataset.languages}
     for f in files:
         data = csv2list(f)
-        number, dialect = re.findall('inv-([0-9]+)-([a-z_A-Z]+)', 
-                f)[0]
         for i, line in enumerate(data):
-            print(dialect, number, i+1, ', '.join(line))
-            page, sound, value, *rest = line
+            number, dialect, page, sound, value, *rest = line
             if not rest: rest = ['']
-            cddb = transform(value, 'CDDB').split(' ')
-            src = transform(value, 'SOURCE').split(' ')
-            if len(src) != len(cddb):
-                src = src + ['-', '-', '-']
-            struct = t.transform(value, 'structure')
-            for s1, s2, s3 in zip(cddb, struct, src):
-                sounds[s1][s2].add((dialect, s3, rest[0]))
-    table, idx = [('ID', 'SOUND', 'CLPA', 'POSITION', 'DOCULECT', 'SOUND_IN_SOURCE' )], 1
-    for k, v in sorted(sounds.items(), key=lambda x: str(x[1])):
-        c = clpa.segment2clpa(k)
-        for s in sorted(v):
-            for d, sr, r in sorted(v[s]):
-                table += [(str(idx), k, c, s, d, sr)]
-                idx += 1
-    with open(dataset.get_path('inventories.tsv'), 'w') as f:
-        for line in table:
-            f.write('\t'.join(line)+'\n')
+            cddb = transform(value, 'CDDB')
+            src = transform(value, 'SOURCE')
+            struct = ' '.join(list(t.transform(value, 'STRUCTURE')))
+            invs[dialect] += [[src.replace(' ', ''), cddb, struct, ', '.join(rest)]]
+            if len(struct.split()) != len(cddb.split()):
+                print(i+1, 'warn', struct, '   |   ', cddb)
+    dataset.write_inventories(invs)
 
 def _parse_chars(chars):
     plus = ''

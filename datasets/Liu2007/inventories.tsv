@@ -1,1141 +1,1430 @@
-ID	SOUND	CLPA	POSITION	DOCULECT	SOUND_IN_SOURCE
-1	ŋ	c795	c	Beijing	ŋ
-2	ŋ	c795	c	Changsha	ŋ
-3	ŋ	c795	c	Changsha	ŋ
-4	ŋ	c795	c	Chengdu	ŋ
-5	ŋ	c795	c	Fuzhou	i
-6	ŋ	c795	c	Fuzhou	u
-7	ŋ	c795	c	Fuzhou	y
-8	ŋ	c795	c	Fuzhou	ŋ
-9	ŋ	c795	c	Fuzhou	ŋ
-10	ŋ	c795	c	Fuzhou	ŋ
-11	ŋ	c795	c	Fuzhou	ŋ
-12	ŋ	c795	c	Fuzhou	ŋ
-13	ŋ	c795	c	Fuzhou	ŋ
-14	ŋ	c795	c	Fuzhou	ŋ
-15	ŋ	c795	c	Fuzhou	ŋ
-16	ŋ	c795	c	Fuzhou	ŋ
-17	ŋ	c795	c	Guangzhou	ŋ
-18	ŋ	c795	c	Guangzhou	ŋ
-19	ŋ	c795	c	Guilin	ŋ
-20	ŋ	c795	c	Ha_erbin	ŋ
-21	ŋ	c795	c	Jinan	ŋ
-22	ŋ	c795	c	Loudi	ŋ
-23	ŋ	c795	c	Meixian	ŋ
-24	ŋ	c795	c	Meixian	ŋ
-25	ŋ	c795	c	Meixian	ŋ
-26	ŋ	c795	c	Meixian	ŋ
-27	ŋ	c795	c	Nanchang	ŋ
-28	ŋ	c795	c	Nanjing	ŋ
-29	ŋ	c795	c	Rongcheng	ŋ
-30	ŋ	c795	c	Suzhou	ŋ
-31	ŋ	c795	c	Taiyuan	ŋ
-32	ŋ	c795	c	Wenzhou	ŋ
-33	ŋ	c795	c	Xi_an	ŋ
-34	ŋ	c795	c	Xiamen	ŋ
-35	ŋ	c795	i	Changsha	ŋ
-36	ŋ	c795	i	Chengdu	ŋ
-37	ŋ	c795	i	Fuzhou	ŋ
-38	ŋ	c795	i	Guangzhou	ŋ
-39	ŋ	c795	i	Guilin	ŋ
-40	ŋ	c795	i	Jinan	ŋ
-41	ŋ	c795	i	Jixi	ŋ
-42	ŋ	c795	i	Loudi	ŋ
-43	ŋ	c795	i	Meixian	ŋ
-44	ŋ	c795	i	Nanchang	ŋ
-45	ŋ	c795	i	Suzhou	ŋ
-46	ŋ	c795	i	Wenzhou	ŋ
-47	ŋ	c795	i	Xi_an	ŋ
-48	ŋ	c795	i	Xiamen	ŋ
-49	ʔ	c405	c	Fuzhou	i
-50	ʔ	c405	c	Fuzhou	u
-51	ʔ	c405	c	Fuzhou	y
-52	ʔ	c405	c	Fuzhou	ʔ
-53	ʔ	c405	c	Fuzhou	ʔ
-54	ʔ	c405	c	Fuzhou	ʔ
-55	ʔ	c405	c	Fuzhou	ʔ
-56	ʔ	c405	c	Fuzhou	ʔ
-57	ʔ	c405	c	Fuzhou	ʔ
-58	ʔ	c405	c	Fuzhou	ʔ
-59	ʔ	c405	c	Fuzhou	ʔ
-60	ʔ	c405	c	Fuzhou	ʔ
-61	ʔ	c405	c	Fuzhou	ʔ
-62	ʔ	c405	c	Fuzhou	ʔ
-63	ʔ	c405	c	Jixi	ʔ
-64	ʔ	c405	c	Nanchang	ʔ
-65	ʔ	c405	c	Nanchang	ʔ
-66	ʔ	c405	c	Nanjing	ʔ
-67	ʔ	c405	c	Nanjing	ʔ
-68	ʔ	c405	c	Suzhou	ʔ
-69	ʔ	c405	c	Taiyuan	ʔ
-70	ʔ	c405	c	Taiyuan	ʔ
-71	ʔ	c405	c	Taiyuan	ʔ
-72	ʔ	c405	c	Xiamen	-
-73	ʔ	c405	c	Xiamen	i
-74	ʔ	c405	c	Xiamen	u
-75	ʔ	c405	c	Xiamen	ʔ
-76	∼	m002	c	Beijing	-
-77	∼	m002	c	Changsha	-
-78	∼	m002	c	Fuzhou	-
-79	∼	m002	c	Guangzhou	-
-80	∼	m002	c	Guilin	-
-81	∼	m002	c	Guilin	-
-82	∼	m002	c	Guilin	-
-83	∼	m002	c	Jinan	-
-84	∼	m002	c	Jixi	-
-85	∼	m002	c	Loudi	-
-86	∼	m002	c	Meixian	-
-87	∼	m002	c	Nanchang	-
-88	∼	m002	c	Nanchang	-
-89	∼	m002	c	Nanjing	-
-90	∼	m002	c	Suzhou	-
-91	∼	m002	c	Taiyuan	-
-92	∼	m002	c	Taiyuan	-
-93	∼	m002	c	Taiyuan	-
-94	∼	m002	c	Wenzhou	-
-95	∼	m002	c	Xi_an	-
-96	∼	m002	c	Xiamen	-
-97	∼	m002	c	Xiamen	i
-98	∼	m002	c	Xiamen	u
-99	m	c239	c	Guangzhou	m
-100	m	c239	c	Guangzhou	m
-101	m	c239	c	Meixian	m
-102	m	c239	c	Xiamen	m
-103	m	c239	i	Beijing	m
-104	m	c239	i	Changsha	m
-105	m	c239	i	Changsha	m̩
-106	m	c239	i	Chengdu	m
-107	m	c239	i	Fuzhou	m
-108	m	c239	i	Fuzhou	m̩
-109	m	c239	i	Guangzhou	m
-110	m	c239	i	Guangzhou	m̩
-111	m	c239	i	Guilin	m
-112	m	c239	i	Ha_erbin	m
-113	m	c239	i	Jinan	m
-114	m	c239	i	Jixi	m
-115	m	c239	i	Jixi	m̩
-116	m	c239	i	Loudi	m
-117	m	c239	i	Loudi	m̩
-118	m	c239	i	Meixian	m
-119	m	c239	i	Meixian	m̩
-120	m	c239	i	Nanchang	m
-121	m	c239	i	Nanchang	m̩
-122	m	c239	i	Nanjing	m
-123	m	c239	i	Nanjing	m̩
-124	m	c239	i	Rongcheng	m
-125	m	c239	i	Suzhou	m
-126	m	c239	i	Suzhou	m̩
-127	m	c239	i	Taiyuan	m
-128	m	c239	i	Wenzhou	m
-129	m	c239	i	Wenzhou	m̩
-130	m	c239	i	Xi_an	m
-131	m	c239	i	Xiamen	m
-132	m	c239	i	Xiamen	m̩
-133	p	c288	c	Guangzhou	p
-134	p	c288	c	Guangzhou	p
-135	p	c288	c	Meixian	p
-136	p	c288	c	Xiamen	p
-137	p	c288	i	Beijing	p
-138	p	c288	i	Changsha	p
-139	p	c288	i	Chengdu	p
-140	p	c288	i	Fuzhou	p
-141	p	c288	i	Guangzhou	p
-142	p	c288	i	Guilin	p
-143	p	c288	i	Ha_erbin	p
-144	p	c288	i	Jinan	p
-145	p	c288	i	Jixi	p
-146	p	c288	i	Loudi	p
-147	p	c288	i	Meixian	p
-148	p	c288	i	Nanchang	p
-149	p	c288	i	Nanjing	p
-150	p	c288	i	Rongcheng	p
-151	p	c288	i	Suzhou	p
-152	p	c288	i	Taiyuan	p
-153	p	c288	i	Wenzhou	p
-154	p	c288	i	Xi_an	p
-155	p	c288	i	Xiamen	p
-156	k	c831	c	Guangzhou	k
-157	k	c831	c	Guangzhou	k
-158	k	c831	c	Meixian	k
-159	k	c831	c	Meixian	k
-160	k	c831	c	Meixian	k
-161	k	c831	c	Meixian	k
-162	k	c831	c	Xiamen	k
-163	k	c831	i	Beijing	k
-164	k	c831	i	Changsha	k
-165	k	c831	i	Chengdu	k
-166	k	c831	i	Fuzhou	k
-167	k	c831	i	Guangzhou	k
-168	k	c831	i	Guilin	k
-169	k	c831	i	Ha_erbin	k
-170	k	c831	i	Jinan	k
-171	k	c831	i	Jixi	k
-172	k	c831	i	Loudi	k
-173	k	c831	i	Meixian	k
-174	k	c831	i	Nanchang	k
-175	k	c831	i	Nanjing	k
-176	k	c831	i	Rongcheng	k
-177	k	c831	i	Suzhou	k
-178	k	c831	i	Taiyuan	k
-179	k	c831	i	Wenzhou	k
-180	k	c831	i	Xi_an	k
-181	k	c831	i	Xiamen	k
-182	t	c118	c	Guangzhou	t
-183	t	c118	c	Guangzhou	t
-184	t	c118	c	Meixian	t
-185	t	c118	c	Meixian	t
-186	t	c118	c	Nanchang	t
-187	t	c118	c	Nanchang	t
-188	t	c118	c	Xiamen	t
-189	t	c118	i	Beijing	t
-190	t	c118	i	Changsha	t
-191	t	c118	i	Chengdu	t
-192	t	c118	i	Fuzhou	t
-193	t	c118	i	Guangzhou	t
-194	t	c118	i	Guilin	t
-195	t	c118	i	Ha_erbin	t
-196	t	c118	i	Jinan	t
-197	t	c118	i	Jixi	t
-198	t	c118	i	Loudi	t
-199	t	c118	i	Meixian	t
-200	t	c118	i	Nanchang	t
-201	t	c118	i	Nanjing	t
-202	t	c118	i	Rongcheng	t
-203	t	c118	i	Suzhou	t
-204	t	c118	i	Taiyuan	t
-205	t	c118	i	Wenzhou	t
-206	t	c118	i	Xi_an	t
-207	t	c118	i	Xiamen	t
-208	r	c151	c	Beijing	r
-209	r	c151	c	Chengdu	r
-210	r	c151	c	Ha_erbin	r
-211	r	c151	c	Jinan	r
-212	r	c151	c	Nanjing	r
-213	r	c151	c	Rongcheng	r
-214	r	c151	c	Taiyuan	r
-215	r	c151	c	Xi_an	r
-216	n	c105	c	Beijing	n
-217	n	c105	c	Changsha	n
-218	n	c105	c	Chengdu	n
-219	n	c105	c	Guangzhou	n
-220	n	c105	c	Guangzhou	n
-221	n	c105	c	Guilin	n
-222	n	c105	c	Ha_erbin	n
-223	n	c105	c	Loudi	n
-224	n	c105	c	Meixian	n
-225	n	c105	c	Meixian	n
-226	n	c105	c	Nanchang	n
-227	n	c105	c	Nanjing	n
-228	n	c105	c	Rongcheng	n
-229	n	c105	c	Suzhou	n
-230	n	c105	c	Xi_an	n
-231	n	c105	c	Xiamen	n
-232	n	c105	i	Beijing	n
-233	n	c105	i	Changsha	n̩
-234	n	c105	i	Chengdu	n
-235	n	c105	i	Fuzhou	n
-236	n	c105	i	Guangzhou	n
-237	n	c105	i	Ha_erbin	n
-238	n	c105	i	Jinan	n
-239	n	c105	i	Jixi	n
-240	n	c105	i	Jixi	n̩
-241	n	c105	i	Loudi	n
-242	n	c105	i	Loudi	n̩
-243	n	c105	i	Meixian	n
-244	n	c105	i	Meixian	n̩
-245	n	c105	i	Nanchang	n̩
-246	n	c105	i	Nanjing	n̩
-247	n	c105	i	Rongcheng	n
-248	n	c105	i	Suzhou	n
-249	n	c105	i	Suzhou	n̩
-250	n	c105	i	Taiyuan	n
-251	n	c105	i	Wenzhou	n
-252	n	c105	i	Wenzhou	n̩
-253	n	c105	i	Xi_an	n
-254	n	c105	i	Xiamen	n
-255	n	c105	i	Xiamen	n̩
-256	l	c548	c	Suzhou	l
-257	l	c548	i	Beijing	l
-258	l	c548	i	Changsha	l
-259	l	c548	i	Chengdu	l
-260	l	c548	i	Fuzhou	l
-261	l	c548	i	Guangzhou	l
-262	l	c548	i	Guilin	l
-263	l	c548	i	Ha_erbin	l
-264	l	c548	i	Jinan	l
-265	l	c548	i	Loudi	l
-266	l	c548	i	Meixian	l
-267	l	c548	i	Nanchang	l
-268	l	c548	i	Nanjing	l
-269	l	c548	i	Rongcheng	l
-270	l	c548	i	Suzhou	l
-271	l	c548	i	Taiyuan	l
-272	l	c548	i	Wenzhou	l
-273	l	c548	i	Xi_an	l
-274	l	c548	i	Xiamen	l
-275	kʰ	c813	i	Beijing	kʰ
-276	kʰ	c813	i	Changsha	kʰ
-277	kʰ	c813	i	Chengdu	kʰ
-278	kʰ	c813	i	Fuzhou	kʰ
-279	kʰ	c813	i	Guangzhou	kʰ
-280	kʰ	c813	i	Guilin	kʰ
-281	kʰ	c813	i	Ha_erbin	kʰ
-282	kʰ	c813	i	Jinan	kʰ
-283	kʰ	c813	i	Jixi	kʰ
-284	kʰ	c813	i	Loudi	kʰ
-285	kʰ	c813	i	Meixian	kʰ
-286	kʰ	c813	i	Nanchang	kʰ
-287	kʰ	c813	i	Nanjing	kʰ
-288	kʰ	c813	i	Rongcheng	kʰ
-289	kʰ	c813	i	Suzhou	kʰ
-290	kʰ	c813	i	Taiyuan	kʰ
-291	kʰ	c813	i	Wenzhou	kʰ
-292	kʰ	c813	i	Xi_an	kʰ
-293	kʰ	c813	i	Xiamen	kʰ
-294	ɲ	c589	i	Changsha	ȵ
-295	ɲ	c589	i	Chengdu	ȵ
-296	ɲ	c589	i	Jinan	ȵ
-297	ɲ	c589	i	Jixi	ȵ
-298	ɲ	c589	i	Nanchang	ȵ
-299	ɲ	c589	i	Suzhou	ȵ
-300	ɲ	c589	i	Taiyuan	ȵ
-301	ɲ	c589	i	Wenzhou	ȵ
-302	ɲ	c589	i	Xi_an	ȵ
-303	ʐ	c700	i	Beijing	ʐ
-304	ʐ	c700	i	Changsha	ʐ
-305	ʐ	c700	i	Ha_erbin	ʐ
-306	ʐ	c700	i	Jinan	ʐ
-307	ʐ	c700	i	Nanjing	ʐ
-308	ʐ	c700	i	Xi_an	ʐ
-309	pʰ	c261	i	Beijing	pʰ
-310	pʰ	c261	i	Changsha	pʰ
-311	pʰ	c261	i	Chengdu	pʰ
-312	pʰ	c261	i	Fuzhou	pʰ
-313	pʰ	c261	i	Guangzhou	pʰ
-314	pʰ	c261	i	Guilin	pʰ
-315	pʰ	c261	i	Ha_erbin	pʰ
-316	pʰ	c261	i	Jinan	pʰ
-317	pʰ	c261	i	Jixi	pʰ
-318	pʰ	c261	i	Loudi	pʰ
-319	pʰ	c261	i	Meixian	pʰ
-320	pʰ	c261	i	Nanchang	pʰ
-321	pʰ	c261	i	Nanjing	pʰ
-322	pʰ	c261	i	Rongcheng	pʰ
-323	pʰ	c261	i	Suzhou	pʰ
-324	pʰ	c261	i	Taiyuan	pʰ
-325	pʰ	c261	i	Wenzhou	pʰ
-326	pʰ	c261	i	Xi_an	pʰ
-327	pʰ	c261	i	Xiamen	pʰ
-328	ʒ	c679	i	Fuzhou	ʒ
-329	β	c225	i	Fuzhou	β
-330	ts	c015	i	Beijing	ts
-331	ts	c015	i	Changsha	ts
-332	ts	c015	i	Chengdu	ts
-333	ts	c015	i	Fuzhou	ts
-334	ts	c015	i	Guangzhou	ts
-335	ts	c015	i	Guilin	ts
-336	ts	c015	i	Ha_erbin	ts
-337	ts	c015	i	Jinan	ts
-338	ts	c015	i	Jixi	ts
-339	ts	c015	i	Loudi	ts
-340	ts	c015	i	Meixian	ts
-341	ts	c015	i	Nanchang	ts
-342	ts	c015	i	Nanjing	ts
-343	ts	c015	i	Rongcheng	ts
-344	ts	c015	i	Suzhou	ts
-345	ts	c015	i	Taiyuan	ts
-346	ts	c015	i	Wenzhou	ts
-347	ts	c015	i	Xi_an	ts
-348	ts	c015	i	Xiamen	ts
-349	x	c772	i	Beijing	x
-350	x	c772	i	Changsha	x
-351	x	c772	i	Chengdu	x
-352	x	c772	i	Guilin	x
-353	x	c772	i	Ha_erbin	x
-354	x	c772	i	Jinan	x
-355	x	c772	i	Jixi	x
-356	x	c772	i	Loudi	x
-357	x	c772	i	Nanjing	x
-358	x	c772	i	Rongcheng	x
-359	x	c772	i	Taiyuan	x
-360	x	c772	i	Xi_an	x
-361	tɕ	c198	i	Beijing	tɕ
-362	tɕ	c198	i	Changsha	tɕ
-363	tɕ	c198	i	Chengdu	tɕ
-364	tɕ	c198	i	Guilin	tɕ
-365	tɕ	c198	i	Ha_erbin	tɕ
-366	tɕ	c198	i	Jinan	tɕ
-367	tɕ	c198	i	Jixi	tɕ
-368	tɕ	c198	i	Loudi	tɕ
-369	tɕ	c198	i	Nanchang	tɕ
-370	tɕ	c198	i	Nanjing	tɕ
-371	tɕ	c198	i	Suzhou	tɕ
-372	tɕ	c198	i	Taiyuan	tɕ
-373	tɕ	c198	i	Wenzhou	tɕ
-374	tɕ	c198	i	Xi_an	tɕ
-375	tɕʰ	c197	i	Beijing	tɕʰ
-376	tɕʰ	c197	i	Changsha	tɕʰ
-377	tɕʰ	c197	i	Chengdu	tɕʰ
-378	tɕʰ	c197	i	Guilin	tɕʰ
-379	tɕʰ	c197	i	Ha_erbin	tɕʰ
-380	tɕʰ	c197	i	Jinan	tɕʰ
-381	tɕʰ	c197	i	Jixi	tɕʰ
-382	tɕʰ	c197	i	Loudi	tɕʰ
-383	tɕʰ	c197	i	Nanchang	tɕʰ
-384	tɕʰ	c197	i	Nanjing	tɕʰ
-385	tɕʰ	c197	i	Suzhou	tɕʰ
-386	tɕʰ	c197	i	Taiyuan	tɕʰ
-387	tɕʰ	c197	i	Wenzhou	tɕʰ
-388	tɕʰ	c197	i	Xi_an	tɕʰ
-389	dʑ	c195	i	Loudi	dʑ
-390	dʑ	c195	i	Wenzhou	dʑ
-391	dʑʰ	?	i	Loudi	dʑʰ
-392	dʑʰ	?	i	Suzhou	dʑʰ
-393	dʑʰ	?	i	Wenzhou	dʑʰ
-394	s	c087	i	Beijing	s
-395	s	c087	i	Changsha	s
-396	s	c087	i	Chengdu	s
-397	s	c087	i	Fuzhou	s
-398	s	c087	i	Guangzhou	s
-399	s	c087	i	Guilin	s
-400	s	c087	i	Ha_erbin	s
-401	s	c087	i	Jinan	s
-402	s	c087	i	Jixi	s
-403	s	c087	i	Loudi	s
-404	s	c087	i	Meixian	s
-405	s	c087	i	Nanchang	s
-406	s	c087	i	Nanjing	s
-407	s	c087	i	Rongcheng	s
-408	s	c087	i	Suzhou	s
-409	s	c087	i	Taiyuan	s
-410	s	c087	i	Wenzhou	s
-411	s	c087	i	Xi_an	s
-412	s	c087	i	Xiamen	s
-413	ʑ	c201	i	Loudi	ʑ
-414	f	c447	i	Beijing	f
-415	f	c447	i	Changsha	f
-416	f	c447	i	Chengdu	f
-417	f	c447	i	Guangzhou	f
-418	f	c447	i	Guilin	f
-419	f	c447	i	Ha_erbin	f
-420	f	c447	i	Jinan	f
-421	f	c447	i	Jixi	f
-422	f	c447	i	Meixian	f
-423	f	c447	i	Nanchang	f
-424	f	c447	i	Nanjing	f
-425	f	c447	i	Rongcheng	f
-426	f	c447	i	Suzhou	f
-427	f	c447	i	Taiyuan	f
-428	f	c447	i	Wenzhou	f
-429	f	c447	i	Xi_an	f
-430	Ø	?	i	Beijing	Ø
-431	Ø	?	i	Changsha	Ø
-432	Ø	?	i	Chengdu	Ø
-433	Ø	?	i	Fuzhou	Ø
-434	Ø	?	i	Guangzhou	Ø
-435	Ø	?	i	Guilin	Ø
-436	Ø	?	i	Ha_erbin	Ø
-437	Ø	?	i	Jinan	Ø
-438	Ø	?	i	Jixi	Ø
-439	Ø	?	i	Loudi	Ø
-440	Ø	?	i	Meixian	Ø
-441	Ø	?	i	Nanchang	Ø
-442	Ø	?	i	Nanjing	Ø
-443	Ø	?	i	Rongcheng	Ø
-444	Ø	?	i	Suzhou	Ø
-445	Ø	?	i	Taiyuan	Ø
-446	Ø	?	i	Wenzhou	Ø
-447	Ø	?	i	Xi_an	Ø
-448	Ø	?	i	Xiamen	Ø
-449	ʂ	c699	i	Beijing	ʂ
-450	ʂ	c699	i	Ha_erbin	ʂ
-451	ʂ	c699	i	Jinan	ʂ
-452	ʂ	c699	i	Nanjing	ʂ
-453	ʂ	c699	i	Rongcheng	ʂ
-454	ʂ	c699	i	Taiyuan	ʂ
-455	ʂ	c699	i	Xi_an	ʂ
-456	c	c600	i	Rongcheng	c
-457	cʰ	c598	i	Rongcheng	cʰ
-458	tʂ	c175	i	Beijing	tʂ
-459	tʂ	c175	i	Ha_erbin	tʂ
-460	tʂ	c175	i	Jinan	tʂ
-461	tʂ	c175	i	Nanjing	tʂ
-462	tʂ	c175	i	Rongcheng	tʂ
-463	tʂ	c175	i	Xi_an	tʂ
-464	tʃ	c645	i	Rongcheng	tʃ
-465	tʃʰ	c655	i	Rongcheng	tʃʰ
-466	ç	c577	i	Rongcheng	ç
-467	ʃ	c677	i	Rongcheng	ʃ
-468	b	c254	i	Loudi	b
-469	b	c254	i	Suzhou	b
-470	b	c254	i	Wenzhou	b
-471	b	c254	i	Xiamen	b
-472	d	c143	i	Loudi	d
-473	d	c143	i	Suzhou	d
-474	d	c143	i	Wenzhou	d
-475	v	c446	i	Jinan	v
-476	v	c446	i	Jixi	v
-477	v	c446	i	Meixian	v
-478	v	c446	i	Suzhou	v
-479	v	c446	i	Taiyuan	v
-480	v	c446	i	Wenzhou	v
-481	v	c446	i	Xi_an	v
-482	z	c078	i	Chengdu	z
-483	z	c078	i	Suzhou	z
-484	z	c078	i	Taiyuan	z
-485	z	c078	i	Wenzhou	z
-486	ɣ	c774	i	Taiyuan	ɣ
-487	j	c564	i	Wenzhou	j
-488	ɕ	c202	i	Beijing	ɕ
-489	ɕ	c202	i	Changsha	ɕ
-490	ɕ	c202	i	Chengdu	ɕ
-491	ɕ	c202	i	Guilin	ɕ
-492	ɕ	c202	i	Ha_erbin	ɕ
-493	ɕ	c202	i	Jinan	ɕ
-494	ɕ	c202	i	Jixi	ɕ
-495	ɕ	c202	i	Loudi	ɕ
-496	ɕ	c202	i	Nanchang	ɕ
-497	ɕ	c202	i	Nanjing	ɕ
-498	ɕ	c202	i	Suzhou	ɕ
-499	ɕ	c202	i	Taiyuan	ɕ
-500	ɕ	c202	i	Wenzhou	ɕ
-501	ɕ	c202	i	Xi_an	ɕ
-502	ɦ	c397	i	Suzhou	ɦ
-503	ɦ	c397	i	Wenzhou	ɦ
-504	pf	c420	i	Xi_an	pf
-505	pfʰ	c421	i	Xi_an	pfʰ
-506	tsʰ	c013	i	Beijing	tsʰ
-507	tsʰ	c013	i	Changsha	tsʰ
-508	tsʰ	c013	i	Chengdu	tsʰ
-509	tsʰ	c013	i	Fuzhou	tsʰ
-510	tsʰ	c013	i	Guangzhou	tsʰ
-511	tsʰ	c013	i	Guilin	tsʰ
-512	tsʰ	c013	i	Ha_erbin	tsʰ
-513	tsʰ	c013	i	Jinan	tsʰ
-514	tsʰ	c013	i	Jixi	tsʰ
-515	tsʰ	c013	i	Loudi	tsʰ
-516	tsʰ	c013	i	Meixian	tsʰ
-517	tsʰ	c013	i	Nanchang	tsʰ
-518	tsʰ	c013	i	Nanjing	tsʰ
-519	tsʰ	c013	i	Rongcheng	tsʰ
-520	tsʰ	c013	i	Suzhou	tsʰ
-521	tsʰ	c013	i	Taiyuan	tsʰ
-522	tsʰ	c013	i	Wenzhou	tsʰ
-523	tsʰ	c013	i	Xi_an	tsʰ
-524	tsʰ	c013	i	Xiamen	tsʰ
-525	tʂʰ	c176	i	Beijing	tʂʰ
-526	tʂʰ	c176	i	Ha_erbin	tʂʰ
-527	tʂʰ	c176	i	Nanjing	tʂʰ
-528	tʂʰ	c176	i	Rongcheng	tʂʰ
-529	tʂʰ	c176	i	Xi_an	tʂʰ
-530	tʰ	c136	i	Beijing	tʰ
-531	tʰ	c136	i	Changsha	tʰ
-532	tʰ	c136	i	Chengdu	tʰ
-533	tʰ	c136	i	Fuzhou	tʰ
-534	tʰ	c136	i	Guangzhou	tʰ
-535	tʰ	c136	i	Guilin	tʰ
-536	tʰ	c136	i	Ha_erbin	tʰ
-537	tʰ	c136	i	Jinan	tʰ
-538	tʰ	c136	i	Jixi	tʰ
-539	tʰ	c136	i	Loudi	tʰ
-540	tʰ	c136	i	Meixian	tʰ
-541	tʰ	c136	i	Nanchang	tʰ
-542	tʰ	c136	i	Nanjing	tʰ
-543	tʰ	c136	i	Rongcheng	tʰ
-544	tʰ	c136	i	Suzhou	tʰ
-545	tʰ	c136	i	Taiyuan	tʰ
-546	tʰ	c136	i	Wenzhou	tʰ
-547	tʰ	c136	i	Xi_an	tʰ
-548	tʰ	c136	i	Xiamen	tʰ
-549	g	c824	i	Suzhou	g
-550	g	c824	i	Wenzhou	g
-551	g	c824	i	Xiamen	g
-552	h	c401	i	Fuzhou	h
-553	h	c401	i	Guangzhou	h
-554	h	c401	i	Meixian	h
-555	h	c401	i	Nanchang	h
-556	h	c401	i	Suzhou	h
-557	h	c401	i	Wenzhou	h
-558	h	c401	i	Xiamen	h
-559	ɛ	v229	n	Beijing	ɛ
-560	ɛ	v229	n	Chengdu	ɛ
-561	ɛ	v229	n	Fuzhou	ɛ
-562	ɛ	v229	n	Fuzhou	ɛ
-563	ɛ	v229	n	Fuzhou	ɛ
-564	ɛ	v229	n	Guangzhou	ɛ
-565	ɛ	v229	n	Guangzhou	ɛ
-566	ɛ	v229	n	Ha_erbin	ɛ
-567	ɛ	v229	n	Jinan	ɛ
-568	ɛ	v229	n	Nanchang	ɛ
-569	ɛ	v229	n	Nanjing	ɛ
-570	ɛ	v229	n	Rongcheng	ɛ
-571	ɛ	v229	n	Rongcheng	ɛ
-572	ɛ	v229	n	Rongcheng	ɛ
-573	ɛ	v229	n	Rongcheng	ɛ
-574	ɛ	v229	n	Suzhou	ɛ
-575	ɛ	v229	n	Wenzhou	ɛ
-576	ɛ	v229	n	Xi_an	ɛ
-577	ɤ	v084	n	Beijing	ɤ
-578	ɤ	v084	n	Guilin	ɤ
-579	ɤ	v084	n	Ha_erbin	ɤ
-580	ɤ	v084	n	Jinan	ɤ
-581	ɤ	v084	n	Jixi	ɤ
-582	ɤ	v084	n	Loudi	ɤ
-583	ɤ	v084	n	Loudi	ɤ
-584	ɤ	v084	n	Taiyuan	ɤ
-585	ɤ	v084	n	Wenzhou	ɤ
-586	ɤ	v084	n	Xi_an	ɤ
-587	ᴀ	?	n	Beijing	ᴀ
-588	ᴀ	?	n	Guilin	ᴀ
-589	i	v191	c	Beijing	i
-590	i	v191	c	Changsha	i
-591	i	v191	c	Chengdu	i
-592	i	v191	c	Fuzhou	i
-593	i	v191	c	Fuzhou	i
-594	i	v191	c	Fuzhou	i
-595	i	v191	c	Guangzhou	i
-596	i	v191	c	Guangzhou	i
-597	i	v191	c	Guilin	i
-598	i	v191	c	Ha_erbin	i
-599	i	v191	c	Jinan	i
-600	i	v191	c	Meixian	i
-601	i	v191	c	Nanchang	i
-602	i	v191	c	Nanchang	i
-603	i	v191	c	Nanjing	i
-604	i	v191	c	Rongcheng	i
-605	i	v191	c	Taiyuan	i
-606	i	v191	c	Wenzhou	i
-607	i	v191	c	Xi_an	i
-608	i	v191	c	Xiamen	i
-609	i	v191	m	Beijing	i
-610	i	v191	m	Changsha	i
-611	i	v191	m	Changsha	i
-612	i	v191	m	Chengdu	i
-613	i	v191	m	Fuzhou	i
-614	i	v191	m	Fuzhou	i
-615	i	v191	m	Fuzhou	i
-616	i	v191	m	Fuzhou	i
-617	i	v191	m	Fuzhou	i
-618	i	v191	m	Fuzhou	i
-619	i	v191	m	Fuzhou	i
-620	i	v191	m	Fuzhou	i
-621	i	v191	m	Guangzhou	i
-622	i	v191	m	Guangzhou	i
-623	i	v191	m	Guilin	i
-624	i	v191	m	Guilin	i
-625	i	v191	m	Ha_erbin	i
-626	i	v191	m	Jinan	i
-627	i	v191	m	Jixi	i
-628	i	v191	m	Loudi	i
-629	i	v191	m	Meixian	i
-630	i	v191	m	Meixian	i
-631	i	v191	m	Meixian	i
-632	i	v191	m	Nanchang	i
-633	i	v191	m	Nanchang	i
-634	i	v191	m	Nanjing	i
-635	i	v191	m	Rongcheng	i
-636	i	v191	m	Rongcheng	i
-637	i	v191	m	Suzhou	i
-638	i	v191	m	Taiyuan	i
-639	i	v191	m	Wenzhou	i
-640	i	v191	m	Xi_an	i
-641	i	v191	m	Xiamen	i
-642	i	v191	n	Beijing	i
-643	i	v191	n	Changsha	i
-644	i	v191	n	Chengdu	i
-645	i	v191	n	Fuzhou	i
-646	i	v191	n	Fuzhou	i
-647	i	v191	n	Fuzhou	i
-648	i	v191	n	Guangzhou	i
-649	i	v191	n	Guilin	i
-650	i	v191	n	Ha_erbin	i
-651	i	v191	n	Jinan	i
-652	i	v191	n	Jixi	i
-653	i	v191	n	Loudi	i
-654	i	v191	n	Meixian	i
-655	i	v191	n	Nanchang	i
-656	i	v191	n	Nanjing	i
-657	i	v191	n	Rongcheng	i
-658	i	v191	n	Suzhou	i
-659	i	v191	n	Taiyuan	i
-660	i	v191	n	Wenzhou	i
-661	i	v191	n	Xi_an	i
-662	i	v191	n	Xiamen	i
-663	u	v027	c	Beijing	u
-664	u	v027	c	Changsha	u
-665	u	v027	c	Chengdu	u
-666	u	v027	c	Fuzhou	u
-667	u	v027	c	Fuzhou	u
-668	u	v027	c	Fuzhou	u
-669	u	v027	c	Fuzhou	u
-670	u	v027	c	Guangzhou	u
-671	u	v027	c	Guangzhou	u
-672	u	v027	c	Guilin	u
-673	u	v027	c	Ha_erbin	u
-674	u	v027	c	Jinan	u
-675	u	v027	c	Loudi	u
-676	u	v027	c	Meixian	u
-677	u	v027	c	Nanchang	u
-678	u	v027	c	Rongcheng	u
-679	u	v027	c	Suzhou	u
-680	u	v027	c	Taiyuan	u
-681	u	v027	c	Wenzhou	u
-682	u	v027	c	Xi_an	u
-683	u	v027	c	Xiamen	u
-684	u	v027	m	Beijing	u
-685	u	v027	m	Changsha	u
-686	u	v027	m	Chengdu	u
-687	u	v027	m	Fuzhou	u
-688	u	v027	m	Fuzhou	u
-689	u	v027	m	Fuzhou	u
-690	u	v027	m	Fuzhou	u
-691	u	v027	m	Fuzhou	u
-692	u	v027	m	Fuzhou	u
-693	u	v027	m	Fuzhou	u
-694	u	v027	m	Fuzhou	u
-695	u	v027	m	Guangzhou	u
-696	u	v027	m	Guangzhou	u
-697	u	v027	m	Guilin	u
-698	u	v027	m	Ha_erbin	u
-699	u	v027	m	Jinan	u
-700	u	v027	m	Jixi	u
-701	u	v027	m	Loudi	u
-702	u	v027	m	Meixian	u
-703	u	v027	m	Meixian	u
-704	u	v027	m	Meixian	u
-705	u	v027	m	Meixian	u
-706	u	v027	m	Nanchang	u
-707	u	v027	m	Nanchang	u
-708	u	v027	m	Nanchang	u
-709	u	v027	m	Nanjing	u
-710	u	v027	m	Rongcheng	u
-711	u	v027	m	Rongcheng	u
-712	u	v027	m	Suzhou	u
-713	u	v027	m	Taiyuan	u
-714	u	v027	m	Taiyuan	u
-715	u	v027	m	Taiyuan	u
-716	u	v027	m	Wenzhou	u
-717	u	v027	m	Xi_an	u
-718	u	v027	m	Xiamen	u
-719	u	v027	n	Beijing	u
-720	u	v027	n	Changsha	u
-721	u	v027	n	Chengdu	u
-722	u	v027	n	Fuzhou	u
-723	u	v027	n	Fuzhou	u
-724	u	v027	n	Fuzhou	u
-725	u	v027	n	Guangzhou	u
-726	u	v027	n	Guilin	u
-727	u	v027	n	Ha_erbin	u
-728	u	v027	n	Jinan	u
-729	u	v027	n	Jixi	u
-730	u	v027	n	Loudi	u
-731	u	v027	n	Meixian	u
-732	u	v027	n	Nanchang	u
-733	u	v027	n	Nanjing	u
-734	u	v027	n	Rongcheng	u
-735	u	v027	n	Suzhou	u
-736	u	v027	n	Taiyuan	u
-737	u	v027	n	Wenzhou	u
-738	u	v027	n	Xi_an	u
-739	u	v027	n	Xi_an	u
-740	u	v027	n	Xiamen	u
-741	ə̃	v153	n	Changsha	ə̃
-742	a	v130	n	Beijing	a
-743	a	v130	n	Changsha	a
-744	a	v130	n	Chengdu	a
-745	a	v130	n	Fuzhou	a
-746	a	v130	n	Fuzhou	a
-747	a	v130	n	Fuzhou	a
-748	a	v130	n	Fuzhou	a
-749	a	v130	n	Fuzhou	a
-750	a	v130	n	Fuzhou	a
-751	a	v130	n	Fuzhou	a
-752	a	v130	n	Fuzhou	a
-753	a	v130	n	Fuzhou	a
-754	a	v130	n	Fuzhou	a
-755	a	v130	n	Fuzhou	a
-756	a	v130	n	Fuzhou	a
-757	a	v130	n	Fuzhou	a
-758	a	v130	n	Guangzhou	a
-759	a	v130	n	Guangzhou	a
-760	a	v130	n	Guilin	a
-761	a	v130	n	Ha_erbin	a
-762	a	v130	n	Jinan	a
-763	a	v130	n	Jixi	a
-764	a	v130	n	Loudi	a
-765	a	v130	n	Meixian	a
-766	a	v130	n	Nanchang	a
-767	a	v130	n	Nanchang	a
-768	a	v130	n	Rongcheng	a
-769	a	v130	n	Suzhou	a
-770	a	v130	n	Taiyuan	a
-771	a	v130	n	Taiyuan	a
-772	a	v130	n	Taiyuan	a
-773	a	v130	n	Wenzhou	a
-774	a	v130	n	Xiamen	a
-775	ou	d006	n	Fuzhou	o
-776	ou	d006	n	Fuzhou	o
-777	œ	v178	n	Fuzhou	œ
-778	œ	v178	n	Fuzhou	œ
-779	œ	v178	n	Guangzhou	œ
-780	ɛi	d059	n	Fuzhou	ɛ
-781	ɛi	d059	n	Fuzhou	ɛ
-782	y	v166	c	Guangzhou	y
-783	y	v166	m	Beijing	y
-784	y	v166	m	Changsha	y
-785	y	v166	m	Chengdu	y
-786	y	v166	m	Fuzhou	y
-787	y	v166	m	Fuzhou	y
-788	y	v166	m	Fuzhou	y
-789	y	v166	m	Guilin	y
-790	y	v166	m	Guilin	y
-791	y	v166	m	Ha_erbin	y
-792	y	v166	m	Jinan	y
-793	y	v166	m	Jixi	y
-794	y	v166	m	Loudi	y
-795	y	v166	m	Nanchang	y
-796	y	v166	m	Nanchang	y
-797	y	v166	m	Nanjing	y
-798	y	v166	m	Rongcheng	y
-799	y	v166	m	Rongcheng	y
-800	y	v166	m	Suzhou	y
-801	y	v166	m	Taiyuan	y
-802	y	v166	m	Wenzhou	y
-803	y	v166	m	Xi_an	y
-804	y	v166	n	Beijing	y
-805	y	v166	n	Changsha	y
-806	y	v166	n	Chengdu	y
-807	y	v166	n	Fuzhou	y
-808	y	v166	n	Fuzhou	y
-809	y	v166	n	Fuzhou	y
-810	y	v166	n	Guangzhou	y
-811	y	v166	n	Guilin	y
-812	y	v166	n	Ha_erbin	y
-813	y	v166	n	Jinan	y
-814	y	v166	n	Jixi	y
-815	y	v166	n	Loudi	y
-816	y	v166	n	Nanchang	y
-817	y	v166	n	Nanjing	y
-818	y	v166	n	Rongcheng	y
-819	y	v166	n	Suzhou	y
-820	y	v166	n	Taiyuan	y
-821	y	v166	n	Wenzhou	y
-822	y	v166	n	Xi_an	y
-823	øy	?	n	Fuzhou	ø
-824	øy	?	n	Fuzhou	ø
-825	øy	?	n	Fuzhou	ø
-826	øy	?	n	Guangzhou	ø
-827	øy	?	n	Wenzhou	ø
-828	ø	v171	n	Guangzhou	ø
-829	ø	v171	n	Guangzhou	ø
-830	ø	v171	n	Suzhou	ø
-831	ɐ	v119	n	Guangzhou	ɐ
-832	ɐ	v119	n	Guangzhou	ɐ
-833	ɐ	v119	n	Rongcheng	ɐ
-834	ɔ	v067	n	Guangzhou	ɔ
-835	ɔ	v067	n	Jinan	ɔ
-836	ɔ	v067	n	Jixi	ɔ
-837	ɔ	v067	n	Loudi	ɔ
-838	ɔ	v067	n	Nanchang	ɔ
-839	ɔ	v067	n	Nanchang	ɔ
-840	ɔ	v067	n	Nanjing	ɔ
-841	ɔ	v067	n	Rongcheng	ɔ
-842	ɔ	v067	n	Suzhou	ɔ
-843	ɔ	v067	n	Wenzhou	ɔ
-844	ɔ	v067	n	Xiamen	ɔ
-845	ã	v147	n	Guilin	ã
-846	ã	v147	n	Guilin	ã
-847	ã	v147	n	Guilin	ã
-848	ã	v147	n	Loudi	ã
-849	ã	v147	n	Suzhou	ã
-850	ã	v147	n	Xiamen	ã
-851	ə	v155	n	Beijing	ə
-852	ə	v155	n	Changsha	ə
-853	ə	v155	n	Chengdu	ə
-854	ə	v155	n	Ha_erbin	ə
-855	ə	v155	n	Jinan	ə
-856	ə	v155	n	Meixian	ə
-857	ə	v155	n	Nanjing	ə
-858	ə	v155	n	Nanjing	ə
-859	ə	v155	n	Nanjing	ə
-860	ə	v155	n	Rongcheng	ə
-861	ə	v155	n	Suzhou	ə
-862	ə	v155	n	Taiyuan	ə
-863	ə	v155	n	Wenzhou	ə
-864	ə	v155	n	Xi_an	ə
-865	ɿ	v082	n	Beijing	ɿ
-866	ɿ	v082	n	Changsha	ɿ
-867	ɿ	v082	n	Chengdu	ɿ
-868	ɿ	v082	n	Guilin	ɿ
-869	ɿ	v082	n	Ha_erbin	ɿ
-870	ɿ	v082	n	Jinan	ɿ
-871	ɿ	v082	n	Jixi	ɿ
-872	ɿ	v082	n	Loudi	ɿ
-873	ɿ	v082	n	Meixian	ɿ
-874	ɿ	v082	n	Nanchang	ɿ
-875	ɿ	v082	n	Nanjing	ɿ
-876	ɿ	v082	n	Rongcheng	ɿ
-877	ɿ	v082	n	Suzhou	ɿ
-878	ɿ	v082	n	Taiyuan	ɿ
-879	ɿ	v082	n	Wenzhou	ɿ
-880	ɿ	v082	n	Xi_an	ɿ
-881	æ̃	v197	n	Jinan	æ̃
-882	æ̃	v197	n	Taiyuan	æ̃
-883	æ̃	v197	n	Taiyuan	æ̃
-884	æ̃	v197	n	Xi_an	æ̃
-885	ʅ	v110	n	Beijing	ʅ
-886	ʅ	v110	n	Changsha	ʅ
-887	ʅ	v110	n	Ha_erbin	ʅ
-888	ʅ	v110	n	Jinan	ʅ
-889	ʅ	v110	n	Nanjing	ʅ
-890	ʅ	v110	n	Rongcheng	ʅ
-891	ʅ	v110	n	Xi_an	ʅ
-892	õ	v038	n	Changsha	õ
-893	õ	v038	n	Jixi	õ
-894	ɑ̃	v088	n	Beijing	ɑ̃
-895	ɑ̃	v088	n	Jixi	ɑ̃
-896	ɑ̃	v088	n	Nanjing	ɑ̃
-897	ɑ̃	v088	n	Suzhou	ɑ̃
-898	ɵ	v104	n	Jixi	ɵ
-899	ɵ	v104	n	Nanchang	ɵ
-900	ẽ	v201	n	Changsha	ẽ
-901	ẽ	v201	n	Jinan	ẽ
-902	ẽ	v201	n	Jixi	ẽ
-903	ẽ	v201	n	Loudi	ẽ
-904	ẽ	v201	n	Xi_an	ẽ
-905	ẽ	v201	n	Xiamen	ẽ
-906	m̩	c233	n	Changsha	-
-907	m̩	c233	n	Fuzhou	-
-908	m̩	c233	n	Guangzhou	-
-909	m̩	c233	n	Jixi	-
-910	m̩	c233	n	Loudi	-
-911	m̩	c233	n	Meixian	-
-912	m̩	c233	n	Nanchang	-
-913	m̩	c233	n	Nanjing	-
-914	m̩	c233	n	Suzhou	-
-915	m̩	c233	n	Wenzhou	-
-916	m̩	c233	n	Xiamen	-
-917	m̩	c233	n	Xiamen	ʔ
-918	n̩	c095	n	Changsha	-
-919	n̩	c095	n	Jixi	-
-920	n̩	c095	n	Loudi	-
-921	n̩	c095	n	Meixian	-
-922	n̩	c095	n	Nanchang	-
-923	n̩	c095	n	Nanjing	-
-924	n̩	c095	n	Suzhou	-
-925	n̩	c095	n	Wenzhou	-
-926	n̩	c095	n	Xiamen	ʔ
-927	ɔ̃	v066	n	Loudi	ɔ̃
-928	ɔ̃	v066	n	Xiamen	ɔ̃
-929	o	v042	c	Beijing	o
-930	o	v042	c	Changsha	o
-931	o	v042	c	Jixi	o
-932	o	v042	c	Loudi	o
-933	o	v042	c	Meixian	o
-934	o	v042	c	Suzhou	o
-935	o	v042	c	Xiamen	o
-936	o	v042	n	Beijing	o
-937	o	v042	n	Changsha	o
-938	o	v042	n	Changsha	o
-939	o	v042	n	Changsha	o
-940	o	v042	n	Chengdu	o
-941	o	v042	n	Fuzhou	o
-942	o	v042	n	Fuzhou	o
-943	o	v042	n	Fuzhou	o
-944	o	v042	n	Fuzhou	o
-945	o	v042	n	Fuzhou	o
-946	o	v042	n	Fuzhou	o
-947	o	v042	n	Fuzhou	o
-948	o	v042	n	Fuzhou	o
-949	o	v042	n	Fuzhou	o
-950	o	v042	n	Guangzhou	o
-951	o	v042	n	Guilin	o
-952	o	v042	n	Ha_erbin	o
-953	o	v042	n	Jinan	o
-954	o	v042	n	Jixi	o
-955	o	v042	n	Loudi	o
-956	o	v042	n	Meixian	o
-957	o	v042	n	Meixian	o
-958	o	v042	n	Meixian	o
-959	o	v042	n	Meixian	o
-960	o	v042	n	Meixian	o
-961	o	v042	n	Meixian	o
-962	o	v042	n	Meixian	o
-963	o	v042	n	Meixian	o
-964	o	v042	n	Meixian	o
-965	o	v042	n	Nanchang	o
-966	o	v042	n	Nanchang	o
-967	o	v042	n	Nanchang	o
-968	o	v042	n	Nanjing	o
-969	o	v042	n	Rongcheng	o
-970	o	v042	n	Suzhou	o
-971	o	v042	n	Wenzhou	o
-972	o	v042	n	Xi_an	o
-973	o	v042	n	Xiamen	o
-974	e	v200	n	Beijing	e
-975	e	v200	n	Changsha	e
-976	e	v200	n	Chengdu	e
-977	e	v200	n	Fuzhou	e
-978	e	v200	n	Fuzhou	e
-979	e	v200	n	Fuzhou	e
-980	e	v200	n	Fuzhou	e
-981	e	v200	n	Guangzhou	e
-982	e	v200	n	Guangzhou	e
-983	e	v200	n	Guilin	e
-984	e	v200	n	Ha_erbin	e
-985	e	v200	n	Jinan	e
-986	e	v200	n	Jixi	e
-987	e	v200	n	Loudi	e
-988	e	v200	n	Meixian	e
-989	e	v200	n	Nanchang	e
-990	e	v200	n	Nanchang	e
-991	e	v200	n	Nanjing	e
-992	e	v200	n	Rongcheng	e
-993	e	v200	n	Taiyuan	e
-994	e	v200	n	Wenzhou	e
-995	e	v200	n	Xi_an	e
-996	e	v200	n	Xiamen	e
-997	ɨ	v116	n	Nanchang	ɨ
-998	æ	v198	n	Loudi	æ
-999	æ	v198	n	Suzhou	æ
-1000	æ	v198	n	Xiamen	æ
-1001	ɪ	v219	m	Taiyuan	ɪ
-1002	ɪ	v219	n	Suzhou	ɪ
-1003	ʏ	v173	n	Suzhou	ʏ
-1004	ʯ	v101	n	Suzhou	ʯ
-1005	ᴇ	?	n	Suzhou	ᴇ
-1006	ɒ̃	v054	n	Taiyuan	ɒ̃
-1007	ɑ	v089	n	Beijing	ɑ
-1008	ɑ	v089	n	Guilin	ɑ
-1009	ɑ	v089	n	Jinan	ɑ
-1010	ɑ	v089	n	Nanjing	ɑ
-1011	ɑ	v089	n	Suzhou	ɑ
-1012	ɑ	v089	n	Xi_an	ɑ
-1013	ɯ	v081	c	Nanjing	ɯ
-1014	ɯ	v081	n	Xi_an	ɯ
-1015	ai	d030	n	Xiamen	a
-1016	au	d026	n	Xiamen	a
-1017	ãĩ	?	n	Xiamen	ã
-1018	ãũ	?	n	Xiamen	ã
-1019	ĩ	v193	n	Loudi	ĩ
-1020	ĩ	v193	n	Xiamen	ĩ
-1021	ŋ̍	c792	n	Guangzhou	ŋ̍
-1022	ŋ̍	c792	n	Guilin	ŋ̍
-1023	ŋ̍	c792	n	Jinan	ŋ̍
-1024	ŋ̍	c792	n	Loudi	ŋ̍
-1025	ŋ̍	c792	n	Nanchang	ŋ̍
-1026	ŋ̍	c792	n	Nanjing	ŋ̍
-1027	ŋ̍	c792	n	Suzhou	ŋ̍
-1028	ŋ̍	c792	n	Wenzhou	ŋ̍
-1029	ŋ̍	c792	n	Xiamen	ŋ̍
-1030	ũ	v025	n	Xiamen	ũ
-1031	⁵¹	t038	t	Beijing	⁵¹
-1032	⁵¹	t038	t	Wenzhou	⁵¹
-1033	³³	t013	t	Changsha	³³
-1034	³³	t013	t	Guangzhou	³³
-1035	³³	t013	t	Meixian	³³
-1036	⁴¹	t029	t	Changsha	⁴¹
-1037	⁴¹	t029	t	Wenzhou	⁴¹
-1038	²¹²	t005	t	Fuzhou	²¹²
-1039	⁵³	t037	t	Chengdu	⁵³
-1040	⁵³	t037	t	Fuzhou	⁵³
-1041	⁵³	t037	t	Guangzhou	⁵³
-1042	⁵³	t037	t	Ha_erbin	⁵³
-1043	⁵³	t037	t	Jinan	⁵³
-1044	⁵³	t037	t	Meixian	⁵³
-1045	⁵³	t037	t	Suzhou	⁵³
-1046	⁵³	t037	t	Taiyuan	⁵³
-1047	⁵³	t037	t	Xi_an	⁵³
-1048	⁵³	t037	t	Xiamen	⁵³
-1049	²²	t002	t	Guangzhou	²²
-1050	²²	t002	t	Guilin	²²
-1051	²²	t002	t	Wenzhou	²²
-1052	²²	t002	t	Xiamen	²²
-1053	³	t010	t	Guangzhou	³
-1054	²⁵	?	t	Guilin	²⁵
-1055	²¹³	t006	t	Beijing	²¹³
-1056	²¹³	t006	t	Chengdu	²¹³
-1057	²¹³	t006	t	Ha_erbin	²¹³
-1058	²¹³	t006	t	Jixi	²¹³
-1059	²¹³	t006	t	Nanchang	²¹³
-1060	⁴⁵	t033	t	Chengdu	⁴⁵
-1061	⁴⁵	t033	t	Jinan	⁴⁵
-1062	⁴⁵	t033	t	Nanchang	⁴⁵
-1063	⁴⁵	t033	t	Taiyuan	⁴⁵
-1064	³⁵	t017	t	Beijing	³⁵
-1065	³⁵	t017	t	Guangzhou	³⁵
-1066	³⁵	t017	t	Jixi	³⁵
-1067	³⁵	t017	t	Loudi	³⁵
-1068	³⁵	t017	t	Rongcheng	³⁵
-1069	⁴²	t027	t	Guilin	⁴²
-1070	⁴²	t027	t	Loudi	⁴²
-1071	⁴²	t027	t	Nanchang	⁴²
-1072	⁴⁴	t030	t	Ha_erbin	⁴⁴
-1073	⁴⁴	t030	t	Jixi	⁴⁴
-1074	⁴⁴	t030	t	Loudi	⁴⁴
-1075	⁴⁴	t030	t	Suzhou	⁴⁴
-1076	⁴⁴	t030	t	Wenzhou	⁴⁴
-1077	⁴⁴	t030	t	Xi_an	⁴⁴
-1078	³¹	t014	t	Jinan	³¹
-1079	³¹	t014	t	Jixi	³¹
-1080	³¹	t014	t	Meixian	³¹
-1081	³¹	t014	t	Nanjing	³¹
-1082	¹	t018	t	Meixian	¹
-1083	¹¹	t021	t	Changsha	¹¹
-1084	¹¹	t021	t	Loudi	¹¹
-1085	¹¹	t021	t	Meixian	¹¹
-1086	¹¹	t021	t	Nanjing	¹¹
-1087	¹³	t020	t	Changsha	¹³
-1088	¹³	t020	t	Loudi	¹³
-1089	¹³	t020	t	Nanjing	¹³
-1090	¹³	t020	t	Suzhou	¹³
-1091	⁵	t035	t	Fuzhou	⁵
-1092	⁵	t035	t	Guangzhou	⁵
-1093	⁵	t035	t	Meixian	⁵
-1094	⁵	t035	t	Nanchang	⁵
-1095	⁵	t035	t	Nanjing	⁵
-1096	⁵	t035	t	Xiamen	⁵
-1097	⁵⁵	t041	t	Beijing	⁵⁵
-1098	⁵⁵	t041	t	Changsha	⁵⁵
-1099	⁵⁵	t041	t	Fuzhou	⁵⁵
-1100	⁵⁵	t041	t	Guilin	⁵⁵
-1101	⁵⁵	t041	t	Jixi	⁵⁵
-1102	⁵⁵	t041	t	Nanjing	⁵⁵
-1103	⁵⁵	t041	t	Xiamen	⁵⁵
-1104	²¹⁴	t007	t	Jinan	²¹⁴
-1105	²¹⁴	t007	t	Rongcheng	²¹⁴
-1106	³³⁴	?	t	Rongcheng	³³⁴
-1107	⁵²	t036	t	Rongcheng	⁵²
-1108	²	t001	t	Guangzhou	²
-1109	²	t001	t	Suzhou	²
-1110	²	t001	t	Taiyuan	²
-1111	²	t001	t	Wenzhou	²
-1112	²³	t003	t	Guangzhou	²³
-1113	²³	t003	t	Guilin	²³
-1114	²³	t003	t	Suzhou	²³
-1115	²³	t003	t	Suzhou	²³
-1116	⁴	t026	t	Suzhou	⁴
-1117	⁴¹²	?	t	Suzhou	⁴¹²
-1118	⁵⁴	t040	t	Taiyuan	⁵⁴
-1119	²⁴	t008	t	Changsha	²⁴
-1120	²⁴	t008	t	Fuzhou	²⁴
-1121	²⁴	t008	t	Ha_erbin	²⁴
-1122	²⁴	t008	t	Nanchang	²⁴
-1123	²⁴	t008	t	Wenzhou	²⁴
-1124	²⁴	t008	t	Xi_an	²⁴
-1125	²⁴	t008	t	Xiamen	²⁴
-1126	²⁴²	t009	t	Fuzhou	²⁴²
-1127	²⁴²	t009	t	Wenzhou	²⁴²
-1128	³⁴¹	?	t	Wenzhou	³⁴¹
-1129	²¹	t004	t	Chengdu	²¹
-1130	²¹	t004	t	Guangzhou	²¹
-1131	²¹	t004	t	Guilin	²¹
-1132	²¹	t004	t	Nanchang	²¹
-1133	²¹	t004	t	Nanchang	²¹
-1134	²¹	t004	t	Taiyuan	²¹
-1135	²¹	t004	t	Wenzhou	²¹
-1136	²¹	t004	t	Xi_an	²¹
-1137	²¹	t004	t	Xiamen	²¹
-1138	³²	t011	t	Fuzhou	³²
-1139	³²	t011	t	Jixi	³²
-1140	³²	t011	t	Xiamen	³²
+DOCULECT	SOURCE	CLPA	STRUCTURE	NOTE
+Beijing	ɿ	ɿ	n	
+Beijing	i	i	n	
+Beijing	u	u	n	
+Beijing	y	y	n	
+Beijing	ʅ	ʅ	n	
+Beijing	ər	ə r	n c	
+Beijing	ᴀ	ᴀ/ä	n	
+Beijing	iᴀ	i ᴀ/ä	m n	
+Beijing	uᴀ	u ᴀ/ä	m n	
+Beijing	o	o	n	
+Beijing	uo	u o	m n	
+Beijing	ɤ	ɤ	n	
+Beijing	iɛ	i ɛ	m n	
+Beijing	yɛ	y ɛ	m n	
+Beijing	ai	a i	n c	
+Beijing	uai	u a i	m n c	
+Beijing	ei	e i	n c	
+Beijing	uei	u e i	m n c	
+Beijing	ɑu	ɑ u	n c	
+Beijing	iɑu	i ɑ u	m n c	
+Beijing	ou	o u	n c	
+Beijing	iou	i o u	m n c	
+Beijing	an	a n	n c	
+Beijing	iɛn	i ɛ n	m n c	
+Beijing	uan	u a n	m n c	
+Beijing	yɛn	y ɛ n	m n c	
+Beijing	ən	ə n	n c	
+Beijing	in	i n	n c	
+Beijing	uən	u ə n	m n c	
+Beijing	yn	y n	n c	
+Beijing	ɑŋ	ɑ ŋ	n c	
+Beijing	iɑŋ	i ɑ ŋ	m n c	
+Beijing	uɑŋ	u ɑ ŋ	m n c	
+Beijing	əŋ	ə ŋ	n c	
+Beijing	iŋ	i ŋ	n c	
+Beijing	uəŋ	u ə ŋ	m n c	
+Beijing	uŋ	u ŋ	n c	
+Beijing	yŋ	y ŋ	n c	
+Beijing	p	p	i	
+Beijing	pʰ	pʰ	i	
+Beijing	m	m	i	
+Beijing	f	f	i	
+Beijing	t	t	i	
+Beijing	tʰ	tʰ	i	
+Beijing	n	n	i	
+Beijing	l	l	i	
+Beijing	ts	ts	i	
+Beijing	tsʰ	tsʰ	i	
+Beijing	s	s	i	
+Beijing	tʂ	ʈʂ	i	
+Beijing	tʂʰ	ʈʂʰ	i	
+Beijing	ʂ	ʂ	i	
+Beijing	ʐ	ʐ	i	
+Beijing	tɕ	tɕ	i	
+Beijing	tɕʰ	tɕʰ	i	
+Beijing	ɕ	ɕ	i	
+Beijing	k	k	i	
+Beijing	kʰ	kʰ	i	
+Beijing	x	x	i	
+Beijing	Ø	Ø	i	
+Beijing	²¹³	²¹³	t	yinping
+Beijing	³⁵	³⁵	t	yangping
+Beijing	⁵¹	⁵¹	t	shang
+Beijing	⁵⁵	⁵⁵	t	qu
+Ha_erbin	⁴⁴	⁴⁴	t	yangping
+Ha_erbin	²⁴	²⁴	t	yinping
+Ha_erbin	²¹³	²¹³	t	shang
+Ha_erbin	⁵³	⁵³	t	qu
+Ha_erbin	ɿ	ɿ	n	
+Ha_erbin	i	i	n	
+Ha_erbin	u	u	n	
+Ha_erbin	y	y	n	
+Ha_erbin	ʅ	ʅ	n	
+Ha_erbin	ər	ə r	n c	
+Ha_erbin	a	a	n	
+Ha_erbin	ia	i a	m n	
+Ha_erbin	ua	u a	m n	
+Ha_erbin	ɤ	ɤ	n	
+Ha_erbin	uo	u o	m n	
+Ha_erbin	ɛ	ɛ	n	
+Ha_erbin	iə	i ə	m n	
+Ha_erbin	yɛ	y ɛ	m n	
+Ha_erbin	ai	a i	n c	
+Ha_erbin	uai	u a i	m n c	
+Ha_erbin	ei	e i	n c	
+Ha_erbin	uei	u e i	m n c	
+Ha_erbin	au	a u	n c	
+Ha_erbin	iau	i a u	m n c	
+Ha_erbin	ou	o u	n c	
+Ha_erbin	iou	i o u	m n c	
+Ha_erbin	an	a n	n c	
+Ha_erbin	ian	i a n	m n c	
+Ha_erbin	uan	u a n	m n c	
+Ha_erbin	yan	y a n	m n c	
+Ha_erbin	ən	ə n	n c	
+Ha_erbin	in	i n	n c	
+Ha_erbin	uən	u ə n	m n c	
+Ha_erbin	yn	y n	n c	
+Ha_erbin	aŋ	a ŋ	n c	
+Ha_erbin	iaŋ	i a ŋ	m n c	
+Ha_erbin	uaŋ	u a ŋ	m n c	
+Ha_erbin	əŋ	ə ŋ	n c	
+Ha_erbin	iŋ	i ŋ	n c	
+Ha_erbin	uəŋ	u ə ŋ	m n c	
+Ha_erbin	uŋ	u ŋ	n c	
+Ha_erbin	yŋ	y ŋ	n c	
+Ha_erbin	p	p	i	
+Ha_erbin	pʰ	pʰ	i	
+Ha_erbin	m	m	i	
+Ha_erbin	f	f	i	
+Ha_erbin	t	t	i	
+Ha_erbin	tʰ	tʰ	i	
+Ha_erbin	n	n	i	
+Ha_erbin	l	l	i	
+Ha_erbin	ts	ts	i	
+Ha_erbin	tsʰ	tsʰ	i	
+Ha_erbin	s	s	i	
+Ha_erbin	tʂ	ʈʂ	i	
+Ha_erbin	tʂʰ	ʈʂʰ	i	
+Ha_erbin	ʂ	ʂ	i	
+Ha_erbin	ʐ	ʐ	i	
+Ha_erbin	tɕ	tɕ	i	
+Ha_erbin	tɕʰ	tɕʰ	i	
+Ha_erbin	ɕ	ɕ	i	
+Ha_erbin	k	k	i	
+Ha_erbin	kʰ	kʰ	i	
+Ha_erbin	x	x	i	
+Ha_erbin	Ø	Ø	i	
+Jinan	²¹⁴	²¹⁴	t	yinping
+Jinan	⁵³	⁵³	t	yangping
+Jinan	⁴⁵	⁴⁵	t	shang
+Jinan	³¹	³¹	t	qu
+Jinan	ɿ	ɿ	n	
+Jinan	i	i	n	
+Jinan	u	u	n	
+Jinan	y	y	n	
+Jinan	ʅ	ʅ	n	
+Jinan	ər	ə r	n c	
+Jinan	a	a	n	
+Jinan	ia	i a	m n	
+Jinan	ua	u a	m n	
+Jinan	ɤ	ɤ	n	
+Jinan	iə	i ə	m n	
+Jinan	uɤ	u ɤ	m n	
+Jinan	yɤ	y ɤ	m n	
+Jinan	ɛ	ɛ	n	
+Jinan	iɛ	i ɛ	m n	
+Jinan	uɛ	u ɛ	m n	
+Jinan	ei	e i	n c	
+Jinan	uei	u e i	m n c	
+Jinan	ɔ	ɔ	n	
+Jinan	iɔ	i ɔ	m n	
+Jinan	ou	o u	n c	
+Jinan	iou	i o u	m n c	
+Jinan	æ̃	æ̃ ∼	n c	
+Jinan	iæ̃	i æ̃ ∼	m n c	
+Jinan	uæ̃	u æ̃ ∼	m n c	
+Jinan	yæ̃	y æ̃ ∼	m n c	
+Jinan	ẽ	ẽ ∼	n c	
+Jinan	iẽ	i ẽ ∼	m n c	
+Jinan	uẽ	u ẽ ∼	m n c	
+Jinan	yẽ	y ẽ ∼	m n c	
+Jinan	ɑŋ	ɑ ŋ	n c	
+Jinan	iɑŋ	i ɑ ŋ	m n c	
+Jinan	uɑŋ	u ɑ ŋ	m n c	
+Jinan	əŋ	ə ŋ	n c	
+Jinan	iŋ	i ŋ	n c	
+Jinan	uŋ	u ŋ	n c	
+Jinan	yŋ	y ŋ	n c	
+Jinan	ŋ̍	ŋ̍	n	
+Jinan	p	p	i	
+Jinan	pʰ	pʰ	i	
+Jinan	m	m	i	
+Jinan	f	f	i	
+Jinan	v	v	i	
+Jinan	t	t	i	
+Jinan	tʰ	tʰ	i	
+Jinan	n	n	i	
+Jinan	l	l	i	
+Jinan	ts	ts	i	
+Jinan	tsʰ	tsʰ	i	
+Jinan	s	s	i	
+Jinan	tʂ	ʈʂ	i	
+Jinan	tsʰ	tsʰ	i	
+Jinan	ʂ	ʂ	i	
+Jinan	ʐ	ʐ	i	
+Jinan	tɕ	tɕ	i	
+Jinan	tɕʰ	tɕʰ	i	
+Jinan	ȵ	ɲ	i	
+Jinan	ɕ	ɕ	i	
+Jinan	k	k	i	
+Jinan	kʰ	kʰ	i	
+Jinan	ŋ	ŋ	i	
+Jinan	x	x	i	
+Jinan	Ø	Ø	i	
+Rongcheng	⁵²	⁵²	t	yinping
+Rongcheng	³⁵	³⁵	t	yangping
+Rongcheng	²¹⁴	²¹⁴	t	shangsheng
+Rongcheng	³³⁴	³³⁴	t	qusheng
+Rongcheng	ɿ	ɿ	n	
+Rongcheng	i	i	n	
+Rongcheng	u	u	n	
+Rongcheng	y	y	n	
+Rongcheng	ʅ	ʅ	n	
+Rongcheng	ər	ə r	n c	
+Rongcheng	a	a	n	
+Rongcheng	ia	i a	m n	
+Rongcheng	ua	u a	m n	
+Rongcheng	ɔ	ɔ	n	
+Rongcheng	uɔ	u ɔ	m n	
+Rongcheng	yɔ	y ɔ	m n	
+Rongcheng	ɛ	ɛ	n	@
+Rongcheng	iɛ	i ɛ	m n	i@
+Rongcheng	uɛ	u ɛ	m n	u@
+Rongcheng	yɛ	y ɛ	m n	y@
+Rongcheng	ai	a i	n c	
+Rongcheng	iai	i a i	m n c	
+Rongcheng	uai	u a i	m n c	
+Rongcheng	yai	y a i	m n c	
+Rongcheng	ei	e i	n c	
+Rongcheng	uei	u e i	m n c	
+Rongcheng	au	a u	n c	
+Rongcheng	iau	i a u	m n c	
+Rongcheng	ou	o u	n c	
+Rongcheng	iou	i o u	m n c	
+Rongcheng	ɐn	ɐ n	n c	
+Rongcheng	iɐn	i ɐ n	m n c	
+Rongcheng	uɐn	u ɐ n	m n c	
+Rongcheng	yɐn	y ɐ n	m n c	
+Rongcheng	ən	ə n	n c	
+Rongcheng	in	i n	n c	
+Rongcheng	uən	u ə n	m n c	
+Rongcheng	yn	y n	n c	
+Rongcheng	aŋ	a ŋ	n c	
+Rongcheng	iaŋ	i a ŋ	m n c	
+Rongcheng	uaŋ	u a ŋ	m n c	
+Rongcheng	əŋ	ə ŋ	n c	
+Rongcheng	iŋ	i ŋ	n c	
+Rongcheng	uəŋ	u ə ŋ	m n c	
+Rongcheng	oŋ	o ŋ	n c	
+Rongcheng	yoŋ	y o ŋ	m n c	
+Rongcheng	p	p	i	
+Rongcheng	pʰ	pʰ	i	
+Rongcheng	m	m	i	
+Rongcheng	f	f	i	
+Rongcheng	t	t	i	
+Rongcheng	tʰ	tʰ	i	
+Rongcheng	n	n	i	
+Rongcheng	l	l	i	
+Rongcheng	ts	ts	i	
+Rongcheng	tsʰ	tsʰ	i	
+Rongcheng	s	s	i	
+Rongcheng	c	c	i	
+Rongcheng	cʰ	cʰ	i	
+Rongcheng	ç	ç	i	
+Rongcheng	tʃ	tʃ	i	
+Rongcheng	tʃʰ	tʃʰ	i	
+Rongcheng	ʃ	ʃ	i	
+Rongcheng	tʂ	ʈʂ	i	
+Rongcheng	tʂʰ	ʈʂʰ	i	
+Rongcheng	ʂ	ʂ	i	
+Rongcheng	k	k	i	
+Rongcheng	kʰ	kʰ	i	
+Rongcheng	x	x	i	
+Rongcheng	Ø	Ø	i	
+Taiyuan	²¹	²¹	t	ping
+Taiyuan	⁵³	⁵³	t	shang
+Taiyuan	⁴⁵	⁴⁵	t	qu
+Taiyuan	²	²	t	yinru
+Taiyuan	⁵⁴*	⁵⁴	t	yangru
+Taiyuan	ɿ	ɿ	n	
+Taiyuan	i	i	n	
+Taiyuan	u	u	n	
+Taiyuan	y	y	n	
+Taiyuan	ər	ə r	n c	
+Taiyuan	a	a	n	
+Taiyuan	ia	i a	m n	
+Taiyuan	ua	u a	m n	
+Taiyuan	ɤ	ɤ	n	
+Taiyuan	uɤ	u ɤ	m n	
+Taiyuan	ie	i e	m n	
+Taiyuan	ye	y e	m n	
+Taiyuan	ai	a i	n c	
+Taiyuan	uai	u a i	m n c	
+Taiyuan	ei	e i	n c	
+Taiyuan	uei	u e i	m n c	
+Taiyuan	au	a u	n c	
+Taiyuan	iau	i a u	m n c	
+Taiyuan	əu	ə u	n c	
+Taiyuan	iəu	i ə u	m n c	
+Taiyuan	æ̃	æ̃ ∼	n c	E~
+Taiyuan	uæ̃	u æ̃ ∼	m n c	uE~
+Taiyuan	ɒ̃	ɒ̃ ∼	n c	
+Taiyuan	ɪɒ̃	ɪ ɒ̃ ∼	m n c	
+Taiyuan	uɒ̃	u ɒ̃ ∼	m n c	
+Taiyuan	əŋ	ə ŋ	n c	
+Taiyuan	iŋ	i ŋ	n c	
+Taiyuan	uŋ	u ŋ	n c	
+Taiyuan	yŋ	y ŋ	n c	
+Taiyuan	aʔ	a ʔ	n c	@?
+Taiyuan	iaʔ	i a ʔ	m n c	
+Taiyuan	uaʔ	u a ʔ	m n c	u@?
+Taiyuan	əʔ	ə ʔ	n c	
+Taiyuan	iəʔ	i ə ʔ	m n c	
+Taiyuan	uəʔ	u ə ʔ	m n c	
+Taiyuan	yəʔ	y ə ʔ	m n c	
+Taiyuan	p	p	i	
+Taiyuan	pʰ	pʰ	i	
+Taiyuan	m	m	i	
+Taiyuan	f	f	i	
+Taiyuan	v	v	i	
+Taiyuan	t	t	i	
+Taiyuan	tʰ	tʰ	i	
+Taiyuan	n	n	i	
+Taiyuan	l	l	i	
+Taiyuan	ts	ts	i	
+Taiyuan	tsʰ	tsʰ	i	
+Taiyuan	s	s	i	
+Taiyuan	z	z	i	
+Taiyuan	ʂ	ʂ	i	
+Taiyuan	tɕ	tɕ	i	
+Taiyuan	tɕʰ	tɕʰ	i	
+Taiyuan	ȵ	ɲ	i	
+Taiyuan	ɕ	ɕ	i	
+Taiyuan	k	k	i	
+Taiyuan	kʰ	kʰ	i	
+Taiyuan	x	x	i	
+Taiyuan	ɣ	ɣ	i	
+Taiyuan	Ø	Ø	i	
+Xi_an	²¹	²¹	t	yinping
+Xi_an	²⁴	²⁴	t	yangping
+Xi_an	⁵³	⁵³	t	shang
+Xi_an	⁴⁴	⁴⁴	t	qu
+Xi_an	ɿ	ɿ	n	
+Xi_an	i	i	n	
+Xi_an	u	u	n	@u
+Xi_an	y	y	n	
+Xi_an	ʅ	ʅ	n	
+Xi_an	ər	ə r	n c	
+Xi_an	ɑ	ɑ	n	
+Xi_an	iɑ	i ɑ	m n	
+Xi_an	uɑ	u ɑ	m n	
+Xi_an	ɛ	ɛ	n	
+Xi_an	iɛ	i ɛ	m n	
+Xi_an	uɛ	u ɛ	m n	
+Xi_an	yɛ	y ɛ	m n	
+Xi_an	ɯ	ɯ	n	
+Xi_an	ɤ	ɤ	n	
+Xi_an	o	o	n	
+Xi_an	uo	u o	m n	
+Xi_an	yo	y o	m n	
+Xi_an	ei	e i	n c	
+Xi_an	uei	u e i	m n c	
+Xi_an	ɑu	ɑ u	n c	
+Xi_an	iɑu	i ɑ u	m n c	
+Xi_an	ou	o u	n c	
+Xi_an	iou	i o u	m n c	
+Xi_an	ẽ	ẽ ∼	n c	
+Xi_an	iẽ	i ẽ ∼	m n c	
+Xi_an	uẽ	u ẽ ∼	m n c	
+Xi_an	yẽ	y ẽ ∼	m n c	
+Xi_an	æ̃	æ̃ ∼	n c	
+Xi_an	iæ̃	i æ̃ ∼	m n c	
+Xi_an	uæ̃	u æ̃ ∼	m n c	
+Xi_an	yæ̃	y æ̃ ∼	m n c	
+Xi_an	in	i n	n c	
+Xi_an	uən	u ə n	m n c	
+Xi_an	əŋ	ə ŋ	n c	
+Xi_an	iŋ	i ŋ	n c	
+Xi_an	uŋ	u ŋ	n c	
+Xi_an	yŋ	y ŋ	n c	
+Xi_an	ɑŋ	ɑ ŋ	n c	
+Xi_an	iɑŋ	i ɑ ŋ	m n c	
+Xi_an	uɑŋ	u ɑ ŋ	m n c	
+Xi_an	p	p	i	
+Xi_an	pʰ	pʰ	i	
+Xi_an	m	m	i	
+Xi_an	pf	pf	i	
+Xi_an	pfʰ	pfʰ	i	
+Xi_an	f	f	i	
+Xi_an	v	v	i	
+Xi_an	t	t	i	
+Xi_an	tʰ	tʰ	i	
+Xi_an	n	n	i	
+Xi_an	l	l	i	
+Xi_an	ts	ts	i	
+Xi_an	tsʰ	tsʰ	i	
+Xi_an	s	s	i	
+Xi_an	tʂ	ʈʂ	i	
+Xi_an	tʂʰ	ʈʂʰ	i	
+Xi_an	ʂ	ʂ	i	
+Xi_an	ʐ	ʐ	i	
+Xi_an	tɕ	tɕ	i	
+Xi_an	tɕʰ	tɕʰ	i	
+Xi_an	ȵ	ɲ	i	
+Xi_an	ɕ	ɕ	i	
+Xi_an	k	k	i	
+Xi_an	kʰ	kʰ	i	
+Xi_an	ŋ	ŋ	i	
+Xi_an	x	x	i	
+Xi_an	Ø	Ø	i	
+Chengdu	⁴⁵	⁴⁵	t	yinping, 55
+Chengdu	²¹	²¹	t	yangping
+Chengdu	⁵³	⁵³	t	shang
+Chengdu	²¹³	²¹³	t	qu
+Chengdu	ɿ	ɿ	n	
+Chengdu	i	i	n	
+Chengdu	u	u	n	
+Chengdu	y	y	n	
+Chengdu	ər	ə r	n c	
+Chengdu	a	a	n	
+Chengdu	ia	i a	m n	
+Chengdu	ua	u a	m n	
+Chengdu	o	o	n	
+Chengdu	yo	y o	m n	
+Chengdu	e	e	n	
+Chengdu	ie	i e	m n	
+Chengdu	ue	u e	m n	
+Chengdu	ye	y e	m n	
+Chengdu	iɛi	i ɛ i	m n c	
+Chengdu	ai	a i	n c	
+Chengdu	uai	u a i	m n c	
+Chengdu	ei	e i	n c	
+Chengdu	uei	u e i	m n c	
+Chengdu	au	a u	n c	
+Chengdu	iau	i a u	m n c	
+Chengdu	əu	ə u	n c	
+Chengdu	iəu	i ə u	m n c	
+Chengdu	an	a n	n c	
+Chengdu	iɛn	i ɛ n	m n c	
+Chengdu	uan	u a n	m n c	
+Chengdu	yan	y a n	m n c	
+Chengdu	ən	ə n	n c	
+Chengdu	in	i n	n c	
+Chengdu	uən	u ə n	m n c	
+Chengdu	yn	y n	n c	
+Chengdu	aŋ	a ŋ	n c	
+Chengdu	iaŋ	i a ŋ	m n c	
+Chengdu	uaŋ	u a ŋ	m n c	
+Chengdu	oŋ	o ŋ	n c	
+Chengdu	yoŋ	y o ŋ	m n c	
+Chengdu	p	p	i	
+Chengdu	pʰ	pʰ	i	
+Chengdu	m	m	i	
+Chengdu	f	f	i	
+Chengdu	t	t	i	
+Chengdu	tʰ	tʰ	i	
+Chengdu	n	n	i	
+Chengdu	l	l	i	n
+Chengdu	ts	ts	i	
+Chengdu	tsʰ	tsʰ	i	
+Chengdu	s	s	i	
+Chengdu	z	z	i	
+Chengdu	tɕ	tɕ	i	
+Chengdu	tɕʰ	tɕʰ	i	
+Chengdu	ȵ	ɲ	i	
+Chengdu	ɕ	ɕ	i	
+Chengdu	k	k	i	
+Chengdu	kʰ	kʰ	i	
+Chengdu	ŋ	ŋ	i	
+Chengdu	x	x	i	
+Chengdu	Ø	Ø	i	
+Nanjing	³¹	³¹	t	yinping
+Nanjing	¹³	¹³	t	yangping
+Nanjing	¹¹	¹¹	t	shang
+Nanjing	⁵⁵	⁵⁵	t	qu
+Nanjing	⁵	⁵	t	ru
+Nanjing	ɿ	ɿ	n	
+Nanjing	i	i	n	
+Nanjing	u	u	n	
+Nanjing	y	y	n	
+Nanjing	ʅ	ʅ	n	
+Nanjing	ər	ə r	n c	
+Nanjing	ɑ	ɑ	n	
+Nanjing	iɑ	i ɑ	m n	
+Nanjing	uɑ	u ɑ	m n	
+Nanjing	ə	ə	n	e
+Nanjing	ie	i e	m n	
+Nanjing	ye	y e	m n	
+Nanjing	o	o	n	
+Nanjing	ɛ	ɛ	n	
+Nanjing	iɛ	i ɛ	m n	
+Nanjing	uɛ	u ɛ	m n	
+Nanjing	ei	e i	n c	
+Nanjing	uei	u e i	m n c	
+Nanjing	ɔ	ɔ	n	
+Nanjing	iɔ	i ɔ	m n	
+Nanjing	əɯ	ə ɯ	n c	
+Nanjing	iəɯ	i ə ɯ	m n c	
+Nanjing	ən	ə n	n c	
+Nanjing	in	i n	n c	
+Nanjing	uən	u ə n	m n c	
+Nanjing	yn	y n	n c	
+Nanjing	ien	i e n	m n c	
+Nanjing	yen	y e n	m n c	
+Nanjing	ɑ̃	ɑ̃ ∼	n c	
+Nanjing	iɑ̃	i ɑ̃ ∼	m n c	
+Nanjing	uɑ̃	u ɑ̃ ∼	m n c	
+Nanjing	oŋ	o ŋ	n c	
+Nanjing	ioŋ	i o ŋ	m n c	
+Nanjing	ʅʔ	ʅ ʔ	n c	
+Nanjing	iʔ	i ʔ	n c	
+Nanjing	uʔ	u ʔ	n c	
+Nanjing	yʔ	y ʔ	n c	
+Nanjing	ɑʔ	ɑ ʔ	n c	
+Nanjing	iɑʔ	i ɑ ʔ	m n c	
+Nanjing	uɑʔ	u ɑ ʔ	m n c	
+Nanjing	əʔ	ə ʔ	n c	e?
+Nanjing	ieʔ	i e ʔ	m n c	
+Nanjing	ueʔ	u e ʔ	m n c	
+Nanjing	yeʔ	y e ʔ	m n c	
+Nanjing	oʔ	o ʔ	n c	
+Nanjing	ioʔ	i o ʔ	m n c	
+Nanjing	-m̩-	m m̩ ∼	i n c	
+Nanjing	-n̩-	n n̩ ∼	i n c	
+Nanjing	ŋ̍	ŋ̍	n	
+Nanjing	p	p	i	
+Nanjing	pʰ	pʰ	i	
+Nanjing	m	m	i	
+Nanjing	f	f	i	
+Nanjing	t	t	i	
+Nanjing	tʰ	tʰ	i	
+Nanjing	l	l	i	n, n\
+Nanjing	ts	ts	i	
+Nanjing	tsʰ	tsʰ	i	
+Nanjing	s	s	i	
+Nanjing	tʂ	ʈʂ	i	
+Nanjing	tʂʰ	ʈʂʰ	i	
+Nanjing	ʂ	ʂ	i	
+Nanjing	ʐ	ʐ	i	
+Nanjing	tɕ	tɕ	i	
+Nanjing	tɕʰ	tɕʰ	i	
+Nanjing	ɕ	ɕ	i	
+Nanjing	k	k	i	
+Nanjing	kʰ	kʰ	i	
+Nanjing	x	x	i	
+Nanjing	Ø	Ø	i	
+Jixi	⁵⁵	⁵⁵	t	yinping
+Jixi	⁴⁴	⁴⁴	t	yangping
+Jixi	²¹³	²¹³	t	shang
+Jixi	³⁵	³⁵	t	yinqu
+Jixi	³¹	³¹	t	yangqu
+Jixi	³²*	³²	t	ru
+Jixi	ɿ	ɿ	n	
+Jixi	i	i	n	
+Jixi	u	u	n	
+Jixi	y	y	n	
+Jixi	a	a	n	
+Jixi	ua	u a	m n	
+Jixi	ɔ	ɔ	n	
+Jixi	iɔ	i ɔ	m n	
+Jixi	uɔ	u ɔ	m n	
+Jixi	ɤ	ɤ	n	
+Jixi	ie	i e	m n	
+Jixi	o	o	n	
+Jixi	io	i o	n c	
+Jixi	ɵ	ɵ	n	
+Jixi	iɵ	i ɵ	m n	
+Jixi	ui	u i	m n	
+Jixi	ɑ̃	ɑ̃ ∼	n c	
+Jixi	iɑ̃	i ɑ̃ ∼	m n c	
+Jixi	uɑ̃	u ɑ̃ ∼	m n c	
+Jixi	yɑ̃	y ɑ̃ ∼	m n c	
+Jixi	ẽ	ẽ ∼	n c	
+Jixi	iẽ	i ẽ ∼	m n c	
+Jixi	yẽ	y ẽ ∼	m n c	
+Jixi	õ	õ ∼	n c	
+Jixi	iõ	i õ ∼	m n c	
+Jixi	aʔ	a ʔ	n c	
+Jixi	iaʔ	i a ʔ	m n c	
+Jixi	uaʔ	u a ʔ	m n c	
+Jixi	yaʔ	y a ʔ	m n c	
+Jixi	ɤʔ	ɤ ʔ	n c	
+Jixi	uɤʔ	u ɤ ʔ	m n c	
+Jixi	ieʔ	i e ʔ	m n c	
+Jixi	yeʔ	y e ʔ	m n c	
+Jixi	oʔ	o ʔ	n c	
+Jixi	yoʔ	y o ʔ	m n c	
+Jixi	-m̩-	m m̩ ∼	i n c	
+Jixi	-n̩-	n n̩ ∼	i n c	
+Jixi	p	p	i	
+Jixi	pʰ	pʰ	i	
+Jixi	m	m	i	
+Jixi	f	f	i	
+Jixi	v	v	i	
+Jixi	t	t	i	
+Jixi	tʰ	tʰ	i	
+Jixi	n	n	i	l
+Jixi	ts	ts	i	
+Jixi	tsʰ	tsʰ	i	
+Jixi	s	s	i	
+Jixi	tɕ	tɕ	i	
+Jixi	tɕʰ	tɕʰ	i	
+Jixi	ȵ	ɲ	i	
+Jixi	ɕ	ɕ	i	
+Jixi	k	k	i	
+Jixi	kʰ	kʰ	i	
+Jixi	ŋ	ŋ	i	
+Jixi	x	x	i	
+Jixi	Ø	Ø	i	
+Suzhou	⁴⁴	⁴⁴	t	yinping
+Suzhou	¹³	¹³	t	yangping
+Suzhou	⁵³	⁵³	t	shang
+Suzhou	⁴¹²	⁴¹²	t	yinqu, 511
+Suzhou	²³	²³	t	yangqu, 31
+Suzhou	⁴	⁴	t	yinru
+Suzhou	²³*	²³	t	yangru
+Suzhou	ɿ	ɿ	n	
+Suzhou	i	i	n	
+Suzhou	u	u	n	
+Suzhou	y	y	n	
+Suzhou	ʯ	ʯ	n	
+Suzhou	ɑ	ɑ	n	
+Suzhou	iɑ	i ɑ	m n	
+Suzhou	uɑ	u ɑ	m n	
+Suzhou	æ	æ	n	
+Suzhou	iæ	i æ	m n	
+Suzhou	ᴇ	ᴇ/e̞	n	
+Suzhou	uᴇ	u ᴇ/e̞	m n	
+Suzhou	o	o	n	
+Suzhou	io	i o	n c	
+Suzhou	²	²	t	
+Suzhou	iø	i ø	m n	
+Suzhou	uø	u ø	m n	
+Suzhou	iɪ	i ɪ	m n	
+Suzhou	ʏ	ʏ	n	
+Suzhou	iʏ	i ʏ	m n	
+Suzhou	əu	ə u	n c	
+Suzhou	əl	ə l	n c	
+Suzhou	ã	ã ∼	n c	
+Suzhou	iã	i ã ∼	m n c	
+Suzhou	uã	u ã ∼	m n c	
+Suzhou	ɑ̃	ɑ̃ ∼	n c	
+Suzhou	iɑ̃	i ɑ̃ ∼	m n c	
+Suzhou	uã	u ã ∼	m n c	
+Suzhou	ɛn	ɛ n	n c	
+Suzhou	in	i n	n c	
+Suzhou	uən	u ə n	m n c	
+Suzhou	yən	y ə n	m n c	
+Suzhou	ɔŋ	ɔ ŋ	n c	
+Suzhou	ioŋ	i o ŋ	m n c	
+Suzhou	aʔ	a ʔ	n c	
+Suzhou	iaʔ	i a ʔ	m n c	
+Suzhou	uaʔ	u a ʔ	m n c	
+Suzhou	yaʔ	y a ʔ	m n c	
+Suzhou	ɑʔ	ɑ ʔ	n c	
+Suzhou	iɑʔ	i ɑ ʔ	m n c	
+Suzhou	əʔ	ə ʔ	n c	
+Suzhou	iəʔ	i ə ʔ	m n c	
+Suzhou	uəʔ	u ə ʔ	m n c	
+Suzhou	yəʔ	y ə ʔ	m n c	
+Suzhou	oʔ	o ʔ	n c	
+Suzhou	ioʔ	i o ʔ	m n c	
+Suzhou	-m̩-	m m̩ ∼	i n c	
+Suzhou	-n̩-	n n̩ ∼	i n c	
+Suzhou	ŋ̍	ŋ̍	n	
+Suzhou	p	p	i	
+Suzhou	pʰ	pʰ	i	
+Suzhou	b	b	i	
+Suzhou	m	m	i	
+Suzhou	f	f	i	
+Suzhou	v	v	i	
+Suzhou	t	t	i	
+Suzhou	tʰ	tʰ	i	
+Suzhou	d	d	i	
+Suzhou	n	n	i	
+Suzhou	l	l	i	
+Suzhou	ts	ts	i	
+Suzhou	tsʰ	tsʰ	i	
+Suzhou	s	s	i	
+Suzhou	z	z	i	
+Suzhou	tɕ	tɕ	i	
+Suzhou	tɕʰ	tɕʰ	i	
+Suzhou	dʑ	dʑ	i	
+Suzhou	ȵ	ɲ	i	
+Suzhou	ɕ	ɕ	i	
+Suzhou	k	k	i	
+Suzhou	kʰ	kʰ	i	
+Suzhou	g	g	i	
+Suzhou	ŋ	ŋ	i	
+Suzhou	h	h	i	
+Suzhou	ɦ	ɦ	i	
+Suzhou	Ø	Ø	i	
+Wenzhou	⁴⁴	⁴⁴	t	yinping, 33
+Wenzhou	³⁴¹	³⁴¹	t	yangping, 31
+Wenzhou	²⁴²	²⁴²	t	yinshang, 35
+Wenzhou	²⁴	²⁴	t	yangshang, 24
+Wenzhou	⁵¹	⁵¹	t	yinqu, 42
+Wenzhou	²²	²²	t	yangqu, 11
+Wenzhou	⁴¹	⁴¹	t	yinru, 313
+Wenzhou	²¹	²¹	t	yangru, 212
+Wenzhou	ɿ	ɿ	n	
+Wenzhou	i	i	n	
+Wenzhou	u	u	n	
+Wenzhou	y	y	n	
+Wenzhou	a	a	n	
+Wenzhou	ia	i a	m n	
+Wenzhou	ua	u a	m n	
+Wenzhou	ɛ	ɛ	n	
+Wenzhou	iɛ	i ɛ	m n	
+Wenzhou	e	e	n	
+Wenzhou	ə	ə	n	
+Wenzhou	²	²	t	
+Wenzhou	uɔ	u ɔ	m n	
+Wenzhou	yɔ	y ɔ	m n	
+Wenzhou	o	o	n	
+Wenzhou	yo	y o	m n	
+Wenzhou	ai	a i	n c	
+Wenzhou	iai	i a i	m n c	
+Wenzhou	uai	u a i	m n c	
+Wenzhou	ei	e i	n c	
+Wenzhou	au	a u	n c	
+Wenzhou	iau	i a u	m n c	
+Wenzhou	ɤu	ɤ u	n c	
+Wenzhou	ieu	i e u	m n c	
+Wenzhou	øy	ø y	n N	
+Wenzhou	aŋ	a ŋ	n c	
+Wenzhou	iaŋ	i a ŋ	m n c	
+Wenzhou	uaŋ	u a ŋ	m n c	
+Wenzhou	eŋ	e ŋ	n c	
+Wenzhou	oŋ	o ŋ	n c	
+Wenzhou	yoŋ	y o ŋ	m n c	
+Wenzhou	-m̩-	m m̩ ∼	i n c	
+Wenzhou	-n̩-	n n̩ ∼	i n c	
+Wenzhou	ŋ̍	ŋ̍	n	
+Wenzhou	p	p	i	
+Wenzhou	pʰ	pʰ	i	
+Wenzhou	b	b	i	
+Wenzhou	m	m	i	
+Wenzhou	f	f	i	
+Wenzhou	v	v	i	
+Wenzhou	t	t	i	
+Wenzhou	tʰ	tʰ	i	
+Wenzhou	d	d	i	
+Wenzhou	n	n	i	
+Wenzhou	l	l	i	
+Wenzhou	ts	ts	i	
+Wenzhou	tsʰ	tsʰ	i	
+Wenzhou	dz	dz	i	
+Wenzhou	s	s	i	
+Wenzhou	z	z	i	
+Wenzhou	tɕ	tɕ	i	
+Wenzhou	tɕʰ	tɕʰ	i	
+Wenzhou	dʑ	dʑ	i	
+Wenzhou	ȵ	ɲ	i	
+Wenzhou	ɕ	ɕ	i	
+Wenzhou	j	j	i	
+Wenzhou	k	k	i	
+Wenzhou	kʰ	kʰ	i	
+Wenzhou	g	g	i	
+Wenzhou	ŋ	ŋ	i	
+Wenzhou	h	h	i	
+Wenzhou	ɦ	ɦ	i	
+Wenzhou	Ø	Ø	i	
+Changsha	³³	³³	t	yinping
+Changsha	¹³	¹³	t	yangping
+Changsha	⁴¹	⁴¹	t	shang
+Changsha	⁵⁵	⁵⁵	t	yinqu
+Changsha	¹¹	¹¹	t	yangqu
+Changsha	²⁴	²⁴	t	ru
+Changsha	ɿ	ɿ	n	
+Changsha	i	i	n	
+Changsha	u	u	n	
+Changsha	y	y	n	
+Changsha	ʅ	ʅ	n	
+Changsha	a	a	n	
+Changsha	ia	i a	m n	
+Changsha	ua	u a	m n	
+Changsha	ya	y a	m n	
+Changsha	o	o	n	
+Changsha	io	i o	n c	
+Changsha	ə	ə	n	
+Changsha	ie	i e	m n	
+Changsha	uə	u ə	m n	
+Changsha	ye	y e	m n	
+Changsha	ai	a i	n c	
+Changsha	uai	u a i	m n c	
+Changsha	yai	y a i	m n c	
+Changsha	ei	e i	n c	
+Changsha	uei	u e i	m n c	
+Changsha	yei	y e i	m n c	
+Changsha	au	a u	n c	
+Changsha	iau	i a u	m n c	
+Changsha	əu	ə u	n c	
+Changsha	iəu	i ə u	m n c	
+Changsha	ən	ə n	n c	
+Changsha	in	i n	n c	
+Changsha	uən	u ə n	m n c	
+Changsha	yn	y n	n c	
+Changsha	an	a n	n c	
+Changsha	ian	i a n	m n c	
+Changsha	uan	u a n	m n c	
+Changsha	yan	y a n	m n c	
+Changsha	oŋ	o ŋ	n c	@n
+Changsha	ioŋ	i o ŋ	m n c	in
+Changsha	õ	õ ∼	n c	
+Changsha	ə̃	ə̃ ∼	n c	
+Changsha	iẽ	i ẽ ∼	m n c	
+Changsha	yẽ	y ẽ ∼	m n c	
+Changsha	-m̩-	m m̩ ∼	i n c	
+Changsha	-n̩-	n n̩ ∼	i n c	
+Changsha	p	p	i	
+Changsha	pʰ	pʰ	i	
+Changsha	m	m	i	
+Changsha	f	f	i	
+Changsha	t	t	i	
+Changsha	tʰ	tʰ	i	
+Changsha	l	l	i	
+Changsha	ts	ts	i	ts`
+Changsha	tsʰ	tsʰ	i	ts`_h
+Changsha	s	s	i	s`
+Changsha	ʐ	ʐ	i	
+Changsha	tɕ	tɕ	i	
+Changsha	tɕʰ	tɕʰ	i	
+Changsha	ȵ	ɲ	i	
+Changsha	ɕ	ɕ	i	
+Changsha	k	k	i	
+Changsha	kʰ	kʰ	i	
+Changsha	ŋ	ŋ	i	
+Changsha	x	x	i	
+Changsha	Ø	Ø	i	
+Loudi	⁴⁴	⁴⁴	t	yinping
+Loudi	¹³	¹³	t	yangping
+Loudi	⁴²	⁴²	t	shang
+Loudi	³⁵	³⁵	t	yinqu
+Loudi	¹¹	¹¹	t	yangqu
+Loudi	ɿ	ɿ	n	
+Loudi	u	u	n	
+Loudi	u	u	n	
+Loudi	y	y	n	
+Loudi	a	a	n	
+Loudi	ia	i a	m n	
+Loudi	ua	u a	m n	
+Loudi	e	e	n	
+Loudi	ie	i e	m n	
+Loudi	ue	u e	m n	
+Loudi	o	o	n	
+Loudi	io	i o	n c	
+Loudi	ɔ	ɔ	n	
+Loudi	iɔ	i ɔ	m n	
+Loudi	ɤ	ɤ	n	
+Loudi	iɤ	i ɤ	m n	
+Loudi	ɤu	ɤ u	n c	
+Loudi	ui	u i	m n	
+Loudi	ã	ã ∼	n c	
+Loudi	uã	u ã ∼	m n c	
+Loudi	ẽ	ẽ ∼	n c	
+Loudi	uẽ	u ẽ ∼	m n c	
+Loudi	iæ	i æ	m n	
+Loudi	uĩ	u ĩ ∼	m n c	
+Loudi	yĩ	y ĩ ∼	m n c	
+Loudi	in	i n	n c	
+Loudi	un	u n	n c	
+Loudi	yn	y n	n c	
+Loudi	ɔŋ	ɔ ŋ	n c	
+Loudi	iɔŋ	i ɔ ŋ	m n c	
+Loudi	uɔŋ	u ɔ ŋ	m n c	
+Loudi	ɤn	ɤ n	n c	
+Loudi	iɤŋ	i ɤ ŋ	m n c	
+Loudi	ɔ̃	ɔ̃ ∼	n c	
+Loudi	iɔ̃	i ɔ̃ ∼	m n c	
+Loudi	-m̩-	m m̩ ∼	i n c	
+Loudi	-n̩-	n n̩ ∼	i n c	
+Loudi	ŋ̍	ŋ̍	n	
+Loudi	p	p	i	
+Loudi	pʰ	pʰ	i	
+Loudi	b	b	i	
+Loudi	m	m	i	
+Loudi	t	t	i	
+Loudi	tʰ	tʰ	i	
+Loudi	d	d	i	
+Loudi	n	n	i	
+Loudi	l	l	i	
+Loudi	ts	ts	i	
+Loudi	tsʰ	tsʰ	i	
+Loudi	dz	dz	i	
+Loudi	s	s	i	
+Loudi	tɕ	tɕ	i	
+Loudi	tɕʰ	tɕʰ	i	
+Loudi	dʑ	dʑ	i	
+Loudi	ɕ	ɕ	i	
+Loudi	ʑ	ʑ	i	
+Loudi	k	k	i	
+Loudi	kʰ	kʰ	i	
+Loudi	ŋ	ŋ	i	
+Loudi	x	x	i	
+Loudi	ɤ	ɤ	n	[sic! G]
+Loudi	Ø	Ø	i	
+Nanchang	⁴²	⁴²	t	yinping, 445
+Nanchang	²⁴	²⁴	t	yangping
+Nanchang	²¹³	²¹³	t	shang
+Nanchang	⁴⁵	⁴⁵	t	yangqu
+Nanchang	²¹	²¹	t	yinqu
+Nanchang	⁵	⁵	t	yinru
+Nanchang	²¹*	²¹	t	yangru
+Nanchang	ɿ	ɿ	n	
+Nanchang	i	i	n	
+Nanchang	u	u	n	
+Nanchang	y	y	n	
+Nanchang	ɵ	ɵ	n	
+Nanchang	a	a	n	
+Nanchang	ia	i a	m n	
+Nanchang	ua	u a	m n	
+Nanchang	o	o	n	
+Nanchang	uo	u o	m n	
+Nanchang	e	e	n	
+Nanchang	ie	i e	m n	
+Nanchang	ue	u e	m n	ø
+Nanchang	ye	y e	m n	
+Nanchang	ai	a i	n c	
+Nanchang	uai	u a i	m n c	
+Nanchang	oi	o i	n c	ø
+Nanchang	ei	e i	n c	
+Nanchang	ɨi	ɨ i	n c	
+Nanchang	ui	u i	m n	
+Nanchang	au	a u	n c	
+Nanchang	iɛu	i ɛ u	m n c	
+Nanchang	ɛu	ɛ u	n c	
+Nanchang	ɨu	ɨ u	n c	
+Nanchang	iu	i u	m n	
+Nanchang	an	a n	n c	
+Nanchang	uan	u a n	m n c	
+Nanchang	on	o n	n c	
+Nanchang	uon	u o n	m n c	
+Nanchang	yon	y o n	m n c	
+Nanchang	ɛn	ɛ n	n c	
+Nanchang	iɛn	i ɛ n	m n c	
+Nanchang	ɨn	ɨ n	n c	
+Nanchang	in	i n	n c	
+Nanchang	uon	u o n	m n c	
+Nanchang	yn	y n	n c	
+Nanchang	aŋ	a ŋ	n c	
+Nanchang	iaŋ	i a ŋ	m n c	
+Nanchang	uaŋ	u a ŋ	m n c	
+Nanchang	ɔŋ	ɔ ŋ	n c	
+Nanchang	iɔŋ	i ɔ ŋ	m n c	
+Nanchang	uɔŋ	u ɔ ŋ	m n c	
+Nanchang	iuŋ	i u ŋ	m n c	
+Nanchang	uŋ	u ŋ	n c	
+Nanchang	at	a t	n c	
+Nanchang	uat	u a t	m n c	
+Nanchang	ot	o t	n c	
+Nanchang	uot	u o t	m n c	
+Nanchang	yot	y o t	m n c	yet
+Nanchang	ɛt	ɛ t	n c	
+Nanchang	iɛt	i ɛ t	m n c	
+Nanchang	uɛt	u ɛ t	m n c	
+Nanchang	ɨt	ɨ t	n c	
+Nanchang	it	i t	n c	
+Nanchang	ut	u t	n c	
+Nanchang	yt	y t	n c	
+Nanchang	aʔ	a ʔ	n c	
+Nanchang	iaʔ	i a ʔ	m n c	
+Nanchang	uaʔ	u a ʔ	m n c	Ø
+Nanchang	ɔʔ	ɔ ʔ	n c	
+Nanchang	iɔʔ	i ɔ ʔ	m n c	Ø
+Nanchang	uoʔ	u o ʔ	m n c	
+Nanchang	uʔ	u ʔ	n c	
+Nanchang	iuʔ	i u ʔ	m n c	
+Nanchang	-m̩-	m m̩ ∼	i n c	Ø
+Nanchang	-n̩-	n n̩ ∼	i n c	
+Nanchang	ŋ̍	ŋ̍	n	
+Nanchang	p	p	i	
+Nanchang	pʰ	pʰ	i	
+Nanchang	m	m	i	
+Nanchang	f	f	i	
+Nanchang	t	t	i	
+Nanchang	tʰ	tʰ	i	
+Nanchang	l	l	i	
+Nanchang	ts	ts	i	
+Nanchang	tsʰ	tsʰ	i	
+Nanchang	s	s	i	
+Nanchang	tɕ	tɕ	i	
+Nanchang	tɕʰ	tɕʰ	i	
+Nanchang	ȵ	ɲ	i	
+Nanchang	ɕ	ɕ	i	
+Nanchang	k	k	i	
+Nanchang	kʰ	kʰ	i	
+Nanchang	ŋ	ŋ	i	
+Nanchang	h	h	i	
+Nanchang	Ø	Ø	i	
+Meixian	³³	³³	t	yinping
+Meixian	¹¹	¹¹	t	yangping
+Meixian	³¹	³¹	t	shang
+Meixian	⁵³	⁵³	t	qu
+Meixian	¹	¹	t	yinru
+Meixian	⁵	⁵	t	yangru
+Meixian	ɿ	ɿ	n	
+Meixian	i	i	n	
+Meixian	u	u	n	
+Meixian	a	a	n	
+Meixian	ia	i a	m n	
+Meixian	ua	u a	m n	
+Meixian	e	e	n	
+Meixian	ie	i e	m n	
+Meixian	o	o	n	
+Meixian	io	i o	n c	
+Meixian	uo	u o	m n	
+Meixian	ai	a i	n c	
+Meixian	iai	i a i	m n c	
+Meixian	uai	u a i	m n c	
+Meixian	oi	o i	n c	
+Meixian	iui	i u i	m n c	
+Meixian	ui	u i	m n	
+Meixian	au	a u	n c	
+Meixian	iau	i a u	m n c	
+Meixian	eu	e u	n c	
+Meixian	iu	i u	m n	
+Meixian	əm	ə m	n c	
+Meixian	im	i m	n c	
+Meixian	am	a m	n c	
+Meixian	iam	i a m	m n c	
+Meixian	em	e m	n c	
+Meixian	ən	ə n	n c	
+Meixian	in	i n	n c	
+Meixian	an	a n	n c	
+Meixian	ian	i a n	m n c	
+Meixian	uan	u a n	m n c	
+Meixian	en	e n	n c	
+Meixian	ien	i e n	m n c	
+Meixian	uen	u e n	m n c	
+Meixian	on	o n	n c	
+Meixian	ion	i o n	m n c	
+Meixian	uon	u o n	m n c	uOn
+Meixian	iun	i u n	m n c	
+Meixian	un	u n	n c	
+Meixian	aŋ	a ŋ	n c	
+Meixian	iaŋ	i a ŋ	m n c	
+Meixian	uaŋ	u a ŋ	m n c	
+Meixian	oŋ	o ŋ	n c	ON
+Meixian	ioŋ	i o ŋ	m n c	iON
+Meixian	uoŋ	u o ŋ	m n c	uON
+Meixian	iuŋ	i u ŋ	m n c	
+Meixian	uŋ	u ŋ	n c	
+Meixian	əp	ə p	n c	
+Meixian	ip	i p	n c	
+Meixian	ap	a p	n c	
+Meixian	iap	i a p	m n c	
+Meixian	ep	e p	n c	
+Meixian	ət	ə t	n c	
+Meixian	it	i t	n c	
+Meixian	at	a t	n c	
+Meixian	iat	i a t	m n c	
+Meixian	uat	u a t	m n c	
+Meixian	et	e t	n c	
+Meixian	iet	i e t	m n c	
+Meixian	uet	u e t	m n c	
+Meixian	ot	o t	n c	Ot
+Meixian	iut	i u t	m n c	
+Meixian	ut	u t	n c	
+Meixian	ak	a k	n c	
+Meixian	iak	i a k	m n c	
+Meixian	uak	u a k	m n c	
+Meixian	ok	o k	n c	Ok
+Meixian	iok	i o k	m n c	iOk
+Meixian	uok	u o k	m n c	uOk
+Meixian	iuk	i u k	m n c	
+Meixian	uk	u k	n c	
+Meixian	-m̩-	m m̩ ∼	i n c	
+Meixian	-n̩-	n n̩ ∼	i n c	
+Meixian	p	p	i	
+Meixian	pʰ	pʰ	i	
+Meixian	m	m	i	
+Meixian	f	f	i	
+Meixian	v	v	i	v\
+Meixian	t	t	i	
+Meixian	tʰ	tʰ	i	
+Meixian	n	n	i	
+Meixian	l	l	i	
+Meixian	ts	ts	i	tc\/_i
+Meixian	tsʰ	tsʰ	i	tc\_h/_i
+Meixian	s	s	i	c\/_i
+Meixian	k	k	i	c
+Meixian	kʰ	kʰ	i	c_h
+Meixian	ŋ	ŋ	i	J
+Meixian	h	h	i	C
+Meixian	Ø	Ø	i	
+Guilin	⁴²	⁴²	t	yinping
+Guilin	²²	²²	t	yangping
+Guilin	²³	²³	t	shang
+Guilin	²⁵	²⁵	t	yinqu
+Guilin	²¹	²¹	t	yangqu
+Guilin	⁵⁵	⁵⁵	t	yinru
+Guilin	ɿ	ɿ	n	
+Guilin	i	i	n	
+Guilin	u	u	n	
+Guilin	y	y	n	
+Guilin	ᴀ	ᴀ/ä	n	
+Guilin	iᴀ	i ᴀ/ä	m n	
+Guilin	uᴀ	u ᴀ/ä	m n	
+Guilin	e	e	n	
+Guilin	ie	i e	m n	
+Guilin	ye	y e	m n	
+Guilin	ɤ	ɤ	n	
+Guilin	uo	u o	m n	
+Guilin	ai	a i	n c	
+Guilin	uai	u a i	m n c	
+Guilin	ou	o u	n c	
+Guilin	iou	i o u	m n c	
+Guilin	ei	e i	n c	
+Guilin	uei	u e i	m n c	
+Guilin	ɑu	ɑ u	n c	
+Guilin	iɑu	i ɑ u	m n c	
+Guilin	ã	ã ∼	n c	
+Guilin	iã	i ã ∼	m n c	iE~
+Guilin	uã	u ã ∼	m n c	
+Guilin	yã	y ã ∼	m n c	yE~
+Guilin	ɤn	ɤ n	n c	
+Guilin	iŋ	i ŋ	n c	
+Guilin	uɤŋ	u ɤ ŋ	m n c	
+Guilin	yŋ	y ŋ	n c	
+Guilin	ɑŋ	ɑ ŋ	n c	
+Guilin	iɑŋ	i ɑ ŋ	m n c	
+Guilin	uɑŋ	u ɑ ŋ	m n c	
+Guilin	ŋ̍	ŋ̍	n	
+Guilin	p	p	i	
+Guilin	pʰ	pʰ	i	
+Guilin	m	m	i	
+Guilin	f	f	i	
+Guilin	t	t	i	
+Guilin	tʰ	tʰ	i	
+Guilin	l	l	i	n
+Guilin	ts	ts	i	
+Guilin	tsʰ	tsʰ	i	
+Guilin	s	s	i	
+Guilin	tɕ	tɕ	i	
+Guilin	tɕʰ	tɕʰ	i	
+Guilin	ɕ	ɕ	i	
+Guilin	k	k	i	
+Guilin	kʰ	kʰ	i	
+Guilin	ŋ	ŋ	i	
+Guilin	x	x	i	
+Guilin	Ø	Ø	i	
+Guangzhou	⁵³	⁵³	t	yinping, 55
+Guangzhou	²¹	²¹	t	yangping
+Guangzhou	³⁵	³⁵	t	yinshang
+Guangzhou	²³	²³	t	yangshang
+Guangzhou	³³	³³	t	yinqu
+Guangzhou	²²	²²	t	yangqu
+Guangzhou	⁵	⁵	t	shangyinru
+Guangzhou	³	³	t	xiayinru
+Guangzhou	²	²	t	yangru
+Guangzhou	i	i	n	
+Guangzhou	u	u	n	
+Guangzhou	y	y	n	
+Guangzhou	a	a	n	
+Guangzhou	ia	i a	m n	Ø
+Guangzhou	ua	u a	m n	
+Guangzhou	ɛ	ɛ	n	
+Guangzhou	iɛ	i ɛ	m n	
+Guangzhou	uɛ	u ɛ	m n	Ø
+Guangzhou	œ	œ	n	
+Guangzhou	ɔ	ɔ	n	
+Guangzhou	uɔ	u ɔ	m n	
+Guangzhou	ai	a i	n c	
+Guangzhou	iai	i a i	m n c	Ø
+Guangzhou	uai	u a i	m n c	
+Guangzhou	ɔi	ɔ i	n c	
+Guangzhou	ɐi	ɐ i	n c	
+Guangzhou	iɐi	i ɐ i	m n c	
+Guangzhou	uɐi	u ɐ i	m n c	
+Guangzhou	ei	e i	n c	
+Guangzhou	ui	u i	m n	
+Guangzhou	au	a u	n c	
+Guangzhou	iau	i a u	m n c	Ø
+Guangzhou	ɐu	ɐ u	n c	
+Guangzhou	iɐu	i ɐ u	m n c	
+Guangzhou	ou	o u	n c	
+Guangzhou	iu	i u	m n	
+Guangzhou	øy	ø y	n N	
+Guangzhou	iøy	i ø y	m n c	
+Guangzhou	am	a m	n c	
+Guangzhou	iam	i a m	m n c	Ø
+Guangzhou	ɐm	ɐ m	n c	
+Guangzhou	iɐm	i ɐ m	m n c	
+Guangzhou	im	i m	n c	
+Guangzhou	an	a n	n c	
+Guangzhou	uan	u a n	m n c	
+Guangzhou	ɐn	ɐ n	n c	
+Guangzhou	iɐn	i ɐ n	m n c	
+Guangzhou	uɐn	u ɐ n	m n c	
+Guangzhou	øn	ø n	n c	
+Guangzhou	iøn	i ø n	m n c	
+Guangzhou	ɔn	ɔ n	n c	
+Guangzhou	in	i n	n c	
+Guangzhou	un	u n	n c	
+Guangzhou	yn	y n	n c	
+Guangzhou	an	a n	n c	
+Guangzhou	iaŋ	i a ŋ	m n c	Ø
+Guangzhou	uaŋ	u a ŋ	m n c	
+Guangzhou	ɐn	ɐ n	n c	
+Guangzhou	uɐn	u ɐ n	m n c	Ø
+Guangzhou	ɛŋ	ɛ ŋ	n c	
+Guangzhou	iɛŋ	i ɛ ŋ	m n c	
+Guangzhou	eŋ	e ŋ	n c	
+Guangzhou	ieŋ	i e ŋ	m n c	
+Guangzhou	ueŋ	u e ŋ	m n c	
+Guangzhou	œŋ	œ ŋ	n c	
+Guangzhou	iœŋ	i œ ŋ	m n c	
+Guangzhou	ɔŋ	ɔ ŋ	n c	
+Guangzhou	uɔŋ	u ɔ ŋ	m n c	
+Guangzhou	oŋ	o ŋ	n c	
+Guangzhou	ioŋ	i o ŋ	m n c	
+Guangzhou	ap	a p	n c	
+Guangzhou	iap	i a p	m n c	Ø
+Guangzhou	ɐp	ɐ p	n c	
+Guangzhou	iap	i a p	m n c	
+Guangzhou	ip	i p	n c	
+Guangzhou	at	a t	n c	
+Guangzhou	uat	u a t	m n c	
+Guangzhou	ɐt	ɐ t	n c	
+Guangzhou	iɐt	i ɐ t	m n c	
+Guangzhou	uɐt	u ɐ t	m n c	
+Guangzhou	øt	ø t	n c	
+Guangzhou	iøt	i ø t	m n c	Ø
+Guangzhou	ɔt	ɔ t	n c	
+Guangzhou	it	i t	n c	
+Guangzhou	ut	u t	n c	
+Guangzhou	yt	y t	n c	
+Guangzhou	ak	a k	n c	
+Guangzhou	iak	i a k	m n c	Ø
+Guangzhou	uak	u a k	m n c	
+Guangzhou	ɐk	ɐ k	n c	
+Guangzhou	ɛk	ɛ k	n c	
+Guangzhou	iɛk	i ɛ k	m n c	Ø
+Guangzhou	ek	e k	n c	
+Guangzhou	iek	i e k	m n c	
+Guangzhou	uek	u e k	m n c	Ø
+Guangzhou	œk	œ k	n c	
+Guangzhou	iœk	i œ k	m n c	
+Guangzhou	ɔk	ɔ k	n c	
+Guangzhou	uɔk	u ɔ k	m n c	
+Guangzhou	ok	o k	n c	
+Guangzhou	iok	i o k	m n c	
+Guangzhou	-m̩-	m m̩ ∼	i n c	
+Guangzhou	ŋ̍	ŋ̍	n	
+Guangzhou	p	p	i	
+Guangzhou	pʰ	pʰ	i	
+Guangzhou	m	m	i	
+Guangzhou	f	f	i	
+Guangzhou	t	t	i	
+Guangzhou	tʰ	tʰ	i	
+Guangzhou	n	n	i	
+Guangzhou	l	l	i	
+Guangzhou	ts	ts	i	
+Guangzhou	tsʰ	tsʰ	i	
+Guangzhou	s	s	i	
+Guangzhou	k	k	i	
+Guangzhou	kʰ	kʰ	i	
+Guangzhou	ŋ	ŋ	i	
+Guangzhou	h	h	i	
+Guangzhou	Ø	Ø	i	
+Fuzhou	⁵⁵	⁵⁵	t	yinping
+Fuzhou	⁵³	⁵³	t	yangping
+Fuzhou	³²	³²	t	shang
+Fuzhou	²¹²	²¹²	t	yinqu
+Fuzhou	²⁴²	²⁴²	t	yangqu
+Fuzhou	²⁴*	²⁴	t	yinru
+Fuzhou	⁵	⁵	t	yangru
+Fuzhou	i	i	n	Ei
+Fuzhou	u	u	n	ou
+Fuzhou	y	y	n	2y
+Fuzhou	a	a	n	A
+Fuzhou	ia	i a	m n	iA
+Fuzhou	ua	u a	m n	uA
+Fuzhou	ɛ	ɛ	n	A
+Fuzhou	ie	i e	m n	iE
+Fuzhou	o	o	n	O
+Fuzhou	uo	u o	m n	uO
+Fuzhou	yo	y o	m n	yO
+Fuzhou	œ	œ	n	O
+Fuzhou	ai	a i	n c	Ai
+Fuzhou	uai	u a i	m n c	uAi
+Fuzhou	au	a u	n c	Au
+Fuzhou	iau	i a u	m n c	
+Fuzhou	ɛu	ɛ u	n c	eu
+Fuzhou	ieu	i e u	m n c	iEu
+Fuzhou	uoi	u o i	m n c	uOi
+Fuzhou	øy	ø y	n N	Oy
+Fuzhou	aŋ	a ŋ	n c	AN
+Fuzhou	iŋ	i ŋ	n c	EiN
+Fuzhou	uŋ	u ŋ	n c	ouN
+Fuzhou	yŋ	y ŋ	n c	2yN
+Fuzhou	iaŋ	i a ŋ	m n c	iAN
+Fuzhou	uaŋ	u a ŋ	m n c	uAN
+Fuzhou	ieŋ	i e ŋ	m n c	iEN
+Fuzhou	ɛiŋ	ɛ i ŋ	n N c	aiN
+Fuzhou	uoŋ	u o ŋ	m n c	uON
+Fuzhou	yoŋ	y o ŋ	m n c	yON
+Fuzhou	ouŋ	o u ŋ	n N c	OuN
+Fuzhou	øyŋ	ø y ŋ	n N c	OyN
+Fuzhou	iʔ	i ʔ	n c	Ei?
+Fuzhou	uʔ	u ʔ	n c	ou?
+Fuzhou	yʔ	y ʔ	n c	2y?
+Fuzhou	aʔ	a ʔ	n c	A?
+Fuzhou	iaʔ	i a ʔ	m n c	iA?
+Fuzhou	uaʔ	u a ʔ	m n c	uA?
+Fuzhou	ɛʔ	ɛ ʔ	n c	A?
+Fuzhou	ieʔ	i e ʔ	m n c	iE?
+Fuzhou	oʔ	o ʔ	n c	O?
+Fuzhou	uoʔ	u o ʔ	m n c	uO?
+Fuzhou	yoʔ	y o ʔ	m n c	yO?
+Fuzhou	œʔ	œ ʔ	n c	
+Fuzhou	ɛiʔ	ɛ i ʔ	n N c	ai?
+Fuzhou	ouʔ	o u ʔ	n N c	Ou?
+Fuzhou	øyʔ	ø y ʔ	n N c	Oy?
+Fuzhou	-m̩-	m m̩ ∼	i n c	n=/N=
+Fuzhou	p	p	i	
+Fuzhou	pʰ	pʰ	i	
+Fuzhou	m	m	i	
+Fuzhou	t	t	i	
+Fuzhou	tʰ	tʰ	i	
+Fuzhou	n	n	i	
+Fuzhou	l	l	i	n
+Fuzhou	ts	ts	i	
+Fuzhou	tsʰ	tsʰ	i	
+Fuzhou	s	s	i	
+Fuzhou	k	k	i	
+Fuzhou	kʰ	kʰ	i	
+Fuzhou	ŋ	ŋ	i	
+Fuzhou	h	h	i	
+Fuzhou	Ø	Ø	i	
+Fuzhou	β	β	i	/T#_
+Fuzhou	ʒ	ʒ	i	/T#_
+Xiamen	⁵⁵	⁵⁵	t	yinping
+Xiamen	²⁴	²⁴	t	yangping
+Xiamen	⁵³	⁵³	t	yangshang
+Xiamen	²¹	²¹	t	yinqu
+Xiamen	²²	²²	t	yangqu
+Xiamen	³²*	³²	t	yinru
+Xiamen	⁵	⁵	t	yangru
+Xiamen	i	i	n	
+Xiamen	u	u	n	
+Xiamen	a	a	n	
+Xiamen	ia	i a	m n	
+Xiamen	ua	u a	m n	
+Xiamen	o	o	n	
+Xiamen	io	i o	n c	
+Xiamen	e	e	n	
+Xiamen	ue	u e	m n	
+Xiamen	ɔ	ɔ	n	
+Xiamen	ɔ̃	ɔ̃ ∼	n c	
+Xiamen	iu	i u	m n	
+Xiamen	ui	u i	m n	
+Xiamen	ai	a i	n c	
+Xiamen	uai	u a i	m n c	
+Xiamen	ãi	ã i ∼	n N c	
+Xiamen	uãi	u ã i ∼	m n N c	
+Xiamen	au	a u	n c	
+Xiamen	iau	i a u	m n c	
+Xiamen	ãu	ã u ∼	n N c	
+Xiamen	iãu	i ã u ∼	m n N c	
+Xiamen	am	a m	n c	
+Xiamen	iam	i a m	m n c	
+Xiamen	an	a n	n c	
+Xiamen	ian	i a n	m n c	
+Xiamen	uan	u a n	m n c	
+Xiamen	ã	ã ∼	n c	
+Xiamen	iã	i ã ∼	m n c	
+Xiamen	uã	u ã ∼	m n c	
+Xiamen	aŋ	a ŋ	n c	
+Xiamen	iaŋ	i a ŋ	m n c	
+Xiamen	ɔŋ	ɔ ŋ	n c	
+Xiamen	iɔŋ	i ɔ ŋ	m n c	
+Xiamen	im	i m	n c	
+Xiamen	in	i n	n c	
+Xiamen	un	u n	n c	
+Xiamen	iŋ	i ŋ	n c	
+Xiamen	iæ	i æ	m n	
+Xiamen	uĩ	u ĩ ∼	m n c	
+Xiamen	ẽ	ẽ ∼	n c	
+Xiamen	iũ	i ũ ∼	m n c	
+Xiamen	ip	i p	n c	
+Xiamen	ap	a p	n c	
+Xiamen	iap	i a p	m n c	
+Xiamen	at	a t	n c	
+Xiamen	iat	i a t	m n c	
+Xiamen	uat	u a t	m n c	
+Xiamen	ak	a k	n c	
+Xiamen	iak	i a k	m n c	
+Xiamen	ɔk	ɔ k	n c	
+Xiamen	iɔk	i ɔ k	m n c	
+Xiamen	it	i t	n c	
+Xiamen	ut	u t	n c	
+Xiamen	ik	i k	n c	
+Xiamen	aʔ	a ʔ	n c	
+Xiamen	iaʔ	i a ʔ	m n c	
+Xiamen	uaʔ	u a ʔ	m n c	
+Xiamen	ɔʔ	ɔ ʔ	n c	
+Xiamen	oʔ	o ʔ	n c	
+Xiamen	ioʔ	i o ʔ	m n c	
+Xiamen	eʔ	e ʔ	n c	
+Xiamen	ueʔ	u e ʔ	m n c	
+Xiamen	ãʔ	ã ʔ	n c	
+Xiamen	ẽʔ	ẽ ʔ	n c	
+Xiamen	uẽʔ	u ẽ ∼ ʔ	m n c c	
+Xiamen	ɔʔ	ɔ ʔ	n c	
+Xiamen	uaiʔ	u a i ʔ	m n N c	
+Xiamen	uãiʔ	u ã i ∼ ʔ	m n N c c	
+Xiamen	ãuʔ	ã u ∼ ʔ	n N c c	
+Xiamen	iãuʔ	i ã u ʔ	m n N c	
+Xiamen	auʔ	au ʔ	n c	
+Xiamen	iauʔ	i a u ʔ	m n N c	
+Xiamen	-m̩ʔ	m m̩ ∼ ʔ	i n c c	
+Xiamen	-n̩ʔ	n n̩ ∼ ʔ	i n c c	
+Xiamen	iʔ	i ʔ	n c	
+Xiamen	uʔ	u ʔ	n c	
+Xiamen	iæʔ	i æ ʔ	m n c	
+Xiamen	uiʔ	u i ʔ	m n c	
+Xiamen	iuʔ	i u ʔ	m n c	
+Xiamen	-m̩-	m m̩ ∼	i n c	
+Xiamen	ŋ̍	ŋ̍	n	
+Xiamen	p	p	i	
+Xiamen	pʰ	pʰ	i	
+Xiamen	m	m	i	
+Xiamen	b	b	i	
+Xiamen	t	t	i	
+Xiamen	tʰ	tʰ	i	
+Xiamen	n	n	i	
+Xiamen	l	l	i	
+Xiamen	ts	ts	i	
+Xiamen	tsʰ	tsʰ	i	
+Xiamen	s	s	i	
+Xiamen	k	k	i	
+Xiamen	kʰ	kʰ	i	
+Xiamen	ŋ	ŋ	i	
+Xiamen	h	h	i	
+Xiamen	g	g	i	
+Xiamen	Ø	Ø	i	

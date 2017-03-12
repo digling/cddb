@@ -9,7 +9,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 1484	Luobenzhuo	Buddha	2061	we⁴²	w e ⁴²	i n t	1109
 1485	Zhoucheng	Buddha	2061	ve⁴²	v e ⁴²	i n t	1109
 3673	Jianchuan	CLS for axe	2083	tsʰɤ³¹	tsʰ ɤ ³¹	i n t	1431
-3674	Eryuan	CLS for axe	2083	tʂʰɤ³¹	tʂʰ ɤ ³¹	i n t	1431
+3674	Eryuan	CLS for axe	2083	tʂʰɤ³¹	ʈʂʰ ɤ ³¹	i n t	1431
 3675	Heqing	CLS for axe	2083	tɕʰuɔ³¹	tɕʰ u ɔ ³¹	i m n t	1431
 3676	Lanping	CLS for axe	2083	tsʰɛ⁴²	tsʰ ɛ ⁴²	i n t	1431
 3677	Qiliqiao	CLS for axe	2083	tsʰɤ³¹	tsʰ ɤ ³¹	i n t	1431
@@ -96,7 +96,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 3686	Qiliqiao	CLS for rope	2084	ɲiɔ³²	ɲ i ɔ ³²	i m n t	1432
 3687	Yunlong	CLS for rope	2084	ɲɯ⁴²	ɲ ɯ ⁴²	i n t	1432
 3688	Xiangyun	CLS for rope	2084	tɕɛ⁴⁴	tɕ ɛ ⁴⁴	i n t	1433
-3689	Luobenzhuo	CLS for rope	2084	tʂæ⁵⁵	tʂ æ ⁵⁵	i n t	1433
+3689	Luobenzhuo	CLS for rope	2084	tʂæ⁵⁵	ʈʂ æ ⁵⁵	i n t	1433
 3690	Zhoucheng	CLS for rope	2084	ɲɯ³²	ɲ ɯ ³²	i n t	1432
 3691	Jianchuan	CLS for stick	2085	kua⁴⁴	k u a ⁴⁴	i m n t	1434
 3692	Eryuan	CLS for stick	2085	kua⁴⁴	k u a ⁴⁴	i m n t	1434
@@ -195,7 +195,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 986	Qiliqiao	animal oil	1282	tsɿ³⁵	ts ɿ ³⁵	i n t	192
 987	Yunlong	animal oil	1282	tsɿ³⁵	ts ɿ ³⁵	i n t	192
 988	Xiangyun	animal oil	1282	tsɿ³⁵	ts ɿ ³⁵	i n t	192
-989	Luobenzhuo	animal oil	1282	tʂʅ⁵⁵	tʂ ʅ ⁵⁵	i n t	192
+989	Luobenzhuo	animal oil	1282	tʂʅ⁵⁵	ʈʂ ʅ ⁵⁵	i n t	192
 990	Zhoucheng	animal oil	1282	tsɿ³⁵	ts ɿ ³⁵	i n t	192
 2359	Jianchuan	answer	1275	ta⁵⁵jɯ̃⁴⁴	t a ⁵⁵ + j ɯ̃ ∼ ⁴⁴	i n t + i n c t	1215 1216
 2360	Eryuan	answer	1275	ta³⁵jɯ⁴⁴	t a ³⁵ + j ɯ ⁴⁴	i n t + i n t	1215 1216
@@ -231,7 +231,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 2354	Qiliqiao	ask	1309	piɛ⁴⁴	p i ɛ ⁴⁴	i m n t	6
 2355	Yunlong	ask	1309	piɛ⁴⁴	p i ɛ ⁴⁴	i m n t	6
 2356	Xiangyun	ask	1309	piɛ⁴⁴	p i ɛ ⁴⁴	i m n t	6
-2357	Luobenzhuo	ask	1309	ʧua⁴⁴	ʧ u a ⁴⁴	i m n t	6
+2357	Luobenzhuo	ask	1309	ʧua⁴⁴	tʃ u a ⁴⁴	i m n t	6
 2358	Zhoucheng	ask	1309	piɛ⁴⁴	p i ɛ ⁴⁴	i m n t	6
 3178	Jianchuan	bad	1292	xe⁴⁴	x e ⁴⁴	i n t	7
 3179	Eryuan	bad	1292	xe⁴⁴	x e ⁴⁴	i n t	7
@@ -243,7 +243,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 3185	Luobenzhuo	bad	1292	ʈʰɯ³³	ʈʰ ɯ ³³	i n t	8
 3186	Zhoucheng	bad	1292	tua³³	t u a ³³	i m n t	1566
 4429	Jianchuan	bamboo	1927	tsɤ⁴⁴	ts ɤ ⁴⁴	i n t	9
-4430	Eryuan	bamboo	1927	tʂɤ⁴⁴	tʂ ɤ ⁴⁴	i n t	9
+4430	Eryuan	bamboo	1927	tʂɤ⁴⁴	ʈʂ ɤ ⁴⁴	i n t	9
 4431	Heqing	bamboo	1927	tsuɔ⁴⁴	ts u ɔ ⁴⁴	i m n t	9
 4432	Lanping	bamboo	1927	tsao⁵⁵tsɯ³³	ts a o ⁵⁵ + ts ɯ ³³	i n c t + i n t	9 10
 4433	Qiliqiao	bamboo	1927	tsɤ⁴⁴	ts ɤ ⁴⁴	i n t	9
@@ -267,7 +267,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 2831	Qiliqiao	bark (of dog)	1206	pia⁴²	p i a ⁴²	i m n t	11
 2832	Yunlong	bark (of dog)	1206	pia⁴²	p i a ⁴²	i m n t	11
 2833	Xiangyun	bark (of dog)	1206	pia⁴²	p i a ⁴²	i m n t	11
-2834	Luobenzhuo	bark (of dog)	1206	ʧua⁴⁴	ʧ u a ⁴⁴	i m n t	11
+2834	Luobenzhuo	bark (of dog)	1206	ʧua⁴⁴	tʃ u a ⁴⁴	i m n t	11
 2835	Zhoucheng	bark (of dog)	1206	mɛ²¹	m ɛ ²¹	i n t	1568
 4456	Jianchuan	barley	932	me⁵⁵sou²¹	m e ⁵⁵ + s o u ²¹	i n t + i n c t	12 13
 4457	Eryuan	barley	932	mi³⁵zɔ²¹	m i ³⁵ + z ɔ ²¹	i n t + i n t	12 13
@@ -334,17 +334,17 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 349	Xiangyun	beard,moustache	1165	u²¹	u ²¹	n t	833
 350	Luobenzhuo	beard,moustache	1165	ɤ³¹	ɤ ³¹	n t	833
 351	Zhoucheng	beard,moustache	1165	u²¹	u ²¹	n t	833
-1270	Jianchuan	bed	1663	tsõũ²¹	ts õ ũ ²¹	i n c t	14
-1271	Eryuan	bed	1663	tʂɔ³¹	tʂ ɔ ³¹	i n t	14
-1272	Heqing	bed	1663	tsɔ̃ũ²¹	ts ɔ̃ ũ ²¹	i n c t	14
+1270	Jianchuan	bed	1663	tsõũ²¹	ts õ u ∼ ²¹	i n N c t	14
+1271	Eryuan	bed	1663	tʂɔ³¹	ʈʂ ɔ ³¹	i n t	14
+1272	Heqing	bed	1663	tsɔ̃ũ²¹	ts ɔ̃ u ∼ ²¹	i n N c t	14
 1273	Lanping	bed	1663	tsɔ³³	ts ɔ ³³	i n t	14
 1274	Qiliqiao	bed	1663	tso²¹	ts o ²¹	i n t	14
 1275	Yunlong	bed	1663	kʰɤ³¹	kʰ ɤ ³¹	i n t	15
 1276	Xiangyun	bed	1663	pʰẽ³¹	pʰ ẽ ∼ ³¹	i n c t	16
-1277	Luobenzhuo	bed	1663	ɴ̣³³tĩ³³ʧʰʊ³¹qʰã⁴²	ɴ ɴ̣ ∼ ³³ + t ĩ ∼ ³³ + ʧʰ ʊ ³¹ + qʰ ã ∼ ⁴²	i n c t + i n c t + i n t + i n c t	17 18 19 20
+1277	Luobenzhuo	bed	1663	ɴ̣³³tĩ³³ʧʰʊ³¹qʰã⁴²	ɴ ɴ̣ ∼ ³³ + t ĩ ∼ ³³ + tʃʰ ʊ ³¹ + qʰ ã ∼ ⁴²	i n c t + i n c t + i n t + i n c t	17 18 19 20
 1278	Zhoucheng	bed	1663	tso²¹	ts o ²¹	i n t	14
 4267	Jianchuan	bedbug	1949	pi⁵⁵sɿ⁵⁵	p i ⁵⁵ + s ɿ ⁵⁵	i n t + i n t	733 734
-4268	Eryuan	bedbug	1949	tʂɤ⁴⁴ɕi⁴⁴	tʂ ɤ ⁴⁴ + ɕ i ⁴⁴	i n t + i n t	735 734
+4268	Eryuan	bedbug	1949	tʂɤ⁴⁴ɕi⁴⁴	ʈʂ ɤ ⁴⁴ + ɕ i ⁴⁴	i n t + i n t	735 734
 4269	Heqing	bedbug	1949	pi⁵⁵sɿ⁵⁵	p i ⁵⁵ + s ɿ ⁵⁵	i n t + i n t	733 734
 4270	Lanping	bedbug	1949	pi⁴⁴sɛ⁴⁴	p i ⁴⁴ + s ɛ ⁴⁴	i n t + i n t	733 734
 4271	Qiliqiao	bedbug	1949	tsɤ⁴⁴ɕi⁴⁴	ts ɤ ⁴⁴ + ɕ i ⁴⁴	i n t + i n t	735 734
@@ -500,7 +500,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 1370	Eryuan	book	963	sɤ³⁵tsʰuɛ⁴⁴	s ɤ ³⁵ + tsʰ u ɛ ⁴⁴	i n t + i m n t	1075 1076
 1371	Heqing	book	963	suɔ³⁵tɕʰuɛ⁴⁴	s u ɔ ³⁵ + tɕʰ u ɛ ⁴⁴	i m n t + i m n t	1075 1076
 1372	Lanping	book	963	sɿ⁴⁴tɕʰuɛ³³	s ɿ ⁴⁴ + tɕʰ u ɛ ³³	i n t + i m n t	1075 1076
-1373	Qiliqiao	book	963	sɿ³⁵ʧʰuɛ⁴⁴	s ɿ ³⁵ + ʧʰ u ɛ ⁴⁴	i n t + i m n t	1075 1076
+1373	Qiliqiao	book	963	sɿ³⁵ʧʰuɛ⁴⁴	s ɿ ³⁵ + tʃʰ u ɛ ⁴⁴	i n t + i m n t	1075 1076
 1374	Yunlong	book	963	ʃɤ³⁵tsʰuɛ⁴⁴	ʃ ɤ ³⁵ + tsʰ u ɛ ⁴⁴	i n t + i m n t	1075 1076
 1375	Xiangyun	book	963	sɤ³⁵tɕʰuɛ⁴⁴	s ɤ ³⁵ + tɕʰ u ɛ ⁴⁴	i n t + i m n t	1075 1076
 1376	Luobenzhuo	book	963	su³³pɯ³¹	s u ³³ + p ɯ ³¹	i n t + i n t	1075 1077
@@ -524,7 +524,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 845	Luobenzhuo	bracelet	1754	tyɛ²¹	t y ɛ ²¹	i m n t	944
 846	Zhoucheng	bracelet	1754	kʲi²¹	kʲ i ²¹	i n t	944
 2116	Jianchuan	braise	2068	tsɯ̃⁵⁵	ts ɯ̃ ∼ ⁵⁵	i n c t	1175
-2117	Eryuan	braise	2068	tʂɯ³⁵	tʂ ɯ ³⁵	i n t	1175
+2117	Eryuan	braise	2068	tʂɯ³⁵	ʈʂ ɯ ³⁵	i n t	1175
 2118	Heqing	braise	2068	tsɯ̃⁵⁵	ts ɯ̃ ∼ ⁵⁵	i n c t	1175
 2119	Lanping	braise	2068	tsɯ̃⁵⁵	ts ɯ̃ ∼ ⁵⁵	i n c t	1175
 2120	Qiliqiao	braise	2068	tsɯ³⁵	ts ɯ ³⁵	i n t	1175
@@ -569,7 +569,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 737	Luobenzhuo	bridge	1011	qẽ⁵⁵kɤ³³	q ẽ ∼ ⁵⁵ + k ɤ ³³	i n c t + i n t	53 52
 738	Zhoucheng	bridge	1011	ku²¹	k u ²¹	i n t	52
 1135	Jianchuan	broom	245	tsue⁴⁴	ts u e ⁴⁴	i m n t	1001
-1136	Eryuan	broom	245	tʂue⁴⁴kɤ²¹	tʂ u e ⁴⁴ + k ɤ ²¹	i m n t + i n t	1001 1002
+1136	Eryuan	broom	245	tʂue⁴⁴kɤ²¹	ʈʂ u e ⁴⁴ + k ɤ ²¹	i m n t + i n t	1001 1002
 1137	Heqing	broom	245	tsue⁴⁴kɯ²¹	ts u e ⁴⁴ + k ɯ ²¹	i m n t + i n t	1001 1002
 1138	Lanping	broom	245	tsue⁴⁴ku³¹	ts u e ⁴⁴ + k u ³¹	i m n t + i n t	1001 1002
 1139	Qiliqiao	broom	245	tɕy⁴⁴kɤ³¹	tɕ y ⁴⁴ + k ɤ ³¹	i n t + i n t	1001 1002
@@ -634,7 +634,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 820	Jianchuan	cap,hat	771	mo⁴⁴tsɿ³¹tɯ⁴²	m o ⁴⁴ + ts ɿ ³¹ + t ɯ ⁴²	i n t + i n t + i n t	938 939 940
 821	Eryuan	cap,hat	771	ɕɔ³¹mɔ⁵⁵tɯ⁴²	ɕ ɔ ³¹ + m ɔ ⁵⁵ + t ɯ ⁴²	i n t + i n t + i n t	941 938 940
 822	Heqing	cap,hat	771	mɔu⁴⁴tɯ⁴²	m ɔ u ⁴⁴ + t ɯ ⁴²	i n c t + i n t	938 940
-823	Lanping	cap,hat	771	mãõ⁴⁴tsɯ³³ka⁵⁵	m ã õ ⁴⁴ + ts ɯ ³³ + k a ⁵⁵	i n c t + i n t + i n t	938 939 942
+823	Lanping	cap,hat	771	mãõ⁴⁴tsɯ³³ka⁵⁵	m ã o ∼ ⁴⁴ + ts ɯ ³³ + k a ⁵⁵	i n N c t + i n t + i n t	938 939 942
 824	Qiliqiao	cap,hat	771	ɕɔ³¹mɔ⁵⁵	ɕ ɔ ³¹ + m ɔ ⁵⁵	i n t + i n t	941 938
 825	Yunlong	cap,hat	771	ɕɔ³¹mo³³	ɕ ɔ ³¹ + m o ³³	i n t + i n t	941 938
 826	Xiangyun	cap,hat	771	cõ⁴²mɔ⁵⁵tsɿ³³	c õ ∼ ⁴² + m ɔ ⁵⁵ + ts ɿ ³³	i n c t + i n t + i n t	943 938 940
@@ -740,13 +740,13 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 1961	Luobenzhuo	chop (firewood)	155	nɯ⁵⁵	n ɯ ⁵⁵	i n t	72
 1962	Zhoucheng	chop (firewood)	155	tso⁴⁴	ts o ⁴⁴	i n t	70
 1180	Jianchuan	chopstick	1987	tsɤ³¹	ts ɤ ³¹	i n t	73
-1181	Eryuan	chopstick	1987	tʂɤ³¹	tʂ ɤ ³¹	i n t	73
+1181	Eryuan	chopstick	1987	tʂɤ³¹	ʈʂ ɤ ³¹	i n t	73
 1182	Heqing	chopstick	1987	tsuɔ³¹	ts u ɔ ³¹	i m n t	73
 1183	Lanping	chopstick	1987	tsu³¹(sɔ̃⁵⁵)	ts u ³¹ + s ɔ̃ ∼ ⁵⁵	i n t + i n c t	73 74
 1184	Qiliqiao	chopstick	1987	tsɤ³¹	ts ɤ ³¹	i n t	73
 1185	Yunlong	chopstick	1987	dzɤ³¹	dz ɤ ³¹	i n t	73
 1186	Xiangyun	chopstick	1987	jɛ̃³¹	j ɛ̃ ∼ ³¹	i n c t	75
-1187	Luobenzhuo	chopstick	1987	ʥy⁴⁴	ʥ y ⁴⁴	i n t	73
+1187	Luobenzhuo	chopstick	1987	ʥy⁴⁴	dʑ y ⁴⁴	i n t	73
 1188	Zhoucheng	chopstick	1987	tsɤ³¹	ts ɤ ³¹	i n t	73
 1189	Jianchuan	clay pot	2055	sɛ̃²¹	s ɛ̃ ∼ ²¹	i n c t	1020
 1190	Eryuan	clay pot	2055	zɿ²¹	z ɿ ²¹	i n t	1020
@@ -845,7 +845,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 2642	Qiliqiao	come	1446	pe⁴⁴tsɯ³⁵	p e ⁴⁴ + ts ɯ ³⁵	i n t + i n t	1289 876
 2643	Yunlong	come	1446	pe⁴⁴jɯ³⁵	p e ⁴⁴ + j ɯ ³⁵	i n t + i n t	1289 1290
 2644	Xiangyun	come	1446	ɣɯ³⁵	ɣ ɯ ³⁵	i n t	1288
-2645	Luobenzhuo	come	1446	ʧʰua⁵⁵	ʧʰ u a ⁵⁵	i m n t	1291
+2645	Luobenzhuo	come	1446	ʧʰua⁵⁵	tʃʰ u a ⁵⁵	i m n t	1291
 2646	Zhoucheng	come	1446	pe⁴⁴jɯ³⁵	p e ⁴⁴ + j ɯ ³⁵	i n t + i n t	1289 1290
 946	Jianchuan	congee	2049	pʰɛ⁵⁵vɤ⁴²	pʰ ɛ ⁵⁵ + v ɤ ⁴²	i n t + i n t	970 971
 947	Eryuan	congee	2049	pʰɛ⁵⁵ʐɤ⁴²	pʰ ɛ ⁵⁵ + ʐ ɤ ⁴²	i n t + i n t	970 972
@@ -857,7 +857,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 953	Luobenzhuo	congee	2049	pʰao⁵⁵jao⁴²bẽ³³	pʰ a o ⁵⁵ + j a o ⁴² + b ẽ ∼ ³³	i n c t + i n c t + i n c t	970 974 975
 954	Zhoucheng	congee	2049	pʰɛ⁵⁵zɤ⁴²	pʰ ɛ ⁵⁵ + z ɤ ⁴²	i n t + i n t	970 972
 3250	Jianchuan	cooked	269	xɯ̃³³	x ɯ̃ ∼ ³³	i n c t	1381
-3251	Eryuan	cooked	269	tʂɤ⁴²	tʂ ɤ ⁴²	i n t	1382
+3251	Eryuan	cooked	269	tʂɤ⁴²	ʈʂ ɤ ⁴²	i n t	1382
 3252	Heqing	cooked	269	tsũɔ̃⁴²	ts u ɔ̃ ∼ ⁴²	i m n c t	1382
 3253	Lanping	cooked	269	tsao⁴²	ts a o ⁴²	i n c t	1382
 3254	Qiliqiao	cooked	269	tsɤ⁴²	ts ɤ ⁴²	i n t	1382
@@ -950,7 +950,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 2144	Eryuan	cut (with knife)	2156	tsʰua³³	tsʰ u a ³³	i m n t	98
 2145	Heqing	cut (with knife)	2156	tsʰũã³³	tsʰ u ã ∼ ³³	i m n c t	98
 2146	Lanping	cut (with knife)	2156	tɕʰũã⁴⁴	tɕʰ u ã ∼ ⁴⁴	i m n c t	98
-2147	Qiliqiao	cut (with knife)	2156	ʧʰua³³	ʧʰ u a ³³	i m n t	98
+2147	Qiliqiao	cut (with knife)	2156	ʧʰua³³	tʃʰ u a ³³	i m n t	98
 2148	Yunlong	cut (with knife)	2156	tsʰua³³	tsʰ u a ³³	i m n t	98
 2149	Xiangyun	cut (with knife)	2156	tsʰũã³³	tsʰ u ã ∼ ³³	i m n c t	98
 2150	Luobenzhuo	cut (with knife)	2156	ɕo⁴⁴	ɕ o ⁴⁴	i n t	99
@@ -1020,7 +1020,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 3209	Qiliqiao	day after tomorrow	1179	a³¹tsɿ⁴²ɲi⁴⁴	a ³¹ + ts ɿ ⁴² + ɲ i ⁴⁴	n t + i n t + i n t	633 631 632
 3210	Yunlong	day after tomorrow	1179	a³¹tsɿ³³ɕɛ⁴⁴	a ³¹ + ts ɿ ³³ + ɕ ɛ ⁴⁴	n t + i n t + i n t	633 631 756
 3211	Xiangyun	day after tomorrow	1179	tsɛ²¹ni⁴⁴	ts ɛ ²¹ + n i ⁴⁴	i n t + i n t	631 632
-3212	Luobenzhuo	day after tomorrow	1179	a³³dʐʅ³³ɲi³³	a ³³ + dʐ ʅ ³³ + ɲ i ³³	n t + i n t + i n t	633 631 632
+3212	Luobenzhuo	day after tomorrow	1179	a³³dʐʅ³³ɲi³³	a ³³ + ɖʐ ʅ ³³ + ɲ i ³³	n t + i n t + i n t	633 631 632
 3213	Zhoucheng	day after tomorrow	1179	a³¹tsɿ³³ɲi⁴⁴	a ³¹ + ts ɿ ³³ + ɲ i ⁴⁴	n t + i n t + i n t	633 631 0
 3007	Jianchuan	day before yesterday	1180	tsõ³³jĩ⁴⁴	ts õ ∼ ³³ + j ĩ ∼ ⁴⁴	i n c t + i n c t	623 624
 3008	Eryuan	day before yesterday	1180	tsɔ³³ɲi⁴⁴	ts ɔ ³³ + ɲ i ⁴⁴	i n t + i n t	623 624
@@ -1197,14 +1197,14 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 3278	Eryuan	early	672	tsɔ³³	ts ɔ ³³	i n t	113
 3279	Heqing	early	672	tsu³³	ts u ³³	i n t	113
 3280	Lanping	early	672	tsu³³	ts u ³³	i n t	113
-3281	Qiliqiao	early	672	ʧu³³	ʧ u ³³	i n t	113
+3281	Qiliqiao	early	672	ʧu³³	tʃ u ³³	i n t	113
 3282	Yunlong	early	672	tsu³³	ts u ³³	i n t	113
 3283	Xiangyun	early	672	zu³³	z u ³³	i n t	1580
 3284	Luobenzhuo	early	672	tɕy³³	tɕ y ³³	i n t	113
 3285	Zhoucheng	early	672	tsu³³	ts u ³³	i n t	113
 829	Jianchuan	earring	770	jĩ³³kõ²¹	j ĩ ∼ ³³ + k õ ∼ ²¹	i n c t + i n c t	114 115
 830	Eryuan	earring	770	ɲɤ³³kɤ³¹tsa²¹	ɲ ɤ ³³ + k ɤ ³¹ + ts a ²¹	i n t + i n t + i n t	114 115 116
-831	Heqing	earring	770	jĩ³³kɔ̃ũ⁴²	j ĩ ∼ ³³ + k ɔ̃ ũ ⁴²	i n c t + i n c t	114 115
+831	Heqing	earring	770	jĩ³³kɔ̃ũ⁴²	j ĩ ∼ ³³ + k ɔ̃ u ∼ ⁴²	i n c t + i n N c t	114 115
 832	Lanping	earring	770	jɛ̃⁴⁴kɔ̃³¹tɕĩ⁴⁴	j ɛ̃ ∼ ⁴⁴ + k ɔ̃ ∼ ³¹ + tɕ ĩ ∼ ⁴⁴	i n c t + i n c t + i n c t	114 115 1581
 833	Qiliqiao	earring	770	nɤ³³kɤ²¹kua⁴⁴	n ɤ ³³ + k ɤ ²¹ + k u a ⁴⁴	i n t + i n t + i m n t	114 115 117
 834	Yunlong	earring	770	ɲɤ³³kɤ³¹	ɲ ɤ ³³ + k ɤ ³¹	i n t + i n t	114 115
@@ -1221,7 +1221,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 1016	Luobenzhuo	earth	2159	tɕĩ⁴⁴pa⁴²	tɕ ĩ ∼ ⁴⁴ + p a ⁴²	i n c t + i n t	120 121
 1017	Zhoucheng	earth	2159	tɕi³¹	tɕ i ³¹	i n t	120
 4321	Jianchuan	earthworm	2350	tɕi²¹tɕɛ⁵⁵tsɤ²¹	tɕ i ²¹ + tɕ ɛ ⁵⁵ + ts ɤ ²¹	i n t + i n t + i n t	123 124 125
-4322	Eryuan	earthworm	2350	kʲi³¹kɛ³⁵tʂɤ²¹	kʲ i ³¹ + k ɛ ³⁵ + tʂ ɤ ²¹	i n t + i n t + i n t	123 124 125
+4322	Eryuan	earthworm	2350	kʲi³¹kɛ³⁵tʂɤ²¹	kʲ i ³¹ + k ɛ ³⁵ + ʈʂ ɤ ²¹	i n t + i n t + i n t	123 124 125
 4323	Heqing	earthworm	2350	xua⁵⁵tʰu³³tsũɔ̃²¹	x u a ⁵⁵ + tʰ u ³³ + ts u ɔ̃ ∼ ²¹	i m n t + i n t + i m n c t	126 127 128
 4324	Lanping	earthworm	2350	ku⁵⁵lu⁵⁵tsu²¹	k u ⁵⁵ + l u ⁵⁵ + ts u ²¹	i n t + i n t + i n t	129 130 125
 4325	Qiliqiao	earthworm	2350	pi²¹tɕa³⁵tsɤ²¹	p i ²¹ + tɕ a ³⁵ + ts ɤ ²¹	i n t + i n t + i n t	131 132 125
@@ -1263,7 +1263,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 3578	Qiliqiao	eight	1705	pia⁴⁴	p i a ⁴⁴	i m n t	142
 3579	Yunlong	eight	1705	pia⁴⁴	p i a ⁴⁴	i m n t	142
 3580	Xiangyun	eight	1705	pia⁴⁴	p i a ⁴⁴	i m n t	142
-3581	Luobenzhuo	eight	1705	ʧua⁴⁴	ʧ u a ⁴⁴	i m n t	142
+3581	Luobenzhuo	eight	1705	ʧua⁴⁴	tʃ u a ⁴⁴	i m n t	142
 3582	Zhoucheng	eight	1705	pia⁴⁴	p i a ⁴⁴	i m n t	142
 3295	Jianchuan	expensive	1426	kɛ⁴²tou⁴²	k ɛ ⁴² + t o u ⁴²	i n t + i n c t	1387 1388
 3296	Eryuan	expensive	1426	kʲi⁴²tɔ³¹	kʲ i ⁴² + t ɔ ³¹	i n t + i n t	1387 1388
@@ -1285,10 +1285,10 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 288	Zhoucheng	eye	1248	we³³	w e ³³	i n t	143
 271	Jianchuan	face	1560	tɕi³³wẽ³³	tɕ i ³³ + w ẽ ∼ ³³	i n t + i n c t	809 810
 272	Eryuan	face	1560	tɕy³³ŋue³³	tɕ y ³³ + ŋ u e ³³	i n t + i m n t	809 810
-273	Heqing	face	1560	tsõu³³wẽ³³	ts õ ũ ³³ + w ẽ ∼ ³³	i n c t + i n c t	809 810
+273	Heqing	face	1560	tsõu³³wẽ³³	ts õ u ∼ ³³ + w ẽ ∼ ³³	i n N c t + i n c t	809 810
 274	Lanping	face	1560	tɕỹ³³wẽ³³	tɕ ỹ ∼ ³³ + w ẽ ∼ ³³	i n c t + i n c t	809 810
 275	Qiliqiao	face	1560	tɕy³³we³³	tɕ y ³³ + w e ³³	i n t + i n t	809 810
-276	Yunlong	face	1560	ʥy³³ŋue³³	ʥ y ³³ + ŋ u e ³³	i n t + i m n t	809 810
+276	Yunlong	face	1560	ʥy³³ŋue³³	dʑ y ³³ + ŋ u e ³³	i n t + i m n t	809 810
 277	Xiangyun	face	1560	jĩ³³wẽ³³	j ĩ ∼ ³³ + w ẽ ∼ ³³	i n c t + i n c t	811 810
 278	Luobenzhuo	face	1560	tɕy³³mi³³	tɕ y ³³ + m i ³³	i n t + i n t	809 810
 279	Zhoucheng	face	1560	tɕy³³we³³	tɕ y ³³ + w e ³³	i n t + i n t	809 810
@@ -1438,7 +1438,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 3951	Zhoucheng	first	728	ɕi³³	ɕ i ³³	i n t	1525
 4514	Jianchuan	first	0	ɕĩ⁵⁵‹›tɯ²¹	t ɯ ²¹	i n t	1526
 2503	Jianchuan	first month (lunar)	2036	tsɿ⁵⁵wã⁴⁴	ts ɿ ⁵⁵ + w ã ∼ ⁴⁴	i n t + i n c t	617 618
-2504	Eryuan	first month (lunar)	2036	tʂɛ³⁵ŋua⁴⁴	tʂ ɛ ³⁵ + ŋ u a ⁴⁴	i n t + i m n t	617 618
+2504	Eryuan	first month (lunar)	2036	tʂɛ³⁵ŋua⁴⁴	ʈʂ ɛ ³⁵ + ŋ u a ⁴⁴	i n t + i m n t	617 618
 2505	Heqing	first month (lunar)	2036	tsɛ̃³⁵wã⁴⁴	ts ɛ̃ ∼ ³⁵ + w ã ∼ ⁴⁴	i n c t + i n c t	617 618
 2506	Lanping	first month (lunar)	2036	tsã⁵⁵wã⁴⁴	ts ã ∼ ⁵⁵ + w ã ∼ ⁴⁴	i n c t + i n c t	617 618
 2507	Qiliqiao	first month (lunar)	2036	tsɛ³⁵wa⁴⁴	ts ɛ ³⁵ + w a ⁴⁴	i n t + i n t	617 618
@@ -1480,7 +1480,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 2417	Qiliqiao	flee	956	mu²¹	m u ²¹	i n t	1237
 2418	Yunlong	flee	956	mu²¹	m u ²¹	i n t	1237
 2419	Xiangyun	flee	956	mou²¹/tsua³⁵	m o u ²¹	i n c t	1237
-2420	Luobenzhuo	flee	956	mãõ³⁵	m ã õ ³⁵	i n c t	1237
+2420	Luobenzhuo	flee	956	mãõ³⁵	m ã o ∼ ³⁵	i n N c t	1237
 2421	Zhoucheng	flee	956	mu²¹	m u ²¹	i n t	1237
 190	Jianchuan	flower	239	xou⁵⁵	x o u ⁵⁵	i n c t	798
 191	Eryuan	flower	239	xɔ³⁵	x ɔ ³⁵	i n t	798
@@ -1547,7 +1547,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 3546	Zhoucheng	four	1500	ɕi⁴⁴	ɕ i ⁴⁴	i n t	173
 3421	Jianchuan	fragrant	376	ɕõ⁵⁵	ɕ õ ∼ ⁵⁵	i n c t	174
 3422	Eryuan	fragrant	376	ɕɔ³⁵	ɕ ɔ ³⁵	i n t	174
-3423	Heqing	fragrant	376	ɕõu⁵⁵	ɕ õ ũ ⁵⁵	i n c t	174
+3423	Heqing	fragrant	376	ɕõu⁵⁵	ɕ õ u ∼ ⁵⁵	i n N c t	174
 3424	Lanping	fragrant	376	ɕo⁵⁵	ɕ o ⁵⁵	i n t	174
 3425	Qiliqiao	fragrant	376	ɕo³⁵	ɕ o ³⁵	i n t	174
 3426	Yunlong	fragrant	376	ɕɔ³⁵	ɕ ɔ ³⁵	i n t	174
@@ -1633,7 +1633,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 2696	Qiliqiao	go out	1107	pe⁴⁴tɕʰi⁴⁴	p e ⁴⁴ + tɕʰ i ⁴⁴	i n t + i n t	1303 1301
 2697	Yunlong	go out	1107	pe⁴⁴tɕʰi³³	p e ⁴⁴ + tɕʰ i ³³	i n t + i n t	1303 1301
 2698	Xiangyun	go out	1107	tɕʰɛ⁴²	tɕʰ ɛ ⁴²	i n t	1301
-2699	Luobenzhuo	go out	1107	ma⁵⁵tʂʰɛ⁵⁵	m a ⁵⁵ + tʂʰ ɛ ⁵⁵	i n t + i n t	1304 1301
+2699	Luobenzhuo	go out	1107	ma⁵⁵tʂʰɛ⁵⁵	m a ⁵⁵ + ʈʂʰ ɛ ⁵⁵	i n t + i n t	1304 1301
 2700	Zhoucheng	go out	1107	pe⁴⁴ɕi⁴⁴	p e ⁴⁴ + ɕ i ⁴⁴	i n t + i n t	1303 1590
 3169	Jianchuan	good	1035	tɕʰõ⁵⁵/ɕo³¹/xu³³	tɕʰ õ ∼ ⁵⁵	i n c t	188
 3170	Eryuan	good	1035	fe³⁵	f e ³⁵	i n t	190
@@ -1666,10 +1666,10 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 137	Eryuan	grass	606	tsʰɔ³³	tsʰ ɔ ³³	i n t	792
 138	Heqing	grass	606	tsʰu³³	tsʰ u ³³	i n t	792
 139	Lanping	grass	606	tsʰu³³	tsʰ u ³³	i n t	792
-140	Qiliqiao	grass	606	ʧʰu³³	ʧʰ u ³³	i n t	792
+140	Qiliqiao	grass	606	ʧʰu³³	tʃʰ u ³³	i n t	792
 141	Yunlong	grass	606	tsʰu³³	tsʰ u ³³	i n t	792
 142	Xiangyun	grass	606	tsʰu³³	tsʰ u ³³	i n t	792
-143	Luobenzhuo	grass	606	ʧʰʊ⁴⁴	ʧʰ ʊ ⁴⁴	i n t	792
+143	Luobenzhuo	grass	606	ʧʰʊ⁴⁴	tʃʰ ʊ ⁴⁴	i n t	792
 144	Zhoucheng	grass	606	tsʰu³³	tsʰ u ³³	i n t	792
 3124	Jianchuan	green	1425	lu⁴⁴	l u ⁴⁴	i n t	1364
 3125	Eryuan	green	1425	lɤ⁴⁴	l ɤ ⁴⁴	i n t	1364
@@ -1681,7 +1681,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 3131	Luobenzhuo	green	1425	pa⁴⁴tɕʰã³¹	p a ⁴⁴ + tɕʰ ã ∼ ³¹	i n t + i n c t	1628 1367
 3132	Zhoucheng	green	1425	lɤ⁴⁴	l ɤ ⁴⁴	i n t	1364
 2170	Jianchuan	grind (wheat)	1033	wẽ⁴²	w ẽ ∼ ⁴²	i n c t	1178
-2171	Eryuan	grind (wheat)	1033	tʂʰe⁴⁴	tʂʰ e ⁴⁴	i n t	1179
+2171	Eryuan	grind (wheat)	1033	tʂʰe⁴⁴	ʈʂʰ e ⁴⁴	i n t	1179
 2172	Heqing	grind (wheat)	1033	wẽ⁴²	w ẽ ∼ ⁴²	i n c t	1178
 2173	Lanping	grind (wheat)	1033	wẽ⁴²	w ẽ ∼ ⁴²	i n c t	1178
 2174	Qiliqiao	grind (wheat)	1033	we⁴²	w e ⁴²	i n t	1178
@@ -1699,7 +1699,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 2780	Luobenzhuo	grow (of people)	552	dao⁴²	d a o ⁴²	i n c t	1340
 2781	Zhoucheng	grow (of people)	552	kuɔ³⁵	k u ɔ ³⁵	i m n t	1339
 2548	Jianchuan	guess	1932	tsɯ⁴²	ts ɯ ⁴²	i n t	1271
-2549	Eryuan	guess	1932	tʂɯ⁴²	tʂ ɯ ⁴²	i n t	1271
+2549	Eryuan	guess	1932	tʂɯ⁴²	ʈʂ ɯ ⁴²	i n t	1271
 2550	Heqing	guess	1932	tʰe³³	tʰ e ³³	i n t	1271
 2551	Lanping	guess	1932	tsɯ̃⁴²	ts ɯ̃ ∼ ⁴²	i n c t	1271
 2552	Qiliqiao	guess	1932	tsʰe³³	tsʰ e ³³	i n t	1271
@@ -1708,7 +1708,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 2555	Luobenzhuo	guess	1932	tʰɯ̃⁴²	tʰ ɯ̃ ∼ ⁴²	i n c t	1271
 2556	Zhoucheng	guess	1932	tsʰɛ³³	tsʰ ɛ ³³	i n t	1271
 10	Jianchuan	hail	609	sue⁴⁴wa⁴²tsɿ³³	s u e ⁴⁴ + w a ⁴² + ts ɿ ³³	i m n t + i n t + i n t	561 562 563
-11	Eryuan	hail	609	tʂɔ⁴²pɔ⁴²tsɿ³³	tʂ ɔ ⁴² + p ɔ ⁴² + ts ɿ ³³	i n t + i n t + i n t	564 565 563
+11	Eryuan	hail	609	tʂɔ⁴²pɔ⁴²tsɿ³³	ʈʂ ɔ ⁴² + p ɔ ⁴² + ts ɿ ³³	i n t + i n t + i n t	564 565 563
 12	Heqing	hail	609	sʰue⁴⁴wa⁴²tsɿ³³	sʰ u e ⁴⁴ + w a ⁴² + ts ɿ ³³	i m n t + i n t + i n t	561 562 563
 13	Lanping	hail	609	po³³tɛ⁴⁴	p o ³³ + t ɛ ⁴⁴	i n t + i n t	565 563
 14	Qiliqiao	hail	609	ɕy⁴⁴kʰuɔ³³tsɿ³³	ɕ y ⁴⁴ + kʰ u ɔ ³³ + ts ɿ ³³	i n t + i m n t + i n t	561 566 563
@@ -1736,7 +1736,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 369	Zhoucheng	hand	1277	sɯ³³	s ɯ ³³	i n t	200
 2188	Jianchuan	hang out (clothes)	357	sõ⁵⁵	s õ ∼ ⁵⁵	i n c t	1181
 2189	Eryuan	hang out (clothes)	357	sɔ⁵⁵	s ɔ ⁵⁵	i n t	1181
-2190	Heqing	hang out (clothes)	357	sʰɔ̃u⁵⁵	sʰ ɔ̃ ũ ⁵⁵	i n c t	1181
+2190	Heqing	hang out (clothes)	357	sʰɔ̃u⁵⁵	sʰ ɔ̃ u ∼ ⁵⁵	i n N c t	1181
 2191	Lanping	hang out (clothes)	357	sõ⁵⁵	s õ ∼ ⁵⁵	i n c t	1181
 2192	Qiliqiao	hang out (clothes)	357	so⁵⁵	s o ⁵⁵	i n t	1181
 2193	Yunlong	hang out (clothes)	357	sɔ⁵⁵	s ɔ ⁵⁵	i n t	1181
@@ -1798,13 +1798,13 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 503	Luobenzhuo	heart	1223	sẽ⁵⁵	s ẽ ∼ ⁵⁵	i n c t	207
 504	Zhoucheng	heart	1223	ɕi³⁵	ɕ i ³⁵	i n t	207
 3034	Jianchuan	heavy	1210	tsɤ̃³³	ts ɤ̃ ∼ ³³	i n c t	208
-3035	Eryuan	heavy	1210	tʂɤ³³	tʂ ɤ ³³	i n t	208
+3035	Eryuan	heavy	1210	tʂɤ³³	ʈʂ ɤ ³³	i n t	208
 3036	Heqing	heavy	1210	tsũɔ̃³³	ts u ɔ̃ ∼ ³³	i m n c t	208
 3037	Lanping	heavy	1210	tsõ³³	ts õ ∼ ³³	i n c t	208
 3038	Qiliqiao	heavy	1210	tsɤ³³	ts ɤ ³³	i n t	208
 3039	Yunlong	heavy	1210	dzɤ³³	dz ɤ ³³	i n t	208
 3040	Xiangyun	heavy	1210	jɛ̃³³	j ɛ̃ ∼ ³³	i n c t	209
-3041	Luobenzhuo	heavy	1210	ʥɔ̃³³	ʥ ɔ̃ ∼ ³³	i n c t	208
+3041	Luobenzhuo	heavy	1210	ʥɔ̃³³	dʑ ɔ̃ ∼ ³³	i n c t	208
 3042	Zhoucheng	heavy	1210	tsɤ³³	ts ɤ ³³	i n t	208
 2386	Jianchuan	help	1897	ta⁴²ɣɯ⁴²	t a ⁴² + ɣ ɯ ⁴²	i n t + i n t	1227 1228
 2387	Eryuan	help	1897	ta⁴²pɔ²¹	t a ⁴² + p ɔ ²¹	i n t + i n t	1227 1229
@@ -1879,7 +1879,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 1718	Luobenzhuo	hit (table)	1433	po³³	p o ³³	i n t	1131
 1719	Zhoucheng	hit (table)	1433	po⁴⁴	p o ⁴⁴	i n t	1131
 1090	Jianchuan	hoe	284	tsɤ²¹sẽ⁴²	ts ɤ ²¹ + s ẽ ∼ ⁴²	i n t + i n c t	213 214
-1091	Eryuan	hoe	284	tʂɔ²¹ʂe⁴²	tʂ ɔ ²¹ + ʂ e ⁴²	i n t + i n t	213 214
+1091	Eryuan	hoe	284	tʂɔ²¹ʂe⁴²	ʈʂ ɔ ²¹ + ʂ e ⁴²	i n t + i n t	213 214
 1092	Heqing	hoe	284	tsuɔ²¹sẽ⁴²	ts u ɔ ²¹ + s ẽ ∼ ⁴²	i m n t + i n c t	213 214
 1093	Lanping	hoe	284	tsu²¹sẽ⁴²	ts u ²¹ + s ẽ ∼ ⁴²	i n t + i n c t	213 214
 1094	Qiliqiao	hoe	284	tsɤ²¹	ts ɤ ²¹	i n t	213
@@ -1946,7 +1946,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 3918	Lanping	how	1239	i⁵⁵kɛ³¹	i ⁵⁵ + k ɛ ³¹	n t + i n t	1506 1505
 3919	Qiliqiao	how	1239	tsɿ⁵⁵mɯ⁵⁵ne³¹	ts ɿ ⁵⁵ + m ɯ ⁵⁵ + n e ³¹	i n t + i n t + i n t	1504 1507 1508
 3920	Yunlong	how	1239	i⁴⁴mɯ⁴⁴	i ⁴⁴ + m ɯ ⁴⁴	n t + i n t	1506 1507
-3921	Luobenzhuo	how	1239	tʂɛ̃⁵⁵me³³xe³³	tʂ ɛ̃ ∼ ⁵⁵ + m e ³³ + x e ³³	i n c t + i n t + i n t	1593 1507 1509
+3921	Luobenzhuo	how	1239	tʂɛ̃⁵⁵me³³xe³³	ʈʂ ɛ̃ ∼ ⁵⁵ + m e ³³ + x e ³³	i n c t + i n t + i n t	1593 1507 1509
 3923	Zhoucheng	how	1239	tsɯ⁵⁵nɯ⁵⁵tɔ²¹	ts ɯ ⁵⁵ + n ɯ ⁵⁵ + t ɔ ²¹	i n t + i n t + i n t	1504 1508 1462
 3925	Jianchuan	how many	822	tɕi⁵⁵ɕu³³	tɕ i ⁵⁵ + ɕ u ³³	i n t + i n t	1510 1511
 3926	Eryuan	how many	822	ti⁵⁵ɕu³³	t i ⁵⁵ + ɕ u ³³	i n t + i n t	1510 1511
@@ -1976,7 +1976,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 2852	Luobenzhuo	incubate	2075	wɛ⁵⁵	w ɛ ⁵⁵	i n t	1347
 2853	Zhoucheng	incubate	2075	vɤ⁴⁴	v ɤ ⁴⁴	i n t	1347
 4339	Jianchuan	insect,bug	1027	tsɤ̃²¹	ts ɤ̃ ∼ ²¹	i n c t	745
-4340	Eryuan	insect,bug	1027	tʂɤ³¹	tʂ ɤ ³¹	i n t	745
+4340	Eryuan	insect,bug	1027	tʂɤ³¹	ʈʂ ɤ ³¹	i n t	745
 4341	Heqing	insect,bug	1027	tsũɔ̃⁴²	ts u ɔ̃ ∼ ⁴²	i m n c t	745
 4342	Lanping	insect,bug	1027	tsɔ²¹	ts ɔ ²¹	i n t	745
 4343	Qiliqiao	insect,bug	1027	tsɤ²¹	ts ɤ ²¹	i n t	745
@@ -2003,7 +2003,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 1538	Luobenzhuo	interest	2062	bo⁵⁵pɯ³¹	b o ⁵⁵ + p ɯ ³¹	i n t + i n t	229 226
 1539	Zhoucheng	interest	2062	pɯ²¹	p ɯ ²¹	i n t	226
 478	Jianchuan	intestine,gut	1991	tsõ²¹	ts õ ∼ ²¹	i n c t	230
-479	Eryuan	intestine,gut	1991	tʂɔ²¹	tʂ ɔ ²¹	i n t	230
+479	Eryuan	intestine,gut	1991	tʂɔ²¹	ʈʂ ɔ ²¹	i n t	230
 480	Heqing	intestine,gut	1991	tsɔ̃u²¹	ts ɔ̃ ũ ²¹	i n c t	230
 481	Lanping	intestine,gut	1991	tsõ²¹	ts õ ∼ ²¹	i n c t	230
 482	Qiliqiao	intestine,gut	1991	tso²¹	ts o ²¹	i n t	230
@@ -2012,7 +2012,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 485	Luobenzhuo	intestine,gut	1991	tõ²¹	t õ ∼ ²¹	i n c t	230
 486	Zhoucheng	intestine,gut	1991	tso²¹	ts o ²¹	i n t	230
 2620	Jianchuan	is	1579	tsɿ³³	ts ɿ ³³	i n t	1284
-2621	Eryuan	is	1579	tʂɔ³³	tʂ ɔ ³³	i n t	1284
+2621	Eryuan	is	1579	tʂɔ³³	ʈʂ ɔ ³³	i n t	1284
 2622	Heqing	is	1579	tsa³³	ts a ³³	i n t	1284
 2623	Lanping	is	1579	tsɔ⁴⁴	ts ɔ ⁴⁴	i n t	1284
 2624	Qiliqiao	is	1579	tsɔ³³	ts ɔ ³³	i n t	1284
@@ -2030,7 +2030,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 3941	Luobenzhuo	just now	84	xa³⁵cɤ³¹	x a ³⁵ + c ɤ ³¹	i n t + i n t	1523 1524
 3942	Zhoucheng	just now	84	mɯ⁵⁵tɕi⁴²	m ɯ ⁵⁵ + tɕ i ⁴²	i n t + i n t	1513 1514
 1315	Jianchuan	key	1472	tso⁴²kɯ⁵⁵	ts o ⁴² + k ɯ ⁵⁵	i n t + i n t	231 232
-1316	Eryuan	key	1472	tʂɔ⁴²kʰɯ³⁵	tʂ ɔ ⁴² + kʰ ɯ ³⁵	i n t + i n t	231 232
+1316	Eryuan	key	1472	tʂɔ⁴²kʰɯ³⁵	ʈʂ ɔ ⁴² + kʰ ɯ ³⁵	i n t + i n t	231 232
 1317	Heqing	key	1472	tsɔu⁴²kɯ⁵⁵	ts ɔ u ⁴² + k ɯ ⁵⁵	i n c t + i n t	231 232
 1318	Lanping	key	1472	tsu³¹kɯ⁵⁵tʰa³¹	ts u ³¹ + k ɯ ⁵⁵ + tʰ a ³¹	i n t + i n t + i n t	231 232 233
 1319	Qiliqiao	key	1472	tso⁴²kɯ³⁵	ts o ⁴² + k ɯ ³⁵	i n t + i n t	231 232
@@ -2054,7 +2054,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 473	Qiliqiao	kidney	489	jɔ³⁵tsɿ³³	j ɔ ³⁵ + ts ɿ ³³	i n t + i n t	865 866
 474	Yunlong	kidney	489	jao²¹tsɿ³³	j a o ²¹ + ts ɿ ³³	i n c t + i n t	865 866
 475	Xiangyun	kidney	489	jɔ³⁵tsɿ³³	j ɔ ³⁵ + ts ɿ ³³	i n t + i n t	865 866
-476	Luobenzhuo	kidney	489	dʐɯ̃³³	dʐ ɯ̃ ∼ ³³	i n c t	868
+476	Luobenzhuo	kidney	489	dʐɯ̃³³	ɖʐ ɯ̃ ∼ ³³	i n c t	868
 477	Zhoucheng	kidney	489	jɔ³⁵tsɿ³³	j ɔ ³⁵ + ts ɿ ³³	i n t + i n t	865 866
 442	Jianchuan	knee	1371	kʰuɛ³¹tsɿ³¹te⁴⁴	kʰ u ɛ ³¹ + ts ɿ ³¹ + t e ⁴⁴	i m n t + i n t + i n t	859 860 861
 443	Eryuan	knee	1371	kʰuɛ³¹tɯ²¹tse⁴⁴	kʰ u ɛ ³¹ + t ɯ ²¹ + ts e ⁴⁴	i m n t + i n t + i n t	859 861 860
@@ -2232,7 +2232,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 4305	Heqing	lightning (vb)	2377	tɕi³¹kɔu⁵⁵la⁴⁴	tɕ i ³¹ + k ɔ u ⁵⁵ + l a ⁴⁴	i n t + i n c t + i n t	549 553 554
 4306	Lanping	lightning (vb)	2377	ʐɯ³³tsɿ³³pʰiɯ⁴⁴	ʐ ɯ ³³ + ts ɿ ³³ + pʰ i ɯ ⁴⁴	i n t + i n t + i m n t	546 547 548
 4307	Qiliqiao	lightning (vb)	2377	tɕi³¹kɤ³⁵la⁴⁴	tɕ i ³¹ + k ɤ ³⁵ + l a ⁴⁴	i n t + i n t + i n t	549 553 554
-4308	Yunlong	lightning (vb)	2377	ʥi³³mi³³jɛ³³	ʥ i ³³ + m i ³³ + j ɛ ³³	i n t + i n t + i n t	552 555 556
+4308	Yunlong	lightning (vb)	2377	ʥi³³mi³³jɛ³³	dʑ i ³³ + m i ³³ + j ɛ ³³	i n t + i n t + i n t	552 555 556
 4309	Xiangyun	lightning (vb)	2377	jĩ²¹lũẽ³³jɛ̃³³	j ĩ ∼ ²¹ + l u ẽ ∼ ³³ + j ɛ̃ ∼ ³³	i n c t + i m n c t + i n c t	557 558 556
 4310	Luobenzhuo	lightning (vb)	2377	xẽ⁵⁵tɕæ⁵⁵mi³¹	x ẽ ∼ ⁵⁵ + tɕ æ ⁵⁵ + m i ³¹	i n c t + i n t + i n t	559 560 555
 4311	Zhoucheng	lightning (vb)	2377	kʲi³¹xue³³lɛ⁵⁵	kʲ i ³¹ + x u e ³³ + l ɛ ⁵⁵	i n t + i m n t + i n t	549 1598 554
@@ -2282,7 +2282,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 4247	Luobenzhuo	locust	810	la⁴⁴lɛ³³	l a ⁴⁴ + l ɛ ³³	i n t + i n t	717 718
 4248	Zhoucheng	locust	810	sɔ³³lɔ³³ke³⁵	s ɔ ³³ + l ɔ ³³ + k e ³⁵	i n t + i n t + i n t	712 716 714
 2908	Jianchuan	long	1203	tsou²¹	ts o u ²¹	i n c t	262
-2909	Eryuan	long	1203	tʂɔ²¹	tʂ ɔ ²¹	i n t	262
+2909	Eryuan	long	1203	tʂɔ²¹	ʈʂ ɔ ²¹	i n t	262
 2910	Heqing	long	1203	tsɔu²¹	ts ɔ u ²¹	i n c t	262
 2911	Lanping	long	1203	tsɔ̃²¹	ts ɔ̃ ∼ ²¹	i n c t	262
 2912	Qiliqiao	long	1203	tso²¹	ts o ²¹	i n t	262
@@ -2315,7 +2315,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 2318	Qiliqiao	lose (can't find)	1660	tsʰɿ⁵⁵xɯ⁵⁵	tsʰ ɿ ⁵⁵ + x ɯ ⁵⁵	i n t + i n t	1198 1201
 2319	Yunlong	lose (can't find)	1660	la⁴⁴sɔ³³	l a ⁴⁴ + s ɔ ³³	i n t + i n t	1202 1197
 2320	Xiangyun	lose (can't find)	1660	tsɿ⁵⁵tsʰɿ⁵⁵	ts ɿ ⁵⁵ + tsʰ ɿ ⁵⁵	i n t + i n t	1203 1198
-2321	Luobenzhuo	lose (can't find)	1660	ʂʅ³³tʂʰʅ³³	ʂ ʅ ³³ + tʂʰ ʅ ³³	i n t + i n t	1204 1198
+2321	Luobenzhuo	lose (can't find)	1660	ʂʅ³³tʂʰʅ³³	ʂ ʅ ³³ + ʈʂʰ ʅ ³³	i n t + i n t	1204 1198
 2322	Zhoucheng	lose (can't find)	1660	tsʰɿ⁵⁵xɔ⁵⁵	tsʰ ɿ ⁵⁵ + x ɔ ⁵⁵	i n t + i n t	1198 1201
 4285	Jianchuan	louse	1392	ɕi⁴⁴	ɕ i ⁴⁴	i n t	263
 4286	Eryuan	louse	1392	ɕi⁴⁴	ɕ i ⁴⁴	i n t	263
@@ -2342,7 +2342,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 2894	Qiliqiao	low	721	pi³³	p i ³³	i n t	266
 2895	Yunlong	low	721	pi³³	p i ³³	i n t	266
 2896	Xiangyun	low	721	pi³³	p i ³³	i n t	266
-2897	Luobenzhuo	low	721	ʥy³³	ʥ y ³³	i n t	266
+2897	Luobenzhuo	low	721	ʥy³³	dʑ y ³³	i n t	266
 2898	Zhoucheng	low	721	pi³³	p i ³³	i n t	266
 964	Jianchuan	lunch	768	jĩ⁴⁴tɯ²¹	j ĩ ∼ ⁴⁴ + t ɯ ²¹	i n c t + i n t	981 982
 965	Eryuan	lunch	768	ɲi⁴⁴tɯ³¹	ɲ i ⁴⁴ + t ɯ ³¹	i n t + i n t	981 982
@@ -2360,13 +2360,13 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 527	Qiliqiao	lung	688	pʰia⁴⁴	pʰ i a ⁴⁴	i m n t	267
 528	Yunlong	lung	688	pʰia⁴⁴	pʰ i a ⁴⁴	i m n t	267
 529	Xiangyun	lung	688	pʰia⁴⁴	pʰ i a ⁴⁴	i m n t	267
-530	Luobenzhuo	lung	688	ʧʰũã⁵⁵	ʧʰ u ã ∼ ⁵⁵	i m n c t	268
+530	Luobenzhuo	lung	688	ʧʰũã⁵⁵	tʃʰ u ã ∼ ⁵⁵	i m n c t	268
 531	Zhoucheng	lung	688	pʰia⁴⁴	pʰ i a ⁴⁴	i m n t	267
 4150	Jianchuan	magpie	2039	vɤ⁵⁵tsa⁴²li⁵⁵tsɿ³³	v ɤ ⁵⁵ + ts a ⁴² + l i ⁵⁵ + ts ɿ ³³	i n t + i n t + i n t + i n t	682 683 684 685
-4151	Eryuan	magpie	2039	u⁵⁵tʂuɛ⁵⁵lɛ⁵⁵	u ⁵⁵ + tʂ u ɛ ⁵⁵ + l ɛ ⁵⁵	n t + i m n t + i n t	682 683 684
+4151	Eryuan	magpie	2039	u⁵⁵tʂuɛ⁵⁵lɛ⁵⁵	u ⁵⁵ + ʈʂ u ɛ ⁵⁵ + l ɛ ⁵⁵	n t + i m n t + i n t	682 683 684
 4152	Heqing	magpie	2039	wɔ³⁵tsa⁴²la³⁵	w ɔ ³⁵ + ts a ⁴² + l a ³⁵	i n t + i n t + i n t	682 683 684
 4153	Lanping	magpie	2039	a⁵⁵tsa⁵⁵le⁵⁵	a ⁵⁵ + ts a ⁵⁵ + l e ⁵⁵	n t + i n t + i n t	682 683 684
-4154	Qiliqiao	magpie	2039	o⁵⁵ʧua⁴²	o ⁵⁵ + ʧ u a ⁴²	n t + i m n t	682 683
+4154	Qiliqiao	magpie	2039	o⁵⁵ʧua⁴²	o ⁵⁵ + tʃ u a ⁴²	n t + i m n t	682 683
 4155	Yunlong	magpie	2039	wu⁵⁵tsuɛ⁵⁵	w u ⁵⁵ + ts u ɛ ⁵⁵	i n t + i m n t	682 683
 4156	Xiangyun	magpie	2039	u⁵⁵tsʰa⁴²	u ⁵⁵ + tsʰ a ⁴²	n t + i n t	682 683
 4157	Luobenzhuo	magpie	2039	pa⁵⁵tɕa⁵⁵vɤ⁵⁵	p a ⁵⁵ + tɕ a ⁵⁵ + v ɤ ⁵⁵	i n t + i n t + i n t	686 683 682
@@ -2459,7 +2459,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 1328	Qiliqiao	mirror	1171	kɛ³²mi³²	k ɛ ³² + m i ³²	i n t + i n t	1065 1066
 1329	Yunlong	mirror	1171	kɛ⁴²mi⁴⁴	k ɛ ⁴² + m i ⁴⁴	i n t + i n t	1065 1066
 1330	Xiangyun	mirror	1171	kʲɛ̃⁴²	kʲ ɛ̃ ∼ ⁴²	i n c t	1065
-1331	Luobenzhuo	mirror	1171	nĩ⁵⁵sãõ⁵⁵	n ĩ ∼ ⁵⁵ + s ã õ ⁵⁵	i n c t + i n c t	1068 1069
+1331	Luobenzhuo	mirror	1171	nĩ⁵⁵sãõ⁵⁵	n ĩ ∼ ⁵⁵ + s ã o ∼ ⁵⁵	i n c t + i n N c t	1068 1069
 1332	Zhoucheng	mirror	1171	kʲɛ⁴²mi⁴²	kʲ ɛ ⁴² + m i ⁴²	i n t + i n t	1065 1066
 1513	Jianchuan	money	1559	tse²¹	ts e ²¹	i n t	1113
 1514	Eryuan	money	1559	tse²¹	ts e ²¹	i n t	1113
@@ -2547,7 +2547,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 318	Heqing	mouth	674	tsʰue³³kʰɔ̃⁴⁴	tsʰ u e ³³ + kʰ ɔ̃ ∼ ⁴⁴	i m n t + i n c t	827 828
 319	Lanping	mouth	674	tɕy³³kuɛ⁵⁵kʰu³¹	tɕ y ³³ + k u ɛ ⁵⁵ + kʰ u ³¹	i n t + i m n t + i n t	824 825 829
 320	Qiliqiao	mouth	674	tɕy³³	tɕ y ³³	i n t	824
-321	Yunlong	mouth	674	ʥy³³kɛ³³	ʥ y ³³ + k ɛ ³³	i n t + i n t	824 825
+321	Yunlong	mouth	674	ʥy³³kɛ³³	dʑ y ³³ + k ɛ ³³	i n t + i n t	824 825
 322	Xiangyun	mouth	674	y³³	y ³³	n t	830
 323	Luobenzhuo	mouth	674	tɕo⁴⁴qo⁴⁴	tɕ o ⁴⁴ + q o ⁴⁴	i n t + i n t	824 825
 324	Zhoucheng	mouth	674	tɕy³³kua³⁵	tɕ y ³³ + k u a ³⁵	i n t + i m n t	824 825
@@ -2765,7 +2765,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 860	Qiliqiao	palm bark rain cape	1662	pi³¹se⁴⁴	p i ³¹ + s e ⁴⁴	i n t + i n t	338 339
 861	Yunlong	palm bark rain cape	1662	biɯ²¹sɛ⁵⁵	b i ɯ ²¹ + s ɛ ⁵⁵	i m n t + i n t	338 339
 862	Xiangyun	palm bark rain cape	1662	pi³¹	p i ³¹	i n t	338
-863	Luobenzhuo	palm bark rain cape	1662	ʥỹ⁴²	ʥ ỹ ∼ ⁴²	i n c t	338
+863	Luobenzhuo	palm bark rain cape	1662	ʥỹ⁴²	dʑ ỹ ∼ ⁴²	i n c t	338
 864	Zhoucheng	palm bark rain cape	1662	pi³¹se⁴⁴	p i ³¹ + s e ⁴⁴	i n t + i n t	338 339
 1351	Jianchuan	paper	648	tsɿ³³	ts ɿ ³³	i n t	304
 1352	Eryuan	paper	648	tsɿ³³	ts ɿ ³³	i n t	304
@@ -2837,7 +2837,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 131	Qiliqiao	persimmon	2044	tʰa⁴⁴tsɿ²¹	tʰ a ⁴⁴ + ts ɿ ²¹	i n t + i n t	311 312
 132	Yunlong	persimmon	2044	sɿ⁴⁴xua⁴⁴	s ɿ ⁴⁴ + x u a ⁴⁴	i n t + i m n t	313 314
 133	Xiangyun	persimmon	2044	tʰa⁴⁴tsɿ²¹	tʰ a ⁴⁴ + ts ɿ ²¹	i n t + i n t	311 312
-134	Luobenzhuo	persimmon	2044	cʰa⁵⁵dʐʅ̃³³	cʰ a ⁵⁵ + dʐ ʅ̃ ∼ ³³	i n t + i n c t	311 312
+134	Luobenzhuo	persimmon	2044	cʰa⁵⁵dʐʅ̃³³	cʰ a ⁵⁵ + ɖʐ ʅ̃ ∼ ³³	i n t + i n c t	311 312
 135	Zhoucheng	persimmon	2044	tʰa⁴⁴tsɿ²¹	tʰ a ⁴⁴ + ts ɿ ²¹	i n t + i n t	311 312
 559	Jianchuan	person	683	jĩ²¹kɛ̃⁵⁵jĩ²¹	j ĩ ∼ ²¹ + k ɛ̃ ∼ ⁵⁵ + j ĩ ∼ ²¹	i n c t + i n c t + i n c t	315 316 317
 560	Eryuan	person	683	ɲi²¹kʲɛ³⁵ɲi²¹	ɲ i ²¹ + kʲ ɛ ³⁵ + ɲ i ²¹	i n t + i n t + i n t	315 316 317
@@ -2864,7 +2864,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 1742	Qiliqiao	pick up from ground (grain)	371	tsɿ⁴²	ts ɿ ⁴²	i n t	319
 1743	Yunlong	pick up from ground (grain)	371	tsɿ⁴²	ts ɿ ⁴²	i n t	319
 1744	Xiangyun	pick up from ground (grain)	371	tsɿ⁴²	ts ɿ ⁴²	i n t	319
-1745	Luobenzhuo	pick up from ground (grain)	371	tʂʅ⁴²	tʂ ʅ ⁴²	i n t	319
+1745	Luobenzhuo	pick up from ground (grain)	371	tʂʅ⁴²	ʈʂ ʅ ⁴²	i n t	319
 1746	Zhoucheng	pick up from ground (grain)	371	tsɿ⁴²	ts ɿ ⁴²	i n t	319
 3799	Jianchuan	pig	1337	te⁴²	t e ⁴²	i n t	320
 3800	Eryuan	pig	1337	te⁴²	t e ⁴²	i n t	320
@@ -2876,7 +2876,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 3806	Luobenzhuo	pig	1337	tɛ⁴²	t ɛ ⁴²	i n t	320
 3807	Zhoucheng	pig	1337	te⁴²	t e ⁴²	i n t	320
 2278	Jianchuan	pile up	1576	tsẽ³³	ts ẽ ∼ ³³	i n c t	1190
-2279	Eryuan	pile up	1576	tʂe³³	tʂ e ³³	i n t	1190
+2279	Eryuan	pile up	1576	tʂe³³	ʈʂ e ³³	i n t	1190
 2280	Heqing	pile up	1576	tsẽ³³	ts ẽ ∼ ³³	i n c t	1190
 2281	Lanping	pile up	1576	tsẽ⁴⁴	ts ẽ ∼ ⁴⁴	i n c t	1190
 2282	Qiliqiao	pile up	1576	tse³³	ts e ³³	i n t	1190
@@ -2885,7 +2885,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 2285	Luobenzhuo	pile up	1576	ɖẽ³³	ɖ ẽ ∼ ³³	i n c t	1190
 2286	Zhoucheng	pile up	1576	tse³³	ts e ³³	i n t	1190
 748	Jianchuan	pillar,column	2045	tsɯ³³	ts ɯ ³³	i n t	321
-749	Eryuan	pillar,column	2045	tʂɯ³³	tʂ ɯ ³³	i n t	321
+749	Eryuan	pillar,column	2045	tʂɯ³³	ʈʂ ɯ ³³	i n t	321
 750	Heqing	pillar,column	2045	tsɯ³³	ts ɯ ³³	i n t	321
 751	Lanping	pillar,column	2045	tsɯ³³kʰu³³	ts ɯ ³³ + kʰ u ³³	i n t + i n t	321 322
 752	Qiliqiao	pillar,column	2045	tsɯ³³	ts ɯ ³³	i n t	321
@@ -2894,7 +2894,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 755	Luobenzhuo	pillar,column	2045	ɖɯ³³	ɖ ɯ ³³	i n t	321
 756	Zhoucheng	pillar,column	2045	tsɯ³³	ts ɯ ³³	i n t	321
 4411	Jianchuan	pine tree	1740	ɕõ²¹tsɯ³¹	ɕ õ ∼ ²¹ + ts ɯ ³¹	i n c t + i n t	325 326
-4412	Eryuan	pine tree	1740	zɔ³¹tʂɯ³¹	z ɔ ³¹ + tʂ ɯ ³¹	i n t + i n t	325 326
+4412	Eryuan	pine tree	1740	zɔ³¹tʂɯ³¹	z ɔ ³¹ + ʈʂ ɯ ³¹	i n t + i n t	325 326
 4413	Heqing	pine tree	1740	jõ²¹tsɯ³¹	j õ ∼ ²¹ + ts ɯ ³¹	i n c t + i n t	327 326
 4414	Lanping	pine tree	1740	jɔ²¹tsɯ²¹	j ɔ ²¹ + ts ɯ ²¹	i n t + i n t	327 326
 4415	Qiliqiao	pine tree	1740	ɕo³¹	ɕ o ³¹	i n t	325
@@ -2957,7 +2957,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 710	Luobenzhuo	pond	2035	lu³¹bɯ³³	l u ³¹ + b ɯ ³³	i n t + i n t	577 573
 711	Zhoucheng	pond	2035	pɯ³³	p ɯ ³³	i n t	573
 3484	Jianchuan	poor	1674	jĩ⁵⁵ku²¹	j ĩ ∼ ⁵⁵ + k u ²¹	i n c t + i n t	1415 1416
-3485	Eryuan	poor	1674	kʰue³³tʂɔ⁴²	kʰ u e ³³ + tʂ ɔ ⁴²	i m n t + i n t	1417 1418
+3485	Eryuan	poor	1674	kʰue³³tʂɔ⁴²	kʰ u e ³³ + ʈʂ ɔ ⁴²	i m n t + i n t	1417 1418
 3486	Heqing	poor	1674	jĩ⁵⁵na⁵⁵ku²¹	j ĩ ∼ ⁵⁵ + n a ⁵⁵ + k u ²¹	i n c t + i n t + i n t	1415 1419 1416
 3487	Lanping	poor	1674	jɛ̃⁵⁵kɯ³¹	j ɛ̃ ∼ ⁵⁵ + k ɯ ³¹	m n c t + i n t	1415 1416
 3488	Qiliqiao	poor	1674	kʰue³³tso³¹	kʰ u e ³³ + ts o ³¹	i m n t + i n t	1417 1418
@@ -2990,7 +2990,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 1967	Qiliqiao	pull up (rice seedlings)	2066	ma²¹	m a ²¹	i n t	335
 1968	Yunlong	pull up (rice seedlings)	2066	pia⁴²	p i a ⁴²	i m n t	336
 1969	Xiangyun	pull up (rice seedlings)	2066	ma²¹	m a ²¹	i n t	335
-1970	Luobenzhuo	pull up (rice seedlings)	2066	tɕãõ⁵⁵	tɕ ã õ ⁵⁵	i n c t	337
+1970	Luobenzhuo	pull up (rice seedlings)	2066	tɕãõ⁵⁵	tɕ ã o ∼ ⁵⁵	i n N c t	337
 1971	Zhoucheng	pull up (rice seedlings)	2066	ma²¹	m a ²¹	i n t	335
 46	Jianchuan	pumpkin	864	tɕi⁵⁵kua⁵⁵	tɕ i ⁵⁵ + k u a ⁵⁵	i n t + i m n t	776 777
 47	Eryuan	pumpkin	864	e⁵⁵kua⁵⁵	e ⁵⁵ + k u a ⁵⁵	n t + i m n t	778 777
@@ -3052,7 +3052,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 4208	Qiliqiao	rain	658	vɤ³³ɕi³³	v ɤ ³³ + ɕ i ³³	i n t + i n t	541 542
 4209	Yunlong	rain	658	vɤ³³ɕi³³	v ɤ ³³ + ɕ i ³³	i n t + i n t	541 542
 4210	Xiangyun	rain	658	jɛ³³	j ɛ ³³	i n t	544
-4211	Luobenzhuo	rain	658	dʐʅ³³	dʐ ʅ ³³	i n t	545
+4211	Luobenzhuo	rain	658	dʐʅ³³	ɖʐ ʅ ³³	i n t	545
 4212	Zhoucheng	rain	658	vɤ³³ɕi³³	v ɤ ³³ + ɕ i ³³	i n t + i n t	541 542
 3241	Jianchuan	raw	1959	xɛ⁵⁵	x ɛ ⁵⁵	i n t	1380
 3242	Eryuan	raw	1959	xɛ⁵⁵	x ɛ ⁵⁵	i n t	1380
@@ -3091,7 +3091,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 3077	Luobenzhuo	red	156	ʈʰa⁵⁵	ʈʰ a ⁵⁵	i n t	343
 3078	Zhoucheng	red	156	tsʰɛ⁴⁴	tsʰ ɛ ⁴⁴	i n t	343
 2557	Jianchuan	remember	707	tsɯ⁴⁴tɯ⁴⁴	ts ɯ ⁴⁴ + t ɯ ⁴⁴	i n t + i n t	1272 1273
-2558	Eryuan	remember	707	tʂɯ⁴⁴tɯ⁴⁴	tʂ ɯ ⁴⁴ + t ɯ ⁴⁴	i n t + i n t	1272 1273
+2558	Eryuan	remember	707	tʂɯ⁴⁴tɯ⁴⁴	ʈʂ ɯ ⁴⁴ + t ɯ ⁴⁴	i n t + i n t	1272 1273
 2559	Heqing	remember	707	tsɯ⁴⁴tɯ⁴⁴	ts ɯ ⁴⁴ + t ɯ ⁴⁴	i n t + i n t	1272 1273
 2560	Lanping	remember	707	tɕi⁴⁴tɯ⁴⁴	tɕ i ⁴⁴ + t ɯ ⁴⁴	i n t + i n t	1272 1273
 2561	Qiliqiao	remember	707	tɕi⁴⁴tɯ⁴⁴	tɕ i ⁴⁴ + t ɯ ⁴⁴	i n t + i n t	1272 1273
@@ -3136,7 +3136,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 1817	Luobenzhuo	ride	367	kɯ²¹	k ɯ ²¹	i n t	358
 1818	Zhoucheng	ride	367	kɯ²¹	k ɯ ²¹	i n t	358
 1801	Jianchuan	right (side)	1019	tsɛ⁴²fɤ³³	ts ɛ ⁴² + f ɤ ³³	i n t + i n t	599 600
-1802	Eryuan	right (side)	1019	tʂɛ⁴²pɔ³¹	tʂ ɛ ⁴² + p ɔ ³¹	i n t + i n t	599 600
+1802	Eryuan	right (side)	1019	tʂɛ⁴²pɔ³¹	ʈʂ ɛ ⁴² + p ɔ ³¹	i n t + i n t	599 600
 1803	Heqing	right (side)	1019	tsɛ̃⁴²fɤ³³	ts ɛ̃ ∼ ⁴² + f ɤ ³³	i n c t + i n t	599 600
 1804	Lanping	right (side)	1019	tsɛ̃⁴⁴pĩɛ̃⁵⁵pʰao⁴⁴	ts ɛ̃ ∼ ⁴⁴ + p i ɛ̃ ∼ ⁵⁵ + pʰ a o ⁴⁴	i n c t + i m n c t + i n c t	599 600 601
 1805	Qiliqiao	right (side)	1019	tsɛ̃⁴⁴pɔ²¹	ts ɛ̃ ∼ ⁴⁴ + p ɔ ²¹	i n c t + i n t	599 600
@@ -3198,7 +3198,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 1024	Xiangyun	salt	1274	pĩ³⁵	p ĩ ∼ ³⁵	i n c t	366
 1025	Luobenzhuo	salt	1274	tsũɛ̃⁵⁵	ts u ɛ̃ ∼ ⁵⁵	i m n c t	366
 1026	Zhoucheng	salt	1274	pi³⁵	p i ³⁵	i n t	366
-3412	Jianchuan	salty	1091	tsʰõũ³¹	tsʰ õ ũ ³¹	i n c t	367
+3412	Jianchuan	salty	1091	tsʰõũ³¹	tsʰ õ u ∼ ³¹	i n N c t	367
 3413	Eryuan	salty	1091	tsʰɔ³¹	tsʰ ɔ ³¹	i n t	367
 3414	Heqing	salty	1091	tsʰou³¹	tsʰ o u ³¹	i n c t	367
 3415	Lanping	salty	1091	tsʰɔ⁴²	tsʰ ɔ ⁴²	i n t	367
@@ -3388,7 +3388,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 8	Luobenzhuo	sky	1732	xẽ⁵⁵	x ẽ ∼ ⁵⁵	i n c t	394
 9	Zhoucheng	sky	1732	xe⁵⁵	x e ⁵⁵	i n t	394
 1882	Jianchuan	sleep	1585	tsʰɛ̃³³	tsʰ ɛ̃ ∼ ³³	i n c t	1145
-1883	Eryuan	sleep	1585	tʂʰɛ³³	tʂʰ ɛ ³³	i n t	1145
+1883	Eryuan	sleep	1585	tʂʰɛ³³	ʈʂʰ ɛ ³³	i n t	1145
 1884	Heqing	sleep	1585	tsʰɛ̃³³	tsʰ ɛ̃ ∼ ³³	i n c t	1145
 1885	Lanping	sleep	1585	tsʰɛ̃⁴⁴	tsʰ ɛ̃ ∼ ⁴⁴	i n c t	1145
 1886	Qiliqiao	sleep	1585	tsʰɛ³³	tsʰ ɛ ³³	i n t	1145
@@ -3433,18 +3433,18 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 1178	Luobenzhuo	small bowl	2053	ni³³pʰɔ⁵⁵	n i ³³ + pʰ ɔ ⁵⁵	i n t + i n t	1018 1019
 1179	Zhoucheng	small bowl	2053	ke⁴²	k e ⁴²	i n t	1016
 1594	Jianchuan	smell (vb)	1587	tsʰu⁵⁵	tsʰ u ⁵⁵	i n t	396
-1595	Eryuan	smell (vb)	1587	tʂʰu⁵⁵	tʂʰ u ⁵⁵	i n t	396
+1595	Eryuan	smell (vb)	1587	tʂʰu⁵⁵	ʈʂʰ u ⁵⁵	i n t	396
 1596	Heqing	smell (vb)	1587	tɕʰu³⁵	tɕʰ u ³⁵	i n t	396
 1597	Lanping	smell (vb)	1587	tsʰu⁵⁵	tsʰ u ⁵⁵	i n t	396
-1598	Qiliqiao	smell (vb)	1587	ʧʰu⁵⁵	ʧʰ u ⁵⁵	i n t	396
+1598	Qiliqiao	smell (vb)	1587	ʧʰu⁵⁵	tʃʰ u ⁵⁵	i n t	396
 1599	Yunlong	smell (vb)	1587	tsʰu⁵⁵	tsʰ u ⁵⁵	i n t	396
 1600	Xiangyun	smell (vb)	1587	tɕʰu⁵⁵	tɕʰ u ⁵⁵	i n t	396
 1601	Luobenzhuo	smell (vb)	1587	ʈʰɤ³¹	ʈʰ ɤ ³¹	i n t	396
 3430	Jianchuan	smelly	42	tsʰu³¹	tsʰ u ³¹	i n t	397
-3431	Eryuan	smelly	42	tʂʰu³¹	tʂʰ u ³¹	i n t	397
+3431	Eryuan	smelly	42	tʂʰu³¹	ʈʂʰ u ³¹	i n t	397
 3432	Heqing	smelly	42	tsʰu³¹	tsʰ u ³¹	i n t	397
 3433	Lanping	smelly	42	tsʰu³¹	tsʰ u ³¹	i n t	397
-3434	Qiliqiao	smelly	42	ʧʰu³¹	ʧʰ u ³¹	i n t	397
+3434	Qiliqiao	smelly	42	ʧʰu³¹	tʃʰ u ³¹	i n t	397
 3435	Yunlong	smelly	42	tsʰu³¹	tsʰ u ³¹	i n t	397
 3436	Xiangyun	smelly	42	tsʰu³¹	tsʰ u ³¹	i n t	397
 3437	Luobenzhuo	smelly	42	ʈʰɤ⁴²	ʈʰ ɤ ⁴²	i n t	397
@@ -3513,7 +3513,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 1493	Luobenzhuo	soul	811	pʰa⁴⁴ma⁴⁴	pʰ a ⁴⁴ + m a ⁴⁴	i n t + i n t	408 409
 1494	Zhoucheng	soul	811	pʰɯ³¹mɛ³¹	pʰ ɯ ³¹ + m ɛ ³¹	i n t + i n t	408 409
 1423	Jianchuan	sound,voice	1811	tsʰɛ̃⁵⁵tɕʰi⁴⁴	tsʰ ɛ̃ ∼ ⁵⁵ + tɕʰ i ⁴⁴	i n c t + i n t	412 413
-1424	Eryuan	sound,voice	1811	tʂʰɛ⁵⁵kʲʰi⁴⁴	tʂʰ ɛ ⁵⁵ + kʲʰ i ⁴⁴	i n t + i n t	412 413
+1424	Eryuan	sound,voice	1811	tʂʰɛ⁵⁵kʲʰi⁴⁴	ʈʂʰ ɛ ⁵⁵ + kʲʰ i ⁴⁴	i n t + i n t	412 413
 1425	Heqing	sound,voice	1811	tsʰɛ̃⁵⁵tɕʰi⁴⁴	tsʰ ɛ̃ ∼ ⁵⁵ + tɕʰ i ⁴⁴	i n c t + i n t	412 413
 1426	Lanping	sound,voice	1811	tsʰɯ̃⁵⁵tɕʰi⁴²	tsʰ ɯ̃ ∼ ⁵⁵ + tɕʰ i ⁴²	i n c t + i n t	412 413
 1427	Qiliqiao	sound,voice	1811	tsʰɛ⁵⁵tɕʰi⁴⁴	tsʰ ɛ ⁵⁵ + tɕʰ i ⁴⁴	i n t + i n t	412 413
@@ -3537,7 +3537,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 3371	Qiliqiao	sour	1906	ʃua⁵⁵	ʃ u a ⁵⁵	i m n t	416
 3372	Yunlong	sour	1906	sua⁵⁵	s u a ⁵⁵	i m n t	416
 3373	Xiangyun	sour	1906	sũã⁵⁵	s u ã ∼ ⁵⁵	i m n c t	416
-3374	Luobenzhuo	sour	1906	tɕãõ⁵⁵	tɕ ã õ ⁵⁵	i n c t	417
+3374	Luobenzhuo	sour	1906	tɕãõ⁵⁵	tɕ ã o ∼ ⁵⁵	i n N c t	417
 3375	Zhoucheng	sour	1906	sua⁵⁵	s u a ⁵⁵	i m n t	416
 37	Jianchuan	soybean	2027	sɛ̃⁵⁵tsɿ³³tɯ²¹	s ɛ̃ ∼ ⁵⁵ + ts ɿ ³³ + t ɯ ²¹	i n c t + i n t + i n t	771 773 772
 38	Eryuan	soybean	2027	pɛ⁴⁴xue³⁵tɯ³¹	p ɛ ⁴⁴ + x u e ³⁵ + t ɯ ³¹	i n t + i m n t + i n t	774 775 772
@@ -3621,7 +3621,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 2447	Luobenzhuo	steal	713	diɛ⁴²	d i ɛ ⁴²	i m n t	1244
 2448	Zhoucheng	steal	713	ta²¹	t a ²¹	i n t	1243
 2080	Jianchuan	steam (yams)	2067	tsɤ³³	ts ɤ ³³	i n t	434
-2081	Eryuan	steam (yams)	2067	tʂɤ³³	tʂ ɤ ³³	i n t	434
+2081	Eryuan	steam (yams)	2067	tʂɤ³³	ʈʂ ɤ ³³	i n t	434
 2082	Heqing	steam (yams)	2067	tsuɔ³³	ts u ɔ ³³	i m n t	434
 2083	Lanping	steam (yams)	2067	tsu³³	ts u ³³	i n t	434
 2084	Qiliqiao	steam (yams)	2067	tsɤ³³	ts ɤ ³³	i n t	434
@@ -3651,7 +3651,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 2090	Eryuan	stir-fry	991	tsʰu³³	tsʰ u ³³	i n t	437
 2091	Heqing	stir-fry	991	tsʰu³³	tsʰ u ³³	i n t	437
 2092	Lanping	stir-fry	991	tsʰu³³	tsʰ u ³³	i n t	437
-2093	Qiliqiao	stir-fry	991	ʧʰu³³	ʧʰ u ³³	i n t	437
+2093	Qiliqiao	stir-fry	991	ʧʰu³³	tʃʰ u ³³	i n t	437
 2094	Yunlong	stir-fry	991	tsʰu³³	tsʰ u ³³	i n t	437
 2095	Xiangyun	stir-fry	991	tsʰu³³	tsʰ u ³³	i n t	437
 2096	Luobenzhuo	stir-fry	991	ɴ̣³¹	ɴ ɴ̣ ∼ ³¹	i n c t	438
@@ -3666,7 +3666,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 494	Luobenzhuo	stomach	819	sæ̃³³ʐa³³	s æ̃ ∼ ³³ + ʐ a ³³	i n c t + i n t	443 440
 495	Zhoucheng	stomach	819	vɤ⁴²	v ɤ ⁴²	i n t	439
 1306	Jianchuan	stone	857	tɕo⁴²kʰue⁵⁵	tɕ o ⁴² + kʰ u e ⁵⁵	i n t + i m n t	444 445
-1307	Eryuan	stone	857	tʂo⁴²kʰue⁵⁵	tʂ o ⁴² + kʰ u e ⁵⁵	i n t + i m n t	444 445
+1307	Eryuan	stone	857	tʂo⁴²kʰue⁵⁵	ʈʂ o ⁴² + kʰ u e ⁵⁵	i n t + i m n t	444 445
 1308	Heqing	stone	857	tsou⁴²kʰue⁵⁵	ts o u ⁴² + kʰ u e ⁵⁵	i n c t + i m n t	444 445
 1309	Lanping	stone	857	tsu³¹kʰue⁵⁵	ts u ³¹ + kʰ u e ⁵⁵	i n t + i m n t	444 445
 1310	Qiliqiao	stone	857	tso⁴²kʰue⁵⁵	ts o ⁴² + kʰ u e ⁵⁵	i n t + i m n t	444 445
@@ -3789,10 +3789,10 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 2813	Qiliqiao	swell	1573	tsʰɿ⁵⁵	tsʰ ɿ ⁵⁵	i n t	457
 2814	Yunlong	swell	1573	tsʰɿ⁵⁵	tsʰ ɿ ⁵⁵	i n t	457
 2815	Xiangyun	swell	1573	tsʰɛ̃⁵⁵	tsʰ ɛ̃ ∼ ⁵⁵	i n c t	457
-2816	Luobenzhuo	swell	1573	tʂʰɛ̃⁵⁵	tʂʰ ɛ̃ ∼ ⁵⁵	i n c t	457
+2816	Luobenzhuo	swell	1573	tʂʰɛ̃⁵⁵	ʈʂʰ ɛ̃ ∼ ⁵⁵	i n c t	457
 2817	Zhoucheng	swell	1573	tsʰɿ⁵⁵	tsʰ ɿ ⁵⁵	i n t	457
 1252	Jianchuan	table	1775	tsɿ⁵⁵tsɿ³³	ts ɿ ⁵⁵ + ts ɿ ³³	i n t + i n t	1038 1039
-1253	Eryuan	table	1775	tʂɛ³⁵tsɿ³³	tʂ ɛ ³⁵ + ts ɿ ³³	i n t + i n t	1038 1039
+1253	Eryuan	table	1775	tʂɛ³⁵tsɿ³³	ʈʂ ɛ ³⁵ + ts ɿ ³³	i n t + i n t	1038 1039
 1254	Heqing	table	1775	tsɛ⁵⁵tsɿ³³	ts ɛ ⁵⁵ + ts ɿ ³³	i n t + i n t	1038 1039
 1255	Lanping	table	1775	tsɿ⁴⁴tsɿ³³tsɔ̃⁵⁵	ts ɿ ⁴⁴ + ts ɿ ³³ + ts ɔ̃ ∼ ⁵⁵	i n t + i n t + i n c t	1038 1039 1040
 1256	Qiliqiao	table	1775	tsɛ³⁵tsɿ³³tso³⁵	ts ɛ ³⁵ + ts ɿ ³³ + ts o ³⁵	i n t + i n t + i n t	1038 1039 1040
@@ -3819,7 +3819,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 4481	Luobenzhuo	taro	351	xɯ⁴²	x ɯ ⁴²	i n t	762
 4482	Zhoucheng	taro	351	pi²¹tʰɤ⁵⁵	p i ²¹ + tʰ ɤ ⁵⁵	i n t + i n t	760 761
 1063	Jianchuan	tea (drink)	1373	tsou²¹	ts o u ²¹	i n c t	458
-1064	Eryuan	tea (drink)	1373	tʂɔ²¹	tʂ ɔ ²¹	i n t	458
+1064	Eryuan	tea (drink)	1373	tʂɔ²¹	ʈʂ ɔ ²¹	i n t	458
 1065	Heqing	tea (drink)	1373	tsɔu²¹	ts ɔ u ²¹	i n c t	458
 1066	Lanping	tea (drink)	1373	tsao²¹	ts a o ²¹	i n c t	458
 1067	Qiliqiao	tea (drink)	1373	tsɔ²¹	ts ɔ ²¹	i n t	458
@@ -3852,7 +3852,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 3596	Qiliqiao	ten	1515	tsɿ⁴²	ts ɿ ⁴²	i n t	460
 3597	Yunlong	ten	1515	tsɿ⁴²	ts ɿ ⁴²	i n t	460
 3598	Xiangyun	ten	1515	tsɿ⁴²	ts ɿ ⁴²	i n t	460
-3599	Luobenzhuo	ten	1515	tʂæ⁴²	tʂ æ ⁴²	i n t	460
+3599	Luobenzhuo	ten	1515	tʂæ⁴²	ʈʂ æ ⁴²	i n t	460
 3600	Zhoucheng	ten	1515	tsɿ⁴²	ts ɿ ⁴²	i n t	460
 3628	Jianchuan	ten thousand	2078	a³¹ɤ̃⁴²	a ³¹ + ɤ̃ ∼ ⁴²	n t + n c t	1424 1425
 3629	Eryuan	ten thousand	2078	a³¹ŋɤ⁴²	a ³¹ + ŋ ɤ ⁴²	n t + i n t	1424 1425
@@ -3879,7 +3879,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 3875	Qiliqiao	there	1937	vɯ⁵⁵ta⁴⁴	v ɯ ⁵⁵ + t a ⁴⁴	i n t + i n t	1479 0
 3876	Yunlong	there	1937	na⁵⁵ŋue³³	n a ⁵⁵ + ŋ u e ³³	i n t + i m n t	1477 1483
 3877	Xiangyun	there	1937	na⁵⁵xou³¹	n a ⁵⁵ + x o u ³¹	i n t + i n c t	1477 1484
-3878	Luobenzhuo	there	1937	tɔ⁴⁴wa⁴⁴ṃ⁴⁴	t ɔ ⁴⁴ + w a ⁴⁴ + m m̩ ∼ ⁴⁴	i n t + i n t + i n c t	1481 1482 1485
+3878	Luobenzhuo	there	1937	tɔ⁴⁴wa⁴⁴ṃ⁴⁴	t ɔ ⁴⁴ + w a ⁴⁴ + m ṃ ∼ ⁴⁴	i n t + i n t + i n c t	1481 1482 1485
 3879	Zhoucheng	there	1937	tɔ⁵⁵we³³	t ɔ ⁵⁵ + w e ³³	i n t + i n t	1481 1482
 2629	Jianchuan	there is	2152	tsɯ³³	ts ɯ ³³	i n t	1286
 2630	Eryuan	there is	2152	tsɯ³³	ts ɯ ³³	i n t	1286
@@ -3888,7 +3888,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 2633	Qiliqiao	there is	2152	tsɯ³³	ts ɯ ³³	i n t	1286
 2634	Yunlong	there is	2152	zɿ³³	z ɿ ³³	i n t	1287
 2635	Xiangyun	there is	2152	zou³³	z o u ³³	i n c t	1287
-2636	Luobenzhuo	there is	2152	ʥi³³	ʥ i ³³	i n t	1286
+2636	Luobenzhuo	there is	2152	ʥi³³	dʑ i ³³	i n t	1286
 2637	Zhoucheng	there is	2152	tsɯ³³	ts ɯ ³³	i n t	1286
 3808	Jianchuan	they (3 p.p.)	817	ma⁵⁵	m a ⁵⁵	i n t	1446
 3809	Eryuan	they (3 p.p.)	817	pa⁵⁵	p a ⁵⁵	i n t	1447
@@ -3912,10 +3912,10 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 2927	Eryuan	thick,coarse	2151	tsʰu⁵⁵	tsʰ u ⁵⁵	i n t	1353
 2928	Heqing	thick,coarse	2151	tsʰu⁵⁵	tsʰ u ⁵⁵	i n t	1353
 2929	Lanping	thick,coarse	2151	tsʰu⁵⁵	tsʰ u ⁵⁵	i n t	1353
-2930	Qiliqiao	thick,coarse	2151	ʧʰu⁵⁵	ʧʰ u ⁵⁵	i n t	1353
+2930	Qiliqiao	thick,coarse	2151	ʧʰu⁵⁵	tʃʰ u ⁵⁵	i n t	1353
 2931	Yunlong	thick,coarse	2151	tsʰu⁵⁵	tsʰ u ⁵⁵	i n t	1353
 2932	Xiangyun	thick,coarse	2151	tsʰu⁵⁵	tsʰ u ⁵⁵	i n t	1353
-2933	Luobenzhuo	thick,coarse	2151	ʧʰu⁵⁵	ʧʰ u ⁵⁵	i n t	1353
+2933	Luobenzhuo	thick,coarse	2151	ʧʰu⁵⁵	tʃʰ u ⁵⁵	i n t	1353
 2934	Zhoucheng	thick,coarse	2151	tsʰu⁵⁵	tsʰ u ⁵⁵	i n t	1353
 2953	Jianchuan	thin,flimsy	2306	po⁴²	p o ⁴²	i n t	1355
 2954	Eryuan	thin,flimsy	2306	pɔ⁴²	p ɔ ⁴²	i n t	1355
@@ -4023,7 +4023,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 2669	Qiliqiao	to (reach)	1387	pʰia⁴⁴	pʰ i a ⁴⁴	i m n t	1297
 2670	Yunlong	to (reach)	1387	pʰia⁴⁴	pʰ i a ⁴⁴	i m n t	1297
 2671	Xiangyun	to (reach)	1387	pʰiɛ⁴⁴	pʰ i ɛ ⁴⁴	i m n t	1297
-2672	Luobenzhuo	to (reach)	1387	ʧʰua⁵⁵	ʧʰ u a ⁵⁵	i m n t	1297
+2672	Luobenzhuo	to (reach)	1387	ʧʰua⁵⁵	tʃʰ u a ⁵⁵	i m n t	1297
 2673	Zhoucheng	to (reach)	1387	pʰia⁴⁴	pʰ i a ⁴⁴	i m n t	1297
 2800	Jianchuan	today	1283	ke⁵⁵jĩ⁴⁴	k e ⁵⁵ + j ĩ ∼ ⁴⁴	i n t + i n c t	472 473
 2801	Eryuan	today	1283	kʲɛ⁵⁵ɲi⁴⁴	kʲ ɛ ⁵⁵ + ɲ i ⁴⁴	i n t + i n t	472 473
@@ -4044,7 +4044,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 3113	Luobenzhuo	tomorrow	1329	mɔ³¹pa⁴²	m ɔ ³¹ + p a ⁴²	i n t + i n t	627 630
 3114	Zhoucheng	tomorrow	1329	me⁵⁵ɲi⁴⁴	m e ⁵⁵ + ɲ i ⁴⁴	i n t + i n t	627 628
 334	Jianchuan	tongue	1205	tse⁴²	ts e ⁴²	i n t	475
-335	Eryuan	tongue	1205	tʂe⁴²pʰi³¹	tʂ e ⁴² + pʰ i ³¹	i n t + i n t	475 476
+335	Eryuan	tongue	1205	tʂe⁴²pʰi³¹	ʈʂ e ⁴² + pʰ i ³¹	i n t + i n t	475 476
 336	Heqing	tongue	1205	tse⁴²pʰĩ³¹	ts e ⁴² + pʰ ĩ ∼ ³¹	i n t + i n c t	475 476
 337	Lanping	tongue	1205	tsẽ³³pʰĩ³¹	ts ẽ ∼ ³³ + pʰ ĩ ∼ ³¹	i n c t + i n c t	475 476
 338	Qiliqiao	tongue	1205	tse⁴²pʰi³¹	ts e ⁴² + pʰ i ³¹	i n t + i n t	475 476
@@ -4062,7 +4062,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 332	Luobenzhuo	tooth	1380	tɕo³³pa⁵⁵	tɕ o ³³ + p a ⁵⁵	i n t + i n t	831 832
 333	Zhoucheng	tooth	1380	tsɿ³³pa⁴⁴	ts ɿ ³³ + p a ⁴⁴	i n t + i n t	831 832
 4393	Jianchuan	tree	906	tsɯ³¹	ts ɯ ³¹	i n t	479
-4394	Eryuan	tree	906	tʂɯ³¹	tʂ ɯ ³¹	i n t	479
+4394	Eryuan	tree	906	tʂɯ³¹	ʈʂ ɯ ³¹	i n t	479
 4395	Heqing	tree	906	tsɯ³¹	ts ɯ ³¹	i n t	479
 4396	Lanping	tree	906	tsɯ²¹	ts ɯ ²¹	i n t	479
 4397	Qiliqiao	tree	906	tsɯ³¹	ts ɯ ³¹	i n t	479
@@ -4108,7 +4108,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 1737	Zhoucheng	twist (rope)	430	tsʰo⁴⁴	tsʰ o ⁴⁴	i n t	1132
 3520	Jianchuan	two	1498	kõ³³	k õ ∼ ³³	i n c t	488
 3521	Eryuan	two	1498	kɔ³³	k ɔ ³³	i n t	488
-3522	Heqing	two	1498	kɔ̃u³³	k ɔ̃ ũ ³³	i n c t	488
+3522	Heqing	two	1498	kɔ̃u³³	k ɔ̃ u ∼ ³³	i n N c t	488
 3523	Lanping	two	1498	kɔ̃⁴⁴	k ɔ̃ ∼ ⁴⁴	i n c t	488
 3524	Qiliqiao	two	1498	ko³³	k o ³³	i n t	488
 3525	Yunlong	two	1498	kɔ³³	k ɔ ³³	i n t	488
@@ -4125,7 +4125,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 935	Luobenzhuo	uncooked rice	926	qɔ²¹mi³³	q ɔ ²¹ + m i ³³	i n t + i n t	351 350
 936	Zhoucheng	uncooked rice	926	me³³	m e ³³	i n t	350
 2674	Jianchuan	up (mountain)	705	tsõ³³	ts õ ∼ ³³	i n c t	489
-2675	Eryuan	up (mountain)	705	tʂɔ³³	tʂ ɔ ³³	i n t	489
+2675	Eryuan	up (mountain)	705	tʂɔ³³	ʈʂ ɔ ³³	i n t	489
 2676	Heqing	up (mountain)	705	tsu³³	ts u ³³	i n t	489
 2677	Lanping	up (mountain)	705	tsõ³³	ts õ ∼ ³³	i n c t	489
 2678	Qiliqiao	up (mountain)	705	ke³¹tso³³	k e ³¹ + ts o ³³	i n t + i n t	490 489
@@ -4140,11 +4140,11 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 554	Qiliqiao	urine	1142	a⁵⁵sɿ³³	a ⁵⁵ + s ɿ ³³	n t + i n t	496 493
 555	Yunlong	urine	1142	sɿ³¹	s ɿ ³¹	i n t	493
 556	Xiangyun	urine	1142	sɿ⁵⁵sɿ³¹	s ɿ ⁵⁵ + s ɿ ³¹	i n t + i n t	493 497
-557	Luobenzhuo	urine	1142	a⁵⁵ʂæ³³tʂæ⁵⁵	a ⁵⁵ + ʂ æ ³³ + tʂ æ ⁵⁵	n t + i n t + i n t	496 493 498
+557	Luobenzhuo	urine	1142	a⁵⁵ʂæ³³tʂæ⁵⁵	a ⁵⁵ + ʂ æ ³³ + ʈʂ æ ⁵⁵	n t + i n t + i n t	496 493 498
 558	Zhoucheng	urine	1142	a³⁵sɿ³³	a ³⁵ + s ɿ ³³	n t + i n t	496 493
 2332	Jianchuan	use	2072	jõ⁴²	j õ ∼ ⁴²	i n c t	1208
 2333	Eryuan	use	2072	jɔ⁴²	j ɔ ⁴²	i n t	1208
-2334	Heqing	use	2072	jɔ̃u⁴²	j ɔ̃ ũ ⁴²	i n c t	1208
+2334	Heqing	use	2072	jɔ̃u⁴²	j ɔ̃ u ∼ ⁴²	i n N c t	1208
 2335	Lanping	use	2072	jɔ̃⁴²	j ɔ̃ ∼ ⁴²	i n c t	1208
 2336	Qiliqiao	use	2072	zɤ³³	z ɤ ³³	i n t	1209
 2337	Yunlong	use	2072	jɔ⁴²	j ɔ ⁴²	i n t	1208
@@ -4197,7 +4197,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 1664	Luobenzhuo	vomit	1278	tɕʰa⁵⁵	tɕʰ a ⁵⁵	i n t	505
 1665	Zhoucheng	vomit	1278	kʰue³¹	kʰ u e ³¹	i m n t	509
 424	Jianchuan	waist	1681	ji⁵⁵kua⁴⁴	j i ⁵⁵ + k u a ⁴⁴	i n t + i m n t	854 855
-425	Eryuan	waist	1681	ji³⁵kua⁴⁴tʂɤ⁴⁴	j i ³⁵ + k u a ⁴⁴ + tʂ ɤ ⁴⁴	i n t + i m n t + i n t	854 855 856
+425	Eryuan	waist	1681	ji³⁵kua⁴⁴tʂɤ⁴⁴	j i ³⁵ + k u a ⁴⁴ + ʈʂ ɤ ⁴⁴	i n t + i m n t + i n t	854 855 856
 426	Heqing	waist	1681	ji⁵⁵kua⁴⁴tsuɔ⁴⁴	j i ⁵⁵ + k u a ⁴⁴ + ts u ɔ ⁴⁴	i n t + i m n t + i m n t	854 855 856
 427	Lanping	waist	1681	ji⁴⁴kua³³tsɿ³³	j i ⁴⁴ + k u a ³³ + ts ɿ ³³	i n t + i m n t + i n t	854 855 856
 428	Qiliqiao	waist	1681	ji³⁵kua⁴⁴ɕi³⁵	j i ³⁵ + k u a ⁴⁴ + ɕ i ³⁵	i n t + i m n t + i n t	854 855 857
@@ -4243,7 +4243,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 99	Zhoucheng	walnut	2042	ɔ²¹tɔ²¹	ɔ ²¹ + t ɔ ²¹	n t + i n t	788 789
 2584	Jianchuan	want	1784	jõ⁴⁴	j õ ∼ ⁴⁴	i n c t	510
 2585	Eryuan	want	1784	ɲɔ⁴⁴	ɲ ɔ ⁴⁴	i n t	510
-2586	Heqing	want	1784	jɔ̃u⁴⁴	j ɔ̃ ũ ⁴⁴	i n c t	510
+2586	Heqing	want	1784	jɔ̃u⁴⁴	j ɔ̃ u ∼ ⁴⁴	i n N c t	510
 2587	Lanping	want	1784	jɔ̃⁴⁴	j ɔ̃ ∼ ⁴⁴	i n c t	510
 2588	Qiliqiao	want	1784	ɲiɔ⁴⁴	ɲ i ɔ ⁴⁴	i m n t	510
 2589	Yunlong	want	1784	ɲɔ⁴⁴	ɲ ɔ ⁴⁴	i n t	510
@@ -4305,7 +4305,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 2186	Luobenzhuo	wear (hat)	976	tɯ̃⁴²	t ɯ̃ ∼ ⁴²	i n c t	515
 2187	Zhoucheng	wear (hat)	976	tɯ³²	t ɯ ³²	i n t	515
 2017	Jianchuan	weave (cloth)	133	tsɿ⁵⁵	ts ɿ ⁵⁵	i n t	516
-2018	Eryuan	weave (cloth)	133	tʂɯ⁴⁴	tʂ ɯ ⁴⁴	i n t	516
+2018	Eryuan	weave (cloth)	133	tʂɯ⁴⁴	ʈʂ ɯ ⁴⁴	i n t	516
 2019	Heqing	weave (cloth)	133	tsɯ⁴⁴	ts ɯ ⁴⁴	i n t	516
 2020	Lanping	weave (cloth)	133	tsɯ⁵⁵	ts ɯ ⁵⁵	i n t	516
 2021	Qiliqiao	weave (cloth)	133	tsɯ³³	ts ɯ ³³	i n t	516
@@ -4329,7 +4329,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 806	Qiliqiao	wet field	140	kuɔ⁴²tɕi³¹	k u ɔ ⁴² + tɕ i ³¹	i m n t + i n t	581 580
 807	Yunlong	wet field	140	ɕy³³tɕi³¹	ɕ y ³³ + tɕ i ³¹	i n t + i n t	578 580
 808	Xiangyun	wet field	140	ɕy³³ji³¹	ɕ y ³³ + j i ³¹	i n t + i n t	578 582
-809	Luobenzhuo	wet field	140	pʰãõ⁵⁵tɕĩ⁴²	pʰ ã õ ⁵⁵ + tɕ ĩ ∼ ⁴²	i n c t + i n c t	583 580
+809	Luobenzhuo	wet field	140	pʰãõ⁵⁵tɕĩ⁴²	pʰ ã o ∼ ⁵⁵ + tɕ ĩ ∼ ⁴²	i n N c t + i n c t	583 580
 810	Zhoucheng	wet field	140	ɕy³³tɕi³¹	ɕ y ³³ + tɕ i ³¹	i n t + i n t	578 580
 3889	Jianchuan	what	1236	ɛ⁵⁵xɛ̃³¹	ɛ ⁵⁵ + x ɛ̃ ∼ ³¹	n t + i n c t	1493 1494
 3890	Eryuan	what	1236	a⁵⁵ne³¹	a ⁵⁵ + n e ³¹	n t + i n t	1493 1495
@@ -4403,7 +4403,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 4364	Luobenzhuo	wing (bird)	1257	lao³¹ji⁴²	l a o ³¹ + j i ⁴²	i n c t + i n t	749 747
 4365	Zhoucheng	wing (bird)	1257	ji³⁵kʰɤ⁵⁵kua⁴⁴tsa²¹	j i ³⁵ + kʰ ɤ ⁵⁵ + k u a ⁴⁴ + ts a ²¹	i n t + i n t + i m n t + i n t	747 748 1499 1632
 1216	Jianchuan	wok	2056	tsʰɛ̃⁵⁵	tsʰ ɛ̃ ∼ ⁵⁵	i n c t	1030
-1217	Eryuan	wok	2056	tʂʰɛ⁵⁵pe²¹	tʂʰ ɛ ⁵⁵ + p e ²¹	i n t + i n t	1030 1031
+1217	Eryuan	wok	2056	tʂʰɛ⁵⁵pe²¹	ʈʂʰ ɛ ⁵⁵ + p e ²¹	i n t + i n t	1030 1031
 1218	Heqing	wok	2056	kuɔ³⁵pʰĩ³¹	k u ɔ ³⁵ + pʰ ĩ ∼ ³¹	i m n t + i n c t	1032 1033
 1219	Lanping	wok	2056	tsʰɯ̃⁵⁵pʰi³³	tsʰ ɯ̃ ∼ ⁵⁵ + pʰ i ³³	i n c t + i n t	1030 1031
 1220	Qiliqiao	wok	2056	kuɔ³⁵pe²¹	k u ɔ ³⁵ + p e ²¹	i m n t + i n t	1032 1033
@@ -4412,7 +4412,7 @@ ID	DOCULECT	CONCEPT	CONCEPTICON_ID	VALUE	SEGMENTS	STRUCTURE	COGIDS
 1223	Luobenzhuo	wok	2056	ʈʰã⁵⁵tɕi³³	ʈʰ ã ∼ ⁵⁵ + tɕ i ³³	i n c t + i n t	1030 1035
 1224	Zhoucheng	wok	2056	ku³⁵le³¹	k u ³⁵ + l e ³¹	i n t + i n t	1032 1625
 4078	Jianchuan	wolf	522	na⁴²	n a ⁴²	i n t	666
-4079	Eryuan	wolf	522	pɛ⁴²tʂɯ⁴²	p ɛ ⁴² + tʂ ɯ ⁴²	i n t + i n t	667 668
+4079	Eryuan	wolf	522	pɛ⁴²tʂɯ⁴²	p ɛ ⁴² + ʈʂ ɯ ⁴²	i n t + i n t	667 668
 4080	Heqing	wolf	522	na⁴²	n a ⁴²	i n t	666
 4081	Lanping	wolf	522	la⁴²	l a ⁴²	i n t	669
 4082	Qiliqiao	wolf	522	tsʰe⁴²ko³¹	tsʰ e ⁴² + k o ³¹	i n t + i n t	670 671
