@@ -17,7 +17,7 @@ vomit	77	吐	t_hu25
 vomit	77	嘔吐	N6u35 t_hou33
 vomit	77	吐	t_hou212
 vomit	77	吐	t_ho21
-fear	77	怕	p_hAA51
+fear	77	怕	p_hA`51
 fear	77	怕	p_ha53
 fear	77	怕	p_ha31
 fear	77	怕	p_ha334
@@ -32,7 +32,7 @@ fear	77	怕	p_ha55
 fear	77	怕	p_hO35
 fear	77	怕	p_ha213
 fear	77	怕,畏,驚	(1) p_ha53, (2) vi53, (3) kiaN44
-fear	77	怕	p_hAA25
+fear	77	怕	p_hA`25
 fear	77	怕	p_ha33
 fear	77	驚	kiaN55
 fear	77	驚	kia~55
@@ -459,7 +459,7 @@ three	83	三	saN55
 three	83	三	sa~55
 
 woods	84	森林	s@n55 lin35
-woods	84	森林	s@n44 iln24
+woods	84	森林	s@n44 lin24
 woods	84	树林子	s`u213 lie~53 tsi_z0
 woods	84	林子	lin35 si_z0
 woods	84	森林	s@N21 liN21
@@ -689,7 +689,7 @@ what	89	什麼,麼子	(1) s@n24 mo0, (2) mo24 tsi_z0
 what	89	麽子	m742 tsi_z0
 what	89	什哩	c\it5 li21
 what	89	脉個	mak1 ke53
-what	89	什麼	s7N22 mAA22
+what	89	什麼	s7N22 mA`22
 what	89	乜口+野	m6t5 iE23
 what	89	什乇	sie?24_-53_ no?24_
 what	89	什物	sim53-55 mi~?5
@@ -704,7 +704,7 @@ stone	90	石頭	s`i`?5 t_h@M13
 stone	90	石頭	c\ie?32_ t_hi44
 stone	90	石頭	zA?23_ dY13-31
 stone	90	石頭子兒	zei21-2 d7u341-24 tsi_z242-53 N=0
-stone	90	石頭	si_z24 t@u9
+stone	90	石頭	si_z24 t@u0
 stone	90	石頭塊	c\iO35 di713 kua0
 stone	90	石頭	sa?2 t_hEu0
 stone	90	石頭	sak5 t_heu11
@@ -1130,7 +1130,7 @@ head	100	頭那	t_heu11 na11
 head	100	頭	tai22
 head	100	頭	t_h6u21
 head	100	頭	t_hau53
-head	100	頭壳	t_hau24-22 khak32_
+head	100	頭壳	t_hau24-22 k_hak32_
 hair	101	頭髮	t_hou35 fA`51
 hair	101	頭髮	t_hour24 fa0
 hair	101	頭髮	t_hou53-45 fa0
@@ -1311,7 +1311,7 @@ smell	105	聞	ve~24
 smell	105	聞	u@n21
 smell	105	聞	u@n13
 smell	105	碰～	p_hA~35
-smell	105	聞	m22n13
+smell	105	聞	m@n13
 smell	105	嗅<!sic!, would expect no nasal coda>	hoN51
 smell	105	聞	u@n13
 smell	105	嗅	c\i7N35
@@ -1389,7 +1389,7 @@ fog	107	霧	u44
 fog	107	霧	vu31
 fog	107	迷露	mi13-22 l@u231
 fog	107	幔	mø22
-fog	107	罩子	tsau55 tsi_z9
+fog	107	罩子	tsau55 tsi_z0
 fog	107	霧	u11
 fog	107	霧	u21
 fog	107	蒙纱	muN11 sa33
@@ -1400,7 +1400,7 @@ fog	107	霧	bu22
 knee	108	膝	tc\_hi55
 knee	108	膝蓋,簸棱盖儿	(1) c\i213-21 kai53, (2) p7213-21 l@N0 kar53
 knee	108	膝盖儿	tc\_hi214-23 kar21
-knee	108	波棱蓋	pO523 l@0 kai334
+knee	108	波棱蓋	pO52 l@0 kai334
 knee	108	膝,膝蓋	(1) c\i@?2, (2) c\i@?2 kai45
 knee	108	膝,克～膝蓋	tc\_hi21, (2) k_hM21 tc\_hi21 kE44
 knee	108	克～膝头儿	k_he21 c\i21-55 t_h@r21
@@ -2016,7 +2016,7 @@ how	123	酿～般～	NioN53 pan33
 how	123	如何	y22 xuo22
 how	123	点样	tim35 i9N35
 how	123	将样,将其	(1) tsuoN55-53 NyoN242, (2) tsuoN55-21 Ni53
-how	123	怎样	tsai~53 iu~22
+how	123	怎样	tsa~i53 iu~22
 narrow	123	窄	ts`ai213
 narrow	123	窄	tsai213
 narrow	123	窄	ts`ei214
@@ -2025,7 +2025,7 @@ narrow	123	窄	tsai53
 narrow	123	窄	tsei21
 narrow	123	窄	tse21
 narrow	123	窄	tse?5
-narrow	123	窄狭	xa?32_44 tsa?32_
+narrow	123	窄狭	xa?32_-44 tsa?32_
 narrow	123	狭	h\a?23_
 narrow	123	狭	h\a21
 narrow	123	窄	ts@24
@@ -2071,7 +2071,7 @@ husband	124	男人	na~13 nin13-33
 husband	124	老公,男客	(1) lau213 kuN0, (2) lan45 k_ha?5
 husband	124	老公	lau31 kuN33
 husband	124	老公	lAu23 k7N42-22
-husband	124	老公,先生	(1) ou23 koN53, (2) sin55 sanN53
+husband	124	老公,先生	(1) ou23 koN53, (2) sin55 saN53
 husband	124	老公,丈夫	(1) la242-55 uN55, (2) touN53-55 muo55
 husband	124	丈夫人	ta22-21 pO55-22 laN24
 this	125	这	ts`751
@@ -2124,9 +2124,9 @@ know	126	晓得	c\ie213-31 tie44
 know	126	晓得	c\i{52 t@?0
 know	126	晓得	c\ia242-24 te0
 know	126	知道,晓得	(1) tsi_z33 tau55, (2) c\iau41 t@0
-know	126	晓得	c\i7421 te13-33
+know	126	晓得	c\i721 te13-33
 know	126	晓得	c\iEu213 tEt0
-know	126	知得	ti33-35 tet1
+know	126	3知得	ti33-35 tet1
 know	126	晓得	c\iAu23 tiA`55
 know	126	知道	tsi33 tou22
 know	126	人+八传,会晓,会人+八	(1) pEi?24_-21_ tuoN53, (2) E242-53 hieu32, (3) E242-53 pai?24_
@@ -2328,7 +2328,7 @@ mouth	131	嘴	ts2y35
 mouth	131	喙	ts_huoi212
 mouth	131	喙	ts_hui21
 
-leftside	131	左边	tsuo2133-21 piEn55
+leftside	131	左边	tsuo213-21 piEn55
 leftside	131	左边,左边儿拉	(1) tsuo213-21 pian44, (2) tsuo213-21 piar44 la0
 leftside	131	左边	tsu731 pi{~0
 leftside	131	左边儿	tsuO214-21 pi@r52
@@ -2378,7 +2378,7 @@ guts	37	腸子	ts_haN21-55 tsi_z53
 guts	37	腸子	ts_hA~13-11 tsi_z0
 guts	37	腸	tc\_hio~55
 guts	37	肚腸	d@u231-22 a~13-31
-guts	37	肚腸	d2y24-442 dz\i341-21
+guts	37	肚腸	d2y24-42 dz\i341-21
 guts	37	腸子	tsan13 tsi_z0
 guts	37	腸	t_hON13
 guts	37	腸子	ts_hON24 tsi_z0
@@ -2520,7 +2520,7 @@ stab	40	刺	ts_hi_z25
 stab	40	刺	ts_hi33
 stab	40	刺	ts_hie212
 stab	40	刺	ts_hi21
-hit	41	打	tAA214
+hit	41	打	tA`214
 hit	41	打	ta213
 hit	41	打	ta45
 hit	41	打	ta214
@@ -2535,7 +2535,7 @@ hit	41	打	ta41
 hit	41	打	ta42
 hit	41	打	ta213
 hit	41	打	ta31
-hit	41	打	tAA23
+hit	41	打	tA`23
 hit	41	打	ta35
 hit	41	拍	p_ha?24_
 hit	41	拍	p_ha?32_
@@ -2559,7 +2559,7 @@ fight	41	打架	tA23 kA25
 fight	41	打架	ta35 kau55
 fight	41	相拍	souN55-53 p_ha?21_
 fight	41	相拍	sio55-22 p_ha?32_
-hunt	42	打獵 	tAA213-21 liE51
+hunt	42	打獵 	tA`213-21 liE51
 hunt	42	打獵	ta213-21 liE53
 hunt	42	打獵	ta45 li@21
 hunt	42	打獵	ta214-2 liE334
@@ -2626,7 +2626,7 @@ fall	43	掉,落	(1) tiau213, (2) lo21
 fall	43	掉	tiO44
 fall	43	落,跌	(1) no?32_, (2) tia?32_
 fall	43	特～	d@?23_
-fall	43	遁	dang22
+fall	43	遁	daN22
 fall	43	掉	tiau11
 fall	43	刷	sua13
 fall	43	掉	tiEt5
@@ -2844,7 +2844,7 @@ rotten	49	腐爛	fu23 la~21
 rotten	49	爛,腐爛	(1) lan22, (2) fu22 lan22
 rotten	49	腐,飲腐,飲	(1) pou242, (2) aN32-55 pou242, (3) aN32
 rotten	49	爛	nua~22
-father	49	爸爸,父	pAA51-53 pAA0, (2) fu51
+father	49	爸爸,父	pA`51-53 pA`0, (2) fu51
 father	49	爸,爹	(1) pa53, (2) tiE44
 father	49	父親	fu31-44 tc\_hie~0
 father	49	爹	tiE52
@@ -3239,7 +3239,7 @@ flower	59	花	fa33
 flower	59	花	xO44
 flower	59	花	fa45
 flower	59	花兒	fa33-35 ve0
-flower	59	花	fAA42
+flower	59	花	fA`42
 flower	59	花	fa55
 flower	59	花	hua55
 flower	59	花仔,花	(1) hue55-22 ia53, (2) hue55
@@ -3528,7 +3528,7 @@ tie	67	捆	k_hu7N22
 tie	67	捆	k_hu6n35
 tie	67	捆,扎	(1) k_huN32, (2) tsa?24_
 tie	67	捆,縛	(1) k_hun53, (2) pak5
-pull	67	拉	lAA55
+pull	67	拉	lA`55
 pull	67	拉	la44
 pull	67	拉	la214
 pull	67	拉	la214
@@ -3714,12 +3714,12 @@ mather	72	母親,娘(背稱),娘老子(背稱),媽媽,姆媽	(1) mo41 tc\_hin33,
 mather	72	姆媽	m=11 ma42-1
 mather	72	母親,娘	(1) mu213 tc\_hin42, (2) n`iON45
 mather	72	娭兒,阿姆	(1) oi33-35 ie0, (2) a33 me33
-mather	72	姐	tc\iAA23
+mather	72	姐	tc\iA`23
 mather	72	母親	mou35 ts_h6n53
 mather	72	依～媽,依～奶,娘妳	(1) i44 ma44, (2) i55-53 nE32, (3) louN53-33 nE32
 mather	72	阿姆,老姆	(1) a55-11 bu53, (2) lau24-22 bu53
 
-hold-take	72	拿	nAA35
+hold-take	72	拿	nA`35
 hold-take	72	拿	na24
 hold-take	72	拿	na53
 hold-take	72	拿	na52
@@ -3739,10 +3739,10 @@ hold-take	72	手+羅	lO35
 hold-take	72	拈,掏	(1) nieN55, (2) to53
 hold-take	72	手+帶	t_he?5
 
-where	72	哪里	nAA214-35 li214
+where	72	哪里	nA`214-35 li214
 where	72	哪里,哪兒,哪疙兒	(1) na24 li213, (2) nar213, (3) na213-21 kar44
 where	72	哪里	na213 n`ie~0
-where	72	哪里	na34 li214
+where	72	哪里	na35 li214
 where	72	哪嘞	na53 lE0
 where	72	啊搭	A53 tA21
 where	72	哪兒,哪兒跟前	(1) n@r53, (2) n@r53-45 k@n55 tc\_hiEn21
@@ -3754,7 +3754,7 @@ where	72	哪里,何至	(1) la41 li0, (2) o13 tsi_z0
 where	72	哪里	la42 li0
 where	72	哪里	la213 li0
 where	72	哪兒	Nai53-55 ie0
-where	72	里囗	lAA23 xAN33
+where	72	里囗	lA`23 xAN33
 where	72	邊度	pin55 tou22
 where	72	底所	tie32-35 n932
 where	72	倒落	to55 lo?5
@@ -3774,7 +3774,7 @@ that	73	那	la55
 that	73	那	lo11
 that	73	許,那	(1) he213, (2) la213
 that	73	囗	ke53
-that	73	那	lAA23
+that	73	那	lA`23
 that	73	那	na33
 that	73	許～,回	(1) hy32, (2) huoi53
 that	73	迄	hit32_
@@ -3794,7 +3794,7 @@ there	74	那里	la55 li41
 there	74	那里	lo11 li0
 there	74	那里	la213 li0
 there	74	那兒	e53-55 ie0
-there	74	那個地方	lAA23 kuo0 ti24-21 fAN42-22
+there	74	那個地方	lA`23 kuo0 ti24-21 fAN42-22
 there	74	個到	kO33 tou33
 there	74	夫塊	hu55-53 uoi212
 there	74	迄帶	hit32_-5 te21
