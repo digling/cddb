@@ -1,70 +1,68 @@
 DOCULECT	SOURCE	CLPA	STRUCTURE	NOTE
-Beijing	p	p	i	
-Beijing	p’	pʰ	i	
-Beijing	m	m	i	
-Beijing	f	f	i	
-Beijing	t	t	i	
-Beijing	t’	tʰ	i	
-Beijing	n	n	i	
-Beijing	l	l	i	
-Beijing	ts	ts	i	
-Beijing	ts’	tsʰ	i	
-Beijing	s	s	i	
-Beijing	tʂ	ʈʂ	i	
-Beijing	tʂ’	ʈʂʰ	i	
-Beijing	ʂ	ʂ	i	
-Beijing	ʐ	ʐ	i	
-Beijing	tɕ	tɕ	i	
-Beijing	tɕ’	tɕʰ	i	
-Beijing	ɕ	ɕ	i	
-Beijing	k	k	i	
-Beijing	k’	kʰ	i	
-Beijing	x	x	i	
-Beijing	Ø	NULL	i	
-Beijing	ɿ	ɿ	n	
-Beijing	ʅ	ʅ	n	
-Beijing	ɚ	ɚ/ə	n/r	
-Beijing	a	a	n	
-Beijing	ə	ə	n	
-Beijing	o	o	n	
-Beijing	ai	a i	n N	
-Beijing	ei	e i	n N	
-Beijing	au	a u	n N	
-Beijing	ou	o u	n N	
-Beijing	an	a n	n c	
-Beijing	en	e n	n c	
-Beijing	aŋ	a ŋ	n c	
-Beijing	əŋ	ə ŋ	n c	
-Beijing	i	i	n	
-Beijing	ia	i a	m n	
-Beijing	ie	i e	m n	
-Beijing	iau	i a u	m n N	
-Beijing	iou	i o u	m n N	
-Beijing	ian	i a n	m n N	
-Beijing	in	i n	n c	
-Beijing	iaŋ	i a ŋ	m n c	
-Beijing	iŋ	i ŋ	n c	
-Beijing	u	u	n	
-Beijing	ua	u a	m n	
-Beijing	uo	u o	m n	
-Beijing	uai	u a i	m n N	
-Beijing	uei	u e i	m n N	
-Beijing	uan	u a n	m n c	
-Beijing	uən	u e n	m n c	
-Beijing	uaŋ	u a ŋ	m n c	
-Beijing	uŋ	u ŋ	n c	
-Beijing	uəŋ	u ə ŋ	m n c	
-Beijing	y	y	n	
-Beijing	ye	y e	m n	
-Beijing	yan	y a n	m n c	
-Beijing	yun	y u n	m n c	
-Beijing	yŋ	y ŋ	n c	
-Beijing	⁵⁵	⁵⁵	t/ip	
-Beijing	³⁵	³⁵	t/ap	
-Beijing	²¹⁴	²¹⁴	t/s	
-Beijing	⁵¹	⁵¹	t/q	
-Beijing	²¹/²¹⁴	²¹/²¹⁴	t/s	
-Beijing	³⁵/²¹⁴	³⁵/²¹⁴	t/s	
+Changsha	p	p	i	
+Changsha	p’	pʰ	i	
+Changsha	m	m	i	
+Changsha	f	f	i	
+Changsha	t	t	i	
+Changsha	t’	tʰ	i	
+Changsha	n	l	i	
+Changsha	ts	ts	i	
+Changsha	ts’	tsʰ	i	
+Changsha	s	s	i	
+Changsha	z	z	i	
+Changsha	tɕ	tɕ	i	
+Changsha	tɕ’	tɕʰ	i	
+Changsha	ȵ	ȵ	i	
+Changsha	ɕ	ɕ	i	
+Changsha	k	k	i	
+Changsha	k’	kʰ	i	
+Changsha	ŋ	ŋ	i	
+Changsha	x	x	i	
+Changsha	Ø	NULL	i	
+Changsha	ɿ	ɿ	n	
+Changsha	a	a	n	
+Changsha	o	o	n	
+Changsha	ə	ə	n	
+Changsha	ai	a i	n N	
+Changsha	ei	e i	n N	
+Changsha	au	a u	n N	
+Changsha	əu	ə u	n N	
+Changsha	õ	õ ∼	n c	
+Changsha	an	a n	n c	
+Changsha	ɤn	ɤ n	n c	
+Changsha	ən	ə n	n c	
+Changsha	i	i	n	
+Changsha	ia	i a	m n	
+Changsha	io	i o	m n	
+Changsha	ie	i e	m n	
+Changsha	iau	i a u	m n N	
+Changsha	iəu	i ə u	m n N	
+Changsha	ĩ	ĩ ∼	n c	
+Changsha	ian	i a n	m n c	
+Changsha	in	i n	n c	
+Changsha	u	u	n	
+Changsha	ua	u a	m n	
+Changsha	uə	u ə	m n	
+Changsha	uai	u a i	m n N	
+Changsha	uei	u e i	m n N	
+Changsha	uan	u a n	m n c	
+Changsha	uən	u ə n	m n c	
+Changsha	y	y	n	
+Changsha	ya	y a	m n	
+Changsha	ye	y e	m n	
+Changsha	yai	y a i	m n N	
+Changsha	yei	y e i	m n N	
+Changsha	yẽ	y ẽ ∼	m n c	
+Changsha	yan	y a n	m n c	
+Changsha	yn	y n	n c	
+Changsha	n̩	n̩ ∼	n c	
+Changsha	³³	³³	t/ip	
+Changsha	¹³	¹³	t/ap	
+Changsha	⁴¹	⁴¹	t/s	
+Changsha	⁵⁵	⁵⁵	t/iq	
+Changsha	²¹	²¹	t/aq	
+Changsha	²⁴	²⁴	t/r	
+Changsha	⁰	⁰	t	
 Hefei	p	p	i	
 Hefei	p’	pʰ	i	
 Hefei	m	m	i	
@@ -72,6 +70,7 @@ Hefei	f	f	i
 Hefei	t	t	i	
 Hefei	t’	tʰ	i	
 Hefei	l	n	i	
+Hefei	listed as allophone	l	i	
 Hefei	ts	ts	i	
 Hefei	ts’	tsʰ	i	
 Hefei	s	s	i	
@@ -90,8 +89,8 @@ Hefei	Ø	NULL	i
 Hefei	ɿ	ɿ	n	
 Hefei	ʅ	ʅ	n	
 Hefei	a	a	n	
-Hefei	o	o	n	
-Hefei	ᴇ	ᴇ/	n	
+Hefei	ɔ	ɔ	n	
+Hefei	ᴇ	ᴇ	n	
 Hefei	ə	ə	n	
 Hefei	ɯ	ɯ	n	
 Hefei	ʊ	ʊ	n	
@@ -133,69 +132,74 @@ Hefei	yəʔ	y ə ʔ	m n c
 Hefei	²¹²	²¹²	t/ip	
 Hefei	⁵⁵	⁵⁵	t/ap	
 Hefei	²⁴	²⁴	t/s	
-Hefei	⁵³	³³	t/q	
+Hefei	⁵³	⁵³	t/q	
 Hefei	⁴	⁴	t/r	
-Shenyang	p	p	i	
-Shenyang	p’	pʰ	i	
-Shenyang	m	m	i	
-Shenyang	f	f	i	
-Shenyang	t	t	i	
-Shenyang	t’	tʰ	i	
-Shenyang	n	n	i	
-Shenyang	l	l	i	
-Shenyang	ts	ts	i	
-Shenyang	ts’	tsʰ	i	
-Shenyang	s	s	i	
-Shenyang	tɕ	tɕ	i	
-Shenyang	tɕ’	tɕʰ	i	
-Shenyang	ȵ	ɲ	i	
-Shenyang	ɕ	ɕ	i	
-Shenyang	k	k	i	
-Shenyang	k’	kʰ	i	
-Shenyang	x	x	i	
-Shenyang	Ø	NULL	i	
-Shenyang	ɿ	ɿ	n	
-Shenyang	ɚ	ɚ/ə	n	
-Shenyang	a	a	n	
-Shenyang	ə	ə	n	
-Shenyang	ai	a i	n N	
-Shenyang	ei	e i	n N	
-Shenyang	au	a u	n N	
-Shenyang	ou	o u	n N	
-Shenyang	an	a n	n c	
-Shenyang	ən	ə n	n c	
-Shenyang	aŋ	a ŋ	n c	
-Shenyang	əŋ	ə ŋ	n c	
-Shenyang	i	i	n	
-Shenyang	ia	i a	m n	
-Shenyang	ie	i e	m n	
-Shenyang	iau	i a u	m n N	
-Shenyang	iou	i o u	m n N	
-Shenyang	ian	i a n	m n c	
-Shenyang	in	i n	n c	
-Shenyang	iaŋ	i a ŋ	m n c	
-Shenyang	iŋ	i ŋ	n c	
-Shenyang	u	u	n	
-Shenyang	ua	u a	m n	
-Shenyang	uə	u ə	m n	
-Shenyang	uai	u a i	m n N	
-Shenyang	uei	u e i	m n N	
-Shenyang	uan	u a n	m n c	
-Shenyang	uən	u ə n	m n c	
-Shenyang	uaŋ	u a ŋ	m n c	
-Shenyang	uŋ	u ŋ	n c	
-Shenyang	uəŋ	u ə ŋ	m n c	
-Shenyang	y	y	n	
-Shenyang	yə	y ə	m n	
-Shenyang	yan	y a n	m n c	
-Shenyang	yn	y n	n c	
-Shenyang	yŋ	y ŋ	n c	
-Shenyang	³³	³³	t/ip	
-Shenyang	³⁵	³⁵	t/ap	
-Shenyang	³⁵/²¹³	³⁵/²¹³	t/s	
-Shenyang	²¹/²¹³	²¹/²¹³	t/s	
-Shenyang	²¹³	²¹³	t/s	
-Shenyang	⁴¹	⁴¹	t/q	
+Hefei	⁰	⁰	t	
+Chengdu	p	p	i	
+Chengdu	p’	pʰ	i	
+Chengdu	m	m	i	
+Chengdu	f	f	i	
+Chengdu	v	v	i	
+Chengdu	t	t	i	
+Chengdu	t’	tʰ	i	
+Chengdu	l	n	i	
+Chengdu	ts	ts	i	
+Chengdu	ts’	tsʰ	i	
+Chengdu	s	s	i	
+Chengdu	z	z	i	
+Chengdu	tɕ	tɕ	i	
+Chengdu	tɕ’	tɕʰ	i	
+Chengdu	ȵ	ȵ	i	
+Chengdu	ɕ	ɕ	i	
+Chengdu	k	k	i	
+Chengdu	k’	kʰ	i	
+Chengdu	ŋ	ŋ	i	
+Chengdu	x	x	i	
+Chengdu	Ø	NULL	i	
+Chengdu	ɿ	ɿ	n	
+Chengdu	ɚ	ɚ/ə	n/r	
+Chengdu	a	a	n	
+Chengdu	o	o	n	
+Chengdu	e	e	n	
+Chengdu	ai	a i	n N	
+Chengdu	ei	e i	n N	
+Chengdu	au	a u	n N	
+Chengdu	əu	ə u	n N	
+Chengdu	an	a n	n c	
+Chengdu	en	e n	n c	
+Chengdu	aŋ	a ŋ	n c	
+Chengdu	oŋ	o ŋ	n c	
+Chengdu	i	i	n	
+Chengdu	ia	i a	m n	
+Chengdu	ie	i e	m n	
+Chengdu	iai	i a i	m n N	
+Chengdu	iau	i a u	m n N	
+Chengdu	iəu	i ə u	m n N	
+Chengdu	ian	i a n	m n c	
+Chengdu	ian	i a n	m n c	
+Chengdu	iaŋ	i a ŋ	m n c	
+Chengdu	u	u	n	
+Chengdu	ua	u a	m n	
+Chengdu	ue	u e	m n	
+Chengdu	uai	u a i	m n N	
+Chengdu	uei	u e i	m n N	
+Chengdu	uan	u a n	m n c	
+Chengdu	uən	u ə n	m n c	
+Chengdu	uaŋ	u a ŋ	m n c	
+Chengdu	y	y	n	
+Chengdu	yo	y o	m n	
+Chengdu	ye	y e	m n	
+Chengdu	yan	y a n	m n c	
+Chengdu	yn	y n	n c	
+Chengdu	yoŋ	y o ŋ	m n c	
+Chengdu	⁴⁴	⁴⁴	t/ip	
+Chengdu	³¹	³¹	t/ap	
+Chengdu	⁵³	⁵³	t/s	
+Chengdu	¹³	¹³	t/q	
+Chengdu	not in source	³¹/⁴⁴	t/ip	
+Chengdu	not in source	⁴⁴/³¹	t/ap	
+Chengdu	not in source	³¹/⁵³	t/s	
+Chengdu	not in source	⁴⁴/¹³	t/q	
 Suzhou	p	p	i	
 Suzhou	p’	pʰ	i	
 Suzhou	b	b	i	
@@ -214,7 +218,7 @@ Suzhou	z	z	i
 Suzhou	tɕ	tɕ	i	
 Suzhou	tɕ’	tɕʰ	i	
 Suzhou	dʑ	dʑ	i	
-Suzhou	ȵ	ɲ	i	
+Suzhou	ȵ	ȵ	i	
 Suzhou	ɕ	ɕ	i	
 Suzhou	k	k	i	
 Suzhou	k’	kʰ	i	
@@ -279,201 +283,7 @@ Suzhou	⁵¹³	⁵¹³	t/iq
 Suzhou	³¹	³¹	t/aq	
 Suzhou	⁴	⁴	t/ir	
 Suzhou	²³	²³	t/ar	
-Jinan	p	p	i	
-Jinan	p’	pʰ	i	
-Jinan	m	n	i	
-Jinan	f	f	i	
-Jinan	t	t	i	
-Jinan	t’	tʰ	i	
-Jinan	n	n	i	
-Jinan	l	l	i	
-Jinan	ts	ts	i	
-Jinan	ts’	tsʰ	i	
-Jinan	s	s	i	
-Jinan	tʂ	ʈʂ	i	
-Jinan	tʂ’	ʈʂʰ	i	
-Jinan	ʂ	ʂ	i	
-Jinan	ʐ	ʐ	i	
-Jinan	tɕ	tɕ	i	
-Jinan	tɕ’	tɕʰ	i	
-Jinan	ȵ	ɲ	i	
-Jinan	ɕ	ɕ	i	
-Jinan	k	k	i	
-Jinan	k’	kʰ	i	
-Jinan	ŋ	ŋ	i	
-Jinan	x	x	i	
-Jinan	Ø	NULL	i	
-Jinan	ɿ	ɿ	n	
-Jinan	ʅ	ʅ	n	
-Jinan	ɚ	ɚ/ə	n	
-Jinan	a	a	n	
-Jinan	ɛ	ɛ	n	
-Jinan	o	o	n	
-Jinan	ə	ə	n	
-Jinan	ei	e i	n N	
-Jinan	ou	o u	n N	
-Jinan	æ̃	æ̃ ∼	n c	
-Jinan	ẽ	ẽ ∼	n c	
-Jinan	aŋ	a ŋ	n N	
-Jinan	əŋ	ə ŋ	n N	
-Jinan	i	i	n	
-Jinan	ia	i a	m n	
-Jinan	iɛ	i ɛ	m n	
-Jinan	io	i o	m n	
-Jinan	ie	i e	m n	
-Jinan	iou	i o u	m n N	
-Jinan	iæ̃	i æ̃ ∼	m n c	
-Jinan	iẽ	i ẽ ∼	m n c	
-Jinan	ia	i a	m n	
-Jinan	iŋ	i ŋ	n c	
-Jinan	u	u	n	
-Jinan	ua	u a	m n	
-Jinan	uɛ	u ɛ	m n	
-Jinan	uə	u ə	m n	
-Jinan	uei	u e i	m n N	
-Jinan	uæ̃	u æ̃ ∼	m n c	
-Jinan	uẽ	u ẽ ∼	m n c	
-Jinan	uaŋ	u a ŋ	m n c	
-Jinan	uŋ	u ŋ	n c	
-Jinan	uɛŋ	u ɛ ŋ	m n c	
-Jinan	y	y	n	
-Jinan	ye	y e	m n	
-Jinan	yæ̃	y æ̃ ∼	m n c	
-Jinan	ẽ	ẽ ∼	n c	
-Jinan	yŋ	y ŋ	n c	
-Jinan	²¹³	²¹³	t/ip	
-Jinan	⁴²	⁴²	t/ap	
-Jinan	⁵⁵	⁵⁵	t/s	
-Jinan	²¹	²¹	t/q	
-Chengdu	p	p	i	
-Chengdu	p’	pʰ	i	
-Chengdu	m	m	i	
-Chengdu	f	f	i	
-Chengdu	v	v	i	
-Chengdu	t	t	i	
-Chengdu	t’	tʰ	i	
-Chengdu	l	n	i	
-Chengdu	ts	ts	i	
-Chengdu	ts’	tsʰ	i	
-Chengdu	s	s	i	
-Chengdu	z	z	i	
-Chengdu	tɕ	tɕ	i	
-Chengdu	tɕ’	tɕʰ	i	
-Chengdu	ȵ	ɲ	i	
-Chengdu	ɕ	ɕ	i	
-Chengdu	k	k	i	
-Chengdu	k’	kʰ	i	
-Chengdu	ŋ	ŋ	i	
-Chengdu	x	x	i	
-Chengdu	Ø	NULL	i	
-Chengdu	ɿ	ɿ	n	
-Chengdu	ɚ	ɚ	n	
-Chengdu	a	a	n	
-Chengdu	o	o	n	
-Chengdu	e	e	n	
-Chengdu	ai	a i	n N	
-Chengdu	ei	e i	n N	
-Chengdu	au	a u	n N	
-Chengdu	əu	ə u	n N	
-Chengdu	an	a n	n c	
-Chengdu	en	e n	n c	
-Chengdu	aŋ	a ŋ	n c	
-Chengdu	oŋ	o ŋ	n c	
-Chengdu	i	i	n	
-Chengdu	ia	i a	m n	
-Chengdu	ie	i e	m n	
-Chengdu	iai	i a i	m n N	
-Chengdu	iau	i a u	m n N	
-Chengdu	iəu	i ə u	m n N	
-Chengdu	ian	i a n	m n c	
-Chengdu	ian	i a n	m n c	
-Chengdu	iaŋ	i a ŋ	m n c	
-Chengdu	u	u	n	
-Chengdu	ua	u a	m n	
-Chengdu	ue	u e	m n	
-Chengdu	uai	u a i	m n N	
-Chengdu	uei	u e i	m n N	
-Chengdu	uan	u a n	m n c	
-Chengdu	uən	u ə n	m n c	
-Chengdu	uaŋ	u a ŋ	m n c	
-Chengdu	y	y	n	
-Chengdu	yo	y o	m n	
-Chengdu	ye	y e	m n	
-Chengdu	yan	y a n	m n c	
-Chengdu	yn	y n	n c	
-Chengdu	yoŋ	y o ŋ	m n c	
-Chengdu	⁴⁴	⁴⁴	t/ip	
-Chengdu	³¹	³¹	t/ap	
-Chengdu	⁵³	⁵³	t/s	
-Chengdu	¹³	¹³	t/q	
-Yangzhou	p	p	i	
-Yangzhou	p’	pʰ	i	
-Yangzhou	m	m	i	
-Yangzhou	f	f	i	
-Yangzhou	t	t	i	
-Yangzhou	t’	tʰ	i	
-Yangzhou	n	l	i	
-Yangzhou	ts	ts	i	
-Yangzhou	ts’	tsʰ	i	
-Yangzhou	s	s	i	
-Yangzhou	tɕ	tɕ	i	
-Yangzhou	tɕ’	tɕʰ	i	
-Yangzhou	ɕ	ɕ	i	
-Yangzhou	k	k	i	
-Yangzhou	k’	kʰ	i	
-Yangzhou	x	x	i	
-Yangzhou	Ø	NULL	i	
-Yangzhou	ɿ	ɿ	n	
-Yangzhou	ɑ	ɑ	n	
-Yangzhou	ɛ	ɛ	n	
-Yangzhou	o	o	n	
-Yangzhou	ɔ	ɔ	n	
-Yangzhou	əi	ə i	n N	
-Yangzhou	ɤɯ	ɤ ɯ	n N	
-Yangzhou	ɛ̃	ɛ̃ ∼	n c	
-Yangzhou	õ	õ ∼	n c	
-Yangzhou	ɑŋ	ɑ ŋ	n c	
-Yangzhou	əŋ	ə ŋ	n c	
-Yangzhou	oŋ	o ŋ	n c	
-Yangzhou	ɑʔ	ɑ ʔ	n c	
-Yangzhou	æʔ	æ ʔ	n c	
-Yangzhou	əʔ	ə ʔ	n c	
-Yangzhou	oʔ	o ʔ	n c	
-Yangzhou	oʔ	o ʔ	n c	
-Yangzhou	i	i	n	
-Yangzhou	iɑ	i ɑ	m n	
-Yangzhou	iɛ	i ɛ	m n	
-Yangzhou	iɔ	i ɔ	m n	
-Yangzhou	iɪ	i ɪ	m n	
-Yangzhou	iɤɯ	i ɤ ɯ	m n N	
-Yangzhou	iɛ̃	i ɛ̃ ∼	m n c	
-Yangzhou	iĩ	i ĩ ∼	m n c	
-Yangzhou	iɑŋ	i ɑ ŋ	m n c	
-Yangzhou	iŋ	i ŋ	n c	
-Yangzhou	ioŋ	i o ŋ	m n c	
-Yangzhou	iɑʔ	i ɑ ʔ	m n c	
-Yangzhou	iæʔ	i æ ʔ	m n c	
-Yangzhou	iəʔ	i ə ʔ	m n c	
-Yangzhou	ioʔ	i o ʔ	m n c	
-Yangzhou	u	u	n	
-Yangzhou	uɑ	u ɑ	m n	
-Yangzhou	uɛ	u ɛ	m n	
-Yangzhou	uəi	u ə i	m n N	
-Yangzhou	uə̃	u ə̃ ∼	m n c	
-Yangzhou	uɑŋ	u ɑ ŋ	m n c	
-Yangzhou	uəŋ	u ə ŋ	m n c	
-Yangzhou	uɑʔ	u ɑ ʔ	m n c	
-Yangzhou	uæʔ	u æ ʔ	m n c	
-Yangzhou	uəʔ	u ə ʔ	m n c	
-Yangzhou	ʏ	ʏ	n	
-Yangzhou	yĩ	y ĩ ∼	m n c	
-Yangzhou	yəŋ	y ə ŋ	m n c	
-Yangzhou	yəʔ	y ə ʔ	m n c	
-Yangzhou	³¹	³¹	t/ip	
-Yangzhou	³⁴	³⁴	t/ap	
-Yangzhou	⁴²	⁴²	t/s	
-Yangzhou	⁵⁵	⁵⁵	t/q	
-Yangzhou	⁴	⁴	t/r	
+Suzhou	not in source	²¹	t/?	
 Kunming	p	p	i	
 Kunming	p’	pʰ	i	
 Kunming	m	m	i	
@@ -528,144 +338,182 @@ Kunming	⁴⁴	⁴⁴	t/ip
 Kunming	³¹	³¹	t/ap	
 Kunming	⁵³	⁵³	t/s	
 Kunming	¹³	¹³	t/q	
-Wenzhou	p	p	i	
-Wenzhou	p’	pʰ	i	
-Wenzhou	b	b	i	
-Wenzhou	m	m	i	
-Wenzhou	f	f	i	
-Wenzhou	v	v	i	
-Wenzhou	t	t	i	
-Wenzhou	t’	tʰ	i	
-Wenzhou	d	d	i	
-Wenzhou	n	n	i	
-Wenzhou	l	l	i	
-Wenzhou	ts	ts	i	
-Wenzhou	ts’	tsʰ	i	
-Wenzhou	dz	dz	i	
-Wenzhou	s	s	i	
-Wenzhou	z	z	i	
-Wenzhou	tɕ	tɕ	i	
-Wenzhou	tɕ’	tɕʰ	i	
-Wenzhou	dʑ	dʑ	i	
-Wenzhou	ȵ	ɲ	i	
-Wenzhou	ɕ	ɕ	i	
-Wenzhou	k	k	i	
-Wenzhou	k’	kʰ	i	
-Wenzhou	g	g	i	
-Wenzhou	ŋ	ŋ	i	
-Wenzhou	h	h	i	
-Wenzhou	ɦ	ɦ	i	
-Wenzhou	Ø	NULL	i	
-Wenzhou	ɿ	ɿ	n	
-Wenzhou	a	a	n	
-Wenzhou	o	o	n	
-Wenzhou	ɜ	ɜ	n	
-Wenzhou	ø	ø	n	
-Wenzhou	ᴇ	ᴇ	n	
-Wenzhou	ɛ	ɛ	n	
-Wenzhou	ai	a i	n N	
-Wenzhou	ei	e i	n N	
-Wenzhou	au	a u	n N	
-Wenzhou	əu	ə u	n N	
-Wenzhou	øy	ø y	n N	
-Wenzhou	aŋ	a ŋ	n c	
-Wenzhou	oŋ	o ŋ	n c	
-Wenzhou	əŋ	ə ŋ	n c	
-Wenzhou	i	i	n	
-Wenzhou	ia	i a	m n	
-Wenzhou	iɛ	i ɛ	m n	
-Wenzhou	iai	i a i	m n N	
-Wenzhou	iau	i a u	m n N	
-Wenzhou	iu	i u	m n	
-Wenzhou	iaŋ	i a ŋ	m n c	
-Wenzhou	u	u	n	
-Wenzhou	ua	u a	m n	
-Wenzhou	uɔ	u ɔ	m n	
-Wenzhou	uai	u a i	m n N	
-Wenzhou	y	y	n	
-Wenzhou	yɔ	y ɔ	m n	
-Wenzhou	yo	y o	m n	
-Wenzhou	yoŋ	y o ŋ	m n c	
-Wenzhou	m̩	m̩ ∼	n c	
-Wenzhou	n̩	n̩ ∼	n c	
-Wenzhou	ŋ̍	ŋ̍ ∼	n c	
-Wenzhou	⁴⁴	⁴⁴	t/ip	
-Wenzhou	³¹	³¹	t/ap	
-Wenzhou	⁴⁵	⁴⁵	t/is	
-Wenzhou	²⁴	²⁴	t/as	
-Wenzhou	⁴²	⁴²	t/iq	
-Wenzhou	¹¹	¹¹	t/aq	
-Wenzhou	²³	²³	t/ir	
-Wenzhou	¹²	¹²	t/ar	
-Changsha	p	p	i	
-Changsha	p’	pʰ	i	
-Changsha	m	m	i	
-Changsha	f	f	i	
-Changsha	t	t	i	
-Changsha	t’	tʰ	i	
-Changsha	n	l	i	
-Changsha	ts	ts	i	
-Changsha	ts’	tsʰ	i	
-Changsha	s	s	i	
-Changsha	z	z	i	
-Changsha	tɕ	tɕ	i	
-Changsha	tɕ’	tɕʰ	i	
-Changsha	ȵ	ɲ	i	
-Changsha	ɕ	ɕ	i	
-Changsha	k	k	i	
-Changsha	k’	kʰ	i	
-Changsha	ŋ	ŋ	i	
-Changsha	x	x	i	
-Changsha	Ø	NULL	i	
-Changsha	ɿ	ɿ	n	
-Changsha	a	a	n	
-Changsha	o	o	n	
-Changsha	ə	ə	n	
-Changsha	ai	a i	n N	
-Changsha	ei	e i	n N	
-Changsha	au	a u	n N	
-Changsha	əu	ə u	n N	
-Changsha	ɔ̃	ɔ̃ ∼	n c	
-Changsha	an	a n	n c	
-Changsha	ɤn	ɤ n	n c	
-Changsha	ən	ə n	n c	
-Changsha	i	i	n	
-Changsha	ia	i a	m n	
-Changsha	io	i o	m n	
-Changsha	ie	i e	m n	
-Changsha	iau	i a u	m n N	
-Changsha	iəu	i ə u	m n N	
-Changsha	ĩ	ĩ ∼	n c	
-Changsha	ian	i a n	m n c	
-Changsha	in	i n	n c	
-Changsha	u	u	n	
-Changsha	ua	u a	m n	
-Changsha	uə	u ə	m n	
-Changsha	uai	u a i	m n N	
-Changsha	uei	u e i	m n N	
-Changsha	uan	u a n	m n c	
-Changsha	uən	u ə n	m n c	
-Changsha	y	y	n	
-Changsha	ya	y a	m n	
-Changsha	ye	y e	m n	
-Changsha	yai	y a i	m n N	
-Changsha	yei	y e i	m n N	
-Changsha	yẽ	y ẽ ∼	m n c	
-Changsha	yan	y a n	m n c	
-Changsha	yn	y n	n c	
-Changsha	n̩	n̩ ∼	n c	
-Changsha	³³	³³	t/ip	
-Changsha	¹³	¹³	t/ap	
-Changsha	⁴¹	⁴¹	t/s	
-Changsha	⁵⁵	⁵⁵	t/iq	
-Changsha	²¹	²¹	t/aq	
-Changsha	²⁴	²⁴	t/r	
+Nanchang	p	p	i	
+Nanchang	p’	pʰ	i	
+Nanchang	m	m	i	
+Nanchang	f	f	i	
+Nanchang	t	t	i	
+Nanchang	t’	tʰ	i	
+Nanchang	l	l	i	
+Nanchang	ts	ts	i	
+Nanchang	ts’	tsʰ	i	
+Nanchang	s	s	i	
+Nanchang	tɕ	tɕ	i	
+Nanchang	tɕ’	tɕʰ	i	
+Nanchang	ȵ	ȵ	i	
+Nanchang	ɕ	ɕ	i	
+Nanchang	k	k	i	
+Nanchang	k’	kʰ	i	
+Nanchang	ŋ	ŋ	i	
+Nanchang	h	h	i	
+Nanchang	Ø	NULL	i	
+Nanchang	ɿ	ɿ	n	
+Nanchang	a	a	n	
+Nanchang	ɛ	ɛ	n	
+Nanchang	ɔ	ɔ	n	
+Nanchang	ə	ə	n	
+Nanchang	ai	a i	n N	
+Nanchang	ei	e i	n N	
+Nanchang	au	a u	n N	
+Nanchang	ɛu	ɛ u	n N	
+Nanchang	əu	ə u	n N	
+Nanchang	i	i	n	
+Nanchang	ia	i a	m n	
+Nanchang	iɛ	i ɛ	m n	
+Nanchang	iɛu	i ɛ u	m n N	
+Nanchang	iu	i u	m n	
+Nanchang	u	u	n	
+Nanchang	ua	u a	m n	
+Nanchang	uɔ	u ɔ	m n	
+Nanchang	uai	u a i	m n N	
+Nanchang	ui	u i	m n	
+Nanchang	y	y	n	
+Nanchang	yo	y o	m n	
+Nanchang	an	a n	n c	
+Nanchang	ɛn	ɛ n	n c	
+Nanchang	ɔn	ɔ n	n c	
+Nanchang	ɛn	ɛ n	n c	
+Nanchang	aŋ	a ŋ	n c	
+Nanchang	oŋ	o ŋ	n c	
+Nanchang	at	a t	n c	
+Nanchang	ɛt	ɛ t	n c	
+Nanchang	ɔt	ɔ t	n c	
+Nanchang	ət	ə t	n c	
+Nanchang	ak	a k	n c	
+Nanchang	ɔk	ɔ k	n c	
+Nanchang	iɛn	i ɛ n	m n c	
+Nanchang	in	i n	n c	
+Nanchang	iaŋ	i a ŋ	m n c	
+Nanchang	iŋ	i ŋ	n c	
+Nanchang	iuŋ	i u ŋ	m n c	
+Nanchang	iɛt	i ɛ t	m n c	
+Nanchang	it	i t	n c	
+Nanchang	iak	i a k	m n c	
+Nanchang	iɔk	i ɔ k	m n c	
+Nanchang	iuk	i u k	m n c	
+Nanchang	uan	u a n	m n c	
+Nanchang	uɔn	u ɔ n	m n c	
+Nanchang	un	u n	n c	
+Nanchang	uaŋ	u a ŋ	m n c	
+Nanchang	uɔŋ	u ɔ ŋ	m n c	
+Nanchang	uŋ	u ŋ	n c	
+Nanchang	uat	u a t	m n c	
+Nanchang	uɛt	u ɛ t	m n c	
+Nanchang	uɔt	u ɔ t	m n c	
+Nanchang	ut	u t	n c	
+Nanchang	uɔk	u ɔ k	m n c	
+Nanchang	uk	u k	n c	
+Nanchang	yɔn	y ɔ n	m n c	
+Nanchang	yn	y n	n c	
+Nanchang	yɔt	y ɔ t	m n c	
+Nanchang	yt	y t	n c	
+Nanchang	m̩	m̩	n	
+Nanchang	n̩	n̩	n	
+Nanchang	ŋ̍	ŋ̍	n	
+Nanchang	⁴²	⁴²	t/ip	
+Nanchang	²⁴	²⁴	t/ap	
+Nanchang	²¹³	²¹³	t/s	
+Nanchang	⁵⁵	⁵⁵	t/iq	
+Nanchang		³¹	t/aq	
+Nanchang	⁵	⁵	t/r	
+Nanchang	⁰	⁰	t	
+Fuzhou	p	p	i	
+Fuzhou	p’	pʰ	i	
+Fuzhou	m	m	i	
+Fuzhou	(β)	β	i	
+Fuzhou	t	t	i	
+Fuzhou	t’	tʰ	i	
+Fuzhou	n	n	i	
+Fuzhou	l	l	i	
+Fuzhou	ts	ts	i	
+Fuzhou	ts’	tsʰ	i	
+Fuzhou	s	s	i	
+Fuzhou	(z)	z	i	
+Fuzhou	k	k	i	
+Fuzhou	k’	kʰ	i	
+Fuzhou	ŋ	ŋ	i	
+Fuzhou	x	x	i	
+Fuzhou	(ȵ)	ȵ	i	
+Fuzhou	Ø	NULL	i	
+Fuzhou	a	a	n	
+Fuzhou	ɛ	ɛ	n	
+Fuzhou	ɔ	ɔ	n	
+Fuzhou	œ	œ	n	
+Fuzhou	ai	a i	n N	
+Fuzhou	eu	e u	n N	
+Fuzhou	-au	a u	n N	
+Fuzhou	ia	i a	m n	
+Fuzhou	i	i	n	
+Fuzhou	(-ei)	e i	n N	
+Fuzhou	ie	i e	m n	
+Fuzhou	iu	i u	m n	
+Fuzhou	ua	u a	m n	
+Fuzhou	-ou	o u	n N	
+Fuzhou	uɔ	u ɔ	m n	
+Fuzhou	ui	u i	m n	
+Fuzhou	uai	u a i	m n N	
+Fuzhou	y	y	n	
+Fuzhou	-øy	ø y	n N	
+Fuzhou	(-ɵy)	ɵ y	n N	
+Fuzhou	yo	y o	m n	
+Fuzhou	aŋ	a ŋ	n c	
+Fuzhou	aʔ	a ʔ	n c	
+Fuzhou	ɛʔ	ɛ ʔ	n c	
+Fuzhou	oʔ	o ʔ	n c	
+Fuzhou	œʔ	œ ʔ	n c	
+Fuzhou	iaŋ	i a ŋ	m n c	
+Fuzhou	iŋ	i ŋ	n c	
+Fuzhou	-eiŋ	e i ŋ	n N c	
+Fuzhou	(-aiŋ)	a i ŋ	n N c	
+Fuzhou	ieŋ	i e ŋ	m n c	
+Fuzhou	iaʔ	i a ʔ	m n c	
+Fuzhou	iʔ	i ʔ	n c	
+Fuzhou	-eiʔ	e i ʔ	n N c	
+Fuzhou	(-aiʔ)	a i ʔ	n N c	
+Fuzhou	ieʔ	i e ʔ	m n c	
+Fuzhou	uaŋ	u a ŋ	m n c	
+Fuzhou	uŋ	u ŋ	n c	
+Fuzhou	-ouŋ	o u ŋ	n N c	
+Fuzhou	(-auŋ)	a u ŋ	n N c	
+Fuzhou	uɔŋ	u ɔ ŋ	m n c	
+Fuzhou	uaʔ	u a ʔ	m n c	
+Fuzhou	uʔ	u ʔ	n c	
+Fuzhou	˗ouʔ	o u ʔ	n N c	
+Fuzhou	(-auʔ)	a u ʔ	n N c	
+Fuzhou	uoʔ	u o ʔ	m n c	
+Fuzhou	yŋ	y ŋ	n c	
+Fuzhou	-øyŋ	ø y ŋ	n N c	
+Fuzhou	(-ɵyŋ)	ɵ y ŋ	n N c	
+Fuzhou	yoŋ	y o ŋ	m n c	
+Fuzhou	yʔ	y ʔ	n c	
+Fuzhou	-øyʔ	ø y ʔ	n N c	
+Fuzhou	(-ɵyʔ)	ɵ y ʔ	n N c	
+Fuzhou	yoʔ	y o ʔ	m n c	
+Fuzhou	m̩	m̩ ∼	n c	
+Fuzhou	ŋ̍	ŋ̍ ∼	n c	
+Fuzhou	⁴⁴	⁴⁴	t/ip	
+Fuzhou	⁵²	⁵²	t/ap	
+Fuzhou	³¹	³¹	t/s	
+Fuzhou	²¹³	²¹³	t/ir	
+Fuzhou	²⁴²	²⁴²	t/ar	
+Fuzhou	²³	²³	t/iq	
+Fuzhou	⁴	⁴	t/aq	
 Chaozhou	p	p	i	
 Chaozhou	p’	pʰ	i	
 Chaozhou	b	b	i	
 Chaozhou	m	m	i	
 Chaozhou	t	t	i	
-Chaozhou	t?	tʰ	i	
+Chaozhou	t’	tʰ	i	
 Chaozhou	n	n	i	
 Chaozhou	l	l	i	
 Chaozhou	ts	ts	i	
@@ -673,7 +521,7 @@ Chaozhou	ts’	tsʰ	i
 Chaozhou	s	s	i	
 Chaozhou	z	z	i	
 Chaozhou	k	k	i	
-Chaozhou	k?	kʰ	i	
+Chaozhou	k’	kʰ	i	
 Chaozhou	g	g	i	
 Chaozhou	ŋ	ŋ	i	
 Chaozhou	h	h	i	
@@ -762,12 +610,167 @@ Chaozhou	ŋ̍	ŋ̍ ∼	n c
 Chaozhou	ŋ̍ʔ	ŋ̍ ∼ ʔ	n c c	
 Chaozhou	³³	³³	t/ip	
 Chaozhou	⁵⁵	⁵⁵	t/ap	
+Chaozhou	not in source	²¹/⁵⁵	t/ap	
 Chaozhou	⁵³	⁵³	t/is	
+Chaozhou	not in source	²⁴/⁵³	t/is	
+Chaozhou	not in source	³¹/⁵³	t/is	
 Chaozhou	³⁵	³⁵	t/as	
 Chaozhou	²¹³	²¹³	t/iq	
+Chaozhou	not in source	⁵³/²¹³	t/iq	
+Chaozhou	not in source	⁴²/²¹³	t/iq	
 Chaozhou	¹¹	¹¹	t/aq	
+Chaozhou	not in source	¹²/¹¹	t/aq	
 Chaozhou	²¹	²¹	t/ir	
+Chaozhou	not in source	³/²¹	t/ir	
+Chaozhou	not in source	⁴/²¹	t/ir	
+Chaozhou	²¹	²¹	t/ir	
+Chaozhou	not in source	⁵⁵/²¹	t/ir	
+Chaozhou	not in source	³⁵/²¹	t/ir	
 Chaozhou	⁴	⁴	t/ar	
+Beijing	p	p	i	
+Beijing	p’	pʰ	i	
+Beijing	m	m	i	
+Beijing	f	f	i	
+Beijing	t	t	i	
+Beijing	t’	tʰ	i	
+Beijing	n	n	i	
+Beijing	l	l	i	
+Beijing	ts	ts	i	
+Beijing	ts’	tsʰ	i	
+Beijing	s	s	i	
+Beijing	tʂ	ʈʂ	i	
+Beijing	tʂ’	ʈʂʰ	i	
+Beijing	ʂ	ʂ	i	
+Beijing	ʐ	ʐ	i	
+Beijing	tɕ	tɕ	i	
+Beijing	tɕ’	tɕʰ	i	
+Beijing	ɕ	ɕ	i	
+Beijing	k	k	i	
+Beijing	k’	kʰ	i	
+Beijing	x	x	i	
+Beijing	Ø	NULL	i	
+Beijing	ɿ	ɿ	n	
+Beijing	ʅ	ʅ	n	
+Beijing	ɚ	ɚ/ə	n/r	
+Beijing	a	a	n	
+Beijing	ə	ə	n	
+Beijing	o	o	n	
+Beijing	ai	a i	n N	
+Beijing	ei	e i	n N	
+Beijing	au	a u	n N	
+Beijing	ou	o u	n N	
+Beijing	an	a n	n c	
+Beijing	en	e n	n c	
+Beijing	aŋ	a ŋ	n c	
+Beijing	əŋ	ə ŋ	n c	
+Beijing	i	i	n	
+Beijing	ia	i a	m n	
+Beijing	ie	i e	m n	
+Beijing	iau	i a u	m n N	
+Beijing	iou	i o u	m n N	
+Beijing	ian	i a n	m n N	
+Beijing	in	i n	n c	
+Beijing	iaŋ	i a ŋ	m n c	
+Beijing	iŋ	i ŋ	n c	
+Beijing	u	u	n	
+Beijing	ua	u a	m n	
+Beijing	uo	u o	m n	
+Beijing	uai	u a i	m n N	
+Beijing	uei	u e i	m n N	
+Beijing	uan	u a n	m n c	
+Beijing	uən	u e n	m n c	
+Beijing	uaŋ	u a ŋ	m n c	
+Beijing	uŋ	u ŋ	n c	
+Beijing	uəŋ	u ə ŋ	m n c	
+Beijing	y	y	n	
+Beijing	ye	y e	m n	
+Beijing	yan	y a n	m n c	
+Beijing	yun	y u n	m n c	
+Beijing	yŋ	y ŋ	n c	
+Beijing	⁵⁵	⁵⁵	t/ip	
+Beijing	³⁵	³⁵	t/ap	
+Beijing	²¹⁴	²¹⁴	t/s	
+Beijing	⁵¹	⁵¹	t/q	
+Beijing	²¹/²¹⁴	²¹/²¹⁴	t/s	
+Beijing	³⁵/²¹⁴	³⁵/²¹⁴	t/s	
+Beijing	⁰	⁰	t	
+Yangjiang	p	p	i	
+Yangjiang	pʼ	pʰ	i	
+Yangjiang	m	m	i	
+Yangjiang	f	f	i	
+Yangjiang	t	t	i	
+Yangjiang	tʼ	tʰ	i	
+Yangjiang	n	n	i	
+Yangjiang	l	l	i	
+Yangjiang	ɬ	ɬ	i	
+Yangjiang	tʃ	tʃ	i	
+Yangjiang	tʃʼ	tʃʰ	i	
+Yangjiang	ʃ	ʃ	i	
+Yangjiang	j	j	i	
+Yangjiang	k	k	i	
+Yangjiang	kʼ	kʰ	i	
+Yangjiang	ŋ	ŋ	i	
+Yangjiang	h	h	i	
+Yangjiang	kw	kʷ	i	
+Yangjiang	kʼw	kʷʰ	i	
+Yangjiang	w	w	i	
+Yangjiang	Ø	NULL	i	
+Yangjiang		a	n	
+Yangjiang		a i	n c	
+Yangjiang		a u	n c	
+Yangjiang		a m	n c	
+Yangjiang		a n	n c	
+Yangjiang		a ŋ	n c	
+Yangjiang		a p	n c	
+Yangjiang		a t	n c	
+Yangjiang		a k	n c	
+Yangjiang		ɐ i	n c	
+Yangjiang		ɐ u	n c	
+Yangjiang		ɐ m	n c	
+Yangjiang		ɐ n	n c	
+Yangjiang		ɐ ŋ	n c	
+Yangjiang		ɐ p	n c	
+Yangjiang		ɐ t	n c	
+Yangjiang		ɐ k	n c	
+Yangjiang		ɔ	n	
+Yangjiang		ɔ i	n c	
+Yangjiang		o u	n c	
+Yangjiang		ɔ n	n c	
+Yangjiang		ɔ ŋ	n c	
+Yangjiang		ɔ t	n c	
+Yangjiang		ɔ k	n c	
+Yangjiang		ɛ	n	
+Yangjiang		e i	n c	
+Yangjiang		i ɛ u	m n c	
+Yangjiang		i ɛ m	m n c	
+Yangjiang		i ɛ n	m n c	
+Yangjiang		i ɛ ŋ	m n c	
+Yangjiang		i ɛ p	m n c	
+Yangjiang		i ɛ t	m n c	
+Yangjiang		i ɛ k	m n c	
+Yangjiang	i	i	n	
+Yangjiang	iu	i u	m n	
+Yangjiang	im	i m	n c	
+Yangjiang	in	i n	n c	
+Yangjiang	ɪŋ	ɪ ŋ	n c	
+Yangjiang	ip	i p	n c	
+Yangjiang	it	i t	n c	
+Yangjiang	ɪk	ɪ k	n c	
+Yangjiang		u	n	
+Yangjiang	ui	u i	m n	
+Yangjiang	un	u n	n c	
+Yangjiang	ʊŋ	ʊ ŋ	n c	
+Yangjiang	ut	u t	n c	
+Yangjiang	ʊk	ʊ k	n c	
+Yangjiang	³³	³³	t/ip	
+Yangjiang	⁴⁴³	⁴⁴³	t/yp	
+Yangjiang	²¹	²¹	t/s	
+Yangjiang	²⁴	²⁴	t/ir	
+Yangjiang	⁴⁵⁴	⁴⁵⁴	t/yr	
+Yangjiang	²⁴_	²⁴_	t/1r	
+Yangjiang	²¹_	²¹_	t/2r	
+Yangjiang	⁴⁵⁴_	⁴⁵⁴_	t/3r	
+Yangjiang	⁴⁴³_	⁴⁴³_	t/4r	
 Meixian	p	p	i	
 Meixian	p’	pʰ	i	
 Meixian	m	m	i	
@@ -780,7 +783,7 @@ Meixian	l	l	i
 Meixian	ts	ts	i	
 Meixian	ts’	tsʰ	i	
 Meixian	s	s	i	
-Meixian	ȵ	ɲ	i	
+Meixian	ȵ	ȵ	i	
 Meixian	j	j	i	
 Meixian	k	k	i	
 Meixian	k’	kʰ	i	
@@ -868,174 +871,76 @@ Meixian	³¹	³¹	t/s
 Meixian	⁴²	⁴²	t/q	
 Meixian	²¹	²¹	t/ir	
 Meixian	⁴	⁴	t/ar	
-Nanchang	p	p	i	
-Nanchang	p’	pʰ	i	
-Nanchang	m	m	i	
-Nanchang	f	f	i	
-Nanchang	t	t	i	
-Nanchang	t’	tʰ	i	
-Nanchang	l	l	i	
-Nanchang	ts	ts	i	
-Nanchang	ts’	tsʰ	i	
-Nanchang	s	s	i	
-Nanchang	tɕ	tɕ	i	
-Nanchang	tɕ’	tɕʰ	i	
-Nanchang	ȵ	ɲ	i	
-Nanchang	ɕ	ɕ	i	
-Nanchang	k	k	i	
-Nanchang	k’	kʰ	i	
-Nanchang	ŋ	ŋ	i	
-Nanchang	h	h	i	
-Nanchang	Ø	NULL	i	
-Nanchang	ɿ	ɿ	n	
-Nanchang	a	a	n	
-Nanchang	ɛ	ɛ	n	
-Nanchang	ɔ	ɔ	n	
-Nanchang	ə	ə	n	
-Nanchang	ai	a i	n N	
-Nanchang	ei	e i	n N	
-Nanchang	au	a u	n N	
-Nanchang	ɛu	ɛ u	n N	
-Nanchang	əu	ə u	n N	
-Nanchang	i	i	n	
-Nanchang	ia	i a	m n	
-Nanchang	iɛ	i ɛ	m n	
-Nanchang	iɛu	i ɛ u	m n N	
-Nanchang	iu	i u	m n	
-Nanchang	u	u	n	
-Nanchang	ua	u a	m n	
-Nanchang	uɔ	u ɔ	m n	
-Nanchang	uai	u a i	m n N	
-Nanchang	ui	u i	m n	
-Nanchang	y	y	n	
-Nanchang	yo	y o	m n	
-Nanchang	an	a n	n c	
-Nanchang	ɛn	ɛ n	n c	
-Nanchang	ɔn	ɔ n	n c	
-Nanchang	ɛn	ɛ n	n c	
-Nanchang	aŋ	a ŋ	n c	
-Nanchang	oŋ	o ŋ	n c	
-Nanchang	at	a t	n c	
-Nanchang	ɛt	ɛ t	n c	
-Nanchang	ɔt	ɔ t	n c	
-Nanchang	ət	ə t	n c	
-Nanchang	ak	a k	n c	
-Nanchang	ɔk	ɔ k	n c	
-Nanchang	iɛn	i ɛ n	m n c	
-Nanchang	in	i n	n c	
-Nanchang	iaŋ	i a ŋ	m n c	
-Nanchang	iŋ	i ŋ	n c	
-Nanchang	iuŋ	i u ŋ	m n c	
-Nanchang	iɛt	i ɛ t	m n c	
-Nanchang	it	i t	n c	
-Nanchang	iak	i a k	m n c	
-Nanchang	iɔk	i ɔ k	m n c	
-Nanchang	iuk	i u k	m n c	
-Nanchang	uan	u a n	m n c	
-Nanchang	uɔn	u ɔ n	m n c	
-Nanchang	un	u n	n c	
-Nanchang	uaŋ	u a ŋ	m n c	
-Nanchang	uɔŋ	u ɔ ŋ	m n c	
-Nanchang	uŋ	u ŋ	n c	
-Nanchang	uat	u a t	m n c	
-Nanchang	uɛt	u ɛ t	m n c	
-Nanchang	uɔt	u ɔ t	m n c	
-Nanchang	ut	u t	n c	
-Nanchang	uɔk	u ɔ k	m n c	
-Nanchang	uk	u k	n c	
-Nanchang	yɔn	y ɔ n	m n c	
-Nanchang	yn	y n	n c	
-Nanchang	yɔt	y ɔ t	m n c	
-Nanchang	yt	y t	n c	
-Nanchang	m̩	m̩	n	
-Nanchang	n̩	n̩	n	
-Nanchang	ŋ̍	ŋ̍	n	
-Nanchang	⁴²	⁴²	t/ip	
-Nanchang	²⁴	²⁴	t/ap	
-Nanchang	²¹³	²¹³	t/s	
-Nanchang	⁵³	⁵³	t/iq	
-Nanchang	⁵	⁵	t/r	
-Fuzhou	p	p	i	
-Fuzhou	p’	pʰ	i	
-Fuzhou	m	m	i	
-Fuzhou	(β)	β	i	
-Fuzhou	t	t	i	
-Fuzhou	t’	tʰ	i	
-Fuzhou	n	n	i	
-Fuzhou	l	l	i	
-Fuzhou	ts	ts	i	
-Fuzhou	ts’	tsʰ	i	
-Fuzhou	s	s	i	
-Fuzhou	(z)	z	i	
-Fuzhou	k	k	i	
-Fuzhou	k’	kʰ	i	
-Fuzhou	ŋ	ŋ	i	
-Fuzhou	x	x	i	
-Fuzhou	(ȵ)	ɲ	i	
-Fuzhou	Ø	Ø	i	
-Fuzhou	a	a	n	
-Fuzhou	ɛ	ɛ	n	
-Fuzhou	ɔ	ɔ	n	
-Fuzhou	œ	œ	n	
-Fuzhou	ai	a i	n N	
-Fuzhou	eu	e u	n N	
-Fuzhou	-au	a u	n N	
-Fuzhou	ia	i a	m n	
-Fuzhou	i	i	n	
-Fuzhou	(-ei)	e i	n N	
-Fuzhou	ie	i e	m n	
-Fuzhou	iu	i u	m n	
-Fuzhou	ua	u a	m n	
-Fuzhou	-ou	o u	n N	
-Fuzhou	uɔ	u ɔ	m n	
-Fuzhou	ui	u i	m n	
-Fuzhou	uai	u a i	m n N	
-Fuzhou	y	y	n	
-Fuzhou	-øy	ø y	n N	
-Fuzhou	(-ɵy)	ɵ y	n N	
-Fuzhou	yo	y o	m n	
-Fuzhou	aŋ	a ŋ	n c	
-Fuzhou	aʔ	a ʔ	n c	
-Fuzhou	ɛʔ	ɛ ʔ	n c	
-Fuzhou	oʔ	o ʔ	n c	
-Fuzhou	œʔ	œ ʔ	n c	
-Fuzhou	iaŋ	i a ŋ	m n c	
-Fuzhou	iŋ	i ŋ	n c	
-Fuzhou	-eiŋ	e i ŋ	n N c	
-Fuzhou	(-aiŋ)	a i ŋ	n N c	
-Fuzhou	ieŋ	i e ŋ	m n c	
-Fuzhou	iaʔ	i a ʔ	m n c	
-Fuzhou	iʔ	i ʔ	n c	
-Fuzhou	-eiʔ	e i ʔ	n N c	
-Fuzhou	(-aiʔ)	a i ʔ	n N c	
-Fuzhou	ieʔ	i e ʔ	m n c	
-Fuzhou	uaŋ	u a ŋ	m n c	
-Fuzhou	uŋ	u ŋ	n c	
-Fuzhou	-ouŋ	o u ŋ	n N c	
-Fuzhou	(-auŋ)	a u ŋ	n N c	
-Fuzhou	uɔŋ	u ɔ ŋ	m n c	
-Fuzhou	uaʔ	u a ʔ	m n c	
-Fuzhou	uʔ	u ʔ	n c	
-Fuzhou	˗ouʔ	o u ʔ	n N c	
-Fuzhou	(-auʔ)	a u ʔ	n N c	
-Fuzhou	uoʔ	u o ʔ	m n c	
-Fuzhou	yŋ	y ŋ	n c	
-Fuzhou	-øyŋ	ø y ŋ	n N c	
-Fuzhou	(-ɵyŋ)	ɵ y ŋ	n N c	
-Fuzhou	yoŋ	y o ŋ	m n c	
-Fuzhou	yʔ	y ʔ	n c	
-Fuzhou	-øyʔ	ø y ʔ	n N c	
-Fuzhou	(-ɵyʔ)	ɵ y ʔ	n N c	
-Fuzhou	yoʔ	y o ʔ	m n c	
-Fuzhou	m̩	m̩ ∼	n c	
-Fuzhou	ŋ̍	ŋ̍ ∼	n c	
-Fuzhou	⁴⁴	⁴⁴	t/ip	
-Fuzhou	⁵²	⁵²	t/ap	
-Fuzhou	³¹	³¹	t/s	
-Fuzhou	²¹³	²¹³	t/ir	
-Fuzhou	²⁴²	²⁴²	t/ar	
-Fuzhou	²³	²³	t/iq	
-Fuzhou	⁴	⁴	t/aq	
+Meixian	⁰	⁰	t	
+Yangzhou	p	p	i	
+Yangzhou	p’	pʰ	i	
+Yangzhou	m	m	i	
+Yangzhou	f	f	i	
+Yangzhou	t	t	i	
+Yangzhou	t’	tʰ	i	
+Yangzhou	n	l	i	
+Yangzhou	ts	ts	i	
+Yangzhou	ts’	tsʰ	i	
+Yangzhou	s	s	i	
+Yangzhou	tɕ	tɕ	i	
+Yangzhou	tɕ’	tɕʰ	i	
+Yangzhou	ɕ	ɕ	i	
+Yangzhou	k	k	i	
+Yangzhou	k’	kʰ	i	
+Yangzhou	x	x	i	
+Yangzhou	Ø	NULL	i	
+Yangzhou	ɿ	ɿ	n	
+Yangzhou	ɑ	ɑ	n	
+Yangzhou	ɛ	ɛ	n	
+Yangzhou	o	o	n	
+Yangzhou	ɔ	ɔ	n	
+Yangzhou	əi	ə i	n N	
+Yangzhou	ɤɯ	ɤ ɯ	n N	
+Yangzhou	ɛ̃	ɛ̃ ∼	n c	
+Yangzhou	õ	õ ∼	n c	
+Yangzhou	ɑŋ	ɑ ŋ	n c	
+Yangzhou	əŋ	ə ŋ	n c	
+Yangzhou	oŋ	o ŋ	n c	
+Yangzhou	ɑʔ	ɑ ʔ	n c	
+Yangzhou	æʔ	æ ʔ	n c	
+Yangzhou	əʔ	ə ʔ	n c	
+Yangzhou	oʔ	o ʔ	n c	
+Yangzhou	oʔ	o ʔ	n c	
+Yangzhou	i	i	n	
+Yangzhou	iɑ	i ɑ	m n	
+Yangzhou	iɛ	i ɛ	m n	
+Yangzhou	iɔ	i ɔ	m n	
+Yangzhou	iɪ	i ɪ	m n	
+Yangzhou	iɤɯ	i ɤ ɯ	m n N	
+Yangzhou	iɛ̃	i ɛ̃ ∼	m n c	
+Yangzhou	iĩ	i ĩ ∼	m n c	
+Yangzhou	iɑŋ	i ɑ ŋ	m n c	
+Yangzhou	iŋ	i ŋ	n c	
+Yangzhou	ioŋ	i o ŋ	m n c	
+Yangzhou	iɑʔ	i ɑ ʔ	m n c	
+Yangzhou	iæʔ	i æ ʔ	m n c	
+Yangzhou	iəʔ	i ə ʔ	m n c	
+Yangzhou	ioʔ	i o ʔ	m n c	
+Yangzhou	u	u	n	
+Yangzhou	uɑ	u ɑ	m n	
+Yangzhou	uɛ	u ɛ	m n	
+Yangzhou	uəi	u ə i	m n N	
+Yangzhou	uə̃	u ə̃ ∼	m n c	
+Yangzhou	uɑŋ	u ɑ ŋ	m n c	
+Yangzhou	uəŋ	u ə ŋ	m n c	
+Yangzhou	uɑʔ	u ɑ ʔ	m n c	
+Yangzhou	uæʔ	u æ ʔ	m n c	
+Yangzhou	uəʔ	u ə ʔ	m n c	
+Yangzhou	ʏ	ʏ	n	
+Yangzhou	yĩ	y ĩ ∼	m n c	
+Yangzhou	yəŋ	y ə ŋ	m n c	
+Yangzhou	yəʔ	y ə ʔ	m n c	
+Yangzhou	³¹	³¹	t/ip	
+Yangzhou	³⁴	³⁴	t/ap	
+Yangzhou	⁴²	⁴²	t/s	
+Yangzhou	⁵⁵	⁵⁵	t/q	
+Yangzhou	⁴	⁴	t/r	
+Yangzhou	⁰	⁰	t	
 Xiamen	p	p	i	
 Xiamen	p’	pʰ	i	
 Xiamen	b	b	i	
@@ -1146,6 +1051,276 @@ Xiamen	¹¹	¹¹	t/iq
 Xiamen	³³	³³	t/aq	
 Xiamen	³²	³²	t/ir	
 Xiamen	⁵	⁵	t/ar	
+Xi_an	p	p	i	
+Xi_an	p’	pʰ	i	
+Xi_an	m	m	i	
+Xi_an	pf	pf	i	
+Xi_an	pf’	pfʰ	i	
+Xi_an	f	f	i	
+Xi_an	v	v	i	
+Xi_an	t	t	i	
+Xi_an	t’	tʰ	i	
+Xi_an	n	n	i	
+Xi_an	l	l	i	
+Xi_an	ts	ts	i	
+Xi_an	ts’	tsʰ	i	
+Xi_an	s	s	i	
+Xi_an	tʂ	ʈʂ	i	
+Xi_an	tʂ’	ʈʂʰ	i	
+Xi_an	ʂ	ʂ	i	
+Xi_an	ʐ	ʐ	i	
+Xi_an	tɕ	tɕ	i	
+Xi_an	tɕ’	tɕʰ	i	
+Xi_an	ȵ	ȵ	i	
+Xi_an	ɕ	ɕ	i	
+Xi_an	k	k	i	
+Xi_an	k’	kʰ	i	
+Xi_an	ŋ	ŋ	i	
+Xi_an	x	x	i	
+Xi_an	Ø	NULL	i	
+Xi_an	ɿ	ɿ	n	
+Xi_an	ʅ	ʅ	n	
+Xi_an	ɚ	ɚ	n	
+Xi_an	ɑ	ɑ	n	
+Xi_an	o	o	n	
+Xi_an	ə	ə	n	
+Xi_an	æ	æ	n	
+Xi_an	ei	e i	n N	
+Xi_an	ɑu	ɑ u	n N	
+Xi_an	ou	o u	n N	
+Xi_an	æ̃	æ̃ ∼	n c	
+Xi_an	ẽ	ẽ ∼	n c	
+Xi_an	ɑŋ	ɑ ŋ	n c	
+Xi_an	əŋ	ə ŋ	n c	
+Xi_an	i	i	n	
+Xi_an	ia	i a	m n	
+Xi_an	ia	i a	m n	
+Xi_an	iɑu	i ɑ u	m n N	
+Xi_an	iou	i o u	m n N	
+Xi_an	iæ̃	i æ̃ ∼	m n c	
+Xi_an	iẽ	i ẽ ∼	m n c	
+Xi_an	iɑŋ	i ɑ ŋ	m n c	
+Xi_an	iŋ	i ŋ	n c	
+Xi_an	u	u	n	
+Xi_an	uɑ	u ɑ	m n	
+Xi_an	uo	u o	m n	
+Xi_an	uæ	u æ	m n	
+Xi_an	uei	u e i	m n N	
+Xi_an	uæ̃	u æ̃ ∼	m n c	
+Xi_an	uẽ	u ẽ ∼	m n c	
+Xi_an	uɑŋ	u ɑ ŋ	m n c	
+Xi_an	uoŋ	u o ŋ	m n c	
+Xi_an	y	y	n	
+Xi_an	yo	y o	m n	
+Xi_an	ye	y e	m n	
+Xi_an	yæ̃	y æ̃ ∼	m n c	
+Xi_an	yẽ	y ẽ ∼/²	m n c	
+Xi_an	yoŋ	y o ŋ	m n c	
+Xi_an	²¹	²¹	t/ip	
+Xi_an	²⁴/²¹	²⁴/²¹	t/ip	
+Xi_an	²⁴	²⁴	t/ap	
+Xi_an	⁵³	⁵³	t/s	
+Xi_an	⁴⁵	⁴⁵	t/q	
+Xi_an	⁰	⁰	t	
+Jinan	p	p	i	
+Jinan	p’	pʰ	i	
+Jinan	m	m	i	
+Jinan	f	f	i	
+Jinan	t	t	i	
+Jinan	t’	tʰ	i	
+Jinan	n	n	i	
+Jinan	l	l	i	
+Jinan	ts	ts	i	
+Jinan	ts’	tsʰ	i	
+Jinan	s	s	i	
+Jinan	tʂ	ʈʂ	i	
+Jinan	tʂ’	ʈʂʰ	i	
+Jinan	ʂ	ʂ	i	
+Jinan	ʐ	ʐ	i	
+Jinan	tɕ	tɕ	i	
+Jinan	tɕ’	tɕʰ	i	
+Jinan	ȵ	ȵ	i	
+Jinan	ɕ	ɕ	i	
+Jinan	k	k	i	
+Jinan	k’	kʰ	i	
+Jinan	ŋ	ŋ	i	
+Jinan	x	x	i	
+Jinan	Ø	NULL	i	
+Jinan	ɿ	ɿ	n	
+Jinan	ʅ	ʅ	n	
+Jinan	ɚ	ɚ/ə	n	
+Jinan	a	a	n	
+Jinan	ɛ	ɛ	n	
+Jinan	ɔ	ɔ	n	
+Jinan	ə	ə	n	
+Jinan	ei	e i	n N	
+Jinan	ou	o u	n N	
+Jinan	æ̃	æ̃ ∼	n c	
+Jinan	ẽ	ẽ ∼	n c	
+Jinan	aŋ	a ŋ	n N	
+Jinan	əŋ	ə ŋ	n N	
+Jinan	i	i	n	
+Jinan	ia	i a	m n	
+Jinan	iɛ	i ɛ	m n	
+Jinan	io	i o	m n	
+Jinan	ie	i e	m n	
+Jinan	iou	i o u	m n N	
+Jinan	iæ̃	i æ̃ ∼	m n c	
+Jinan	iẽ	i ẽ ∼	m n c	
+Jinan	ia	i a	m n	
+Jinan	iŋ	i ŋ	n c	
+Jinan	u	u	n	
+Jinan	ua	u a	m n	
+Jinan	uɛ	u ɛ	m n	
+Jinan	uə	u ə	m n	
+Jinan	uei	u e i	m n N	
+Jinan	uæ̃	u æ̃ ∼	m n c	
+Jinan	uẽ	u ẽ ∼	m n c	
+Jinan	uaŋ	u a ŋ	m n c	
+Jinan	uŋ	u ŋ	n c	
+Jinan	uɛŋ	u ɛ ŋ	m n c	
+Jinan	y	y	n	
+Jinan	ye	y e	m n	
+Jinan	yæ̃	y æ̃ ∼	m n c	
+Jinan	ẽ	ẽ ∼	n c	
+Jinan	yŋ	y ŋ	n c	
+Jinan	²¹³	²¹³	t/ip	
+Jinan	⁴²	⁴²	t/ap	
+Jinan	⁵⁵	⁵⁵	t/s	
+Jinan	²¹	²¹	t/q	
+Jinan	⁰	⁰	t	
+Wenzhou	p	p	i	
+Wenzhou	p’	pʰ	i	
+Wenzhou	b	b	i	
+Wenzhou	m	m	i	
+Wenzhou	f	f	i	
+Wenzhou	v	v	i	
+Wenzhou	t	t	i	
+Wenzhou	t’	tʰ	i	
+Wenzhou	d	d	i	
+Wenzhou	n	n	i	
+Wenzhou	l	l	i	
+Wenzhou	ts	ts	i	
+Wenzhou	ts’	tsʰ	i	
+Wenzhou	dz	dz	i	
+Wenzhou	s	s	i	
+Wenzhou	z	z	i	
+Wenzhou	tɕ	tɕ	i	
+Wenzhou	tɕ’	tɕʰ	i	
+Wenzhou	dʑ	dʑ	i	
+Wenzhou	ȵ	ȵ	i	
+Wenzhou	ɕ	ɕ	i	
+Wenzhou	k	k	i	
+Wenzhou	k’	kʰ	i	
+Wenzhou	g	g	i	
+Wenzhou	ŋ	ŋ	i	
+Wenzhou	h	h	i	
+Wenzhou	ɦ	ɦ	i	
+Wenzhou	Ø	NULL	i	
+Wenzhou	ɿ	ɿ	n	
+Wenzhou	a	a	n	
+Wenzhou	o	o	n	
+Wenzhou	ɜ	ɜ	n	
+Wenzhou	ø	ø	n	
+Wenzhou	ᴇ	ᴇ	n	
+Wenzhou	ɛ	ɛ	n	
+Wenzhou	ai	a i	n N	
+Wenzhou	ei	e i	n N	
+Wenzhou	au	a u	n N	
+Wenzhou	əu	ə u	n N	
+Wenzhou	øy	ø y	n N	
+Wenzhou	aŋ	a ŋ	n c	
+Wenzhou	oŋ	o ŋ	n c	
+Wenzhou	əŋ	ə ŋ	n c	
+Wenzhou	i	i	n	
+Wenzhou	ia	i a	m n	
+Wenzhou	iɛ	i ɛ	m n	
+Wenzhou	iai	i a i	m n N	
+Wenzhou	iau	i a u	m n N	
+Wenzhou	iu	i u	m n	
+Wenzhou	iaŋ	i a ŋ	m n c	
+Wenzhou	u	u	n	
+Wenzhou	ua	u a	m n	
+Wenzhou	uɔ	u ɔ	m n	
+Wenzhou	uai	u a i	m n N	
+Wenzhou	y	y	n	
+Wenzhou	yɔ	y ɔ	m n	
+Wenzhou	yo	y o	m n	
+Wenzhou	yoŋ	y o ŋ	m n c	
+Wenzhou	m̩	m̩ ∼	n c	
+Wenzhou	n̩	n̩ ∼	n c	
+Wenzhou	ŋ̍	ŋ̍ ∼	n c	
+Wenzhou	⁴⁴	⁴⁴	t/ip	
+Wenzhou	³¹	³¹	t/ap	
+Wenzhou	⁴⁵	⁴⁵	t/is	
+Wenzhou	²⁴	²⁴	t/as	
+Wenzhou	⁴²	⁴²	t/iq	
+Wenzhou	¹¹	¹¹	t/aq	
+Wenzhou	²³	²³	t/ir	
+Wenzhou	¹²	¹²	t/ar	
+Wenzhou	⁰	⁰	t	
+Shenyang	p	p	i	
+Shenyang	p’	pʰ	i	
+Shenyang	m	m	i	
+Shenyang	f	f	i	
+Shenyang	t	t	i	
+Shenyang	t’	tʰ	i	
+Shenyang	n	n	i	
+Shenyang	l	l	i	
+Shenyang	ts	ts	i	
+Shenyang	ts’	tsʰ	i	
+Shenyang	s	s	i	
+Shenyang	tɕ	tɕ	i	
+Shenyang	tɕ’	tɕʰ	i	
+Shenyang	ȵ	ȵ	i	
+Shenyang	ɕ	ɕ	i	
+Shenyang	k	k	i	
+Shenyang	k’	kʰ	i	
+Shenyang	x	x	i	
+Shenyang	Ø	NULL	i	
+Shenyang	ɿ	ɿ	n	
+Shenyang	ɚ	ɚ/ə	n	
+Shenyang	a	a	n	
+Shenyang	ə	ə	n	
+Shenyang	ai	a i	n N	
+Shenyang	ei	e i	n N	
+Shenyang	au	a u	n N	
+Shenyang	ou	o u	n N	
+Shenyang	an	a n	n c	
+Shenyang	ən	ə n	n c	
+Shenyang	aŋ	a ŋ	n c	
+Shenyang	əŋ	ə ŋ	n c	
+Shenyang	i	i	n	
+Shenyang	ia	i a	m n	
+Shenyang	ie	i e	m n	
+Shenyang	iau	i a u	m n N	
+Shenyang	iou	i o u	m n N	
+Shenyang	ian	i a n	m n c	
+Shenyang	in	i n	n c	
+Shenyang	iaŋ	i a ŋ	m n c	
+Shenyang	iŋ	i ŋ	n c	
+Shenyang	u	u	n	
+Shenyang	ua	u a	m n	
+Shenyang	uə	u ə	m n	
+Shenyang	uai	u a i	m n N	
+Shenyang	uei	u e i	m n N	
+Shenyang	uan	u a n	m n c	
+Shenyang	uən	u ə n	m n c	
+Shenyang	uaŋ	u a ŋ	m n c	
+Shenyang	uŋ	u ŋ	n c	
+Shenyang	uəŋ	u ə ŋ	m n c	
+Shenyang	y	y	n	
+Shenyang	yə	y ə	m n	
+Shenyang	yan	y a n	m n c	
+Shenyang	yn	y n	n c	
+Shenyang	yŋ	y ŋ	n c	
+Shenyang	³³	³³	t/ip	
+Shenyang	³⁵	³⁵	t/ap	
+Shenyang	³⁵/²¹³	³⁵/²¹³	t/s	
+Shenyang	²¹/²¹³	²¹/²¹³	t/s	
+Shenyang	²¹³	²¹³	t/s	
+Shenyang	⁴¹	⁴¹	t/q	
+Shenyang	⁰	⁰	t	
 Guangzhou	p	p	i	
 Guangzhou	p’	pʰ	i	
 Guangzhou	m	m	i	
@@ -1195,7 +1370,7 @@ Guangzhou	øt	ø t	n c
 Guangzhou	øk	ø k	n c	
 Guangzhou	ɔ	ɔ	n	
 Guangzhou	ɔi	ɔ i	n N	
-Guangzhou	ɔu	ɔ u	n N	
+Guangzhou	ou	o u	n N	
 Guangzhou	ɔn	ɔ n	n c	
 Guangzhou	ɔŋ	ɔ ŋ	n c	
 Guangzhou	ɔt	ɔ t	n c	
@@ -1204,7 +1379,7 @@ Guangzhou	i	i	n
 Guangzhou	iu	i u	n N	
 Guangzhou	im	i m	n c	
 Guangzhou	in	i n	n c	
-Guangzhou	iŋ	i ŋ	n c	
+Guangzhou	ɪŋ	ɪ ŋ	n c	
 Guangzhou	ip	i p	n c	
 Guangzhou	it	i t	n c	
 Guangzhou	ik	i k	n c	
@@ -1219,7 +1394,8 @@ Guangzhou	yn	y n	n c
 Guangzhou	yt	y t	n c	
 Guangzhou	m̩	m̩ ∼	n c	
 Guangzhou	ŋ̍	ŋ̍ ∼	n c	
-Guangzhou	⁵⁵/⁵³	⁵⁵/⁵³	t/ip	
+Guangzhou	⁵³	⁵³	t/ip	
+Guangzhou	⁵⁵	⁵⁵	t/ip	
 Guangzhou	²¹	²¹	t/ap	
 Guangzhou	³⁵	³⁵	t/is	
 Guangzhou	²³	²³	t/as	
@@ -1227,74 +1403,5 @@ Guangzhou	³³	³³	t/iq
 Guangzhou	²²	²²	t/aq	
 Guangzhou	⁵	⁵	t/ir	
 Guangzhou	³³	³³	t/ir	
-Guangzhou	²²/²	²²/²	t/ar	
-Xi_an	p	p	i	
-Xi_an	p’	pʰ	i	
-Xi_an	m	m	i	
-Xi_an	pf	pf	i	
-Xi_an	pf’	pfʰ	i	
-Xi_an	f	f	i	
-Xi_an	v	v	i	
-Xi_an	t	t	i	
-Xi_an	t’	tʰ	i	
-Xi_an	n	n	i	
-Xi_an	l	l	i	
-Xi_an	ts	ts	i	
-Xi_an	ts’	tsʰ	i	
-Xi_an	s	s	i	
-Xi_an	tʂ	ʈʂ	i	
-Xi_an	tʂ’	ʈʂʰ	i	
-Xi_an	ʂ	ʂ	i	
-Xi_an	ʐ	ʐ	i	
-Xi_an	tɕ	tɕ	i	
-Xi_an	tɕ’	tɕʰ	i	
-Xi_an	ȵ	ɲ	i	
-Xi_an	ɕ	ɕ	i	
-Xi_an	k	k	i	
-Xi_an	k’	kʰ	i	
-Xi_an	ŋ	ŋ	i	
-Xi_an	x	x	i	
-Xi_an	Ø	NULL	i	
-Xi_an	ɿ	ɿ	n	
-Xi_an	ʅ	ʅ	n	
-Xi_an	ɚ	ɚ	n	
-Xi_an	ɑ	ɑ	n	
-Xi_an	o	o	n	
-Xi_an	ə	ə	n	
-Xi_an	æ	æ	n	
-Xi_an	ei	e i	n N	
-Xi_an	ɑu	ɑ u	n N	
-Xi_an	ou	o u	n N	
-Xi_an	æ̃	æ̃ ∼	n c	
-Xi_an	ẽ	ẽ ∼	n c	
-Xi_an	ɑŋ	ɑ ŋ	n c	
-Xi_an	əŋ	ə ŋ	n c	
-Xi_an	i	i	n	
-Xi_an	ia	i a	m n	
-Xi_an	ia	i a	m n	
-Xi_an	iɑu	i ɑ u	m n N	
-Xi_an	iou	i o u	m n N	
-Xi_an	iæ̃	i æ̃ ∼	m n c	
-Xi_an	iẽ	i ẽ ∼	m n c	
-Xi_an	iɑŋ	i ɑ ŋ	m n c	
-Xi_an	iŋ	i ŋ	n c	
-Xi_an	u	u	n	
-Xi_an	uɑ	u ɑ	m n	
-Xi_an	uo	u o	m n	
-Xi_an	uæ	u æ	m n	
-Xi_an	uei	u e i	m n N	
-Xi_an	uæ̃	u æ̃ ∼	m n c	
-Xi_an	uẽ	u ẽ ∼	m n c	
-Xi_an	uɑŋ	u ɑ ŋ	m n c	
-Xi_an	uoŋ	u o ŋ	m n c	
-Xi_an	y	y	n	
-Xi_an	yo	y o	m n	
-Xi_an	ye	y e	m n	
-Xi_an	yæ̃	y æ̃ ∼	m n c	
-Xi_an	yẽ	y ẽ ∼	m n c	
-Xi_an	yoŋ	y o ŋ	m n c	
-Xi_an	²¹	²¹	t/ip	
-Xi_an	²⁴/²¹	²⁴/²¹	t/ip	
-Xi_an	²⁴	²⁴	t/ap	
-Xi_an	⁵³	⁵³	t/s	
-Xi_an	⁴⁵	⁴⁵	t/q	
+Guangzhou	²²	²²	t/ar	
+Guangzhou	²	²	t/ar	

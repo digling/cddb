@@ -64,9 +64,10 @@ Beijing	t/s	²¹⁴	²¹⁴
 Beijing	t/q	⁵¹	⁵¹
 Beijing	t/s	²¹/²¹⁴	²¹/²¹⁴
 Beijing	t/s	³⁵/²¹⁴	³⁵/²¹⁴
+Beijing	t	⁰	⁰
 Jinan	i	p	p
 Jinan	i	p’	pʰ
-Jinan	i	m	n
+Jinan	i	m	m
 Jinan	i	f	f
 Jinan	i	t	t
 Jinan	i	t’	tʰ
@@ -81,7 +82,7 @@ Jinan	i	ʂ	ʂ
 Jinan	i	ʐ	ʐ
 Jinan	i	tɕ	tɕ
 Jinan	i	tɕ’	tɕʰ
-Jinan	i	ȵ	ɲ
+Jinan	i	ȵ	ȵ
 Jinan	i	ɕ	ɕ
 Jinan	i	k	k
 Jinan	i	k’	kʰ
@@ -93,7 +94,7 @@ Jinan	n	ʅ	ʅ
 Jinan	n	ɚ	ɚ/ə
 Jinan	n	a	a
 Jinan	n	ɛ	ɛ
-Jinan	n	o	o
+Jinan	n	ɔ	ɔ
 Jinan	n	ə	ə
 Jinan	n N	e i 	e i
 Jinan	n N	o u	o u
@@ -130,6 +131,7 @@ Jinan	t/ip	²¹³	²¹³
 Jinan	t/ap	⁴²	⁴²
 Jinan	t/s	⁵⁵	⁵⁵
 Jinan	t/q	²¹	²¹
+Jinan	t	⁰	⁰
 Shenyang	i	p	p
 Shenyang	i	p’	pʰ
 Shenyang	i	m	m
@@ -143,7 +145,7 @@ Shenyang	i	ts’	tsʰ
 Shenyang	i	s	s
 Shenyang	i	tɕ	tɕ
 Shenyang	i	tɕ’	tɕʰ
-Shenyang	i	ȵ	ɲ
+Shenyang	i	ȵ	ȵ
 Shenyang	i	ɕ	ɕ
 Shenyang	i	k	k
 Shenyang	i	k’	kʰ
@@ -191,6 +193,7 @@ Shenyang	t/s	³⁵/²¹³	³⁵/²¹³
 Shenyang	t/s	²¹/²¹³	²¹/²¹³
 Shenyang	t/s	²¹³	²¹³
 Shenyang	t/q	⁴¹	⁴¹
+Shenyang	t	⁰	⁰
 Xi_an	i	p	p
 Xi_an	i	p’	pʰ
 Xi_an	i	m	m
@@ -211,7 +214,7 @@ Xi_an	i	ʂ	ʂ
 Xi_an	i	ʐ	ʐ
 Xi_an	i	tɕ	tɕ
 Xi_an	i	tɕ’	tɕʰ
-Xi_an	i	ȵ	ɲ
+Xi_an	i	ȵ	ȵ
 Xi_an	i	ɕ	ɕ
 Xi_an	i	k	k
 Xi_an	i	k’	kʰ
@@ -254,13 +257,14 @@ Xi_an	n	y 	y
 Xi_an	m n	y o 	y o 
 Xi_an	m n	y e 	y e 
 Xi_an	m n c	y æ̃ 	y æ̃ ∼
-Xi_an	m n c	y ẽ 	y ẽ ∼
+Xi_an	m n c	y ẽ 	y ẽ ∼/²
 Xi_an	m n c	y o ŋ	y o ŋ
 Xi_an	t/ip	²¹	²¹
 Xi_an	t/ip	²⁴/²¹	²⁴/²¹
 Xi_an	t/ap	²⁴	²⁴
 Xi_an	t/s	⁵³	⁵³
 Xi_an	t/q	⁴⁵	⁴⁵
+Xi_an	t	⁰	⁰
 Chengdu	i	p	p
 Chengdu	i	p’	pʰ
 Chengdu	i	m	m
@@ -275,7 +279,7 @@ Chengdu	i	s	s
 Chengdu	i	z	z
 Chengdu	i	tɕ	tɕ
 Chengdu	i	tɕ’	tɕʰ
-Chengdu	i	ȵ	ɲ
+Chengdu	i	ȵ	ȵ
 Chengdu	i	ɕ	ɕ
 Chengdu	i	k	k
 Chengdu	i	k’	kʰ
@@ -283,7 +287,7 @@ Chengdu	i	ŋ	ŋ
 Chengdu	i	x	x
 Chengdu	i	Ø	NULL
 Chengdu	n	ɿ	ɿ
-Chengdu	n	ɚ	ɚ
+Chengdu	n/r	ɚ	ɚ/ə
 Chengdu	n	a	a
 Chengdu	n	o	o
 Chengdu	n	e	e
@@ -322,6 +326,10 @@ Chengdu	t/ip	⁴⁴	⁴⁴
 Chengdu	t/ap	³¹	³¹
 Chengdu	t/s	⁵³	⁵³
 Chengdu	t/q	¹³	¹³
+Chengdu	t/ip	³¹/⁴⁴	³¹/⁴⁴	not in source
+Chengdu	t/ap	⁴⁴/³¹	⁴⁴/³¹	not in source
+Chengdu	t/s	³¹/⁵³	³¹/⁵³	not in source
+Chengdu	t/q	⁴⁴/¹³	⁴⁴/¹³	not in source
 Kunming	i	p	p
 Kunming	i	p’	pʰ
 Kunming	i	m	m
@@ -383,6 +391,7 @@ Hefei	i	f	f
 Hefei	i	t	t
 Hefei	i	t’	tʰ
 Hefei	i	n	n	l
+Hefei	i	l	l	listed as allophone
 Hefei	i	ts	ts
 Hefei	i	ts’	tsʰ
 Hefei	i	s	s
@@ -401,8 +410,8 @@ Hefei	i	Ø	NULL
 Hefei	n	ɿ	ɿ
 Hefei	n	ʅ	ʅ
 Hefei	n	a	a
-Hefei	n	o	o
-Hefei	n	ᴇ	ᴇ/
+Hefei	n	ɔ	ɔ
+Hefei	n	ᴇ	ᴇ
 Hefei	n	ə	ə
 Hefei	n	ɯ	ɯ
 Hefei	n	ʊ	ʊ
@@ -444,8 +453,9 @@ Hefei	m n c	y ə ʔ	y ə ʔ
 Hefei	t/ip	²¹²	²¹²
 Hefei	t/ap	⁵⁵	⁵⁵
 Hefei	t/s	²⁴	²⁴
-Hefei	t/q	⁵³	³³
+Hefei	t/q	⁵³	⁵³
 Hefei	t/r	⁴	⁴
+Hefei	t	⁰	⁰
 Yangzhou	i	p	p
 Yangzhou	i	p’	pʰ
 Yangzhou	i	m	m
@@ -514,6 +524,7 @@ Yangzhou	t/ap	³⁴	³⁴
 Yangzhou	t/s	⁴²	⁴²
 Yangzhou	t/q	⁵⁵	⁵⁵
 Yangzhou	t/r	⁴	⁴
+Yangzhou	t	⁰	⁰
 Suzhou	i	p	p
 Suzhou	i	p’	pʰ
 Suzhou	i	b	b
@@ -532,7 +543,7 @@ Suzhou	i	z	z
 Suzhou	i	tɕ	tɕ
 Suzhou	i	tɕ’	tɕʰ
 Suzhou	i	dʑ	dʑ
-Suzhou	i	ȵ	ɲ
+Suzhou	i	ȵ	ȵ
 Suzhou	i	ɕ	ɕ
 Suzhou	i	k	k
 Suzhou	i	k’	kʰ
@@ -597,6 +608,7 @@ Suzhou	t/iq	⁵¹³	⁵¹³
 Suzhou	t/aq	³¹	³¹
 Suzhou	t/ir	⁴	⁴
 Suzhou	t/ar	²³	²³
+Suzhou	t/?	²¹	²¹	not in source
 Wenzhou	i	p	p
 Wenzhou	i	p’	pʰ
 Wenzhou	i	b	b
@@ -616,7 +628,7 @@ Wenzhou	i	z	z
 Wenzhou	i	tɕ	tɕ
 Wenzhou	i	tɕ’	tɕʰ
 Wenzhou	i	dʑ	dʑ
-Wenzhou	i	ȵ	ɲ
+Wenzhou	i	ȵ	ȵ
 Wenzhou	i	ɕ	ɕ
 Wenzhou	i	k	k
 Wenzhou	i	k’	kʰ
@@ -666,6 +678,7 @@ Wenzhou	t/iq	⁴²	⁴²
 Wenzhou	t/aq	¹¹	¹¹
 Wenzhou	t/ir	²³	²³
 Wenzhou	t/ar	¹²	¹²
+Wenzhou	t	⁰	⁰
 Changsha	i	p	p
 Changsha	i	p’	pʰ
 Changsha	i	m	m
@@ -679,7 +692,7 @@ Changsha	i	s	s
 Changsha	i	z	z
 Changsha	i	tɕ	tɕ
 Changsha	i	tɕ’	tɕʰ
-Changsha	i	ȵ	ɲ
+Changsha	i	ȵ	ȵ
 Changsha	i	ɕ	ɕ
 Changsha	i	k	k
 Changsha	i	k’	kʰ
@@ -694,7 +707,7 @@ Changsha	n N 	a i	a i
 Changsha	n N 	e i	e i
 Changsha	n N 	a u	a u
 Changsha	n N 	ə u	ə u
-Changsha	n c	ɔ̃	ɔ̃ ∼
+Changsha	n c	õ	õ ∼
 Changsha	n c	a n	a n
 Changsha	n c	ɤ n	ɤ n
 Changsha	n c	ə n	ə n
@@ -729,6 +742,7 @@ Changsha	t/s	⁴¹	⁴¹
 Changsha	t/iq	⁵⁵	⁵⁵
 Changsha	t/aq	²¹	²¹
 Changsha	t/r	²⁴	²⁴
+Changsha	t	⁰	⁰
 Nanchang	i	p	p
 Nanchang	i	p’	pʰ
 Nanchang	i	m	m
@@ -741,7 +755,7 @@ Nanchang	i	ts’	tsʰ
 Nanchang	i	s	s
 Nanchang	i	tɕ	tɕ
 Nanchang	i	tɕ’	tɕʰ
-Nanchang	i	ȵ	ɲ
+Nanchang	i	ȵ	ȵ
 Nanchang	i	ɕ	ɕ
 Nanchang	i	k	k
 Nanchang	i	k’	kʰ
@@ -814,8 +828,10 @@ Nanchang	n	ŋ̍	ŋ̍
 Nanchang	t/ip	⁴²	⁴²
 Nanchang	t/ap	²⁴	²⁴
 Nanchang	t/s	²¹³	²¹³
-Nanchang	t/iq	⁵³	⁵³
+Nanchang	t/iq	⁵⁵	⁵⁵
+Nanchang	t/aq	³¹	³¹	
 Nanchang	t/r	⁵	⁵
+Nanchang	t	⁰	⁰
 Meixian	i	p	p
 Meixian	i	p’	pʰ
 Meixian	i	m	m
@@ -828,7 +844,7 @@ Meixian	i	l	l
 Meixian	i	ts	ts
 Meixian	i	ts’	tsʰ
 Meixian	i	s	s
-Meixian	i	ȵ	ɲ
+Meixian	i	ȵ	ȵ
 Meixian	i	j	j
 Meixian	i	k	k
 Meixian	i	k’	kʰ
@@ -916,6 +932,7 @@ Meixian	t/s	³¹	³¹
 Meixian	t/q	⁴²	⁴²
 Meixian	t/ir	²¹	²¹
 Meixian	t/ar	⁴	⁴
+Meixian	t	⁰	⁰
 Guangzhou	i	p	p
 Guangzhou	i	p’	pʰ
 Guangzhou	i	m	m
@@ -965,7 +982,7 @@ Guangzhou	n c	ø t	ø t
 Guangzhou	n c	ø k	ø k
 Guangzhou	n	ɔ	ɔ
 Guangzhou	n N	ɔ i	ɔ i
-Guangzhou	n N	ɔ u	ɔ u
+Guangzhou	n N	o u	o u
 Guangzhou	n c	ɔ n	ɔ n
 Guangzhou	n c	ɔ ŋ	ɔ ŋ
 Guangzhou	n c	ɔ t	ɔ t
@@ -974,7 +991,7 @@ Guangzhou	n	i	i
 Guangzhou	n N	i u	i u
 Guangzhou	n c	i m	i m
 Guangzhou	n c	i n	i n
-Guangzhou	n c	i ŋ	i ŋ
+Guangzhou	n c	ɪ ŋ	ɪ ŋ
 Guangzhou	n c	i p	i p
 Guangzhou	n c	i t	i t
 Guangzhou	n c	i k	i k
@@ -989,7 +1006,8 @@ Guangzhou	n c	y n	y n
 Guangzhou	n c	y t	y t
 Guangzhou	n c	m̩	m̩ ∼
 Guangzhou	n c	ŋ̍	ŋ̍ ∼
-Guangzhou	t/ip	⁵⁵/⁵³	⁵⁵/⁵³
+Guangzhou	t/ip	⁵³	⁵³
+Guangzhou	t/ip	⁵⁵	⁵⁵
 Guangzhou	t/ap	²¹	²¹
 Guangzhou	t/is	³⁵	³⁵
 Guangzhou	t/as	²³	²³
@@ -997,7 +1015,8 @@ Guangzhou	t/iq	³³	³³
 Guangzhou	t/aq	²²	²²
 Guangzhou	t/ir	⁵	⁵
 Guangzhou	t/ir	³³	³³
-Guangzhou	t/ar	²²/²	²²/²
+Guangzhou	t/ar	²²	²²
+Guangzhou	t/ar	²	²
 Xiamen	i	p	p
 Xiamen	i	p’	pʰ
 Xiamen	i	b	b
@@ -1113,7 +1132,7 @@ Chaozhou	i	p’	pʰ
 Chaozhou	i	b	b
 Chaozhou	i	m	m
 Chaozhou	i	t	t
-Chaozhou	i	t?	tʰ
+Chaozhou	i	t’	tʰ
 Chaozhou	i	n	n
 Chaozhou	i	l	l
 Chaozhou	i	ts	ts
@@ -1121,7 +1140,7 @@ Chaozhou	i	ts’	tsʰ
 Chaozhou	i	s	s
 Chaozhou	i	z	z
 Chaozhou	i	k	k
-Chaozhou	i	k?	kʰ
+Chaozhou	i	k’	kʰ
 Chaozhou	i	g	g
 Chaozhou	i	ŋ	ŋ
 Chaozhou	i	h	h
@@ -1210,11 +1229,22 @@ Chaozhou	n c	ŋ̍	ŋ̍ ∼
 Chaozhou	n c c	ŋ̍ ʔ	ŋ̍ ∼ ʔ
 Chaozhou	t/ip	³³	³³
 Chaozhou	t/ap	⁵⁵	⁵⁵
+Chaozhou	t/ap	²¹/⁵⁵	²¹/⁵⁵	not in source
 Chaozhou	t/is	⁵³	⁵³
+Chaozhou	t/is	²⁴/⁵³	²⁴/⁵³	not in source
+Chaozhou	t/is	³¹/⁵³	³¹/⁵³	not in source
 Chaozhou	t/as	³⁵	³⁵
 Chaozhou	t/iq	²¹³	²¹³
+Chaozhou	t/iq	⁵³/²¹³	⁵³/²¹³	not in source
+Chaozhou	t/iq	⁴²/²¹³	⁴²/²¹³	not in source
 Chaozhou	t/aq	¹¹	¹¹
+Chaozhou	t/aq	¹²/¹¹	¹²/¹¹	not in source
 Chaozhou	t/ir	²¹	²¹
+Chaozhou	t/ir	³/²¹	³/²¹	not in source
+Chaozhou	t/ir	⁴/²¹	⁴/²¹	not in source
+Chaozhou	t/ir	²¹	²¹
+Chaozhou	t/ir	⁵⁵/²¹	⁵⁵/²¹	not in source
+Chaozhou	t/ir	³⁵/²¹	³⁵/²¹	not in source
 Chaozhou	t/ar	⁴	⁴
 Fuzhou	i	p	p
 Fuzhou	i	p’	pʰ
@@ -1232,8 +1262,8 @@ Fuzhou	i	k	k
 Fuzhou	i	k’	kʰ
 Fuzhou	i	ŋ	ŋ
 Fuzhou	i	x	x
-Fuzhou	i	(ȵ)	ɲ
-Fuzhou	i	Ø	Ø
+Fuzhou	i	(ȵ)	ȵ
+Fuzhou	i	Ø	NULL
 Fuzhou	n	a	a
 Fuzhou	n	ɛ	ɛ
 Fuzhou	n	ɔ	ɔ
@@ -1297,3 +1327,80 @@ Fuzhou	t/ir	²¹³	²¹³
 Fuzhou	t/ar	²⁴²	²⁴²
 Fuzhou	t/iq	²³	²³
 Fuzhou	t/aq	⁴	⁴
+Yangjiang	i	p	p
+Yangjiang	i	pʼ	pʰ
+Yangjiang	i	m	m
+Yangjiang	i	f	f
+Yangjiang	i	t	t
+Yangjiang	i	tʼ	tʰ
+Yangjiang	i	n	n
+Yangjiang	i	l	l
+Yangjiang	i	ɬ	ɬ
+Yangjiang	i	tʃ	tʃ
+Yangjiang	i	tʃʼ	tʃʰ
+Yangjiang	i	ʃ	ʃ
+Yangjiang	i	j	j
+Yangjiang	i	k	k
+Yangjiang	i	kʼ	kʰ
+Yangjiang	i	ŋ	ŋ
+Yangjiang	i	h	h
+Yangjiang	i	kw	kʷ
+Yangjiang	i	kʼw	kʷʰ
+Yangjiang	i	w	w
+Yangjiang	i	Ø	NULL
+Yangjiang	n	a	a	
+Yangjiang	n c	ai	a i	
+Yangjiang	n c	au	a u	
+Yangjiang	n c	am	a m	
+Yangjiang	n c	an	a n	
+Yangjiang	n c	aŋ	a ŋ	
+Yangjiang	n c	ap	a p	
+Yangjiang	n c	at	a t	
+Yangjiang	n c	ak	a k	
+Yangjiang	n c	ɐi	ɐ i	
+Yangjiang	n c	ɐu	ɐ u	
+Yangjiang	n c	ɐm	ɐ m	
+Yangjiang	n c	ɐn	ɐ n	
+Yangjiang	n c	ɐŋ	ɐ ŋ	
+Yangjiang	n c	ɐp	ɐ p	
+Yangjiang	n c	ɐt	ɐ t	
+Yangjiang	n c	ɐk	ɐ k	
+Yangjiang	n	ɔ	ɔ	
+Yangjiang	n c	ɔi	ɔ i	
+Yangjiang	n c	ou	o u	
+Yangjiang	n c	ɔn	ɔ n	
+Yangjiang	n c	ɔŋ	ɔ ŋ	
+Yangjiang	n c	ɔt	ɔ t	
+Yangjiang	n c	ɔk	ɔ k	
+Yangjiang	n	ɛ	ɛ	
+Yangjiang	n c	ei	e i	
+Yangjiang	m n c	iɛu	i ɛ u	
+Yangjiang	m n c	iɛm	i ɛ m	
+Yangjiang	m n c	iɛn	i ɛ n	
+Yangjiang	m n c	iɛŋ	i ɛ ŋ	
+Yangjiang	m n c	iɛp	i ɛ p	
+Yangjiang	m n c	iɛt	i ɛ t	
+Yangjiang	m n c	iɛk	i ɛ k	
+Yangjiang	n	i	i
+Yangjiang	m n	iu	i u
+Yangjiang	n c	im	i m
+Yangjiang	n c	in	i n
+Yangjiang	n c	ɪŋ	ɪ ŋ
+Yangjiang	n c	ip	i p
+Yangjiang	n c	it	i t
+Yangjiang	n c	ɪk	ɪ k
+Yangjiang	n	u	u	
+Yangjiang	m n	ui	u i
+Yangjiang	n c	un	u n
+Yangjiang	n c	ʊŋ	ʊ ŋ
+Yangjiang	n c	ut	u t
+Yangjiang	n c	ʊk	ʊ k
+Yangjiang	t/ip	³³	³³
+Yangjiang	t/yp	⁴⁴³	⁴⁴³
+Yangjiang	t/s	²¹	²¹
+Yangjiang	t/ir	²⁴	²⁴
+Yangjiang	t/yr	⁴⁵⁴	⁴⁵⁴
+Yangjiang	t/1r	²⁴_	²⁴_
+Yangjiang	t/2r	²¹_	²¹_
+Yangjiang	t/3r	⁴⁵⁴_	⁴⁵⁴_
+Yangjiang	t/4r	⁴⁴³_	⁴⁴³_
